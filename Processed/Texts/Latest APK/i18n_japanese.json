@@ -2863,7 +2863,7 @@
   "maxpotion.10_title": "まんたんのくすり x10",
   "maxrevive.6_description": "ひんしになってしまったポケモン1匹のHPをすべて回復するかたまり6個入り。",
   "maxrevive.6_title": "げんきのかたまり x6",
-  "metadata_local": "Built at 2020-03-04T20:04:48.044957\nat SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005\nPipeline 339838, job 2672172",
+  "metadata_local": "Built at 2020-03-18T03:41:32.846252\nat SHA d12b8ace3a67f126b2cb74730adf95911a5b32cd\nPipeline 352496, job 2752643",
   "minute_abbrev": "分",
   "minutes_and_seconds": "{0}分{1}秒",
   "monodepth_ar_plus_required_toast": "奥行きの測定を使うには Niantic AR をオンにする必要があります",
