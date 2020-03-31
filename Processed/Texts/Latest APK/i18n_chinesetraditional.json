@@ -2965,7 +2965,7 @@
   "maxpotion.10_title": "全滿藥 × 10",
   "maxrevive.6_description": "讓瀕死的寶可夢重獲生機，並回復所有HP的活力塊。一組6個。",
   "maxrevive.6_title": "活力塊 × 6",
-  "metadata_local": "Built at 2020-03-24T17:18:37.984456\nat SHA a1262c39f325e041f5d5861c8d9a61cfa997fd43\nPipeline 358032, job 2789713",
+  "metadata_local": "Built at 2020-03-30T20:19:47.684097\nat SHA 2d2c312d2df6f8c899afd61cd84cdbd404ef0548\nPipeline 363666, job 2829584",
   "minute_abbrev": "m",
   "minutes_and_seconds": "{0}分{1}秒",
   "monodepth_ar_plus_required_toast": "Turn on Niantic AR to use occlusion.",
