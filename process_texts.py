@@ -15,6 +15,7 @@ for file_name in [
     "Texts/Latest APK/i18n_spanish.json",
     "Texts/Latest Remote/English.txt",
     "Texts/Latest Remote/German.txt",
+    "Texts/Latest Remote/Spanish.txt",
 ]:
     file = os.path.join(base_path, file_name)
     processed_file = (
