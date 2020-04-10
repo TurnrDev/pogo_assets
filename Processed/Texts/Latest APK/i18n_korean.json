@@ -2965,7 +2965,7 @@
   "maxpotion.10_title": "풀회복약 X10",
   "maxrevive.6_description": "기절한 포켓몬 1마리의 HP를 모두 회복하는 덩어리 6개입",
   "maxrevive.6_title": "기력의덩어리 X 6",
-  "metadata_local": "Built at 2020-03-30T20:19:47.684097\nat SHA 2d2c312d2df6f8c899afd61cd84cdbd404ef0548\nPipeline 363666, job 2829584",
+  "metadata_local": "Built at 2020-04-08T21:15:15.580807\nat SHA f36bf0943b2ca911552133785b9d7e704843fe25\nPipeline 372633, job 2897093",
   "minute_abbrev": "분",
   "minutes_and_seconds": "{0}분 {1}초",
   "monodepth_ar_plus_required_toast": "Turn on Niantic AR to use occlusion.",
