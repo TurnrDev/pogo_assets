@@ -13,6 +13,7 @@ for file_name in [
     "Texts/Latest APK/i18n_japanese.json",
     "Texts/Latest APK/i18n_korean.json",
     "Texts/Latest APK/i18n_spanish.json",
+    "Texts/Latest APK/i18n_thai.json",
     "Texts/Latest Remote/English.txt",
     "Texts/Latest Remote/German.txt",
     "Texts/Latest Remote/Spanish.txt",
