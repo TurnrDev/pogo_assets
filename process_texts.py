@@ -26,6 +26,7 @@ for file_name in [
     "Texts/Niantic Social/japanese.json",
     "Texts/Niantic Social/korean.json",
     "Texts/Niantic Social/spanish.json",
+    "Texts/Niantic Social/thai.json",
 ]:
     file = os.path.join(base_path, file_name)
     processed_file = (

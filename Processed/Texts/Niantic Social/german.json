@@ -19,7 +19,6 @@
   "confirm_switch_app_tip": "Dadurch wird {0} geöffnet und {1} in den Hintergrund verschoben.",
   "niantic_profile_no": "NEIN",
   "niantic_profile_switch": "WECHSELN",
-  "niantic_friend_distance_away": "Unter {0} km entfernt",
   "niantic_friend_playing_game": "Spielt {0}",
   "change_niantic_friend_nickname_button": "SPITZNAME FESTLEGEN",
   "change_niantic_friend_nickname_tip": "Wenn du den Spitznamen hier änderst, wird der angezeigte Spitzname für diesen Freund in allen Niantic-Spielen geändert.",
@@ -74,5 +73,6 @@
   "hpwu_name": "Harry Potter: Wizards Unite",
   "hpwu_description": "Tauche in die faszinierende Welt der Zauberei ein, und schließe dich Millionen von Hexen und Zauberern auf der ganzen Welt an. Dein eigenes Abenteuer wartet!",
   "ing_name": "Ingress",
-  "ing_description": "Schließe dich Millionen von Agenten weltweit an, die in diesem Spiel wetteifern und für die Zukunft der Menschheit kämpfen."
+  "ing_description": "Schließe dich Millionen von Agenten weltweit an, die in diesem Spiel wetteifern und für die Zukunft der Menschheit kämpfen.",
+  "show_code_name_setting_description": "Freunden meine Benutzernamen aus allen Niantic-Spielen anzeigen."
 }

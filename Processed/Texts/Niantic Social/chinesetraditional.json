@@ -19,7 +19,6 @@
   "confirm_switch_app_tip": "將此{0} 起動，並切換至{1} 背景。",
   "niantic_profile_no": "編號",
   "niantic_profile_switch": "切換",
-  "niantic_friend_distance_away": "距離{0} 公里以内",
   "niantic_friend_playing_game": "玩{0}",
   "change_niantic_friend_nickname_button": "設定暱稱",
   "change_niantic_friend_nickname_tip": "在此處更改暱稱的話，包含已經顯示的朋友暱稱、Niantic遊戲內全部的暱稱都將會被變更。",
@@ -74,5 +73,6 @@
   "hpwu_name": "哈利波特: 巫師聯盟",
   "hpwu_description": "與全球數百萬的巫師和一起探索魔法世界的魔法吧。你的巫師冒險正等著你！",
   "ing_name": "Ingress",
-  "ing_description": "與數以百萬的探員一起在這星球規模的競爭遊戲中為人類的未來而奮鬥吧。"
+  "ing_description": "與數以百萬的探員一起在這星球規模的競爭遊戲中為人類的未來而奮鬥吧。",
+  "show_code_name_setting_description": "讓我的朋友查看所有Niantic遊戲中的用戶名。"
 }
