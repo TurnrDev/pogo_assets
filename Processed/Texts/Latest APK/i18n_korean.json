@@ -3741,7 +3741,7 @@
   "mega_raids_increase": "레이드 수 증가",
   "mega_speed_bonus": "스피드",
   "mega_type_attacks_boosted_msg": "{0}타입 기술 위력이 올라갔다!",
-  "metadata_local": "Built at 2020-09-16T08:25:13.506195\nat SHA 84ecefccf3fa5f48720c439eefdc3e6a557d99ff\nPipeline 471432, job 3942056",
+  "metadata_local": "Built at 2020-09-24T08:41:26.441621\nat SHA 5fac65bad3e1a1ba65eb4bd2385060321171c33d\nPipeline 476581, job 4005630",
   "minute_abbrev": "분",
   "minutes_and_seconds": "{0}분 {1}초",
   "monodepth_ar_plus_required_toast": "Turn on Niantic AR to use Reality Blending.",
