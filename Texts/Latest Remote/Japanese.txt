@@ -1,0 +1,1291 @@
+RESOURCE ID: ad_feedback_like_reason_other
+TEXT: コード入力以外の方法
+
+RESOURCE ID: add_friend_confirmation_title
+TEXT: Send a Friend Request to {0}
+
+RESOURCE ID: add_niantic_friend_tip
+TEXT: Addding friends in this game will add them as a friend in all Niantic Games you both play.
+
+RESOURCE ID: assign_tag_failure
+TEXT: タグを付けることができませんでした
+
+RESOURCE ID: assign_tag_mixed_selection
+TEXT: タグ付きあり
+
+RESOURCE ID: autumn_2020_event_1
+TEXT: 秋イベントパート1
+
+RESOURCE ID: autumn_2020_event_2
+TEXT: 秋イベントパート2
+
+RESOURCE ID: avatar_f_backpack_longchampbp_00_bundle_icon
+TEXT: ロンシャン バックパック
+
+RESOURCE ID: avatar_f_backpack_swshdlc2costume_00_bundle_icon
+TEXT: カンムリせつげん バッグ
+
+RESOURCE ID: avatar_f_backpack_ultra_bundle_icon
+TEXT: ウルトラムーン バッグ
+
+RESOURCE ID: avatar_f_face_banettemask_00_bundle_icon
+TEXT: マスク ジュペッタ
+
+RESOURCE ID: avatar_f_face_defaultmask_00_bundle_icon
+TEXT: マスク
+
+RESOURCE ID: avatar_f_face_pikachumask_00_bundle_icon
+TEXT: マスク ピカチュウ
+
+RESOURCE ID: avatar_f_face_sableyemask_00_bundle_icon
+TEXT: マスク ヤミラミ
+
+RESOURCE ID: avatar_f_face_verizon2020mask_0_bundle_icon
+TEXT: Verizon フェイスマスク
+
+RESOURCE ID: avatar_f_glasses_goteamrocketarlo_00_bundle_icon
+TEXT: アルロ メガネ
+
+RESOURCE ID: avatar_f_gloves_swshdlc2costume_00_bundle_icon
+TEXT: カンムリせつげん グローブ
+
+RESOURCE ID: avatar_f_hat_sableyegoggles_00_bundle_icon
+TEXT: ゴーグル ヤミラミ
+
+RESOURCE ID: avatar_f_hat_swshdlc2costume_00_bundle_icon
+TEXT: カンムリせつげん ヘルメット
+
+RESOURCE ID: avatar_f_hat_yamaskhat_00_bundle_icon
+TEXT: トップハット デスマス
+
+RESOURCE ID: avatar_f_shirt_gengaronesie_00_bundle_icon
+TEXT: きぐるみ ゲンガー
+
+RESOURCE ID: avatar_f_shirt_goteamrocketarlo_00_bundle_icon
+TEXT: アルロ セットアップ
+
+RESOURCE ID: avatar_f_shirt_goteamrocketcliff_00_bundle_icon
+TEXT: クリフ セットアップ
+
+RESOURCE ID: avatar_f_shirt_goteamrocketsierra_00_bundle_icon
+TEXT: シエラ セットアップ
+
+RESOURCE ID: avatar_f_shirt_swshdlc2costume_00_bundle_icon
+TEXT: カンムリせつげん たんけんふく
+
+RESOURCE ID: avatar_f_shoes_swshdlc2costume_00_bundle_icon
+TEXT: カンムリせつげん シューズ
+
+RESOURCE ID: avatar_lock_badge
+TEXT: {1}メダル第{0}段階でアンロック
+
+RESOURCE ID: avatar_m_backpack_longchampbp_00_bundle_icon
+TEXT: ロンシャン バックパック
+
+RESOURCE ID: avatar_m_backpack_swshdlc2costume_00_bundle_icon
+TEXT: カンムリせつげん バッグ
+
+RESOURCE ID: avatar_m_backpack_ultra_bundle_icon
+TEXT: ウルトラサン バッグ
+
+RESOURCE ID: avatar_m_face_banettemask_00_bundle_icon
+TEXT: マスク ジュペッタ
+
+RESOURCE ID: avatar_m_face_defaultmask_00_bundle_icon
+TEXT: マスク
+
+RESOURCE ID: avatar_m_face_pikachumask_00_bundle_icon
+TEXT: マスク ピカチュウ
+
+RESOURCE ID: avatar_m_face_sableyemask_00_bundle_icon
+TEXT: マスク ヤミラミ
+
+RESOURCE ID: avatar_m_face_verizon2020mask_0_bundle_icon
+TEXT: Verizon フェイスマスク
+
+RESOURCE ID: avatar_m_glasses_goteamrocketarlo_00_bundle_icon
+TEXT: アルロ メガネ
+
+RESOURCE ID: avatar_m_gloves_swshdlc2costume_00_bundle_icon
+TEXT: カンムリせつげん グローブ
+
+RESOURCE ID: avatar_m_hat_sableyegoggles_00_bundle_icon
+TEXT: ゴーグル ヤミラミ
+
+RESOURCE ID: avatar_m_hat_swshdlc2costume_00_bundle_icon
+TEXT: カンムリせつげん ヘルメット
+
+RESOURCE ID: avatar_m_hat_yamaskhat_00_bundle_icon
+TEXT: トップハット デスマス
+
+RESOURCE ID: avatar_m_shirt_gengaronesie_00_bundle_icon
+TEXT: きぐるみ ゲンガー
+
+RESOURCE ID: avatar_m_shirt_goteamrocketarlo_00_bundle_icon
+TEXT: アルロ セットアップ
+
+RESOURCE ID: avatar_m_shirt_goteamrocketcliff_00_bundle_icon
+TEXT: クリフ セットアップ
+
+RESOURCE ID: avatar_m_shirt_goteamrocketsierra_00_bundle_icon
+TEXT: シエラ セットアップ
+
+RESOURCE ID: avatar_m_shirt_swshdlc2costume_00_bundle_icon
+TEXT: カンムリせつげん たんけんふく
+
+RESOURCE ID: avatar_m_shoes_swshdlc2costume_00_bundle_icon
+TEXT: カンムリせつげん シューズ
+
+RESOURCE ID: avatar_sponsor
+TEXT: Longchamp
+
+RESOURCE ID: badge_event_0003
+TEXT: 2020年11月7日SoftBank&セブン-イレブン
+
+RESOURCE ID: badge_event_0003_title
+TEXT: スペシャルウィークエンド
+
+RESOURCE ID: badge_event_0004
+TEXT: 2020年11月8日マツモトキヨシ
+
+RESOURCE ID: badge_event_0004_title
+TEXT: スペシャルウィークエンド
+
+RESOURCE ID: badge_event_0005
+TEXT: November 7, 2020 - 7-Eleven México
+
+RESOURCE ID: badge_event_0005_title
+TEXT: スペシャルウィークエンド
+
+RESOURCE ID: badge_event_0006
+TEXT: November 7, 2020 - Verizon
+
+RESOURCE ID: badge_event_0006_title
+TEXT: スペシャルウィークエンド
+
+RESOURCE ID: badge_event_0007
+TEXT: November 8, 2020: Grubhub
+
+RESOURCE ID: badge_event_0007_title
+TEXT: スペシャルウィークエンド
+
+RESOURCE ID: beluga_wonder_box_activate_message
+TEXT: ０日になったら、ポケモンをPokémon HOME (もしくはNintendo Switch) へ送り、
+ふしぎなはこを有効化しましょう
+
+RESOURCE ID: bgmode_scanning_notification
+TEXT: 付近のポケモンを探しています！
+
+RESOURCE ID: buddy_walked_found_candy
+TEXT: {0}がアメを見つけた！
+
+RESOURCE ID: bundle.halloween.adventure.1_title
+TEXT: パンプキンパック
+
+RESOURCE ID: bundle.halloween.large.1_title
+TEXT: びっくり詰め
+
+RESOURCE ID: bundle.halloween.small.1_title
+TEXT: ゾッとする箱
+
+RESOURCE ID: catch_xp_increase_cuve_throw
+TEXT: カーブボールでもらえるXP増
+
+RESOURCE ID: catch_xp_increase_excellent_throw
+TEXT: エクセレントスローでもらえるXP増
+
+RESOURCE ID: catch_xp_increase_great_throw
+TEXT: グレートスローでもらえるXP増
+
+RESOURCE ID: catch_xp_increase_nice_throw
+TEXT: ナイススローでもらえるXP増
+
+RESOURCE ID: combat_buff_lvl3
+TEXT: {0}がぐぐーんとあがった！
+
+RESOURCE ID: community_day_electabuzz_event_name
+TEXT: Community Day: Electabuzz
+
+RESOURCE ID: community_day_magmar_event_name
+TEXT: Community Day: Magmar
+
+RESOURCE ID: complete_transfer_in_ph_app
+TEXT: Pokémon HOME で完了していない転送があります
+
+RESOURCE ID: create_pokemon_tag_error
+TEXT: タグ作成できませんでした
+
+RESOURCE ID: create_tag_gui_title
+TEXT: タグ作成
+
+RESOURCE ID: deep_link_activity_body
+TEXT: モーションの許可を使用して、捕まえたことがないポケモンが近くにいることをお知らせします。
+
+RESOURCE ID: deep_link_location_body
+TEXT: このアプリは、位置情報を使ってポケモンやポケストップを探します。お使いの端末の設定から権限を許可してください。
+
+RESOURCE ID: delete_pokemon_tag_confirmation
+TEXT: このタグをポケモンから外します。ポケモンは博士に送られません。
+
+RESOURCE ID: delete_pokemon_tag_confirmation_title
+TEXT: 「{0}」タグを削除してもいいですか？
+
+RESOURCE ID: delete_pokemon_tag_error
+TEXT: タグ削除ができませんでした
+
+RESOURCE ID: delete_tag_button
+TEXT: タグ削除
+
+RESOURCE ID: deploy_battle_party_member_prompt
+TEXT: {0}はバトルパーティに組み込まれているため、ジムに配置するとメンバーから外されてしまいます。
+
+RESOURCE ID: diadelmuertos_event_name
+TEXT: Día de Muertos
+
+RESOURCE ID: edit_pokemon_tag_error
+TEXT: タグ編集ができませんでした
+
+RESOURCE ID: edit_tag_gui_title
+TEXT: タグ編集
+
+RESOURCE ID: empty_tags_subtitle
+TEXT: +をタップしてタグを作成
+
+RESOURCE ID: empty_tags_title
+TEXT: タグがありません
+
+RESOURCE ID: enter_tag_name_placeholder
+TEXT: タグ名を入力
+
+RESOURCE ID: event_title_catch_mastery_ghost
+TEXT: マスタリーシリーズ：ゴーストタイプ
+
+RESOURCE ID: f_avatar_poses_bundle_pose_23
+TEXT: ハロウィン
+
+RESOURCE ID: fashion_week_event
+TEXT: ファッションウィーク
+
+RESOURCE ID: filter_key_evolve_mega
+TEXT: めがしんか
+
+RESOURCE ID: filter_key_evolvemega
+TEXT: めがしんか
+
+RESOURCE ID: filter_key_gbl
+TEXT: バトルリーグ
+
+RESOURCE ID: filter_key_photobomb
+TEXT: スナップショット
+
+RESOURCE ID: filter_key_raid
+TEXT: レイド
+
+RESOURCE ID: filter_key_raid_ex
+TEXT: exraid
+
+RESOURCE ID: filter_key_raid_mega
+TEXT: megaraid
+
+RESOURCE ID: filter_key_raid_remote
+TEXT: remoteraid
+
+RESOURCE ID: filter_key_research
+TEXT: リサーチ
+
+RESOURCE ID: filter_key_rocket
+TEXT: ロケット
+
+RESOURCE ID: filter_label_evolve_mega
+TEXT: メガシンカできる
+
+RESOURCE ID: fitness_enable_modal_message_candyfound
+TEXT: アプリを開いていないときでも、タマゴをかえしたりアメをみつけるため歩数を数えます
+
+RESOURCE ID: flying_cup_title
+TEXT: ひこうカップ
+
+RESOURCE ID: form_aria
+TEXT: ボイスフォルム
+
+RESOURCE ID: form_castform_normal_full
+TEXT: ポワルンのすがた
+
+RESOURCE ID: form_no_drive_full
+TEXT: カセットなし
+
+RESOURCE ID: form_ordinary_full
+TEXT: いつものすがた
+
+RESOURCE ID: form_standard_mode
+TEXT: ノーマルモード
+
+RESOURCE ID: general1.ticket.2_description
+TEXT: 世界中のどこにいても、現地時間2020年11月15日の11:00AM～5:00PMに、ゲーム内でスタートできるイベント「でんげきポケモンを解明せよ！」を遊ぶことができるチケット。詳細は、ゲーム内ニュースで確認できます。
+
+イベントを最大限にお楽しみいただくには、記載の開催時間内に遊び終える必要があります。
+
+RESOURCE ID: general1.ticket.2_description_2
+TEXT: 世界中のどこにいても、現地時間2020年11月21日の11:00AM～5:00PMに、ゲーム内でスタートできるイベント「ひふきポケモンを解明せよ！」を遊ぶことができるチケット。詳細は、ゲーム内ニュースで確認できます。
+
+イベントを最大限にお楽しみいただくには、記載の開催時間内に遊び終える必要があります。
+
+RESOURCE ID: general1.ticket.2_title
+TEXT: 「でんげきポケモンを解明せよ！」チケット
+
+RESOURCE ID: general1.ticket.2_title_2
+TEXT: 「ひふきポケモンを解明せよ！」チケット
+
+RESOURCE ID: general_done
+TEXT: 決定
+
+RESOURCE ID: home_account_info_header
+TEXT: Pokémon HOME サポートID
+
+RESOURCE ID: home_account_name
+TEXT: プレイヤー名
+
+RESOURCE ID: home_account_not_found
+TEXT: Pokémon HOME アカウントが見つかりません
+
+RESOURCE ID: home_box_full
+TEXT: Pokémon HOME のボックスがいっぱいです
+
+RESOURCE ID: home_cant_obtain_another_warning
+TEXT: このポケモンを転送してしまうと、Pokémon GO のゲーム内でもう1匹{0}を手に入れることはできなくなります
+
+RESOURCE ID: home_exceeds_max_pokemon
+TEXT: 一度に転送できるポケモン数の上限を超えています
+
+RESOURCE ID: home_form_revert_warning
+TEXT: 転送すると{0}は{1}になります
+
+RESOURCE ID: home_insufficient_energy
+TEXT: 転送エナジーがたりません
+
+RESOURCE ID: home_invalid_pokemon
+TEXT: 転送できないポケモンが含まれています
+
+RESOURCE ID: home_login_app_modal_body
+TEXT: あなたの端末でニンテンドーアカウントとPokémon HOME との連携をお試しの上、再度Pokémon HOME への連携をお試しください。
+
+RESOURCE ID: home_login_app_modal_title
+TEXT: Pokémon HOMEに接続していません
+
+RESOURCE ID: home_pokemon_confirmation
+TEXT: ポケモンを{0}匹転送してもいいですか？
+
+RESOURCE ID: home_privacy_warning
+TEXT: Pokémon GOとPokémon HOME を連携すると、ポケモンを転送する過程で限られた情報が株式会社ポケモンに共有されます。詳細な情報については、<a href="https://niantic.helpshift.com/a/pokemon-go/?p=web&s=accessories-pokemon-home&f=transferring-pokemon-to-pokemon-home">ヘルプ</a>内に明記された文章をご確認ください。株式会社ポケモンに提供されたデータは、株式会社ポケモンのプライバシーポリシーに基づき取り扱われます。
+
+RESOURCE ID: home_recharge_time_day_hour
+TEXT: {0}日と{1}時間で満タン
+
+RESOURCE ID: home_recharge_time_day_hours
+TEXT: {0}日と{1}時間で満タン
+
+RESOURCE ID: home_recharge_time_days_hour
+TEXT: {0}日と{1}時間で満タン
+
+RESOURCE ID: home_recharge_time_days_hours
+TEXT: {0}日と{1}時間で満タン
+
+RESOURCE ID: home_server_maintenance
+TEXT: Pokémon HOME メンテナンス実施中です
+
+RESOURCE ID: home_service_ended
+TEXT: Pokémon HOME サービスがありません
+
+RESOURCE ID: home_settings_transfer_warning
+TEXT: Pokémon HOME に転送したポケモンは、
+Pokémon GOに戻すことはできません。
+
+RESOURCE ID: home_signed_in
+TEXT: サインイン
+
+RESOURCE ID: home_support_id
+TEXT: サポートID
+
+RESOURCE ID: home_support_id_about
+TEXT: 下記があなたのPokémon HOMEのサポートIDになります。もしこの情報がPokémon HOME に表示されたサポートIDと異なる場合には、一度サインアウトしていただいた上で、再度異なるニンテンドーアカウントでサインインしてください。
+
+RESOURCE ID: home_transfer_error_gym_deployed
+TEXT: ジムに配置されているポケモンは転送できません
+
+RESOURCE ID: home_transfer_error_shadow_pokemon_error
+TEXT: シャドウポケモンは転送できません
+
+RESOURCE ID: home_transfer_header
+TEXT: ポケモンを選択
+
+RESOURCE ID: home_transfer_next_steps
+TEXT: Pokémon HOME を開いてポケモンの転送を完了してください。転送を完了するまで、新たにポケモンをPokémon GOからPokémon HOME へ送ることはできません。
+
+RESOURCE ID: home_transfer_warning
+TEXT: Pokémon HOME に転送した一部のポケモンは、他の『ポケットモンスター』シリーズに連れていくことができません。詳細はPokémon HOME アプリ内でご確認ください。
+Pokémon HOME に転送したポケモンは、Pokémon GO に戻すことはできません。
+
+RESOURCE ID: home_transport_complete
+TEXT: ポケモンをPokémon HOME へ転送しました！
+
+RESOURCE ID: home_transporter_about
+TEXT: ポケモンをPokémon Home へ送るには、転送装置のエナジーが必要です。ポケモンによって必要なエナジー量は違います。
+
+RESOURCE ID: home_transporter_cost
+TEXT: 必要なポケコイン：
+
+RESOURCE ID: home_transporter_energy
+TEXT: 転送エナジー
+
+RESOURCE ID: home_transporter_powerup_confirmation
+TEXT: 転送装置をチャージしてもいいですか？
+
+RESOURCE ID: home_transporter_recharge_now
+TEXT: いますぐチャージ
+
+RESOURCE ID: incenseordinary.1_description
+TEXT: 不思議な香りのおこう。60分香りを出し野生のポケモンを呼び寄せる。特定のポケモン呼び寄せているときは見た目が変わる。
+
+RESOURCE ID: incenseordinary.25_description
+TEXT: 不思議な香りのおこう。60分香りを出し野生のポケモンを呼び寄せる。お得な25個入り。
+
+RESOURCE ID: incenseordinary.8_description
+TEXT: 不思議な香りのおこう。60分香りを出し野生のポケモンを呼び寄せる。お得な8個入り。
+
+RESOURCE ID: item_event_ticket_pink_desc
+TEXT: 現地時間2020年11月15日（11:00AM～5:00PM）にスペシャルリサーチを遂行するためのチケット。
+
+RESOURCE ID: item_event_ticket_pink_desc_2
+TEXT: 現地時間2020年11月21日（11:00AM～5:00PM）にスペシャルリサーチを遂行するためのチケット。
+
+RESOURCE ID: item_event_ticket_pink_details
+TEXT: このチケットは自動的に発動し、現地時間2020年11月15日にスペシャルリサーチが行えるようになります。
+
+RESOURCE ID: item_event_ticket_pink_details_2
+TEXT: このチケットは自動的に発動し、現地時間2020年11月21日にスペシャルリサーチが行えるようになります。
+
+RESOURCE ID: item_incense_ordinary_desc
+TEXT: 不思議な香りのおこう。60分香りを出し野生のポケモンを呼び寄せる。特定のポケモン呼び寄せているときは見た目が変わる。
+
+RESOURCE ID: limited_research_meowth
+TEXT: ニャースの限定リサーチ
+
+RESOURCE ID: load_tags_error
+TEXT: タグを表示できませんでした
+
+RESOURCE ID: log_into_pokemon_home_app
+TEXT: Pokémon HOME にログインしてください.
+
+RESOURCE ID: m_avatar_poses_bundle_pose_23
+TEXT: ハロウィン
+
+RESOURCE ID: manage_pokemon_tag_add
+TEXT: {0}にタグを付ける
+
+RESOURCE ID: manage_pokemon_tag_remove
+TEXT:  {1}から「{0}」を削除する
+
+RESOURCE ID: manage_pokemon_tag_title
+TEXT: タグ管理
+
+RESOURCE ID: manage_pokemon_tag_view_all
+TEXT: 「{0}」タグの付いたポケモンを見る
+
+RESOURCE ID: mega_candy_plus_energy_walking_desc
+TEXT: 相棒と一緒に歩くと、歩く距離に応じてアメを見つけてくれます。相棒のポケモンにポフィンをあげると、すぐに「大喜び」状態になりますが「大喜び」状態では、アメを見つけてくれる距離が、普段より少なくなります。メガエナジーを見つけてくれるポケモンもいます。
+
+RESOURCE ID: mega_candy_plus_energy_walking_title
+TEXT: アメとメガエナジー
+
+RESOURCE ID: mega_catch_candy_bonus
+TEXT: メガ
+
+RESOURCE ID: mega_energy_cap_stardust_warning
+TEXT: You are close to the {0} Mega Energy cap. Any Mega Energy rewards that exceed the cap will be converted to Stardust.
+
+RESOURCE ID: mega_evo_bonus_buff_desc_mult
+TEXT: {0}がメガシンカしているあいだは、{1}と{2}タイプのポケモンやボスポケモンを捕まえてもらえるアメが増えます
+
+RESOURCE ID: mega_evo_bonus_buff_desc_singular
+TEXT: {0}がメガシンカしているあいだは、{1}タイプのポケモンやボスポケモンを捕まえてもらえるアメが増えます
+
+RESOURCE ID: mega_evo_bonus_buff_title
+TEXT: {0} Mega Evolution Bonus
+
+RESOURCE ID: mega_walking_progress
+TEXT: 歩いて見つけるもの
+
+RESOURCE ID: metadata_patch
+TEXT: Built at 2020-10-30T19:19:35.913494
+at SHA a39819ce5a2e3aa5167db524ff19c0f7faab9f23
+Patch from: 0.189.0-SHA-c54dec19, 0.191.0-SHA-bacc0237
+
+RESOURCE ID: multiselect_title
+TEXT: {0}匹選択
+
+RESOURCE ID: niantic_anniversary_event
+TEXT: Nianticアニバーサリー
+
+RESOURCE ID: nintendo_account_not_linked
+TEXT: ニンテンドーアカウントを再度Pokémon GO に連携してください
+
+RESOURCE ID: no_pokemon_tag_color_warning
+TEXT: タグ名の色を選択してください
+
+RESOURCE ID: no_pokemon_tag_name_warning
+TEXT: タグ名を入力してください
+
+RESOURCE ID: photobomb_five_electabuzz
+TEXT: 5 Photobombs from Electabuzz in GO Snapshot
+
+RESOURCE ID: photobomb_five_magmar
+TEXT: 5 Photobombs from Magmar in GO Snapshot
+
+RESOURCE ID: player_level_low
+TEXT: プレイヤーレベルがたりません
+
+RESOURCE ID: pokedex_see_all
+TEXT: ボックス内の{0}を見る
+
+RESOURCE ID: pokemon_category_0077_2336
+TEXT: いっかくポケモン
+
+RESOURCE ID: pokemon_category_0078_2337
+TEXT: いっかくポケモン
+
+RESOURCE ID: pokemon_category_0867
+TEXT: おんねんポケモン
+
+RESOURCE ID: pokemon_desc_0077_2336
+TEXT: 小さなツノに癒しの力を秘めている。　ちょっとした傷ならツノをすり寄せ治してくれる。
+
+RESOURCE ID: pokemon_desc_0078_2337
+TEXT: ツノから放つサイコカッターは強力。　ぶ厚い鉄板に穴を開けるほどの破壊力。
+
+RESOURCE ID: pokemon_desc_0562_2344
+TEXT: 呪いが刻まれた粘土板がデスマスに憑りついた。　怨念パワーを吸いとっているという。
+
+RESOURCE ID: pokemon_desc_0867
+TEXT: 強い呪いをこめて描かれた古代の絵がデスマスの魂を取り込み動きだした。
+
+RESOURCE ID: pokemon_home_about
+TEXT: Pokémon GOからPokémon HOMEへポケモンを転送します。
+開始するには、Pokémon HOME で利用しているものと同じ <a href="https://www.nintendo.co.jp/support/nintendo_account/index.html">ニンテンドーアカウント</a> が必要になります。ポケモン転送には、転送エナジーが必要です。転送エナジーは時間が経つと溜まります。Pokémon HOME へポケモンを転送する詳細については<a href="https://home.pokemon.com/en-us/move/">こちら</a>をご確認ください。
+
+RESOURCE ID: pokemon_home_transport
+TEXT: 転送
+
+RESOURCE ID: pokemon_info_caught_invasion
+TEXT: {0}を倒して捕まえた
+
+RESOURCE ID: pokemon_info_caught_photobomb
+TEXT: GOスナップショットのサプライズ後に捕まえた
+
+RESOURCE ID: pokemon_info_caught_quest_challenge
+TEXT: フィールドリサーチで捕まえた
+
+RESOURCE ID: pokemon_info_caught_quest_stamp
+TEXT: 大発見を達成して捕まえた
+
+RESOURCE ID: pokemon_info_caught_quest_story
+TEXT: スペシャルリサーチで捕まえた
+
+RESOURCE ID: pokemon_info_caught_quest_timed
+TEXT: タイムチャレンジで捕まえた
+
+RESOURCE ID: pokemon_info_caught_raid_nem
+TEXT: EXメガレイドで捕まえた
+
+RESOURCE ID: pokemon_info_caught_raid_nen
+TEXT: EXレイドで捕まえた
+
+RESOURCE ID: pokemon_info_caught_raid_nnm
+TEXT: メガレイドで捕まえた
+
+RESOURCE ID: pokemon_info_caught_raid_nnn
+TEXT: レイドで捕まえた
+
+RESOURCE ID: pokemon_info_caught_raid_rem
+TEXT: リモートEXメガレイドで捕まえた
+
+RESOURCE ID: pokemon_info_caught_raid_ren
+TEXT: リモートEXレイドで捕まえた
+
+RESOURCE ID: pokemon_info_caught_raid_rnm
+TEXT: リモートメガレイドで捕まえた
+
+RESOURCE ID: pokemon_info_caught_raid_rnn
+TEXT: リモートレイドで捕まえた
+
+RESOURCE ID: pokemon_info_caught_tutorial
+TEXT: 野生で出会った
+
+RESOURCE ID: pokemon_info_caught_vsseeker
+TEXT: CAUGHT IN THE GBL {1}
+
+RESOURCE ID: pokemon_info_caught_wild
+TEXT: 野生で出会った
+
+RESOURCE ID: pokemon_info_event
+TEXT: イベント
+
+RESOURCE ID: pokemon_info_evolution_failed
+TEXT: Couldn’t evolve {0} due to an unknown error.
+
+RESOURCE ID: pokemon_info_evolve_quest_bubble_collapsed
+TEXT: 相棒にして進化させよう！
+
+RESOURCE ID: pokemon_info_location
+TEXT: 場所
+
+RESOURCE ID: pokemon_info_location_unknown
+TEXT: 場所不明
+
+RESOURCE ID: pokemon_info_multi_transfer_costume_pokemon_error
+TEXT: 特殊なポケモンは選択できません！
+
+RESOURCE ID: pokemon_info_multi_transfer_event_pokemon_final_confirmation
+TEXT: 特殊なポケモンが選択されています！本当に送ってもいいですか？
+
+RESOURCE ID: pokemon_info_not_transferable
+TEXT: 送ることができないポケモンが含まれています！
+
+RESOURCE ID: pokemon_info_received
+TEXT: 受け取った
+
+RESOURCE ID: pokemon_info_tag_pokemon
+TEXT: タグ
+
+RESOURCE ID: pokemon_info_traded
+TEXT: OBTAINED IN A TRADE
+
+RESOURCE ID: pokemon_info_transfer_mega_evo
+TEXT: メガシンカしたポケモンは送れません！
+
+RESOURCE ID: pokemon_info_unknown_location
+TEXT: UNKNOWN
+
+RESOURCE ID: pokemon_inventory_favorite_search_remove_button
+TEXT: 検索名を削除
+
+RESOURCE ID: pokemon_inventory_favorite_search_rename_button
+TEXT: 検索名を変える
+
+RESOURCE ID: pokemon_inventory_favorite_search_rename_title
+TEXT: 検索名をつける
+
+RESOURCE ID: pokemon_inventory_favorite_search_title
+TEXT: よく使う検索
+
+RESOURCE ID: pokemon_inventory_remove_favorites
+TEXT: この検索をよく使う検索から削除しますか？
+
+RESOURCE ID: pokemon_inventory_select_all
+TEXT: すべて選択
+
+RESOURCE ID: pokemon_inventory_show_evolution
+TEXT: 進化形を表示
+
+RESOURCE ID: pokemon_inventory_too_many_favorites
+TEXT: 追加できませんでした。検索名を一つ削除してください。
+
+RESOURCE ID: pokemon_name_0867
+TEXT: デスバーン
+
+RESOURCE ID: pokemon_with_tag_count
+TEXT: このタグの付いたポケモン：{0}匹
+
+RESOURCE ID: quest_catch_berry_any_drifloon
+TEXT: フワンテを捕まえるときにきのみ{0}個を使う
+
+RESOURCE ID: quest_catch_berry_nanab_drifloon
+TEXT: フワンテを捕まえるときにナナのみ{0}個を使う
+
+RESOURCE ID: quest_catch_berry_razz_drifloon
+TEXT: フワンテを捕まえるときにズリのみ{0}個を使う
+
+RESOURCE ID: quest_catch_dark_type_plural
+TEXT: あくタイプのポケモンを{0}匹捕まえる
+
+RESOURCE ID: quest_catch_drifloon
+TEXT: フワンテを{0}匹捕まえる
+
+RESOURCE ID: quest_catch_excellent_curve_drifloon
+TEXT: フワンテをカーブボールのエクセレントスローで{0}匹捕まえる
+
+RESOURCE ID: quest_catch_excellent_with_berry_drifloon
+TEXT: フワンテをきのみを使ってエクセレントスローで{0}匹捕まえる
+
+RESOURCE ID: quest_catch_type_dark_singular
+TEXT: あくタイプのポケモンを捕まえる
+
+RESOURCE ID: quest_complete_chart
+TEXT: とかげポケモンを解明せよ！
+
+RESOURCE ID: quest_complete_elect
+TEXT: The Electrifying Electabuzz
+
+RESOURCE ID: quest_complete_hallowyamas
+TEXT: 怨念の謎を解け！
+
+RESOURCE ID: quest_complete_rockethq7
+TEXT: 悪の組織に立ち向かえ6
+
+RESOURCE ID: quest_elect_catch_b
+TEXT: Catch {0} Electabuzz
+
+RESOURCE ID: quest_elect_evolve_b
+TEXT: Evolve {0} Electabuzz
+
+RESOURCE ID: quest_evolve_dark_type_singular
+TEXT: あくタイプのポケモンを進化させる
+
+RESOURCE ID: quest_jan19rsd_buddywalk_singular
+TEXT: ヒンバスリサーチ：相棒と歩いてアメを1個もらう
+
+RESOURCE ID: quest_land_curve_type_ghost
+TEXT: ゴーストタイプのポケモンを捕まえるときカーブボールを{0}回投げる
+
+RESOURCE ID: quest_land_great_curve_inarow_type_ghost
+TEXT: ゴーストタイプのポケモンを捕まえるときカーブボールのグレートスローを{0}回連続で投げる
+
+RESOURCE ID: quest_land_great_curve_type_ghost
+TEXT: ゴーストタイプのポケモンを捕まえるときカーブボールのグレートスローを{0}回投げる
+
+RESOURCE ID: quest_land_great_type_ghost
+TEXT: ゴーストタイプのポケモンを捕まえるときグレートスローを{0}回投げる
+
+RESOURCE ID: quest_land_nice_curve_inarow_type_ghost
+TEXT: ゴーストタイプのポケモンを捕まえるときカーブボールのナイススローを{0}回連続で投げる
+
+RESOURCE ID: quest_land_nice_curve_type_ghost
+TEXT: ゴーストタイプのポケモンを捕まえるときカーブボールのナイススローを{0}回投げる
+
+RESOURCE ID: quest_land_nice_type_ghost
+TEXT: ゴーストタイプのポケモンを捕まえるときナイススローを{0}回投げる
+
+RESOURCE ID: quest_magmt_catch_b
+TEXT: Catch {0} Magmar
+
+RESOURCE ID: quest_magmt_evolve_b
+TEXT: Evolve {0} Magmar
+
+RESOURCE ID: quest_rockethq1_leaders_win_plural
+TEXT: GOロケット団リーダーとのバトルで{0}回勝つ
+
+RESOURCE ID: quest_special_dialogue_chart_0_0
+TEXT: やぁ、%PLAYERNAME%！元気かい？トレーナー仲間たちはどうかな？わたしは、相変わらず研究に没頭しているよ。相棒のポケモンと散歩をすることも日課だ。
+
+RESOURCE ID: quest_special_dialogue_chart_0_1
+TEXT: 今朝も、いつものように相棒と散歩を楽しんでいたんだが、
+
+RESOURCE ID: quest_special_dialogue_chart_0_2
+TEXT: ヒトカゲに何匹も出会ったよ。数が多かったので、しっぽの炎の燃える、心地よいパチパチ音が聞こえてくるほどだった。
+
+RESOURCE ID: quest_special_dialogue_chart_0_3
+TEXT: ヒトカゲが大量発生したことはあるにはあるが、めずらしい現象だな．．．
+
+RESOURCE ID: quest_special_dialogue_chart_0_4
+TEXT: 調査が必要だと思う。
+
+RESOURCE ID: quest_special_dialogue_chart_0_5
+TEXT: 手始めに、一緒に捕まえてくれ！
+
+RESOURCE ID: quest_special_dialogue_chart_1_0
+TEXT: その調子だ！
+
+RESOURCE ID: quest_special_dialogue_chart_1_1
+TEXT: ヒトカゲがなぜ集まっていたのか、よく考えてみたんだが、改めて資料を見ると、
+
+RESOURCE ID: quest_special_dialogue_chart_1_2
+TEXT: 熱いものを好む、という生態があった。ヒトカゲの気持ちは、しっぽの炎の燃え方でわかる、ともあった。
+
+RESOURCE ID: quest_special_dialogue_chart_1_3
+TEXT: 考えられるのは．．．太陽を浴びようと集まっていた、ということくらいだ。進化させると何かわかるかもしれない。
+
+RESOURCE ID: quest_special_dialogue_chart_1_4
+TEXT: ヒトカゲが進化するのは、リザードだ。荒々しい性質のポケモンだからな、十分に気を付けてくれ！
+
+RESOURCE ID: quest_special_dialogue_chart_2_0
+TEXT: リザードに進化させることができたね、%PLAYERNAME%。
+
+RESOURCE ID: quest_special_dialogue_chart_2_1
+TEXT: かえんポケモンであるリザードは、いつも戦う相手を探していると言っていいほど、燃えたぎるような性質を持っている。
+
+RESOURCE ID: quest_special_dialogue_chart_2_2
+TEXT: 強敵を前にすると、気持ちがたかぶり、しっぽの炎が青白く燃え上がるらしい！
+
+RESOURCE ID: quest_special_dialogue_chart_2_3
+TEXT: 燃えたぎる？勝たないと気が済まない？わたしの知っている誰かさんと同じだな．．．
+
+RESOURCE ID: quest_special_dialogue_chart_2_4
+TEXT: さぁ、次は、リザードンに進化させてみよう。リザードンについても、学ぶことがたくさんあるはずだ！
+
+RESOURCE ID: quest_special_dialogue_chart_3_0
+TEXT: よくやった！かえんポケモン、リザードンに進化させることができたね！
+
+RESOURCE ID: quest_special_dialogue_chart_3_1
+TEXT: リザードンは、地上1400メートルまで飛ぶことができるポケモンなんだ！
+
+RESOURCE ID: quest_special_dialogue_chart_3_2
+TEXT: そして、なんでも溶かしてしまう高熱の炎を吐く。だからといって、その炎を自分より弱いものに向けることはしない。
+
+RESOURCE ID: quest_special_dialogue_chart_3_3
+TEXT: すごい自制心じゃないか！最強の相手のみを見据える、その姿勢が雄々しい！
+
+RESOURCE ID: quest_special_dialogue_chart_3_4
+TEXT: 新たに仲間になったリザードンと、一緒の時間を楽しんでみてはどうかな？
+
+RESOURCE ID: quest_special_dialogue_chart_4_0
+TEXT: %PLAYERNAME%、きみとリザードン、さまになってきたじゃないか！ポケモンはトレーナーにとって頼もしいパートナーだが、
+
+RESOURCE ID: quest_special_dialogue_chart_4_1
+TEXT: トレーナーとの絆が強くなると、より力が強くなるポケモンがいる。それが、メガシンカするポケモンだ！リザードンは、2つのメガシンカしたすがたになることが可能だ。
+
+RESOURCE ID: quest_special_dialogue_chart_4_2
+TEXT: メガリザードンＸと、メガリザードンＹは、見た目と強みの違うポケモンだ。
+
+RESOURCE ID: quest_special_dialogue_chart_4_3
+TEXT: メガリザードンＸは、全身にみなぎる並はずれたパワーが特徴で、そのパワーが、体を黒く染め上げ、吐く炎を青くするんだ。
+
+RESOURCE ID: quest_special_dialogue_chart_4_4
+TEXT: また、研究で明らかになったのは、メガリザードンＹがトレーナーとの絆をパワーの源としていること。その飛行能力は、ジェット機をしのぐ。
+
+RESOURCE ID: quest_special_dialogue_chart_4_5
+TEXT: いやー、トレーナーたちが、メガシンカしたポケモンと一緒にバトルする様子を見るのが楽しみだよー！
+
+RESOURCE ID: quest_special_dialogue_chart_4_6
+TEXT: 熱い協力に感謝する、%PLAYERNAME%。また一緒に調査しよう！
+
+RESOURCE ID: quest_special_dialogue_elect_0_0
+TEXT: Hey there, %PLAYERNAME%! I’m really glad to see you.
+
+RESOURCE ID: quest_special_dialogue_elect_0_1
+TEXT: I’ve been dealing with some strange power outages around my mobile lab and wanted to investigate what could be causing the problem.
+
+RESOURCE ID: quest_special_dialogue_elect_0_2
+TEXT: It didn't take me long to find the cause. Seems as though a group of Electabuzz decided that the energy used to power my mobile lab up and running would make a much better snack.
+
+RESOURCE ID: quest_special_dialogue_elect_0_3
+TEXT: They seem to be appearing in higher numbers, which could lead to more outages.
+
+RESOURCE ID: quest_special_dialogue_elect_0_4
+TEXT: Do you think you’d be able to help catch some Electabuzz?
+
+RESOURCE ID: quest_special_dialogue_elect_0_5
+TEXT: The research would be very valuable and I would be very grateful to have my power restored!
+
+RESOURCE ID: quest_special_dialogue_elect_1_0
+TEXT: Welcome back, Trainer.
+
+RESOURCE ID: quest_special_dialogue_elect_1_1
+TEXT: Thanks for the assistance, I really appreciate it! While you were out catching all those Electabuzz, I did some research on this family of Pokémon.
+
+RESOURCE ID: quest_special_dialogue_elect_1_2
+TEXT: Did you know that Electabuzz evolves from Elekid, the Electric Pokémon?
+
+RESOURCE ID: quest_special_dialogue_elect_1_3
+TEXT: A weak electric current flows between its horns. Be careful, Trainer, sticking a hand between its horns will actually shock you!
+
+RESOURCE ID: quest_special_dialogue_elect_1_4
+TEXT: Hmm… I wonder if Spark has tried that with his Buddy Pokémon…
+
+RESOURCE ID: quest_special_dialogue_elect_1_5
+TEXT: Anyway, let’s keep looking into this unusual situation with Electabuzz and make sure it isn’t snacking on any electricity meant for other uses!
+
+RESOURCE ID: quest_special_dialogue_elect_2_0
+TEXT: Great work, %PLAYERNAME%. I think we have enough data on Electabuzz.
+
+RESOURCE ID: quest_special_dialogue_elect_2_1
+TEXT: Also known as the Electric Pokémon, it loves to feed on strong electricity, explaining why it was attracted to my mobile lab.
+
+RESOURCE ID: quest_special_dialogue_elect_2_2
+TEXT: Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.
+
+RESOURCE ID: quest_special_dialogue_elect_2_3
+TEXT: Simply amazing! Let’s continue our research and go ahead and use a Sinnoh Stone to evolve Electabuzz to Electivire!
+
+RESOURCE ID: quest_special_dialogue_elect_2_4
+TEXT: I can’t wait to see what the electrifying conclusion is to our research!
+
+RESOURCE ID: quest_special_dialogue_elect_3_0
+TEXT: I just don’t ever know if they find my jokes funny… should I take a comedy class?
+
+RESOURCE ID: quest_special_dialogue_elect_3_1
+TEXT: OH! I didn’t see you there, %PLAYERNAME%. I see you've evolved your Electabuzz into Electivire like I asked. Thank you!
+
+RESOURCE ID: quest_special_dialogue_elect_3_2
+TEXT: Looking at the Pokédex, it says as its electric charge amplifies, blue sparks begin to crackle between its horns.
+
+RESOURCE ID: quest_special_dialogue_elect_3_3
+TEXT: When in battle, it pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power. I guess you could say its opponent is in for a shock!
+
+RESOURCE ID: quest_special_dialogue_elect_3_4
+TEXT: Be sure to take your time and learn more about this Pokémon before adding it to your battle team, that is a lot of power you are dealing with!
+
+RESOURCE ID: quest_special_dialogue_elect_3_5
+TEXT: With the lights back on in the mobile lab I’m going to head back and wrap up some other projects.
+
+RESOURCE ID: quest_special_dialogue_elect_3_6
+TEXT: Thank you again for all your help, and until next time, let’s GO!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_0
+TEXT: %PLAYERNAME%！！！
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_1
+TEXT: ちょうどいいところに来てくれた！
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_2
+TEXT: 近くの森に出現したポケモンの調査が必要なんだ。きみにお願いできるね。
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_3
+TEXT: わたしは、暗い森には近づかないことにしているんだ。怖くはないさ．．．．
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_4
+TEXT: ただ．．．
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_5
+TEXT: おっ？研究所の近くにいるのはブランシェだな！ゴーストタイプのポケモン進化検証が残っていたんだった。
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_6
+TEXT: 暗い森は、%PLAYERNAME%、きみに任せるよ！またすぐ会おう！
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_0
+TEXT: ブランシェ、ガラルのすがたで進化することは確かなんだな？あ、失礼、%PLAYERNAME%、ブランシェと話し込んでいたので．．．あれ？
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_1
+TEXT: この音は．．．デスマスか！マスクを見つめて泣いているようだな．．．
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_2
+TEXT: 森でこのデスマスに出会ったというわけか．．．これは、もう一度、森に行ってもらわないといけないな．．．
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_3
+TEXT: 目撃情報を、ゴーストタイプのポケモンに関する資料に照らし合わせたんだが、見つけてほしいのは、このデスマスでなく、
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_4
+TEXT: ガラル地方で発見されたデスマスだ。粘土板のかけらが特徴なんだ。呪いが刻まれた粘土板がとりついていて、怨念パワーを吸い取っていると言われている。
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_5
+TEXT: もう一度探してきてくれ。わたしは行けないんだ．．．スパークが、なぞめいたタマゴに関して話したいことがある、と言っていたので．．．
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_0
+TEXT: なぞめいたタマゴからふかするのは、どくタイプ、あくタイプのポケモンばかりか．．．ちゃんと検証できたな．．．おっ！
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_1
+TEXT: 早かったな、%PLAYERNAME%。．．．デスマスはいたか．．．って、それはミカルゲ！
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_2
+TEXT: ミカルゲをトレーナーたちと調査したことがあったな。きみも以前に捕まえたことがあったんじゃないかな？
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_3
+TEXT: また現れたのか。108個の魂が、石の割れ目につながれているというめずらしいポケモンが．．．
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_4
+TEXT: これは、悪夢か、うれしいハプニングか？
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_5
+TEXT: またお願いするのは心苦しいのだが、目的にたどりつくには、3度目の正直で、もう一度探しに行ってもらうしかない。
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_6
+TEXT: わたしは、キャンデラとバトル談義をしに行くので、失礼するよ。きみに任せっぱなしだが、よろしく頼む、%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_0
+TEXT: どく、ゴースト、むし、あく、それにフェアリータイプか！バトルに向けての入念な準備、キャンデラらしいよ．．．
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_1
+TEXT: ．．．あ、きみか、%PLAYERNAME%！ガラルのすがたのデスマスに出会えたんだな！やはり、ずいぶん印象が違うな！
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_2
+TEXT: ブランシェと話していたのは、ガラルのデスマスが、デスバーンに進化する、ということなんだ。
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_3
+TEXT: デスマスのアメを集めて、進化させよう！図鑑に登録するところまでが調査だからな。
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_4
+TEXT: 今回は、恐ろしくも楽しい調査だった。
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_5
+TEXT: 引き続き、秋の夜長を、ポケモンに想いをはせながら過ごそうじゃないか！
+
+RESOURCE ID: quest_special_dialogue_rockethq7_0_0
+TEXT: やぁ、%PLAYERNAME%！元気だったかな？早速だが、
+
+RESOURCE ID: quest_special_dialogue_rockethq7_0_1
+TEXT: GOロケット団が．．．そう、また、暗躍している！
+
+RESOURCE ID: quest_special_dialogue_rockethq7_0_2
+TEXT: ポケストップの周辺で不穏な動きがあった。きみに調査してもらいたいんだ。
+
+RESOURCE ID: quest_special_dialogue_rockethq7_0_3
+TEXT: まずは、事態の把握、そして、原因の追究だ！
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_0
+TEXT: よくやってくれた、%PLAYERNAME%。だが、GOロケット団の新たな悪だくみの真相は、まだよくわからないな。
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_1
+TEXT: やつらの手法のひとつに、シャドウポケモンを使うことがある。シャドウポケモンは、本来の力を超えて強化されているポケモンだ。
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_2
+TEXT: シャドウポケモンの強化プログラムにはアルロか関与していた、と言われている。アルロがキャンデラと対立し、チームヴァーラーを離れた直後に始まった、らしい。
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_3
+TEXT: 最近の動向としては、ポケモンのタマゴに着目したようだ。これはスパーク情報だ。アルロも関わっているのかどうか、は不明だ。
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_4
+TEXT: 調べてみてくれ！シャドウポケモンを救うことも、頼んだよ。
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_0
+TEXT: シャドウポケモンをリトレーンしてくれて、ありがとう、%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_1
+TEXT: ヨーギラスを捕まえたんだな！ん？ヨーギラスはどこから来たんだ？GOロケット団が集めているタマゴと関係があるのか？
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_2
+TEXT: きみがしたっぱを倒してくれているあいだ、リーダーたちと協力して突き止めたんだが、GOロケット団は、変わった見た目のタマゴを集めている。
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_3
+TEXT: どうやら、これらのタマゴからは、どくタイプと、あくタイプのポケモンがかえることが多いようだ。われわれもこの謎めいたタマゴをかえし、GOロケット団の勢いを抑えなければならない！
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_4
+TEXT: 謎めいたタマゴは、GOロケット団リーダーが、がっちり守っているようだ。やつらを見つけることから始めてくれ。タマゴを持てる空きと、ふかそうちを準備するのも忘れずに！
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_0
+TEXT: 見事な戦いぶりだった、%PLAYERNAME%！多くのポケモンを救ったね！なかには、かわいいポケモンも含まれていたようだな。
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_1
+TEXT: こちらでも、謎めいたタマゴの背景について、調べたんだが、スパークが得た情報によると、どうもシエラと何らかの関係があるらしい。
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_2
+TEXT: GOロケット団のリーダーというのは、ポケストップ占拠を主導することや、トレーナーにバトルを仕掛けることだけだ、と思って油断しているわけにはいかないな！
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_3
+TEXT: シャドウポケモンにはアルロ、謎めいたタマゴにはシエラ、といったように、悪だくみの背景には、それぞれ首謀者がいる可能性がある。
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_4
+TEXT: %PLAYERNAME%、わかるね？リーダーたちを野放しにしておいては危険なんだ！
+
+RESOURCE ID: quest_special_dialogue_rockethq7_4_0
+TEXT: 素晴らしいよ、%PLAYERNAME%！これで、少しのあいだ、やつらの動きを抑えることができるだろう。
+
+RESOURCE ID: quest_special_dialogue_rockethq7_4_1
+TEXT: サカキを探すために、スーパーロケットレーダーを用意したよ。ただ、気を付けてくれ。ブランシェとキャンデラが教えてくれたんだが、サカキはシャドウミューツーを連れているらしい。
+
+RESOURCE ID: quest_special_dialogue_rockethq7_4_2
+TEXT: シャドウミューツーが目撃されたことはある。だが、サカキが、再びシャドウミュウツーを伴って現れるとは！
+
+RESOURCE ID: quest_special_dialogue_rockethq7_4_3
+TEXT: シャドウミュウツーを救わなければならない！サカキに利用される前に！
+
+RESOURCE ID: quest_special_dialogue_rockethq7_5_0
+TEXT: いい気分だ！%PLAYERNAME%、またもや、きみに助けられたよ！GOロケット団のしたっぱから始まり、サカキまで倒してくれた！
+
+RESOURCE ID: quest_special_dialogue_rockethq7_5_1
+TEXT: 救われたポケモンの数も相当なものだ。シャドウミュウツーまでいる。
+
+RESOURCE ID: quest_special_dialogue_rockethq7_5_2
+TEXT: これからも、GOロケット団には警戒していてくれ！謎めいたタマゴをかえすことで、何かわかることがあるかもしれない。きみの頑張りに期待する！
+
+RESOURCE ID: quest_title_chart
+TEXT: とかげポケモンを解明せよ！
+
+RESOURCE ID: quest_title_chart_0
+TEXT: とかげポケモンを解明せよ！(1/5)
+
+RESOURCE ID: quest_title_chart_1
+TEXT: とかげポケモンを解明せよ！(2/5)
+
+RESOURCE ID: quest_title_chart_2
+TEXT: とかげポケモンを解明せよ！(3/5)
+
+RESOURCE ID: quest_title_chart_3
+TEXT: とかげポケモンを解明せよ！(4/5)
+
+RESOURCE ID: quest_title_chart_4
+TEXT: とかげポケモンを解明せよ！(5/5)
+
+RESOURCE ID: quest_title_elect
+TEXT: The Electrifying Electabuzz
+
+RESOURCE ID: quest_title_elect_0
+TEXT: The Electrifying Electabuzz (1/4)
+
+RESOURCE ID: quest_title_elect_1
+TEXT: The Electrifying Electabuzz (2/4)
+
+RESOURCE ID: quest_title_elect_2
+TEXT: The Electrifying Electabuzz (3/4)
+
+RESOURCE ID: quest_title_elect_3
+TEXT: The Electrifying Electabuzz (4/4)
+
+RESOURCE ID: quest_title_hallowyamas
+TEXT: 怨念の謎を解け！
+
+RESOURCE ID: quest_title_hallowyamas_0
+TEXT: 怨念の謎を解け！(1/4)
+
+RESOURCE ID: quest_title_hallowyamas_1
+TEXT: 怨念の謎を解け！(2/4)
+
+RESOURCE ID: quest_title_hallowyamas_2
+TEXT: 怨念の謎を解け！(3/4)
+
+RESOURCE ID: quest_title_hallowyamas_3
+TEXT: 怨念の謎を解け！(4/4)
+
+RESOURCE ID: quest_title_rockethq7
+TEXT: 悪の組織に立ち向かえ6
+
+RESOURCE ID: quest_title_rockethq7_0
+TEXT: 悪の組織に立ち向かえ6 (1/6)
+
+RESOURCE ID: quest_title_rockethq7_1
+TEXT: 悪の組織に立ち向かえ6 (2/6)
+
+RESOURCE ID: quest_title_rockethq7_2
+TEXT: 悪の組織に立ち向かえ6 (3/6)
+
+RESOURCE ID: quest_title_rockethq7_3
+TEXT: 悪の組織に立ち向かえ6 (4/6)
+
+RESOURCE ID: quest_title_rockethq7_4
+TEXT: 悪の組織に立ち向かえ6 (5/6)
+
+RESOURCE ID: quest_title_rockethq7_5
+TEXT: 悪の組織に立ち向かえ6 (6/6)
+
+RESOURCE ID: quest_title_spwk_0
+TEXT: スペシャルウィークエンド (1/4)
+
+RESOURCE ID: quest_title_spwk_1
+TEXT: スペシャルウィークエンド (2/4)
+
+RESOURCE ID: quest_title_spwk_2
+TEXT: スペシャルウィークエンド (3/4)
+
+RESOURCE ID: quest_title_spwk_3
+TEXT: スペシャルウィークエンド (4/4)
+
+RESOURCE ID: quest_title_spwk_711mx
+TEXT: Special Weekend (7-Eleven México)
+
+RESOURCE ID: quest_title_spwk_gh
+TEXT: Special Weekend (Grubhub)
+
+RESOURCE ID: quest_title_spwk_mk
+TEXT: スペシャルウィークエンド (マツモトキヨシ)
+
+RESOURCE ID: quest_title_spwk_sb711jp
+TEXT: スペシャルウィークエンド (SoftBank & セブン-イレブン)
+
+RESOURCE ID: quest_title_spwk_vz
+TEXT: Special Weekend (Verizon)
+
+RESOURCE ID: quest_transfer_type_ghost_plural
+TEXT: ゴーストタイプのポケモンを{0}匹送る
+
+RESOURCE ID: quest_walk_buddy_singular
+TEXT: 相棒と歩いてアメを1個もらう
+
+RESOURCE ID: raid_day_alolan_marowak
+TEXT: ガラガラアローラのすがたのレイド・デイ
+
+RESOURCE ID: raids_alolan_marowak
+TEXT: ガラガラアローラのすがたがレイドに出現
+
+RESOURCE ID: remove_tag_error
+TEXT: タグを外すことができませんでした
+
+RESOURCE ID: screen_title_pokemon_inventory_tags
+TEXT: タグ
+
+RESOURCE ID: settings_nintendo_account
+TEXT: ニンテンドーアカウント
+
+RESOURCE ID: settings_pokemon_home
+TEXT: Pokémon HOME
+
+RESOURCE ID: shop_remote_raid_passes_title
+TEXT: リモートレイドパスを持っていません！
+
+RESOURCE ID: spawn_electabuzz
+TEXT: More Electabuzz are appearing in the wild
+
+RESOURCE ID: spawn_magmar
+TEXT: More Magmar are appearing in the wild
+
+RESOURCE ID: sponsorship_special_research_redeemed_confirmation
+TEXT: コードを使用して、スペシャルリサーチを手に入れました！
+
+RESOURCE ID: tag_color_field_subtitle
+TEXT: テキスト色
+
+RESOURCE ID: tag_name_field_subtitle
+TEXT: 名前
+
+RESOURCE ID: tagging_assignment_add_new
+TEXT: 新規タグ
+
+RESOURCE ID: tagging_assignment_button
+TEXT: タグ
+
+RESOURCE ID: tagging_assignment_title
+TEXT: {0}匹にタグ付け
+
+RESOURCE ID: tagging_favorites_title
+TEXT: よく使う検索
+
+RESOURCE ID: ticket_charmander
+TEXT: 「とかげポケモンを解明せよ！」チケットがショップに登場
+
+RESOURCE ID: ticket_electabuzz
+TEXT: 「でんげきポケモンを解明せよ！」チケットがショップに登場
+
+RESOURCE ID: ticket_magmar
+TEXT: 「ひふきポケモンを解明せよ！」チケットがショップに登場
+
+RESOURCE ID: timed_research_pokemon_meowth
+TEXT: ニャースのタイムチャレンジ
+
+RESOURCE ID: titan_image_gallery_add_photo_button
+TEXT: 画像を追加
+
+RESOURCE ID: titan_image_gallery_button_text
+TEXT: 画像
+
+RESOURCE ID: titan_image_gallery_photo_count_multiple
+TEXT: {0}枚
+
+RESOURCE ID: titan_image_gallery_photo_count_singular
+TEXT: 1枚
+
+RESOURCE ID: titan_image_gallery_submission_time
+TEXT: {0} {1}前
+
+RESOURCE ID: titan_image_gallery_too_far_add_photo
+TEXT: 画像を追加するにはポケストップが遠すぎます
+
+RESOURCE ID: titan_image_gallery_too_far_scanning
+TEXT: ポケストップが遠すぎます
+
+RESOURCE ID: titan_poi_ar_data_opt_in_title_1
+TEXT: ポケストップスキャン
+
+RESOURCE ID: titan_upload_wifi_recommended
+TEXT: Wi-Fi 接続推奨
+
+RESOURCE ID: transfer_error_mega
+TEXT: メガシンカしたポケモンは転送できません
+
+RESOURCE ID: transfer_pokemon
+TEXT: ポケモン転送
+
+RESOURCE ID: unfriend_niantic_friend_tip
+TEXT: Removing this friend from this Niantic Game will remove them as a friend in all games you both play
+
+RESOURCE ID: unfriend_niantic_friend_title
+TEXT: Are you sure you want to unfriend {0}?
+
+RESOURCE ID: view_all_tags_title
+TEXT: {0}に付けたタグを見る
+

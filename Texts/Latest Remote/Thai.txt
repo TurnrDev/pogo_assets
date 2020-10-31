@@ -1,0 +1,1398 @@
+RESOURCE ID: 1106_desc
+TEXT: หินพิเศษที่ถูกค้นพบครั้งแรกในภูมิภาคชินโอ ทำให้โปเกมอนบางสายพันธุ์วิวัฒนาการได้ มันเปล่งประกายและทนทานมาก
+
+RESOURCE ID: 1107_desc
+TEXT: หินหายากที่มีต้นกำเนิดในภูมิภาคอิชชู ทำให้โปเกมอนบางสายพันธุ์วิวัฒนาการได้ มันเป็นที่รู้จักด้วยรูปร่างที่มีลักษณะผสานกันของสีขาวและดำ
+
+RESOURCE ID: ad_feedback_complaint_reason_offensive
+TEXT: ฉันรู้สึกว่าเป็นการคุกคาม
+
+RESOURCE ID: ad_feedback_complaint_reason_political
+TEXT: กล่าวถึงบุคคลทางการเมืองหรือปัญหาต่าง ๆ
+
+RESOURCE ID: ad_feedback_complaint_reason_scam_or_misleading
+TEXT: สื่อให้เข้าใจผิดหรือเป็นการหลอกลวง
+
+RESOURCE ID: ad_feedback_complaint_reason_sexually_inappropriate
+TEXT: มีความไม่เหมาะสมทางเพศ
+
+RESOURCE ID: ad_feedback_complaint_reason_spam
+TEXT: เป็นสแปม
+
+RESOURCE ID: ad_feedback_complaint_reason_violence_or_prohibited
+TEXT: มีเนื้อหารุนแรงหรือเป็นเรื่องต้องห้าม
+
+RESOURCE ID: ad_feedback_contribution_body
+TEXT: ขอบคุณสำหรับการร้องเรียนของคุณ! ความคิดเห็นของคุณถูกส่งไปตรวจสอบแล้ว
+
+RESOURCE ID: ad_feedback_contribution_header
+TEXT: ขอบคุณสำหรับการร้องเรียนของคุณ!
+
+RESOURCE ID: ad_feedback_like_reason_category
+TEXT: ฉันต้องการโฆษณาจากหมวดนี้อีก
+
+RESOURCE ID: ad_feedback_like_reason_more_sponsored_gifts
+TEXT: ฉันต้องการของขวัญที่ได้รับการสนับสนุนเพิ่มเติม
+
+RESOURCE ID: ad_feedback_like_reason_other
+TEXT: อื่น ๆ
+
+RESOURCE ID: ad_feedback_like_reason_see_more
+TEXT: ฉันต้องการโฆษณาจากผู้โฆษณารายนี้อีก
+
+RESOURCE ID: ad_feedback_main_body
+TEXT: เราใส่ใจในประสบการณ์การเล่นโปเกมอนโกของคุณ และมีความยินดีที่จะได้รับฟังความคิดเห็นจากคุณ <b><a href="https://www.nianticlabs.com">เรียนรู้เพิ่มเติม</a></b>
+
+RESOURCE ID: ad_feedback_main_header
+TEXT: บอกเราเกี่ยวกับโฆษณานี้
+
+RESOURCE ID: ad_feedback_main_not_interested
+TEXT: ไม่สนใจในโฆษณานี้
+
+RESOURCE ID: ad_feedback_main_report
+TEXT: รายงานโฆษณานี้
+
+RESOURCE ID: ad_feedback_main_see_more
+TEXT: ดูโฆษณาเช่นนี้เพิ่มเติม
+
+RESOURCE ID: ad_feedback_not_interested_reason_not_relevant
+TEXT: ไม่เกี่ยวข้องกับฉัน
+
+RESOURCE ID: ad_feedback_not_interested_reason_seen_too_often
+TEXT: ฉันเห็นโฆษณามากเกินไป
+
+RESOURCE ID: ad_feedback_textfield_prompt
+TEXT: กรุณาอธิบายโดยไม่ให้เกิน 300 ตัวอักษร
+
+RESOURCE ID: add_friend_confirmation_title
+TEXT: Send a Friend Request to {0}
+
+RESOURCE ID: add_niantic_friend_tip
+TEXT: Addding friends in this game will add them as a friend in all Niantic Games you both play.
+
+RESOURCE ID: assign_tag_failure
+TEXT: การกำหนดแท็กล้มเหลว
+
+RESOURCE ID: assign_tag_mixed_selection
+TEXT: ผสม
+
+RESOURCE ID: autumn_2020_event_1
+TEXT: ฤดูกาลเปลี่ยนผัน - ส่วนที่ 1
+
+RESOURCE ID: autumn_2020_event_2
+TEXT: ฤดูกาลเปลี่ยนผัน - ส่วนที่ 2
+
+RESOURCE ID: avatar_f_backpack_longchampbp_00_bundle_icon
+TEXT: Longchamp Backpack
+
+RESOURCE ID: avatar_f_backpack_swshdlc2costume_00_bundle_icon
+TEXT: กระเป๋าทุ่งหิมะแห่งมงกุฎ
+
+RESOURCE ID: avatar_f_backpack_ultra_bundle_icon
+TEXT: กระเป๋าอัลตร้ามูน
+
+RESOURCE ID: avatar_f_face_banettemask_00_bundle_icon
+TEXT: หน้ากากจุปเป็ตตะ
+
+RESOURCE ID: avatar_f_face_defaultmask_00_bundle_icon
+TEXT: หน้ากากเรียบง่าย
+
+RESOURCE ID: avatar_f_face_pikachumask_00_bundle_icon
+TEXT: หน้ากากพิคาชู
+
+RESOURCE ID: avatar_f_face_sableyemask_00_bundle_icon
+TEXT: หน้ากากยามิรามิ
+
+RESOURCE ID: avatar_f_face_verizon2020mask_0_bundle_icon
+TEXT: Verizon Mask
+
+RESOURCE ID: avatar_f_glasses_goteamrocketarlo_00_bundle_icon
+TEXT: แว่นตาสไตล์อาร์โล
+
+RESOURCE ID: avatar_f_gloves_swshdlc2costume_00_bundle_icon
+TEXT: ถุงมือทุ่งหิมะแห่งมงกุฎ
+
+RESOURCE ID: avatar_f_hat_sableyegoggles_00_bundle_icon
+TEXT: แว่นกันลมยามิรามิ
+
+RESOURCE ID: avatar_f_hat_swshdlc2costume_00_bundle_icon
+TEXT: หมวกกันน็อกทุ่งหิมะแห่งมงกุฎ
+
+RESOURCE ID: avatar_f_hat_yamaskhat_00_bundle_icon
+TEXT: หมวกทรงสูงเดซึมาซึ
+
+RESOURCE ID: avatar_f_shirt_gengaronesie_00_bundle_icon
+TEXT: ชุดคอสเพลย์เก็งกา
+
+RESOURCE ID: avatar_f_shirt_goteamrocketarlo_00_bundle_icon
+TEXT: ชุดสไตล์อาร์โล
+
+RESOURCE ID: avatar_f_shirt_goteamrocketcliff_00_bundle_icon
+TEXT: ชุดสไตล์คลิฟ
+
+RESOURCE ID: avatar_f_shirt_goteamrocketsierra_00_bundle_icon
+TEXT: ชุดสไตล์เซียร์รา
+
+RESOURCE ID: avatar_f_shirt_swshdlc2costume_00_bundle_icon
+TEXT: ยูนิฟอร์มทุ่งหิมะแห่งมงกุฎ
+
+RESOURCE ID: avatar_f_shoes_swshdlc2costume_00_bundle_icon
+TEXT: รองเท้าบู๊ตทุ่งหิมะแห่งมงกุฎ
+
+RESOURCE ID: avatar_m_backpack_longchampbp_00_bundle_icon
+TEXT: Longchamp Backpack
+
+RESOURCE ID: avatar_m_backpack_swshdlc2costume_00_bundle_icon
+TEXT: กระเป๋าทุ่งหิมะแห่งมงกุฎ
+
+RESOURCE ID: avatar_m_backpack_ultra_bundle_icon
+TEXT: กระเป๋าอัลตร้าซัน
+
+RESOURCE ID: avatar_m_face_banettemask_00_bundle_icon
+TEXT: หน้ากากจุปเป็ตตะ
+
+RESOURCE ID: avatar_m_face_defaultmask_00_bundle_icon
+TEXT: หน้ากากเรียบง่าย
+
+RESOURCE ID: avatar_m_face_pikachumask_00_bundle_icon
+TEXT: หน้ากากพิคาชู
+
+RESOURCE ID: avatar_m_face_sableyemask_00_bundle_icon
+TEXT: หน้ากากยามิรามิ
+
+RESOURCE ID: avatar_m_face_verizon2020mask_0_bundle_icon
+TEXT: Verizon Mask
+
+RESOURCE ID: avatar_m_glasses_goteamrocketarlo_00_bundle_icon
+TEXT: แว่นตาสไตล์อาร์โล
+
+RESOURCE ID: avatar_m_gloves_swshdlc2costume_00_bundle_icon
+TEXT: ถุงมือทุ่งหิมะแห่งมงกุฎ
+
+RESOURCE ID: avatar_m_hat_sableyegoggles_00_bundle_icon
+TEXT: แว่นกันลมยามิรามิ
+
+RESOURCE ID: avatar_m_hat_swshdlc2costume_00_bundle_icon
+TEXT: หมวกกันน็อกทุ่งหิมะแห่งมงกุฎ
+
+RESOURCE ID: avatar_m_hat_yamaskhat_00_bundle_icon
+TEXT: หมวกทรงสูงเดซึมาซึ
+
+RESOURCE ID: avatar_m_shirt_gengaronesie_00_bundle_icon
+TEXT: ชุดคอสเพลย์เก็งกา
+
+RESOURCE ID: avatar_m_shirt_goteamrocketarlo_00_bundle_icon
+TEXT: ชุดสไตล์อาร์โล
+
+RESOURCE ID: avatar_m_shirt_goteamrocketcliff_00_bundle_icon
+TEXT: ชุดสไตล์คลิฟ
+
+RESOURCE ID: avatar_m_shirt_goteamrocketsierra_00_bundle_icon
+TEXT: ชุดสไตล์เซียร์รา
+
+RESOURCE ID: avatar_m_shirt_swshdlc2costume_00_bundle_icon
+TEXT: ยูนิฟอร์มทุ่งหิมะแห่งมงกุฎ
+
+RESOURCE ID: avatar_m_shoes_swshdlc2costume_00_bundle_icon
+TEXT: รองเท้าบู๊ตทุ่งหิมะแห่งมงกุฎ
+
+RESOURCE ID: avatar_sponsor
+TEXT: Longchamp
+
+RESOURCE ID: badge_event_0003
+TEXT: 7 พฤศจิกายน 2020 - SoftBank & 7-Eleven Japan
+
+RESOURCE ID: badge_event_0003_title
+TEXT: สุดสัปดาห์แสนพิเศษ
+
+RESOURCE ID: badge_event_0004
+TEXT: 8 พฤศจิกายน 2020 - Matsumoto Kiyoshi
+
+RESOURCE ID: badge_event_0004_title
+TEXT: สุดสัปดาห์แสนพิเศษ
+
+RESOURCE ID: badge_event_0005
+TEXT: 7 พฤศจิกายน 2020 - 7-Eleven México
+
+RESOURCE ID: badge_event_0005_title
+TEXT: สุดสัปดาห์แสนพิเศษ
+
+RESOURCE ID: badge_event_0006
+TEXT: 7 พฤศจิกายน 2020 - Verizon
+
+RESOURCE ID: badge_event_0006_title
+TEXT: สุดสัปดาห์แสนพิเศษ
+
+RESOURCE ID: badge_event_0007
+TEXT: 8 พฤศจิกายน 2020 - Grubhub
+
+RESOURCE ID: badge_event_0007_title
+TEXT: สุดสัปดาห์แสนพิเศษ
+
+RESOURCE ID: beluga_wonder_box_activate_message
+TEXT: ส่งโปเกมอนไปยัง Nintendo Switch หรือ Pokémon HOME เพื่อเปิดใช้งานกล่องลึกลับของคุณเมื่อตัวเลขด้านบนนับถอยหลังถึงศูนย์
+
+RESOURCE ID: bundle.halloween.adventure.1_title
+TEXT: หีบฟักทอง
+
+RESOURCE ID: bundle.halloween.large.1_title
+TEXT: ชุดรวมเสียงหวีด
+
+RESOURCE ID: bundle.halloween.small.1_title
+TEXT: ลังสยองขวัญ
+
+RESOURCE ID: catch_xp_increase_cuve_throw
+TEXT: เพิ่ม XP จากการจับโดยการขว้างบอลโค้ง
+
+RESOURCE ID: catch_xp_increase_excellent_throw
+TEXT: เพิ่ม XP จากการจับโดยการขว้างได้สุดยอด
+
+RESOURCE ID: catch_xp_increase_great_throw
+TEXT: เพิ่ม XP จากการจับโดยการขว้างได้เยี่ยม
+
+RESOURCE ID: catch_xp_increase_nice_throw
+TEXT: เพิ่ม XP จากการจับโดยการขว้างได้ดี
+
+RESOURCE ID: community_day_electabuzz_event_name
+TEXT: Community Day: Electabuzz
+
+RESOURCE ID: community_day_magmar_event_name
+TEXT: Community Day: Magmar
+
+RESOURCE ID: complete_transfer_in_ph_app
+TEXT: กรุณาทำการถ่ายโอนครั้งก่อนของคุณให้เสร็จสิ้นในแอป Pokémon HOME
+
+RESOURCE ID: create_pokemon_tag_error
+TEXT: การสร้างแท็กล้มเหลว
+
+RESOURCE ID: create_tag_gui_title
+TEXT: สร้างแท็ก
+
+RESOURCE ID: delete_pokemon_tag_confirmation
+TEXT: แท็กนี้จะถูกนำออกจากโปเกมอนที่เกี่ยวข้องทั้งหมด โปเกมอนจะไม่ถูกถ่ายโอนไปยังศาสตราจารย์
+
+RESOURCE ID: delete_pokemon_tag_confirmation_title
+TEXT: คุณแน่ใจหรือไม่ว่าต้องการลบแท็ก {0}?
+
+RESOURCE ID: delete_pokemon_tag_error
+TEXT: การลบแท็กล้มเหลว
+
+RESOURCE ID: delete_tag_button
+TEXT: ลบแท็ก
+
+RESOURCE ID: diadelmuertos_event_name
+TEXT: วันแห่งความตาย
+
+RESOURCE ID: edit_pokemon_tag_error
+TEXT: การแก้ไขแท็กล้มเหลว
+
+RESOURCE ID: edit_tag_gui_title
+TEXT: แก้ไขแท็ก
+
+RESOURCE ID: empty_tags_subtitle
+TEXT: สร้างแท็กโดยการแตะที่ +
+
+RESOURCE ID: empty_tags_title
+TEXT: ไม่มีแท็ก
+
+RESOURCE ID: enter_tag_name_placeholder
+TEXT: ใส่ชื่อแท็ก
+
+RESOURCE ID: event_title_catch_mastery_ghost
+TEXT: ผู้เชี่ยวชาญการจับ : โปเกมอนประเภทผี
+
+RESOURCE ID: f_avatar_poses_bundle_pose_23
+TEXT: ท่าน่ากลัว
+
+RESOURCE ID: fashion_week_event
+TEXT: สัปดาห์แฟชั่น
+
+RESOURCE ID: filter_key_evolve_mega
+TEXT: วิวัฒนาการเมก้า
+
+RESOURCE ID: filter_key_evolvemega
+TEXT: วิวัฒนาการเมก้า
+
+RESOURCE ID: filter_key_gbl
+TEXT: โกแบตเทิลลีก
+
+RESOURCE ID: filter_key_photobomb
+TEXT: ถ่ายภาพ
+
+RESOURCE ID: filter_key_raid
+TEXT: ตีบอส
+
+RESOURCE ID: filter_key_raid_ex
+TEXT: ตีบอส EX
+
+RESOURCE ID: filter_key_raid_mega
+TEXT: ตีบอสเมก้า
+
+RESOURCE ID: filter_key_raid_remote
+TEXT: ตีบอสระยะไกล
+
+RESOURCE ID: filter_key_research
+TEXT: งานวิจัย
+
+RESOURCE ID: filter_key_rocket
+TEXT: ร็อกเกต
+
+RESOURCE ID: filter_label_evolve_mega
+TEXT: สามารถวิวัฒนาการเมก้า
+
+RESOURCE ID: flying_cup_title
+TEXT: การแข่งขันประเภทบิน
+
+RESOURCE ID: form_aria
+TEXT: ฟอร์มวอยซ์
+
+RESOURCE ID: form_castform_normal_full
+TEXT: ฟอร์มปกติ
+
+RESOURCE ID: form_no_drive_full
+TEXT: ฟอร์มไร้ตลับ
+
+RESOURCE ID: form_ordinary_full
+TEXT: ฟอร์มปกติ
+
+RESOURCE ID: form_standard_mode
+TEXT: โหมดปกติ
+
+RESOURCE ID: friend_damage_raid_increase
+TEXT: โบนัสการโจมตีที่เพิ่มขึ้นจากเพื่อนในการตีบอส
+
+RESOURCE ID: general1.ticket.2_description
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ "เรื่องเล่าแห่งหางเพลิง" ในวันที่ 17 ตุลาคม 2020 ตั้งแต่เวลา 11:00-17:00 น. ตามเวลาท้องถิ่นไม่ว่าคุณจะอยู่ที่ใด สามารถดูรายละเอียดได้ที่ข่าวสารในเกม
+
+คุณต้องเล่นเกมในช่วงเวลาที่กำหนดเพื่อรับโบนัสทั้งหมดจากอีเวนต์พิเศษ
+
+RESOURCE ID: general1.ticket.2_description_2
+TEXT: A ticket to access "No Match for Magmar" special research on November 21, 2020, from 11:00 a.m. - 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.
+
+ YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+
+RESOURCE ID: general1.ticket.2_title
+TEXT: ตั๋ว "เรื่องเล่าแห่งหางเพลิง"
+
+RESOURCE ID: general1.ticket.2_title_2
+TEXT: No Match for Magmar Ticket
+
+RESOURCE ID: general_done
+TEXT: เสร็จสิ้น
+
+RESOURCE ID: global_victini_title
+TEXT: สืบค้นพลังงานปริศนา
+
+RESOURCE ID: global_victini_title_1
+TEXT: สืบค้นพลังงานปริศนา (1/6)
+
+RESOURCE ID: global_victini_title_2
+TEXT: สืบค้นพลังงานปริศนา (2/6)
+
+RESOURCE ID: global_victini_title_3
+TEXT: สืบค้นพลังงานปริศนา (3/6)
+
+RESOURCE ID: global_victini_title_4
+TEXT: สืบค้นพลังงานปริศนา (4/6)
+
+RESOURCE ID: global_victini_title_5
+TEXT: สืบค้นพลังงานปริศนา (5/6)
+
+RESOURCE ID: global_victini_title_6
+TEXT: สืบค้นพลังงานปริศนา (6/6)
+
+RESOURCE ID: home_account_info_header
+TEXT: POKÉMON HOME SUPPORT ID
+
+RESOURCE ID: home_account_name
+TEXT: ชื่อผู้เล่น
+
+RESOURCE ID: home_account_not_found
+TEXT: ไม่พบบัญชี Pokémon HOME
+
+RESOURCE ID: home_box_full
+TEXT: พื้นที่ใน Pokémon HOME ของคุณเต็ม
+
+RESOURCE ID: home_cant_obtain_another_warning
+TEXT: คุณจะไม่สามารถหา{0}ตัวใหม่ในโปเกมอนโกได้อีก หากคุณทำการเคลื่อนย้ายมันไปแล้ว
+
+RESOURCE ID: home_exceeds_max_pokemon
+TEXT: เกินจำนวนสูงสุดของโปเกมอนที่สามารถถ่ายโอนได้ในแต่ละครั้ง
+
+RESOURCE ID: home_form_revert_warning
+TEXT: {0}จะปรากฏตัวใน{1}เมื่ออยู่ใน Pokémon HOME
+
+RESOURCE ID: home_insufficient_energy
+TEXT: คุณมีพลังงานเครื่องเคลื่อนย้ายโกไม่เพียงพอ
+
+RESOURCE ID: home_invalid_pokemon
+TEXT: เลือกโปเกมอนไม่ถูกต้อง
+
+RESOURCE ID: home_login_app_modal_body
+TEXT: ลองเชื่อม Nintendo Account ของคุณกับแอป Pokémon HOME บนอุปกรณ์มือถือแล้วลองใหม่อีกครั้ง
+
+RESOURCE ID: home_login_app_modal_title
+TEXT: ไม่สามารถเชื่อมต่อคุณกับแอป Pokémon HOME
+
+RESOURCE ID: home_pokemon_confirmation
+TEXT: คุณแน่ใจหรือไม่ว่าต้องการถ่ายโอนโปเกมอน {0} ตัว?
+
+RESOURCE ID: home_privacy_warning
+TEXT: เมื่อคุณเชื่อมต่อโปเกมอนโกกับ Pokémon HOME ข้อมูลที่จำกัดบางอย่างจะถูกแบ่งปันให้กับ The Pokémon Company ในระหว่างการถ่ายโอนโปเกมอน กรุณาดู<a href="https://niantic.helpshift.com/a/pokemon-go/?p=web&s=accessories-pokemon-home&f=transferring-pokemon-to-pokemon-home">บทความช่วยเหลือ</a>สำหรับข้อมูลเพิ่มเติม ข้อมูลที่แบ่งปันกับ The Pokémon Company จะอยู่ภายใต้นโยบายความเป็นส่วนตัวของ The Pokémon Company
+
+RESOURCE ID: home_recharge_time_day_hour
+TEXT: อีก {0} วัน {1} ชั่วโมงจึงจะชาร์จเสร็จ
+
+RESOURCE ID: home_recharge_time_day_hours
+TEXT: อีก {0} วัน {1} ชั่วโมงจึงจะชาร์จเสร็จ
+
+RESOURCE ID: home_recharge_time_days_hour
+TEXT: อีก {0} วัน {1} ชั่วโมงจึงจะชาร์จเสร็จ
+
+RESOURCE ID: home_recharge_time_days_hours
+TEXT: อีก {0} วัน {1} ชั่วโมงจึงจะชาร์จเสร็จ
+
+RESOURCE ID: home_server_maintenance
+TEXT: Pokémon HOME กำลังอยู่ในระหว่างการซ่อมบำรุง
+
+RESOURCE ID: home_service_ended
+TEXT: บริการ Pokémon HOME ของคุณสิ้นสุดลงแล้ว
+
+RESOURCE ID: home_settings_transfer_warning
+TEXT: โปเกมอนที่ส่งไปยัง Pokémon HOME จะไม่สามารถส่งกลับมาที่โปเกมอนโกได้อีก
+
+RESOURCE ID: home_signed_in
+TEXT: ลงชื่อเข้าใช้
+
+RESOURCE ID: home_support_id
+TEXT: Support ID
+
+RESOURCE ID: home_support_id_about
+TEXT: นี่คือ Support ID สำหรับบัญชี Pokémon HOME ของคุณ หากข้อมูลนี้ไม่ตรงกับ Support ID ในแอป Pokémon HOME โปรดลงชื่อออกแล้วลองลงชื่อเข้าใช้ด้วย Nintendo Account อื่น
+
+RESOURCE ID: home_transfer_error_gym_deployed
+TEXT: คุณไม่สามารถถ่ายโอนโปเกมอนที่ถูกส่งไปที่ยิมได้
+
+RESOURCE ID: home_transfer_error_shadow_pokemon_error
+TEXT: คุณไม่สามารถถ่ายโอนโปเกมอนชาโดว์ได้
+
+RESOURCE ID: home_transfer_header
+TEXT: เลือกโปเกมอนที่จะถ่ายโอน
+
+RESOURCE ID: home_transfer_next_steps
+TEXT: เปิด Pokémon HOME เพื่อถ่ายโอนโปเกมอนของคุณให้เสร็จสิ้น คุณจะไม่สามารถถ่ายโอนโปเกมอนจากโปเกมอนโกไปยัง Pokémon HOME เพิ่มอีกได้ จนกว่าจะเสร็จสิ้นขั้นตอนนี้
+
+RESOURCE ID: home_transfer_warning
+TEXT: โปเกมอนบางตัวที่ถูกส่งไปยัง Pokémon HOME ไม่สามารถถูกส่งต่อไปยังเกมโปเกมอนอื่น ๆ ได้ กรุณาตรวจสอบข้อมูลเพิ่มเติมในแอป Pokémon HOME และเมื่อคุณส่งโปเกมอนไปยัง Pokémon HOME จะไม่สามารถส่งโปเกมอนเหล่านั้นกลับมายังโปเกมอนโกได้อีก
+
+RESOURCE ID: home_transport_complete
+TEXT: ถ่ายโอนโปเกมอนของคุณไปยัง Pokémon HOME แล้ว!
+
+RESOURCE ID: home_transporter_about
+TEXT: คุณจะต้องเติมพลังงานให้กับเครื่องเคลื่อนย้ายโกในการส่งโปเกมอนจากโปเกมอนโกไปยัง Pokémon Home จำนวนพลังงานที่จำเป็นต้องใช้ในการถ่ายโอนจะขึ้นอยู่กับโปเกมอนแต่ละตัว
+
+RESOURCE ID: home_transporter_cost
+TEXT: ค่าใช้จ่าย : 
+
+RESOURCE ID: home_transporter_energy
+TEXT: พลังงานเครื่องเคลื่อนย้ายโก
+
+RESOURCE ID: home_transporter_powerup_confirmation
+TEXT: คุณแน่ใจหรือไม่ว่าต้องการชาร์จเครื่องเคลื่อนย้ายโกให้เสร็จ?
+
+RESOURCE ID: home_transporter_recharge_now
+TEXT: ชาร์จให้เสร็จตอนนี้
+
+RESOURCE ID: incenseordinary.1_description
+TEXT: เครื่องหอมที่มีกลิ่นหอมลึกลับ สามารถดึงดูดโปเกมอนป่าเข้ามารอบตัวคุณภายในช่วง 60 นาที
+
+RESOURCE ID: incenseordinary.25_description
+TEXT: เครื่องหอม 25 อัน มีกลิ่นหอมลึกลับ สามารถดึงดูดโปเกมอนป่าเข้ามารอบตัวคุณภายในช่วง 60 นาที
+
+RESOURCE ID: incenseordinary.8_description
+TEXT: เครื่องหอม 8 อัน มีกลิ่นหอมลึกลับ สามารถดึงดูดโปเกมอนป่าเข้ามารอบตัวคุณภายในช่วง 60 นาที
+
+RESOURCE ID: item_event_ticket_pink_desc
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษในวันที่ 17 ตุลาคม 2020 ตั้งแต่เวลา 11:00-17:00 น. ตามเวลาท้องถิ่นไม่ว่าคุณจะอยู่ที่ใด
+
+RESOURCE ID: item_event_ticket_pink_desc_2
+TEXT: A ticket to access a special research on November 21 from 11 a.m. to 5 p.m. local time each day, wherever you are.
+
+RESOURCE ID: item_event_ticket_pink_details
+TEXT: ตั๋วนี้จะทำให้คุณเข้าร่วมงานวิจัยพิเศษในวันที่ 17 ตุลาคมได้โดยอัตโนมัติไม่ว่าคุณจะอยู่ที่ใดในโลก
+
+RESOURCE ID: item_event_ticket_pink_details_2
+TEXT: This ticket will automatically activate to give you access to a special research on November 21, wherever you are in the world.
+
+RESOURCE ID: item_gen4_evolution_stone_desc
+TEXT: หินพิเศษที่ถูกค้นพบครั้งแรกในภูมิภาคชินโอ ทำให้โปเกมอนบางสายพันธุ์วิวัฒนาการได้ มันเปล่งประกายและทนทานมาก
+
+RESOURCE ID: item_gen5_evolution_stone_desc
+TEXT: หินหายากที่มีต้นกำเนิดในภูมิภาคอิชชู ทำให้โปเกมอนบางสายพันธุ์วิวัฒนาการได้ มันเป็นที่รู้จักด้วยรูปร่างที่มีลักษณะผสานกันของสีขาวและดำ
+
+RESOURCE ID: item_incense_ordinary_desc
+TEXT: เครื่องหอมที่มีกลิ่นหอมลึกลับ สามารถดึงดูดโปเกมอนป่าเข้ามารอบตัวคุณภายในช่วง 60 นาที
+
+RESOURCE ID: limited_research_meowth
+TEXT: งานวิจัยแบบจำกัดเวลาของเนียส
+
+RESOURCE ID: load_tags_error
+TEXT: การโหลดแท็กล้มเหลว
+
+RESOURCE ID: log_into_pokemon_home_app
+TEXT: กรุณาเข้าสู่ระบบในแอป Pokémon HOME
+
+RESOURCE ID: m_avatar_poses_bundle_pose_23
+TEXT: ท่าน่ากลัว
+
+RESOURCE ID: manage_pokemon_tag_add
+TEXT: กำหนดแท็กใหม่ให้กับ{0}
+
+RESOURCE ID: manage_pokemon_tag_remove
+TEXT: นำ "{0}" ออกจาก{1}
+
+RESOURCE ID: manage_pokemon_tag_title
+TEXT: จัดการแท็ก
+
+RESOURCE ID: manage_pokemon_tag_view_all
+TEXT: ดูโปเกมอนทั้งหมดที่มีแท็ก "{0}"
+
+RESOURCE ID: mega_candy_plus_energy_walking_desc
+TEXT: คุณจะได้รับลูกอมสำหรับโปเกมอนที่คุณเลือกให้เป็นคู่หูจากการเดิน หากคู่หูของคุณรู้สึกตื่นเต้นจะทำให้ระยะทางที่ต้องใช้ในการได้รับลูกอมลดลง! โปฟฟินจะทำให้คู่หูของคุณรู้สึกตื่นเต้นได้เร็วกว่าของว่างอื่น และคุณยังอาจได้รับพลังงานเมก้าที่เหมาะสมกับคู่หูของคุณด้วย!
+
+RESOURCE ID: mega_candy_plus_energy_walking_title
+TEXT: ลูกอมและพลังงานเมก้า
+
+RESOURCE ID: mega_catch_candy_bonus
+TEXT: เมก้า
+
+RESOURCE ID: mega_energy
+TEXT: พลังงานเมก้า
+
+RESOURCE ID: mega_energy_cap_stardust_warning
+TEXT: คุณใกล้ถึงขีดจำกัดพลังงานเมก้าของ{0}แล้ว พลังงานเมก้าใด ๆ ที่เกินขีดจำกัดจะถูกเปลี่ยนเป็นสตาร์ดัสต์
+
+RESOURCE ID: mega_evo_bonus_buff_desc_mult
+TEXT: ในขณะที่{0}วิวัฒนาการเมก้า คุณจะได้รับลูกอมเพิ่มเมื่อจับโปเกมอนประเภท{1}และ{2}
+
+RESOURCE ID: mega_evo_bonus_buff_desc_singular
+TEXT: ในขณะที่{0}วิวัฒนาการเมก้า คุณจะได้รับลูกอมเพิ่มเมื่อจับโปเกมอนประเภท{1}
+
+RESOURCE ID: mega_evo_bonus_buff_title
+TEXT: โบนัสวิวัฒนาการเมก้าของ{0}
+
+RESOURCE ID: mega_walking_progress
+TEXT: ความคืบหน้าของการเดิน
+
+RESOURCE ID: metadata_patch
+TEXT: Built at 2020-10-30T19:19:35.913494
+at SHA a39819ce5a2e3aa5167db524ff19c0f7faab9f23
+Patch from: 0.189.0-SHA-c54dec19, 0.191.0-SHA-bacc0237
+
+RESOURCE ID: multiselect_title
+TEXT: เลือกโปเกมอนแล้ว {0} ตัว
+
+RESOURCE ID: niantic_anniversary_event
+TEXT: อีเวนต์วันครบรอบของไนแอนติก
+
+RESOURCE ID: nintendo_account_not_linked
+TEXT: กรุณาเข้าสู่ระบบ Nintendo Account ของคุณอีกครั้ง
+
+RESOURCE ID: no_pokemon_tag_color_warning
+TEXT: แท็กต้องมีสี
+
+RESOURCE ID: no_pokemon_tag_name_warning
+TEXT: แท็กต้องมีชื่อ
+
+RESOURCE ID: photobomb_five_electabuzz
+TEXT: 5 Photobombs from Electabuzz in GO Snapshot
+
+RESOURCE ID: photobomb_five_magmar
+TEXT: 5 Photobombs from Magmar in GO Snapshot
+
+RESOURCE ID: player_level_low
+TEXT: เทรนเนอร์เลเวลของคุณยังไม่สูงพอที่จะทำสิ่งนี้
+
+RESOURCE ID: poi_contrib_remaining_regen_short
+TEXT: ใช้งานเพิ่มได้ในอีก {0} วัน
+
+RESOURCE ID: pokedex_see_all
+TEXT: ดูทั้งหมด {0}
+
+RESOURCE ID: pokemon_category_0077_2336
+TEXT: โปเกมอนเขาเดี่ยว
+
+RESOURCE ID: pokemon_category_0078_2337
+TEXT: โปเกมอนเขาเดี่ยว
+
+RESOURCE ID: pokemon_category_0867
+TEXT: โปเกมอนเคียดแค้น
+
+RESOURCE ID: pokemon_desc_0052_2335
+TEXT: ถูกฝึกให้แข็งแกร่งในระหว่างที่อาศัยกับชนเผ่ามหาสมุทรผู้ก้าวร้าว หลายส่วนของร่างกายกลายเป็นเหล็กกล้า
+
+RESOURCE ID: pokemon_desc_0077_2336
+TEXT: เขาเล็กนั้น เก็บพลังรักษาไว้ แม้บาดแผลเล็กน้อย เมื่อนำเขาเข้าไปแนบใกล้ ก็รักษาให้หายได้
+
+RESOURCE ID: pokemon_desc_0078_2337
+TEXT: ไซโคคัตเตอร์ที่ปล่อยจากเขานั้นมีพลังแรงกล้า พลังทำลายล้างขนาดเจาะรูแผ่นโลหะหนาได้
+
+RESOURCE ID: pokemon_desc_0083_2338
+TEXT: ร่างคาโมเนกิที่อาศัยที่กาลาร์ โบกสะบัดต้นหอมขนาดใหญ่ทรงพลัง เป็นนักรบที่ต่อสู้อย่างกล้าหาญ
+
+RESOURCE ID: pokemon_desc_0110_0944
+TEXT: ดูดซับสารสกปรกในชั้นบรรยากาศแล้วปล่อยอากาศบริสุทธิ์ออกมาแทนสิ่งปฏิกูล
+
+RESOURCE ID: pokemon_desc_0208
+TEXT: ฮากาเนลอาศัยอยู่ใต้ดินที่ลึกกว่าอิวาร์ค ว่ากันว่ามันขุดดินมุ่งไปยังแกนกลางของโลก มีบันทึกว่ามันขุดลงไปใต้ดินลึกกว่า 0.6 ไมล์
+
+RESOURCE ID: pokemon_desc_0263_0946
+TEXT: วิ่งวนไปมาไม่อยู่นิ่ง เมื่อเจอโปเกมอนอื่น จะจงใจพุ่งชนแล้วชวนทะเลาะ
+
+RESOURCE ID: pokemon_desc_0264_0948
+TEXT: ยั่วยุเหยื่อที่จับมาได้ด้วยลิ้นยาว พุ่งอย่างรุนแรงเข้าหาฝ่ายตรงข้ามที่โมโห
+
+RESOURCE ID: pokemon_desc_0554_2341
+TEXT: ระหว่างใช้ชีวิตในดินแดนหิมะทับถมหนา ถุงไฟจะเย็นลงอย่างมากจนวิวัฒนาการถดถอย เกิดเป็นอวัยวะที่สร้างไอเย็นขึ้นมา
+
+RESOURCE ID: pokemon_desc_0555_2342
+TEXT: รัดเหยื่อด้วยก้อนหิมะบนหัวแล้วนำกลับ วันที่มีพายุหิมะจะลงไปถึงที่อยู่อาศัยของมนุษย์
+
+RESOURCE ID: pokemon_desc_0562_2344
+TEXT: กระดานดินเหนียวที่ถูกจารึกคำสาปนั้นมีเดซึมาซึสิงอยู่ กล่าวกันว่าจะดูดเก็บพลังความเคียดแค้นไว้
+
+RESOURCE ID: pokemon_desc_0618_2345
+TEXT: เพราะใช้ชีวิตอยู่ในโคลนที่อุดมไปด้วยธาตุเหล็ก จึงเปลี่ยนร่างเป็นเหล็กกล้าที่แข็งแกร่ง
+
+RESOURCE ID: pokemon_desc_0862
+TEXT: มีพลังเสียงรุนแรง การคำรามไปพร้อมกับข่มขวัญ ถูกเรียกว่าบล็อกกิ้ง
+
+RESOURCE ID: pokemon_desc_0863
+TEXT: ขนบนศีรษะกลายสภาพแข็งราวกับหมวกกันน็อกเหล็ก มีนิสัยรักการต่อสู้มาก
+
+RESOURCE ID: pokemon_desc_0865
+TEXT: ผู้ที่รอดชีวิตจากการต่อสู้ จะวิวัฒนาการเป็นร่างนี้ เมื่อต้นหอมเหี่ยวเฉา จะจากไปจากสนามรบ
+
+RESOURCE ID: pokemon_desc_0867
+TEXT: ภาพโบราณที่ถูกเขียนโดยฝังคำสาปรุนแรง เก็บกักจิตของเดซึมาซึไว้แล้วออกเคลื่อนไหว
+
+RESOURCE ID: pokemon_desc_tmpevo_0208_0001
+TEXT: ฮากาเนลอาศัยอยู่ใต้ดินที่ลึกกว่าอิวาร์ค ว่ากันว่ามันขุดดินมุ่งไปยังแกนกลางของโลก มีบันทึกว่ามันขุดลงไปใต้ดินลึกกว่า 0.6 ไมล์
+
+RESOURCE ID: pokemon_home_about
+TEXT: การถ่ายโอนโปเกมอนจากโปเกมอนโกไปยัง Pokémon HOME คุณจะต้องมี <a href="https://www.nintendo.com/consumer/assets/region_select.jsp?f=1">Nintendo Account</a> เดียวกันกับที่คุณใช้สำหรับ Pokémon HOME ในการเริ่มต้น เครื่องเคลื่อนย้ายโกจำเป็นต้องใช้พลังงานในการถ่ายโอนโปเกมอน พลังงานเครื่องเคลื่อนย้ายโกจะเพิ่มขึ้นเมื่อระยะเวลาผ่านไป แตะ<a href="https://game.portal-pokemon.com/pokemonhome/en/faq/">ที่นี่</a>เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับการส่งโปเกมอนไปยัง Pokémon HOME
+
+RESOURCE ID: pokemon_home_transport
+TEXT: เคลื่อนย้าย
+
+RESOURCE ID: pokemon_info_caught_invasion
+TEXT: จับหลังจากเอาชนะ{0}
+
+RESOURCE ID: pokemon_info_caught_photobomb
+TEXT: จับจากการแย่งซีนถ่ายรูป
+
+RESOURCE ID: pokemon_info_caught_quest_challenge
+TEXT: จับจากภารกิจงานวิจัยภาคสนาม
+
+RESOURCE ID: pokemon_info_caught_quest_stamp
+TEXT: จับจากภารกิจความก้าวหน้าในงานวิจัย
+
+RESOURCE ID: pokemon_info_caught_quest_story
+TEXT: จับจากภารกิจงานวิจัยพิเศษ
+
+RESOURCE ID: pokemon_info_caught_quest_timed
+TEXT: จับจากภารกิจงานวิจัยแบบกำหนดเวลา
+
+RESOURCE ID: pokemon_info_caught_raid_nem
+TEXT: จับจากการตีบอสเมก้า EX
+
+RESOURCE ID: pokemon_info_caught_raid_nen
+TEXT: จับจากการตีบอส EX
+
+RESOURCE ID: pokemon_info_caught_raid_nnm
+TEXT: จับจากการตีบอสเมก้า
+
+RESOURCE ID: pokemon_info_caught_raid_nnn
+TEXT: จับจากการตีบอส
+
+RESOURCE ID: pokemon_info_caught_raid_rem
+TEXT: จับจากการตีบอสเมก้า EX ระยะไกล
+
+RESOURCE ID: pokemon_info_caught_raid_ren
+TEXT: จับจากการตีบอส EX ระยะไกล
+
+RESOURCE ID: pokemon_info_caught_raid_rnm
+TEXT: จับจากการตีบอสเมก้าระยะไกล
+
+RESOURCE ID: pokemon_info_caught_raid_rnn
+TEXT: จับจากการตีบอสระยะไกล
+
+RESOURCE ID: pokemon_info_caught_tutorial
+TEXT: จับในธรรมชาติ
+
+RESOURCE ID: pokemon_info_caught_vsseeker
+TEXT: CAUGHT IN THE GBL {1}
+
+RESOURCE ID: pokemon_info_caught_wild
+TEXT: จับในธรรมชาติ
+
+RESOURCE ID: pokemon_info_event
+TEXT: อีเวนต์
+
+RESOURCE ID: pokemon_info_evolution_failed
+TEXT: ไม่สามารถวิวัฒนาการ{0}ได้ เนื่องจากข้อผิดพลาดไม่ทราบสาเหตุ
+
+RESOURCE ID: pokemon_info_location
+TEXT: สถานที่
+
+RESOURCE ID: pokemon_info_location_unknown
+TEXT: ไม่ทราบสถานที่
+
+RESOURCE ID: pokemon_info_mega_evolution_replace
+TEXT: {0}ของคุณจะคลายสภาพจากร่างเมก้า
+
+RESOURCE ID: pokemon_info_mega_evolution_time
+TEXT: วิวัฒนาการเมก้ามีผลอยู่ได้ {0} ชั่วโมง
+
+RESOURCE ID: pokemon_info_not_transferable
+TEXT: มีโปเกมอนอย่างน้อยหนึ่งตัวที่ไม่สามารถถ่ายโอนได้
+
+RESOURCE ID: pokemon_info_received
+TEXT: ได้รับมา
+
+RESOURCE ID: pokemon_info_tag_pokemon
+TEXT: แท็ก
+
+RESOURCE ID: pokemon_info_traded
+TEXT: แลกเปลี่ยนมา
+
+RESOURCE ID: pokemon_info_unknown_location
+TEXT: UNKNOWN
+
+RESOURCE ID: pokemon_inventory_favorite_search_remove_button
+TEXT: ลบออก
+
+RESOURCE ID: pokemon_inventory_favorite_search_rename_button
+TEXT: ตั้งชื่อการค้นหาใหม่
+
+RESOURCE ID: pokemon_inventory_favorite_search_rename_title
+TEXT: ตั้งชื่อการค้นหาโปรด
+
+RESOURCE ID: pokemon_inventory_favorite_search_title
+TEXT: การค้นหาโปรด
+
+RESOURCE ID: pokemon_inventory_remove_favorites
+TEXT: คุณแน่ใจหรือไม่ว่าจะลบการค้นหานี้ออกจากรายการโปรดของคุณ?
+
+RESOURCE ID: pokemon_inventory_select_all
+TEXT: SELECT ALL
+
+RESOURCE ID: pokemon_inventory_show_evolution
+TEXT: แสดงสายวิวัฒนาการ
+
+RESOURCE ID: pokemon_inventory_too_many_favorites
+TEXT: คุณมีรายการค้นหาโปรดอยู่มากเกินไป จำเป็นต้องลบการค้นหาส่วนหนึ่งออกจากรายการโปรดก่อน จึงจะบันทึกเพิ่มได้
+
+RESOURCE ID: pokemon_name_0867
+TEXT: เดธเบิร์น
+
+RESOURCE ID: pokemon_with_tag_count
+TEXT: โปเกมอน {0} ตัวมีแท็กนี้
+
+RESOURCE ID: quest_catch_berry_any_drifloon
+TEXT: ใช้ผลไม้ช่วยในการจับฟูวันเต {0} ผล
+
+RESOURCE ID: quest_catch_berry_nanab_drifloon
+TEXT: ใช้ผลนานาช่วยในการจับฟูวันเต {0} ผล
+
+RESOURCE ID: quest_catch_berry_razz_drifloon
+TEXT: ใช้ผลราสช่วยในการจับฟูวันเต {0} ผล
+
+RESOURCE ID: quest_catch_dark_type_plural
+TEXT: จับโปเกมอนประเภทความมืด {0} ตัว
+
+RESOURCE ID: quest_catch_drifloon
+TEXT: จับฟูวันเต {0} ตัว
+
+RESOURCE ID: quest_catch_excellent_curve_drifloon
+TEXT: จับฟูวันเตโดยการขว้างบอลโค้งได้สุดยอดพร้อมใช้ผลไม้ {0} ตัว
+
+RESOURCE ID: quest_catch_excellent_with_berry_drifloon
+TEXT: จับฟูวันเตโดยการขว้างได้สุดยอดพร้อมใช้ผลไม้ {0} ตัว
+
+RESOURCE ID: quest_complete_chart
+TEXT: เรื่องเล่าแห่งหางเพลิง
+
+RESOURCE ID: quest_complete_elect
+TEXT: The Electrifying Electabuzz
+
+RESOURCE ID: quest_complete_hallowyamas
+TEXT: ถอดหน้ากากข้อความสุดสยอง
+
+RESOURCE ID: quest_complete_rockethq7
+TEXT: การพัฒนาที่-น่าสน-ไข่!
+
+RESOURCE ID: quest_elect_catch_b
+TEXT: Catch {0} Electabuzz
+
+RESOURCE ID: quest_elect_evolve_b
+TEXT: Evolve {0} Electabuzz
+
+RESOURCE ID: quest_evolve_dark_type_singular
+TEXT: วิวัฒนาการโปเกมอนประเภทความมืด
+
+RESOURCE ID: quest_land_curve_type_ghost
+TEXT: ทำการขว้างบอลโค้งใส่โปเกมอนประเภทผี {0} ครั้ง
+
+RESOURCE ID: quest_land_great_curve_inarow_type_ghost
+TEXT: ทำการขว้างบอลโค้งได้เยี่ยมใส่โปเกมอนประเภทผี {0} ครั้งติดต่อกัน
+
+RESOURCE ID: quest_land_great_curve_type_ghost
+TEXT: ทำการขว้างบอลโค้งได้เยี่ยมใส่โปเกมอนประเภทผี {0} ครั้ง
+
+RESOURCE ID: quest_land_great_type_ghost
+TEXT: ทำการขว้างได้เยี่ยมใส่โปเกมอนประเภทผี {0} ครั้ง
+
+RESOURCE ID: quest_land_inarow_excellent_plural
+TEXT: ทำการขว้างได้สุดยอด {0} ครั้งติดต่อกัน
+
+RESOURCE ID: quest_land_nice_curve_inarow_type_ghost
+TEXT: ทำการขว้างบอลโค้งได้ดีใส่โปเกมอนประเภทผี {0} ครั้งติดต่อกัน
+
+RESOURCE ID: quest_land_nice_curve_type_ghost
+TEXT: ทำการขว้างบอลโค้งได้ดีใส่โปเกมอนประเภทผี {0} ครั้ง
+
+RESOURCE ID: quest_land_nice_type_ghost
+TEXT: ทำการขว้างได้ดีใส่โปเกมอนประเภทผี {0} ครั้ง
+
+RESOURCE ID: quest_magmt_catch_b
+TEXT: Catch {0} Magmar
+
+RESOURCE ID: quest_magmt_evolve_b
+TEXT: Evolve {0} Magmar
+
+RESOURCE ID: quest_rockethq1_leaders_win_plural
+TEXT: เอาชนะหัวหน้าแก๊งโกร็อกเกต {0} ครั้ง
+
+RESOURCE ID: quest_special_dialogue_chart_0_0
+TEXT: สวัสดี %PLAYERNAME%! หวังว่าคุณจะดูแลตัวเองและเพื่อน ๆ เทรนเนอร์เป็นอย่างดีนะ! อย่าลืมที่จะใช้เวลากับตัวเองและทำในสิ่งที่ชอบด้วยล่ะ อย่างเช่นไปเดินเล่นยาว ๆ เลยเป็นไง
+
+RESOURCE ID: quest_special_dialogue_chart_0_1
+TEXT: พูดถึงเรื่องเดินแล้วเนี่ย... ตอนที่ฉันกำลังเดินอยู่กับโปเกมอนคู่หูของฉันเหมือนที่ทำอยู่ทุกวัน ฉันได้ยินเสียงอะไรบางอย่างปะทุขึ้นด้วยล่ะ
+
+RESOURCE ID: quest_special_dialogue_chart_0_2
+TEXT: แล้วก็เกิดเรื่องที่เหนือความคาดหมายขึ้น ฉันพบว่าฮิโตคาเงะฝูงใหญ่ได้มารวมตัวกันในพื้นที่เปิดโล่ง และต้นกำเนิดของเสียงดังที่ฉันได้ยินก็คือเสียงปะทุเบา ๆ ของเพลิงที่หางของพวกเขานั่นเอง
+
+RESOURCE ID: quest_special_dialogue_chart_0_3
+TEXT: การได้เห็นฮิโตคาเงะมากมายปรากฏตัวขึ้นเป็นเรื่องที่ผิดปกติอย่างมาก โดยเฉพาะหลังจากการค้นพบล่าสุดของเราเกี่ยวกับวิวัฒนาการเมก้าของพวกเขา
+
+RESOURCE ID: quest_special_dialogue_chart_0_4
+TEXT: คุณจะว่าอะไรไหมถ้าฉันจะขอให้คุณช่วยจับฮิโตคาเงะเหล่านี้ให้สักหน่อย? และที่น่าแปลกยิ่งไปกว่านั้นนะ... นี่ไม่ใช่ครั้งแรกที่ฉันได้เห็นฮิโตคาเงะมากมายขนาดนี้ในธรรมชาติ
+
+RESOURCE ID: quest_special_dialogue_chart_0_5
+TEXT: ฉันว่านั่นน่าจะเป็นจุดเริ่มต้นที่ดีที่สุดในการที่จะค้นคว้าเพิ่มเติมเกี่ยวกับสถานการณ์ที่น่าสงสัยนี้นะ
+
+RESOURCE ID: quest_special_dialogue_chart_1_0
+TEXT: ทำได้วิเศษไปเลย คุณเทรนเนอร์
+
+RESOURCE ID: quest_special_dialogue_chart_1_1
+TEXT: ในระหว่างที่คุณไม่อยู่ฉันได้ใช้เวลาไปกับการค้นคว้าเกี่ยวกับฮิโตคาเงะและสายวิวัฒนาการของเขา แล้วฉันก็ได้พบกับบันทึกที่น่าสนใจทีเดียว
+
+RESOURCE ID: quest_special_dialogue_chart_1_2
+TEXT: ฮิโตคาเงะหรือที่รู้จักกันในนามโปเกมอนกิ้งก่า มีความชื่นชอบในของร้อนต่าง ๆ หรือว่านี่จะเป็นเหตุผลที่พวกเขาออกมารับแสงแดดอย่างมีความสุขระหว่างที่ฉันกำลังเดินเล่นกันนะ?
+
+RESOURCE ID: quest_special_dialogue_chart_1_3
+TEXT: ฮิโตคาเงะนั้นเกิดมาพร้อมกับหางเพลิงที่โด่งดังของพวกเขา และแน่นอนล่ะว่าหางนี้มันน่าตื่นตาตื่นใจจริง ๆ นั่นแหละ!
+
+RESOURCE ID: quest_special_dialogue_chart_1_4
+TEXT: วิวัฒนาการขั้นต่อไปของเขาคือลิซาร์โดะ เรามาเดินหน้าต่อและวิวัฒนาการฮิโตคาเงะให้เป็นลิซาร์โดะกันเถอะ แต่ต้องระวังหน่อยนะ เพราะเป็นที่รู้กันว่าลิซาร์โดะนั้นหัวร้อนอย่างมากโดยธรรมชาติ!
+
+RESOURCE ID: quest_special_dialogue_chart_2_0
+TEXT: ดูเหมือนว่าคุณจะมีลิซาร์โดะที่ดีทีเดียวเลยนะ %PLAYERNAME%
+
+RESOURCE ID: quest_special_dialogue_chart_2_1
+TEXT: เขาเป็นที่รู้จักในฐานะโปเกมอนเปลวเพลิง โดยธรรมชาติแล้วลิซาร์โดะเป็นโปเกมอนจอมหัวร้อนถึงขนาดที่จะคอยมองหาคู่ต่อสู้อยู่เสมอเลยล่ะ
+
+RESOURCE ID: quest_special_dialogue_chart_2_2
+TEXT: เขาจะดุดันขึ้นหากได้เจอกับคู่ต่อสู้ที่แข็งแกร่ง ในสภาวะที่กำลังตื่นตัวเช่นนี้ เปลวเพลิงที่ปลายหางของเขาจะลุกโชนเป็นสีขาวอมน้ำเงินเลยล่ะ
+
+RESOURCE ID: quest_special_dialogue_chart_2_3
+TEXT: วิธีการที่ดีที่สุดในการทำให้เขาสงบลงก็คือชนะการแบตเทิล ใช่แล้ว... ฟังดูเหมือนเป็นหัวหน้าทีมที่ทุ่มเทเลยล่ะ
+
+RESOURCE ID: quest_special_dialogue_chart_2_4
+TEXT: อย่างไรก็ตาม ฉันคิดว่าถึงเวลาแล้วที่คุณจะวิวัฒนาการลิซาร์โดะของคุณให้กลายเป็นลิซาร์ดอน และเช่นเดียวกับลิซาร์โดะ โปเกมอนตัวนี้คือโปเกมอนเปลวเพลิง เพราะฉะนั้นจงระวังลมหายใจอันแสนร้อนแรงของเขาให้ดี!
+
+RESOURCE ID: quest_special_dialogue_chart_3_0
+TEXT: ยินดีด้วยนะ คุณเทรนเนอร์! ลิซาร์โดะของคุณได้วิวัฒนาการเป็นลิซาร์ดอน โปเกมอนเปลวเพลิงแล้ว!
+
+RESOURCE ID: quest_special_dialogue_chart_3_1
+TEXT: โปเกมอนตัวนี้ช่างน่าอัศจรรย์จริง ๆ เพราะปีกของเขาสามารถพาเขาบินไปได้สูงถึงเกือบ 4,600 ฟุตเลยทีเดียว!
+
+RESOURCE ID: quest_special_dialogue_chart_3_2
+TEXT: เขาสามารถพ่นไฟที่มีความร้อนสูงจนสามารถหลอมละลายได้ทุกสิ่ง แต่ถึงแม้พลังของเขาจะข่มขวัญศัตรูได้มากขนาดไหน ลิซาร์ดอนก็ไม่เคยเผาผลาญคู่ต่อสู้ที่อ่อนแอกว่าเลยแม้แต่ครั้งเดียว
+
+RESOURCE ID: quest_special_dialogue_chart_3_3
+TEXT: ช่างเป็นตัวอย่างที่ยอดเยี่ยมของผู้ที่เข้าใจในพลังของตนเองอย่างดีเลยล่ะ! และมันน่าทึ่งมากที่แม้จะน้อยนิดแค่ไหนแต่เราก็ได้เห็นการกระทำแห่งความเมตตานี้ โดยเฉพาะเมื่อมันมาจากโปเกมอนของเราเอง
+
+RESOURCE ID: quest_special_dialogue_chart_3_4
+TEXT: โดยปกติแล้วเราจะจบการวิจัยเพียงเท่านี้ แต่ถ้าพูดถึงลิซาร์ดอนแล้วละก็ ฉันก็อยากจะแบ่งปันข้อมูลที่แสนวิเศษกับคุณสักหน่อย... วิวัฒนาการเมก้าของเขายังไงล่ะ!
+
+RESOURCE ID: quest_special_dialogue_chart_4_0
+TEXT: ถ้าหากคุณยังไม่เคยละก็ ในขณะที่คุณกำลังเข้าร่วมการตีบอสกับเพื่อน ๆ เทรนเนอร์ของคุณ นั่นแหละคือโอกาสอันยอดเยี่ยมที่จะวิวัฒนาการเมก้าให้กับลิซาร์ดอนของคุณและเพิ่มเขาลงในโปเกเด็กซ์เมก้า!
+
+RESOURCE ID: quest_special_dialogue_chart_4_1
+TEXT: คุณสามารถวิวัฒนาการเมก้าโปเกมอนของคุณได้ด้วยสายสัมพันธ์ที่แข็งแกร่งของคุณกับพวกเขา ลิซาร์ดอนนั้นมีเอกลักษณ์อย่างน่าเหลือเชื่อ เพราะเขาไม่ได้มีร่างวิวัฒนาการเมก้าเพียงหนึ่งเดียวแต่กลับมีถึงสองร่าง!
+
+RESOURCE ID: quest_special_dialogue_chart_4_2
+TEXT: ร่างวิวัฒนาการเมก้าทั้งสองของลิซาร์ดอนคือลิซาร์ดอน X และลิซาร์ดอน Y ซึ่งแต่ละร่างต่างก็มีความแข็งแกร่งในแบบของตัวเอง
+
+RESOURCE ID: quest_special_dialogue_chart_4_3
+TEXT: ว่ากันว่าลิซาร์ดอน X นั้นมีพลังอันเหลือล้นอยู่ทั่วทั้งร่างของเขา ทำให้ร่างนั้นกลายเป็นสีดำและก่อให้เกิดเพลิงสีน้ำเงินอันแรงกล้าขึ้นมา
+
+RESOURCE ID: quest_special_dialogue_chart_4_4
+TEXT: สำหรับลิซาร์ดอน Y ในเอกสารได้บันทึกไว้ว่าแหล่งพลังของเขาก็คือสายสัมพันธ์ นอกจากนี้ความเร็วและความคล่องแคล่วของเขานั้นเหนือล้ำกว่าเครื่องบินเจ็ตเสียอีก
+
+RESOURCE ID: quest_special_dialogue_chart_4_5
+TEXT: น่าทึ่งอะไรอย่างนี้! ฉันรอที่จะได้เห็นเหล่าเทรนเนอร์ใช้วิวัฒนาการเมก้าในกลยุทธ์ต่าง ๆ สำหรับยิมแบตเทิลไม่ไหวแล้วล่ะ!
+
+RESOURCE ID: quest_special_dialogue_chart_4_6
+TEXT: ขอบคุณอีกครั้งสำหรับความช่วยเหลือนะ %PLAYERNAME% ฉันจะติดต่อกลับมาเมื่อมีงานวิจัยที่น่าตื่นเต้นเข้ามาอีก!
+
+RESOURCE ID: quest_special_dialogue_elect_0_0
+TEXT: Hey there, %PLAYERNAME%! I’m really glad to see you.
+
+RESOURCE ID: quest_special_dialogue_elect_0_1
+TEXT: I’ve been dealing with some strange power outages around my mobile lab and wanted to investigate what could be causing the problem.
+
+RESOURCE ID: quest_special_dialogue_elect_0_2
+TEXT: It didn't take me long to find the cause. Seems as though a group of Electabuzz decided that the energy used to power my mobile lab up and running would make a much better snack.
+
+RESOURCE ID: quest_special_dialogue_elect_0_3
+TEXT: They seem to be appearing in higher numbers, which could lead to more outages.
+
+RESOURCE ID: quest_special_dialogue_elect_0_4
+TEXT: Do you think you’d be able to help catch some Electabuzz?
+
+RESOURCE ID: quest_special_dialogue_elect_0_5
+TEXT: The research would be very valuable and I would be very grateful to have my power restored!
+
+RESOURCE ID: quest_special_dialogue_elect_1_0
+TEXT: Welcome back, Trainer.
+
+RESOURCE ID: quest_special_dialogue_elect_1_1
+TEXT: Thanks for the assistance, I really appreciate it! While you were out catching all those Electabuzz, I did some research on this family of Pokémon.
+
+RESOURCE ID: quest_special_dialogue_elect_1_2
+TEXT: Did you know that Electabuzz evolves from Elekid, the Electric Pokémon?
+
+RESOURCE ID: quest_special_dialogue_elect_1_3
+TEXT: A weak electric current flows between its horns. Be careful, Trainer, sticking a hand between its horns will actually shock you!
+
+RESOURCE ID: quest_special_dialogue_elect_1_4
+TEXT: Hmm… I wonder if Spark has tried that with his Buddy Pokémon…
+
+RESOURCE ID: quest_special_dialogue_elect_1_5
+TEXT: Anyway, let’s keep looking into this unusual situation with Electabuzz and make sure it isn’t snacking on any electricity meant for other uses!
+
+RESOURCE ID: quest_special_dialogue_elect_2_0
+TEXT: Great work, %PLAYERNAME%. I think we have enough data on Electabuzz.
+
+RESOURCE ID: quest_special_dialogue_elect_2_1
+TEXT: Also known as the Electric Pokémon, it loves to feed on strong electricity, explaining why it was attracted to my mobile lab.
+
+RESOURCE ID: quest_special_dialogue_elect_2_2
+TEXT: Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.
+
+RESOURCE ID: quest_special_dialogue_elect_2_3
+TEXT: Simply amazing! Let’s continue our research and go ahead and use a Sinnoh Stone to evolve Electabuzz to Electivire!
+
+RESOURCE ID: quest_special_dialogue_elect_2_4
+TEXT: I can’t wait to see what the electrifying conclusion is to our research!
+
+RESOURCE ID: quest_special_dialogue_elect_3_0
+TEXT: I just don’t ever know if they find my jokes funny… should I take a comedy class?
+
+RESOURCE ID: quest_special_dialogue_elect_3_1
+TEXT: OH! I didn’t see you there, %PLAYERNAME%. I see you've evolved your Electabuzz into Electivire like I asked. Thank you!
+
+RESOURCE ID: quest_special_dialogue_elect_3_2
+TEXT: Looking at the Pokédex, it says as its electric charge amplifies, blue sparks begin to crackle between its horns.
+
+RESOURCE ID: quest_special_dialogue_elect_3_3
+TEXT: When in battle, it pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power. I guess you could say its opponent is in for a shock!
+
+RESOURCE ID: quest_special_dialogue_elect_3_4
+TEXT: Be sure to take your time and learn more about this Pokémon before adding it to your battle team, that is a lot of power you are dealing with!
+
+RESOURCE ID: quest_special_dialogue_elect_3_5
+TEXT: With the lights back on in the mobile lab I’m going to head back and wrap up some other projects.
+
+RESOURCE ID: quest_special_dialogue_elect_3_6
+TEXT: Thank you again for all your help, and until next time, let’s GO!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_0
+TEXT: แบร่! ฮ่าฮ่าฮ่า สวัสดี %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_1
+TEXT: หวังว่าฉันคงไม่ได้ทำให้คุณกลัวจนเกินไปนะ ฉันก็แค่กำลังสนุกไปกับฤดูกาลขนหัวลุกนี้อยู่เท่านั้นเอง
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_2
+TEXT: ในเมื่อคุณก็อยู่ที่นี่แล้ว... ฉันกำลังสงสัยว่าคุณจะช่วยฉันได้ไหม ฉันได้รับรายงานมาเกี่ยวกับโปเกมอนแปลก ๆ ที่ปรากฏตัวขึ้นในป่าใกล้ ๆ นี้
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_3
+TEXT: อ้อ—ทำไมฉันถึงไม่เข้าไปในป่ามืด ๆ และตามหาโปเกมอนที่ว่านี้ด้วยตัวเองงั้นเหรอ? คิดว่าฉันกลัวเหรอ? ไม่! ไม่สักนิดเลยล่ะ!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_4
+TEXT: น..แน่นอนว่าฉันไปเองได้ แต่ฉันกำลังยุ่งอยู่กับ... เอ่อ... ใช่แล้ว! งานวิจัยไงล่ะ!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_5
+TEXT: โอ้! ฉันคิดว่าฉันเห็นบลองช์อยู่แถว ๆ ห้องแล็บของฉันตรงนั้น และดูเหมือนว่าเขาคงต้องการความช่วยเหลือจากฉันในการวิวัฒนาการโปเกมอนประเภทผีบางตัว
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_6
+TEXT: %PLAYERNAME% คุณช่วยไปดูแล้วมาบอกฉันหน่อยได้ไหมว่าคุณเจออะไรบ้าง? ขอบคุณและขอให้โชคดีนะ!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_0
+TEXT: อา... บลองช์ คุณคิดจริง ๆ เหรอว่าร่างกาลาร์ของเขาจะสามารถวิวัฒนาการได้—โอ้... ดีใจจริง ๆ ที่ได้เจอคุณอีกครั้ง %PLAYERNAME%—อ๊ะ!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_1
+TEXT: นั่นเสียงอะไรน่ะ!? โอ้ ก็แค่เดซึมาซึนี่นา ดูเหมือนว่าเขากำลังมองไปที่หน้ากากของตัวเองแล้วก็ร้องไห้อีกแล้วล่ะนะ
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_2
+TEXT: นี่คือสิ่งที่คุณเจอในป่างั้นเหรอ? อา... เข้าใจแล้ว ขอโทษด้วยนะคุณเทรนเนอร์ แต่ดูเหมือนว่าคุณจะต้องกลับเข้าไปในป่าเพื่อช่วยฉันอีกครั้งแล้วล่ะ
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_3
+TEXT: หลังจากที่ฉันลองเชื่อมโยงข้อมูลรายงานจากผู้เห็นเหตุการณ์กับเอกสารที่ฉันพบเกี่ยวกับโปเกมอนประเภทผี ฉันก็พบว่าเราคงไม่ได้กำลังตามหาเดซึมาซึที่ถูกค้นพบในภูมิภาคอิชชูอย่างตัวนี้—แต่กลับเป็นอีกตัวที่แตกต่างออกไปโดยสิ้นเชิง!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_4
+TEXT: เจ้าอีกตัวที่ว่านี้มาจากภูมิภาคกาลาร์ และเขาไม่ได้ดูเหมือนกับหน้ากากแต่แทบจะเหมือนกับแผ่นหินเลยล่ะ แหล่งข่าวบอกว่าแผ่นหินจะดูดซับพลังความมืดของเดซึมาซึเอาไว้ กาลาร์เดซึมาซึนั้นอาจจะแตกต่างจากร่างอิชชูอยู่นิดหน่อย
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_5
+TEXT: น่าเสียดายที่คราวนี้ฉันก็ไม่สามารถไปกับคุณได้... เอ่อ... ดูเหมือนว่าสปาร์กจะต้องการให้ฉันช่วยเหลือเขาในการฟักไข่ประหลาดน่ะ! ไว้เจอกันใหม่และขอให้คุณโชคดีนะ!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_0
+TEXT: ใช่แล้ว... ไข่ประหลาดเหล่านี้ดูเหมือนว่าส่วนใหญ่จะฟักออกมาเป็นโปเกมอนประเภทพิษและความมืด เป็นการใช้เวลาที่ยอดไปเลย ฉันดีใจจริง ๆ ที่เราสามารถยืนยันในสิ่งที่เรารู้อยู่แล้วได้—โอ้!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_1
+TEXT: ยินดีต้อนรับกลับมานะ %PLAYERNAME% เป็นยังไงบ้าง—อ๊ากกก! มิคารูเกะนี่! ช่างเป็นโปเกมอนผีที่เจ้าเล่ห์จริง ๆ
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_2
+TEXT: ฉันได้ร่วมมือกับเทรนเนอร์กลุ่มหนึ่งเพื่อทำการวิจัยเกี่ยวกับมิคารูเกะจนสำเร็จเมื่อปีก่อน คุณก็อาจจะได้เผชิญหน้าและจับเขามาบ้างแล้ว!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_3
+TEXT: ดูเหมือนว่าจะมีพวกเขาอยู่รอบ ๆ นี้มากกว่าที่เราเคยพบก่อนหน้านี้ ซึ่งมันค่อนข้างจะน่ากลัวทีเดียว เพราะพวกเขาเป็นตัวป่วนแถมยังเป็นโปเกมอนที่มีวิญญาณถึง 108 ตนถูกผนึกเอาไว้ในแกนหลัก
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_4
+TEXT: เราอาจพูดได้ว่าปีนี้จะต้องเป็นฤดูกาลแห่งความขนหัวลุกที่แท้จริง! ฮ่าฮ่า ขอโทษนะมิคารูเกะ —เร็วไปงั้นเหรอ?
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_5
+TEXT: อย่างไรก็ตาม... ขอโทษที่ต้องให้คุณทำแบบนี้อีกครั้งนะ แต่ครั้งที่สามสิถึงจะเป็นฤกษ์ดี ใช่ไหมล่ะ? ฉันมั่นใจว่าคราวนี้คุณจะต้องได้พบกับกาลาร์เดซึมาซึจอมลวงตาและหาตัวจับได้ยากยิ่งนี้แล้วล่ะ!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_6
+TEXT: ฉันต้องไปช่วยแคนเดลาเตรียมพร้อมสำหรับเทรนเนอร์แบตเทิลที่กำลังจะมาถึงแล้วล่ะ แต่คุณไปก่อนได้เลยนะ! ขอให้โชคดี %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_0
+TEXT: โปเกมอนประเภทพิษ ผี แมลง ความมืดและแฟรี่... ดูเหมือนว่าคุณจะพร้อมสำหรับเทรนเนอร์แบตเทิลอันน่าขนลุกนี้แล้วล่ะ แคนเดลา!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_1
+TEXT: โอ้ สวัสดี %PLAYERNAME%! แล้วก็สวัสดี กาลาร์เดซึมาซึ! ช่างเป็นโปเกมอนที่แปลกประหลาดจริง ๆ เลยนะ ให้ความรู้สึกที่แตกต่างไปจากร่างอิชชูเลยจริง ๆ
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_2
+TEXT: ฉันไม่รู้ว่าคุณจะจำเรื่องก่อนหน้านี้ได้ไหม แต่ฉันกำลังศึกษาเรื่องการวิวัฒนาการโปเกมอนกับบลองช์อยู่ และดูเหมือนว่ากาลาร์เดซึมาซึนี้สามารถวิวัฒนาการเป็นเดธเบิร์นได้ด้วย!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_3
+TEXT: สิ่งที่คุณต้องทำก็แค่การรวบรวมลูกอมเดซึมาซึและวิวัฒนาการเขา! เขาจะวิวัฒนาการไปเป็นโปเกมอนที่แตกต่างกับร่างอิชชูโดยสิ้นเชิง ดังนั้นฉันมั่นใจว่านี่จะเป็นการเพิ่มข้อมูลลงในโปเกเด็กซ์ที่สุดแสนจะน่าตื่นเต้นเลยล่ะ!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_4
+TEXT: อย่างไรก็ตาม ฉันดีใจมากที่เราได้ก้าวมาสู่การเดินทางสุดขนหัวลุกครั้งนี้และได้ค้นพบโปเกมอนใหม่ด้วยกัน!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_5
+TEXT: หวังว่าคุณคงได้พบกับช่วงเวลาผีดี แล้วก็ขอให้คุณได้มีวันที่ดีจนขนหัวลุกกกกก—ไปเลย!
+
+RESOURCE ID: quest_special_dialogue_poryt_1_4
+TEXT: น่าทึ่งมากเลยใช่ไหมล่ะ? ฉันว่าฉันควรจะเก็บโพรีกอนไว้หน่อยนะ เผื่อแก๊งโกร็อกเกตจะพยายามทำการยึดครองอะไรอีก
+
+RESOURCE ID: quest_special_dialogue_rockethq7_0_0
+TEXT: ไง %PLAYERNAME%! ยินดีที่ได้พบคุณอีก แต่ขอโทษด้วยที่ต้องบอกว่าสถานการณ์ตอนนี้ค่อนข้างเลวร้ายทีเดียว
+
+RESOURCE ID: quest_special_dialogue_rockethq7_0_1
+TEXT: สถานการณ์แบบไหนงั้นเหรอ? มันก็... อย่างที่คุณคิดนั่นแหละ ประมาณว่าแก๊งโกร็อกเกตกำลังสร้างปัญหาเพิ่มอีกแล้วน่ะสิ!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_0_2
+TEXT: เราเพิ่งได้ข่าวมาว่าพวกเขากำลังทำอะไรแปลก ๆ อยู่ที่เสาโปเกสต็อป
+
+RESOURCE ID: quest_special_dialogue_rockethq7_0_3
+TEXT: พวกเขากำลังทำอะไรอยู่กันแน่และทำไปเพื่ออะไร นั่นคือสิ่งที่เราจะต้องรู้ให้ได้ เอาล่ะ ออกไปที่นั่นแล้วมาดูกันว่าเราจะได้เจออะไรบ้าง!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_0
+TEXT: ยินดีต้อนรับกลับมานะ %PLAYERNAME% ดูเหมือนว่าเหล่าลูกสมุนจะไม่ได้มีส่วนเกี่ยวข้องกับการทดลองใหม่อะไรก็ตามที่แก๊งโกร็อกเกตกำลังทำกันอยู่นะ
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_1
+TEXT: คุณคงจะนึกออกว่าพวกลูกสมุนใช้โปเกมอนชาโดว์ ซึ่งเป็นโปเกมอนที่ถูกฝึกฝนมาด้วยวิธีที่ผิดปกติและอันตรายเพื่อให้ได้มาซึ่งพลังอันน่าเหลือเชื่อ
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_2
+TEXT: เราได้ยินข่าวลือมาว่าอาร์โลได้มาเป็นหัวหอกสำคัญในโครงการโปเกมอนชาโดว์ เมื่อไม่นานนักหลังจากที่เขาแยกทางจากแคนเดลาและทีมแวเลอร์
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_3
+TEXT: ไม่นานมานี้สปาร์กได้ค้นพบว่าแก๊งโกร็อกเกตอาจจะกำลังฟูมฟักแผนการที่เกี่ยวข้องกับไข่โปเกมอนอยู่ก็เป็นได้! หรือว่าอาร์โลจะพัวพันกับเรื่องนี้ด้วย?
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_4
+TEXT: เรามาสืบค้นเสาโปเกสต็อปเพิ่มเติมและระหว่างนั้นก็ชำระล้างโปเกมอนชาโดว์ไปด้วยกันเถอะ บางอย่างจะต้องปรากฏชัดขึ้นมาแน่!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_0
+TEXT: คุณได้ช่วยเหลือและชำระล้างเหล่าโปเกมอนชาโดว์ได้อย่างยอดเยี่ยมจริง ๆ %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_1
+TEXT: ฉันสังเกตว่าคุณจับโยกิราสได้ มันเป็นเรื่องแปลกมากที่จะได้เจอสักตัวในธรรมชาติ บางทีมันอาจจะเป็นหนึ่งในไข่โปเกมอนที่แก๊งโกร็อกเกตรวบรวมมาก็ได้...
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_2
+TEXT: ในระหว่างที่คุณออกไปแบตเทิลกับเหล่าลูกสมุน ฉันกับพวกหัวหน้าทีมได้ค้นพบว่าแก๊งโกร็อกเกตทำการรวบรวมไข่โปเกมอนน่าพิศวงที่เราเรียกกันว่าไข่ประหลาด
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_3
+TEXT: ดูเหมือนว่าโปเกมอนที่ฟักออกมาจากไข่นี้ส่วนใหญ่จะเป็นประเภทพิษหรือความมืด รีบไปช่วยเหลือและฟักไข่ประหลาดพวกนี้ให้มากเท่าที่จะทำได้ ก่อนที่แก๊งโกร็อกเกตจะไต่ระดับไปมากกว่านี้กันเถอะ!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_4
+TEXT: พวกหัวหน้าแก๊งโกร็อกเกตดูท่าว่าจะกำลังคุ้มกันไข่ประหลาดเหล่านี้อยู่ ดังนั้นเรามาเริ่มต้นด้วยการค้นหาพวกเขากัน ดูให้แน่ใจว่าคุณมีเครื่องฟักไข่พร้อมใช้และพื้นที่มากพอสำหรับไข่เหล่านั้นด้วยล่ะ!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_0
+TEXT: คุณเอาชนะหัวหน้าแก๊งโกร็อกเกตได้งดงามมาก %PLAYERNAME%! และถ้าจะให้ฉันพูดละก็... ระหว่างนั้นคุณก็ได้ช่วยเหลือโปเกมอนที่น่าเอ็นดูไว้เยอะทีเดียว
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_1
+TEXT: ระหว่างที่คุณออกไปต่อสู้กับแก๊งโกร็อกเกต ฉันกับสปาร์กได้ทำการแกะรอยเพิ่มเติมแล้วก็พบว่าเซียร์ราอาจจะเป็นมันสมองที่แท้จริงผู้อยู่เบื้องหลังไข่ประหลาดนี้!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_2
+TEXT: เป็นที่แน่นอนว่าพวกหัวหน้าแก๊งโกร็อกเกตไม่ได้มีภาระหน้าที่อยู่แค่การยึดครองเสาโปเกสต็อปและการท้าแบตเทิลกับบรรดาเทรนเนอร์เท่านั้น
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_3
+TEXT: คนแรก อาร์โลกับโปเกมอนชาโดว์ และตอนนี้ก็เซียร์รากับไข่ประหลาดพวกนี้... ฉันสงสัยจริง ๆ ว่ายังมีอะไรที่แก๊งโกร็อกเกตหมกเม็ดเอาไว้อีกบ้าง
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_4
+TEXT: งานนี้ไม่เหมาะกับฉันเลย %PLAYERNAME% มาแกะรอยหัวหน้าแก๊งพวกนั้นกันอีกรอบเถอะ! เราต้องทำทุกอย่างเท่าที่ทำได้เพื่อหยุดยั้งแผนการของพวกเขา!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_4_0
+TEXT: ทำได้น่าเหลือเชื่อไปเลย %PLAYERNAME%! หวังว่ามันจะช่วยชะลอพวกเขาไปได้สักระยะนะ
+
+RESOURCE ID: quest_special_dialogue_rockethq7_4_1
+TEXT: ฉันจัดการสร้างซูเปอร์ร็อกเกตเรดาร์อันใหม่ที่จะช่วยคุณในการแกะรอยซากากิให้แล้ว แต่ระวังด้วยนะ จากรายงานภาคสนามของบลองช์กับแคนเดลาพบว่า... เขามีมิวทูชาโดว์อยู่กับตัวด้วย!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_4_2
+TEXT: คุณอาจจะเคยเผชิญหน้ากับมิวทูชาโดว์แล้วเมื่อตอนที่ซากากิปรากฏตัวครั้งล่าสุด เราคิดว่านั่นจะเป็นครั้งสุดท้ายที่เราจะได้เห็นมัน แต่ดูเหมือนมันจะกลับมาแล้ว!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_4_3
+TEXT: คุณต้องช่วยเหลือมิวทูชาโดว์ให้ได้นะ คุณเทรนเนอร์! ฉันสังหรณ์ว่าซากากิวางแผนจะใช้โปเกมอนที่น่าสงสารตัวนี้เพื่อเป้าหมายที่เลวร้ายที่สุด
+
+RESOURCE ID: quest_special_dialogue_rockethq7_5_0
+TEXT: ถึงเวลาฉลองแล้ว %PLAYERNAME% คุณทำมันสำเร็จอีกครั้ง คุณเอาชนะบรรดาลูกสมุนและเหล่าหัวหน้าแก๊งโกร็อกเกต และแม้กระทั่งซากากิด้วย!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_5_1
+TEXT: นี่ยังไม่นับโปเกมอนชาโดว์ทั้งหมดที่คุณช่วยเหลือเอาไว้ได้ระหว่างนั้น รวมถึงมิวทูชาโดว์ด้วยนะ!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_5_2
+TEXT: นี่คงจะไม่ใช่ครั้งสุดท้ายที่เราจะได้เห็นซากากิหรือแก๊งโกร็อกเกต แต่นั่นก็หมายความว่าจะมีไข่ประหลาดให้รวบรวมและมีโปเกมอนชาโดว์ให้ช่วยเหลือเพิ่มเติมด้วยเหมือนกัน! ไปต่อกันเลย เทรนเนอร์!
+
+RESOURCE ID: quest_title_chart
+TEXT: เรื่องเล่าแห่งหางเพลิง
+
+RESOURCE ID: quest_title_chart_0
+TEXT: เรื่องเล่าแห่งหางเพลิง (1/5)
+
+RESOURCE ID: quest_title_chart_1
+TEXT: เรื่องเล่าแห่งหางเพลิง (2/5)
+
+RESOURCE ID: quest_title_chart_2
+TEXT: เรื่องเล่าแห่งหางเพลิง (3/5)
+
+RESOURCE ID: quest_title_chart_3
+TEXT: เรื่องเล่าแห่งหางเพลิง (4/5)
+
+RESOURCE ID: quest_title_chart_4
+TEXT: เรื่องเล่าแห่งหางเพลิง (5/5)
+
+RESOURCE ID: quest_title_elect
+TEXT: The Electrifying Electabuzz
+
+RESOURCE ID: quest_title_elect_0
+TEXT: The Electrifying Electabuzz (1/4)
+
+RESOURCE ID: quest_title_elect_1
+TEXT: The Electrifying Electabuzz (2/4)
+
+RESOURCE ID: quest_title_elect_2
+TEXT: The Electrifying Electabuzz (3/4)
+
+RESOURCE ID: quest_title_elect_3
+TEXT: The Electrifying Electabuzz (4/4)
+
+RESOURCE ID: quest_title_hallowyamas
+TEXT: ถอดหน้ากากข้อความสุดสยอง
+
+RESOURCE ID: quest_title_hallowyamas_0
+TEXT: ถอดหน้ากากข้อความสุดสยอง (1/4)
+
+RESOURCE ID: quest_title_hallowyamas_1
+TEXT: ถอดหน้ากากข้อความสุดสยอง (2/4)
+
+RESOURCE ID: quest_title_hallowyamas_2
+TEXT: ถอดหน้ากากข้อความสุดสยอง (3/4)
+
+RESOURCE ID: quest_title_hallowyamas_3
+TEXT: ถอดหน้ากากข้อความสุดสยอง (4/4)
+
+RESOURCE ID: quest_title_rockethq7
+TEXT: การพัฒนาที่-น่าสน-ไข่!
+
+RESOURCE ID: quest_title_rockethq7_0
+TEXT: การพัฒนาที่-น่าสน-ไข่! (1/6)
+
+RESOURCE ID: quest_title_rockethq7_1
+TEXT: การพัฒนาที่-น่าสน-ไข่! (2/6)
+
+RESOURCE ID: quest_title_rockethq7_2
+TEXT: การพัฒนาที่-น่าสน-ไข่! (3/6)
+
+RESOURCE ID: quest_title_rockethq7_3
+TEXT: การพัฒนาที่-น่าสน-ไข่! (4/6)
+
+RESOURCE ID: quest_title_rockethq7_4
+TEXT: การพัฒนาที่-น่าสน-ไข่! (5/6)
+
+RESOURCE ID: quest_title_rockethq7_5
+TEXT: การพัฒนาที่-น่าสน-ไข่! (6/6)
+
+RESOURCE ID: quest_title_spwk_0
+TEXT: สุดสัปดาห์แสนพิเศษ (1/4)
+
+RESOURCE ID: quest_title_spwk_1
+TEXT: สุดสัปดาห์แสนพิเศษ (2/4)
+
+RESOURCE ID: quest_title_spwk_2
+TEXT: สุดสัปดาห์แสนพิเศษ (3/4)
+
+RESOURCE ID: quest_title_spwk_3
+TEXT: สุดสัปดาห์แสนพิเศษ (4/4)
+
+RESOURCE ID: quest_title_spwk_711mx
+TEXT: สุดสัปดาห์แสนพิเศษ (7-Eleven México)
+
+RESOURCE ID: quest_title_spwk_gh
+TEXT: สุดสัปดาห์แสนพิเศษ (Grubhub)
+
+RESOURCE ID: quest_title_spwk_mk
+TEXT: สุดสัปดาห์แสนพิเศษ (Matsumoto Kiyoshi)
+
+RESOURCE ID: quest_title_spwk_sb711jp
+TEXT: สุดสัปดาห์แสนพิเศษ (SoftBank & 7-Eleven Japan)
+
+RESOURCE ID: quest_title_spwk_vz
+TEXT: สุดสัปดาห์แสนพิเศษ (Verizon)
+
+RESOURCE ID: quest_transfer_type_ghost_plural
+TEXT: ถ่ายโอนโปเกมอนประเภทผี {0} ตัว
+
+RESOURCE ID: raid_day_alolan_marowak
+TEXT: วันตีบอสอโลลาการะการะ
+
+RESOURCE ID: raids_alolan_marowak
+TEXT: อโลลาการะการะปรากฏตัวในการตีบอส
+
+RESOURCE ID: remove_tag_error
+TEXT: การนำแท็กออกล้มเหลว
+
+RESOURCE ID: screen_title_pokemon_inventory_tags
+TEXT: แท็ก
+
+RESOURCE ID: settings_nintendo_account
+TEXT: Nintendo Account
+
+RESOURCE ID: settings_pokemon_home
+TEXT: Pokémon HOME
+
+RESOURCE ID: shop_remote_raid_passes_title
+TEXT: Uh oh! You're out of Remote Raid Passes
+
+RESOURCE ID: spawn_electabuzz
+TEXT: More Electabuzz are appearing in the wild
+
+RESOURCE ID: spawn_magmar
+TEXT: More Magmar are appearing in the wild
+
+RESOURCE ID: tag_color_field_subtitle
+TEXT: สี
+
+RESOURCE ID: tag_name_field_subtitle
+TEXT: ชื่อ
+
+RESOURCE ID: tagging_assignment_add_new
+TEXT: เพิ่มแท็กใหม่
+
+RESOURCE ID: tagging_assignment_button
+TEXT: แท็ก
+
+RESOURCE ID: tagging_assignment_title
+TEXT: แท็กโปเกมอน {0} ตัว
+
+RESOURCE ID: tagging_favorites_title
+TEXT: ถูกใจ
+
+RESOURCE ID: ticket_charmander
+TEXT: ตั๋วสำหรับเนื้อเรื่องงานวิจัยพิเศษมีจำหน่ายในร้านค้า : เรื่องเล่าแห่งหางเพลิง
+
+RESOURCE ID: ticket_electabuzz
+TEXT: Ticket for Special Research story available in the Shop: The Electrifying Electabuzz
+
+RESOURCE ID: ticket_magmar
+TEXT: Ticket for Special Research story available in the Shop: No Match for Magmar
+
+RESOURCE ID: timed_research_pokemon_meowth
+TEXT: เนียสมีบทเด่นในงานวิจัยแบบกำหนดเวลา
+
+RESOURCE ID: titan_ar_mapping_scan_cancelled
+TEXT: ยกเลิกการสแกน
+
+RESOURCE ID: titan_image_gallery_add_photo_button
+TEXT: เพิ่มรูปภาพให้กับเสาโปเกสต็อป
+
+RESOURCE ID: titan_image_gallery_button_text
+TEXT: แกลเลอรี
+
+RESOURCE ID: titan_image_gallery_photo_count_multiple
+TEXT: {0} ภาพ
+
+RESOURCE ID: titan_image_gallery_photo_count_singular
+TEXT: 1 ภาพ
+
+RESOURCE ID: titan_image_gallery_submission_time
+TEXT: {0} {1} ที่ผ่านมา
+
+RESOURCE ID: titan_image_gallery_too_far_add_photo
+TEXT: เดินเข้าไปใกล้ขึ้นเพื่อเพิ่มรูปภาพให้กับเสาโปเกสต็อปนี้
+
+RESOURCE ID: titan_image_gallery_too_far_scanning
+TEXT: เดินเข้าไปใกล้ขึ้นเพื่อสแกนเสาโปเกสต็อปนี้
+
+RESOURCE ID: titan_poi_ar_data_opt_in_title_1
+TEXT: สแกนเสาโปเกสต็อป
+
+RESOURCE ID: titan_upload_wifi_recommended
+TEXT: แนะนำให้ใช้ Wi-Fi
+
+RESOURCE ID: transfer_error_mega
+TEXT: คุณไม่สามารถถ่ายโอนโปเกมอนร่างเมก้าได้
+
+RESOURCE ID: transfer_pokemon
+TEXT: ถ่ายโอนโปเกมอน
+
+RESOURCE ID: unfriend_niantic_friend_tip
+TEXT: Removing this friend from this Niantic Game will remove them as a friend in all games you both play
+
+RESOURCE ID: unfriend_niantic_friend_title
+TEXT: Are you sure you want to unfriend {0}?
+
+RESOURCE ID: view_all_tags_title
+TEXT: แท็กทั้งหมดของ{0}
+
+RESOURCE ID: vss_pokemon_available_pool
+TEXT: โปเกมอนที่ปรากฏในแรงก์ของคุณ :
+
+RESOURCE ID: vss_season_end_stats_title
+TEXT: แรงก์และสถิติ
+

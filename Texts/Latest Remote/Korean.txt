@@ -1,0 +1,1298 @@
+RESOURCE ID: ad_feedback_contribution_header
+TEXT: 감사합니다!
+
+RESOURCE ID: ad_feedback_like_reason_other
+TEXT: 기타
+
+RESOURCE ID: add_friend_confirmation_title
+TEXT: Send a Friend Request to {0}
+
+RESOURCE ID: add_niantic_friend_tip
+TEXT: Addding friends in this game will add them as a friend in all Niantic Games you both play.
+
+RESOURCE ID: adventure_sync_enable_modal_success_message
+TEXT: 설정 완료! 프로필 화면에서 걸은 거리 등을 확인할 수 있습니다.
+
+RESOURCE ID: assign_tag_failure
+TEXT: 태그를 붙일 수 없었습니다.
+
+RESOURCE ID: assign_tag_mixed_selection
+TEXT: 태그도 포함
+
+RESOURCE ID: autumn_2020_event_1
+TEXT: 가을 이벤트: Part 1
+
+RESOURCE ID: autumn_2020_event_2
+TEXT: 가을 이벤트: Part 2
+
+RESOURCE ID: avatar_f_backpack_longchampbp_00_bundle_icon
+TEXT: 롱샴 백팩
+
+RESOURCE ID: avatar_f_backpack_swshdlc2costume_00_bundle_icon
+TEXT: 왕관설원 백팩
+
+RESOURCE ID: avatar_f_backpack_ultra_bundle_icon
+TEXT: 울트라문 백
+
+RESOURCE ID: avatar_f_face_banettemask_00_bundle_icon
+TEXT: 다크펫 마스크
+
+RESOURCE ID: avatar_f_face_defaultmask_00_bundle_icon
+TEXT: 마스크
+
+RESOURCE ID: avatar_f_face_pikachumask_00_bundle_icon
+TEXT: 피카츄 마스크
+
+RESOURCE ID: avatar_f_face_sableyemask_00_bundle_icon
+TEXT: 깜까미 마스크
+
+RESOURCE ID: avatar_f_face_verizon2020mask_0_bundle_icon
+TEXT: Verizon 페이스 마스크
+
+RESOURCE ID: avatar_f_glasses_goteamrocketarlo_00_bundle_icon
+TEXT: 알로 안경
+
+RESOURCE ID: avatar_f_gloves_swshdlc2costume_00_bundle_icon
+TEXT: 왕관설원 장갑
+
+RESOURCE ID: avatar_f_hat_sableyegoggles_00_bundle_icon
+TEXT: 깜까미 고글
+
+RESOURCE ID: avatar_f_hat_swshdlc2costume_00_bundle_icon
+TEXT: 왕관설원 헬멧
+
+RESOURCE ID: avatar_f_hat_yamaskhat_00_bundle_icon
+TEXT: 데스마스 톱 해트
+
+RESOURCE ID: avatar_f_shirt_gengaronesie_00_bundle_icon
+TEXT: 팬텀 의상
+
+RESOURCE ID: avatar_f_shirt_goteamrocketarlo_00_bundle_icon
+TEXT: 알로 세트
+
+RESOURCE ID: avatar_f_shirt_goteamrocketcliff_00_bundle_icon
+TEXT: 클리프 세트
+
+RESOURCE ID: avatar_f_shirt_goteamrocketsierra_00_bundle_icon
+TEXT: 시에라 세트
+
+RESOURCE ID: avatar_f_shirt_swshdlc2costume_00_bundle_icon
+TEXT: 왕관설원 탐험복
+
+RESOURCE ID: avatar_f_shoes_swshdlc2costume_00_bundle_icon
+TEXT: 왕관설원 신발
+
+RESOURCE ID: avatar_m_backpack_longchampbp_00_bundle_icon
+TEXT: 롱샴 백팩
+
+RESOURCE ID: avatar_m_backpack_swshdlc2costume_00_bundle_icon
+TEXT: 왕관설원 백팩
+
+RESOURCE ID: avatar_m_backpack_ultra_bundle_icon
+TEXT: 울트라썬 백
+
+RESOURCE ID: avatar_m_face_banettemask_00_bundle_icon
+TEXT: 다크펫 마스크
+
+RESOURCE ID: avatar_m_face_defaultmask_00_bundle_icon
+TEXT: 마스크
+
+RESOURCE ID: avatar_m_face_pikachumask_00_bundle_icon
+TEXT: 피카츄 마스크
+
+RESOURCE ID: avatar_m_face_sableyemask_00_bundle_icon
+TEXT: 깜까미 마스크
+
+RESOURCE ID: avatar_m_face_verizon2020mask_0_bundle_icon
+TEXT: Verizon 페이스 마스크
+
+RESOURCE ID: avatar_m_glasses_goteamrocketarlo_00_bundle_icon
+TEXT: 알로 안경
+
+RESOURCE ID: avatar_m_gloves_swshdlc2costume_00_bundle_icon
+TEXT: 왕관설원 장갑
+
+RESOURCE ID: avatar_m_hat_sableyegoggles_00_bundle_icon
+TEXT: 깜까미 고글
+
+RESOURCE ID: avatar_m_hat_swshdlc2costume_00_bundle_icon
+TEXT: 왕관설원 헬멧
+
+RESOURCE ID: avatar_m_hat_yamaskhat_00_bundle_icon
+TEXT: 데스마스 톱 해트
+
+RESOURCE ID: avatar_m_shirt_gengaronesie_00_bundle_icon
+TEXT: 팬텀 의상
+
+RESOURCE ID: avatar_m_shirt_goteamrocketarlo_00_bundle_icon
+TEXT: 알로 세트
+
+RESOURCE ID: avatar_m_shirt_goteamrocketcliff_00_bundle_icon
+TEXT: 클리프 세트
+
+RESOURCE ID: avatar_m_shirt_goteamrocketsierra_00_bundle_icon
+TEXT: 시에라 세트
+
+RESOURCE ID: avatar_m_shirt_swshdlc2costume_00_bundle_icon
+TEXT: 왕관설원 탐험복
+
+RESOURCE ID: avatar_m_shoes_swshdlc2costume_00_bundle_icon
+TEXT: 왕관설원 신발
+
+RESOURCE ID: avatar_sponsor
+TEXT: 롱샴
+
+RESOURCE ID: badge_event_0003
+TEXT: November 7, 2020: SoftBank & 7-Eleven Japan
+
+RESOURCE ID: badge_event_0003_title
+TEXT: 스페셜 위켄드
+
+RESOURCE ID: badge_event_0004
+TEXT: November 8, 2020: Matsumoto Kiyoshi
+
+RESOURCE ID: badge_event_0004_title
+TEXT: 스페셜 위켄드
+
+RESOURCE ID: badge_event_0005
+TEXT: November 7, 2020: 7-Eleven México
+
+RESOURCE ID: badge_event_0005_title
+TEXT: 스페셜 위켄드
+
+RESOURCE ID: badge_event_0006
+TEXT: November 7, 2020: Verizon
+
+RESOURCE ID: badge_event_0006_title
+TEXT: 스페셜 위켄드
+
+RESOURCE ID: badge_event_0007
+TEXT: November 8, 2020: Grubhub
+
+RESOURCE ID: badge_event_0007_title
+TEXT: 스페셜 위켄드
+
+RESOURCE ID: beluga_wonder_box_activate_message
+TEXT: 0일이 되면 포켓몬을 Nintendo Switch 또는 Pokémon HOME에 보내고 이상한 상자를 열어보세요.
+
+RESOURCE ID: bundle.halloween.adventure.1_title
+TEXT: 펌프킨 팩
+
+RESOURCE ID: bundle.halloween.large.1_title
+TEXT: 깜짝 상자
+
+RESOURCE ID: bundle.halloween.small.1_title
+TEXT: 오싹한 상자
+
+RESOURCE ID: catch_xp_increase_cuve_throw
+TEXT: 커브볼이 나오면 받을 수 있는 XP 증가
+
+RESOURCE ID: catch_xp_increase_excellent_throw
+TEXT: Excellent가 나오면 받을 수 있는 XP 증가
+
+RESOURCE ID: catch_xp_increase_great_throw
+TEXT: Great가 나오면 받을 수 있는 XP 증가
+
+RESOURCE ID: catch_xp_increase_nice_throw
+TEXT: Nice가 나오면 받을 수 있는 XP 증가
+
+RESOURCE ID: charge_tm_used_on_shadow_pokemon
+TEXT: 그림자 포켓몬의 「화풀이」는 잊게 할 수 없습니다
+
+RESOURCE ID: community_day_charmander_event_name
+TEXT: 커뮤니티 데이: 파이리
+
+RESOURCE ID: community_day_electabuzz_event_name
+TEXT: Community Day: Electabuzz
+
+RESOURCE ID: community_day_magmar_event_name
+TEXT: Community Day: Magmar
+
+RESOURCE ID: complete_transfer_in_ph_app
+TEXT: Pokémon HOME 에서 완료하지 않은 전송이 있습니다.
+
+RESOURCE ID: create_pokemon_tag_error
+TEXT: 태그를 작성하지 못했습니다.
+
+RESOURCE ID: create_tag_gui_title
+TEXT: 태크 작성
+
+RESOURCE ID: delete_pokemon_tag_confirmation
+TEXT: 이 태그를 포켓몬에서 지웁니다. 포켓몬은 박사에게 보낼 수 없습니다.
+
+RESOURCE ID: delete_pokemon_tag_confirmation_title
+TEXT: {0}태그를 삭제하겠습니까?
+
+RESOURCE ID: delete_pokemon_tag_error
+TEXT: 태그를 삭제할 수 없었습니다
+
+RESOURCE ID: delete_tag_button
+TEXT: 태그 삭제
+
+RESOURCE ID: diadelmuertos_event_name
+TEXT: Día de Muertos
+
+RESOURCE ID: edit_pokemon_tag_error
+TEXT: 태크를 편집할 수 없습니다
+
+RESOURCE ID: edit_tag_gui_title
+TEXT: 태그 편집
+
+RESOURCE ID: empty_tags_subtitle
+TEXT: +를 탭해서 태그 작성
+
+RESOURCE ID: empty_tags_title
+TEXT: 태그 없음
+
+RESOURCE ID: enter_tag_name_placeholder
+TEXT: 태그명 입력
+
+RESOURCE ID: event_title_catch_mastery_ghost
+TEXT: 마스터리 시리즈: 고스트
+
+RESOURCE ID: f_avatar_poses_bundle_pose_23
+TEXT: 할로윈
+
+RESOURCE ID: fashion_week_event
+TEXT: 패션 위크
+
+RESOURCE ID: filter_key_evolve_mega
+TEXT: 메가진화
+
+RESOURCE ID: filter_key_evolvemega
+TEXT: 메가진화
+
+RESOURCE ID: filter_key_gbl
+TEXT: gbl
+
+RESOURCE ID: filter_key_photobomb
+TEXT: 스냅샷
+
+RESOURCE ID: filter_key_raid
+TEXT: 레이드
+
+RESOURCE ID: filter_key_raid_ex
+TEXT: EX레이드
+
+RESOURCE ID: filter_key_raid_mega
+TEXT: 메가 레이드
+
+RESOURCE ID: filter_key_raid_remote
+TEXT: 리모트 레이드
+
+RESOURCE ID: filter_key_research
+TEXT: 리서치
+
+RESOURCE ID: filter_key_rocket
+TEXT: 로켓
+
+RESOURCE ID: filter_label_evolve_mega
+TEXT: 메가진화 가능
+
+RESOURCE ID: flying_cup_title
+TEXT: 비행컵
+
+RESOURCE ID: form_aria
+TEXT: 보이스폼
+
+RESOURCE ID: form_castform_normal_full
+TEXT: 캐스퐁의 모습
+
+RESOURCE ID: form_no_drive_full
+TEXT: 카세트 없음
+
+RESOURCE ID: form_ordinary_full
+TEXT: 평상시 모습
+
+RESOURCE ID: form_standard_mode
+TEXT: 노말모드
+
+RESOURCE ID: general1.ticket.2_description
+TEXT: 전 세계 어디에 있어도 현지 시간 2020년 10월 17일 11시~ 17시까지 게임 내에서 시작할 수 있는 이벤트 "도룡뇽포켓몬의 수수께끼를 풀어라!"를 플레이할 수 있는 티켓. 자세한 내용은 게임 내 새소식에서 확인할 수 있습니다.
+
+이벤트를 최대한 즐기려면 기재된 개최 시간 내에 완료할  필요가 있습니다.
+
+RESOURCE ID: general1.ticket.2_description_2
+TEXT: A ticket to access "No Match for Magmar" special research on November 21, 2020, from 11:00 a.m. - 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.
+
+ YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+
+RESOURCE ID: general1.ticket.2_title
+TEXT: 티켓: 도룡뇽포켓몬의 수수께끼를 풀어라!
+
+RESOURCE ID: general1.ticket.2_title_2
+TEXT: No Match for Magmar Ticket
+
+RESOURCE ID: general_done
+TEXT: 결정
+
+RESOURCE ID: grunt_bf_challenge#1
+TEXT: 사랑과 진실, 어둠을 뿌리고 다니는!
+
+RESOURCE ID: grunt_bf_victory#1
+TEXT: 사랑과 진실, 어둠을 뿌렸어!
+
+RESOURCE ID: home_account_info_header
+TEXT: POKÉMON HOME 서포트 ID
+
+RESOURCE ID: home_account_name
+TEXT: 플레이어명
+
+RESOURCE ID: home_account_not_found
+TEXT: Pokémon HOME 계정을 발견하지 못했습니다.
+
+RESOURCE ID: home_box_full
+TEXT: Pokémon HOME의 박스가 가득 찼습니다.
+
+RESOURCE ID: home_cant_obtain_another_warning
+TEXT: 이 포켓몬을 전송하면 Pokémon GO 게임 내에서 {0}의 1마리를 더 손에 넣을 수 없습니다.
+
+RESOURCE ID: home_exceeds_max_pokemon
+TEXT: 1번에 전송할 수 있는 포켓몬 수를 초과했습니다.
+
+RESOURCE ID: home_form_revert_warning
+TEXT: Pokémon HOME에 전송하면 {0}(은)는 {1}(이)가 됩니다.
+
+RESOURCE ID: home_insufficient_energy
+TEXT: 전송 에너지가 부족합니다
+
+RESOURCE ID: home_invalid_pokemon
+TEXT: 전송할 수 없는 포켓몬이 포함되어 있습니다
+
+RESOURCE ID: home_login_app_modal_body
+TEXT: 자기 단말기로 닌텐도 어카운트와 Pokémon HOME과의 연동을 테스트하고 다시 Pokémon HOME으로 연동을 하세요
+
+RESOURCE ID: home_login_app_modal_title
+TEXT: Pokémon HOME에 연결되지 않았습니다.
+
+RESOURCE ID: home_pokemon_confirmation
+TEXT: 포켓몬을 {0}마리 전송하겠습니까?
+
+RESOURCE ID: home_privacy_warning
+TEXT: Pokémon GOとPokémon HOME을  연계하면, 포켓몬을 전송하는 과정에서 제한된 정보가 The Pokémon Company에 공유됩니다. 자세한 정보에 대해서는 <a href="https://niantic.helpshift.com/a/pokemon-go/?p=web&s=accessories-pokemon-home&f=transferring-pokemon-to-pokemon-home">헬프</a> 내 기재된 문장을 확인해 주십시오. The Pokémon Company에 제공된 데이터는 The Pokémon Company 개인정보 취급방침에 따라 취급됩니다.
+
+RESOURCE ID: home_recharge_time_day_hour
+TEXT: {0}일 {1}시간 후 완충
+
+RESOURCE ID: home_recharge_time_day_hours
+TEXT: {0}일 {1}시간 후 완충
+
+RESOURCE ID: home_recharge_time_days_hour
+TEXT: {0}일 {1}시간 후 완충
+
+RESOURCE ID: home_recharge_time_days_hours
+TEXT: {0}일 {1}시간 후 완충
+
+RESOURCE ID: home_server_maintenance
+TEXT: Pokémon HOME이 점검중 입니다.
+
+RESOURCE ID: home_service_ended
+TEXT: Pokémon HOME 서비스가 없습니다.
+
+RESOURCE ID: home_settings_transfer_warning
+TEXT: Pokémon HOME에 전송한 포켓몬은
+Pokémon GO에 되돌릴 수 없습니다.
+
+RESOURCE ID: home_signed_in
+TEXT: 로그인
+
+RESOURCE ID: home_support_id
+TEXT: 서포트 ID
+
+RESOURCE ID: home_support_id_about
+TEXT: 다음  Pokémon HOME의 서포트 ID입니다. 만약 이 정보가 Pokémon HOME에 표시된 서포트 ID와 다른 경우 한번 로그아웃 하시고 다시 다른 닌텐도 어카운트로 로그인해 주세요.
+
+RESOURCE ID: home_transfer_error_gym_deployed
+TEXT: 체육관에 배치된 포켓몬은 전송할 수 없습니다
+
+RESOURCE ID: home_transfer_error_shadow_pokemon_error
+TEXT: 그림자 포켓몬은 전송할 수 없습니다
+
+RESOURCE ID: home_transfer_header
+TEXT: 포켓몬을 선택
+
+RESOURCE ID: home_transfer_next_steps
+TEXT: Pokémon HOME을 열고 포켓몬 전송을 완료해 주세요. 전송이 완료할 때까지 새로운 포켓몬을 Pokémon GO에서 Pokémon HOME으로 보낼 수 없습니다.
+
+RESOURCE ID: home_transfer_warning
+TEXT: Pokémon HOME에 전송한 일부 포켓몬은 다른 「포켓몬스터」시리즈에 데리고 갈 수 없습니다. 자세한 내용은 Pokémon HOME 앱에서 확인해 주세요. Pokémon HOME에 전송한 포켓몬은 Pokémon GO에 되돌리 수 없습니다.
+
+RESOURCE ID: home_transport_complete
+TEXT: 포켓몬을 Pokémon HOME으로 전송했습니다!
+
+RESOURCE ID: home_transporter_about
+TEXT: 포켓몬을 Pokémon HOME에 보내려면 전송장치 에너지가 필요합니다. 포켓몬에 따라 필요한 에너지 양이 다릅니다.
+
+RESOURCE ID: home_transporter_cost
+TEXT: 필요한 포켓코인:
+
+RESOURCE ID: home_transporter_energy
+TEXT: 전송 에너지
+
+RESOURCE ID: home_transporter_powerup_confirmation
+TEXT: 전송장치를 충전하겠습니까?
+
+RESOURCE ID: home_transporter_recharge_now
+TEXT: 지금 바로 충전
+
+RESOURCE ID: incenseordinary.1_description
+TEXT: 이상한 향기의 향로. 60분 향기를 피워 야생 포켓몬을 불러냅니다. 특정 포켓몬을 불러낼 때는 색이 달라진다.
+
+RESOURCE ID: incenseordinary.25_description
+TEXT: 이상한 향기의 향로. 60분 향기를 피워 야생 포켓몬을 불러냅니다. 유용한 25개 세트.
+
+RESOURCE ID: incenseordinary.8_description
+TEXT: 이상한 향기의 향로. 60분 향기를 피워 야생 포켓몬을 불러냅니다. 유용한 8개 세트.
+
+RESOURCE ID: item_event_ticket_pink_desc
+TEXT: 현지시간 2020년 10월 17일 11:00 AM~5:00 PM에 스페셜리서치를 진행하기 위한 티켓.
+
+RESOURCE ID: item_event_ticket_pink_desc_2
+TEXT: A ticket to access a special research on November 21 from 11 a.m. to 5 p.m. local time each day, wherever you are.
+
+RESOURCE ID: item_event_ticket_pink_details
+TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2020년 10월 17일 스페셜리서치가 진행됩니다.
+
+RESOURCE ID: item_event_ticket_pink_details_2
+TEXT: This ticket will automatically activate to give you access to a special research on November 21, wherever you are in the world.
+
+RESOURCE ID: item_incense_ordinary_desc
+TEXT: 이상한 향기의 향로. 60분 향기를 피워 야생 포켓몬을 불러냅니다. 특정 포켓몬을 불러낼 때는 색이 달라진다.
+
+RESOURCE ID: limited_research_meowth
+TEXT: 나옹의 기간 한정 리서치
+
+RESOURCE ID: load_tags_error
+TEXT: 태그를 표시하지 못했습니다.
+
+RESOURCE ID: log_into_pokemon_home_app
+TEXT: Pokémon HOME에 로그인해 주세요.
+
+RESOURCE ID: m_avatar_poses_bundle_pose_23
+TEXT: 할로윈
+
+RESOURCE ID: manage_pokemon_tag_add
+TEXT: {0}에 태그 붙이기
+
+RESOURCE ID: manage_pokemon_tag_remove
+TEXT:  {1}부터 {0}까지 삭제
+
+RESOURCE ID: manage_pokemon_tag_title
+TEXT: 태그 관리
+
+RESOURCE ID: manage_pokemon_tag_view_all
+TEXT: {0}태그가 붙은 포켓몬을 본다
+
+RESOURCE ID: mega_candy_plus_energy_walking_desc
+TEXT: 파트너와 함께 걸으면 걸은 거리에 따라 사탕을 발견합니다. 파트너 포켓몬에게 포핀을 주면 바로 '아주 좋음' 상태가 되어 사탕을 발견할 거리가 평소보다 줄어듭니다. 메가 에너지를 발견하는 포켓몬도 있습니다.
+
+RESOURCE ID: mega_candy_plus_energy_walking_title
+TEXT: 사탕과 메가 에너지
+
+RESOURCE ID: mega_catch_candy_bonus
+TEXT: 메가
+
+RESOURCE ID: mega_energy
+TEXT: 메가 에너지
+
+RESOURCE ID: mega_energy_cap_stardust_warning
+TEXT: 가진 {0}메가 에너지 상한을 넘는 리워드는 별의모래로 환산됩니다.
+
+RESOURCE ID: mega_evo_bonus_buff_desc_mult
+TEXT: {0}(이)가 메가진화된 동안 {1}타입과 {2}타입 포켓몬과 보스 포켓몬을 잡으면 받을 수 있는 사탕이 늘어납니다.
+
+RESOURCE ID: mega_evo_bonus_buff_desc_singular
+TEXT: {0}(이)가 메가진화된 동안 {1}타입포켓몬이나 보스 포켓몬을 잡으면 받을 수 있는 사탕이 늘어납니다.
+
+RESOURCE ID: mega_evo_bonus_buff_title
+TEXT: {0} Mega Evolution Bonus
+
+RESOURCE ID: mega_raid_event
+TEXT: 메가 레이드 챌린지
+
+RESOURCE ID: mega_raids_increase
+TEXT: 메가 레이드 수 증가
+
+RESOURCE ID: mega_walking_progress
+TEXT: 걸어서 발견
+
+RESOURCE ID: metadata_patch
+TEXT: Built at 2020-10-30T19:19:35.913494
+at SHA a39819ce5a2e3aa5167db524ff19c0f7faab9f23
+Patch from: 0.189.0-SHA-c54dec19, 0.191.0-SHA-bacc0237
+
+RESOURCE ID: multiselect_title
+TEXT: {0}마리 선택
+
+RESOURCE ID: niantic_anniversary_event
+TEXT: Niantic 기념 이벤트
+
+RESOURCE ID: nintendo_account_not_linked
+TEXT: 닌텐도 어카운트를 다시 Pokémon GO와 연결해 주세요.
+
+RESOURCE ID: no_pokemon_tag_color_warning
+TEXT: 태그명 색을 선택해 주세요.
+
+RESOURCE ID: no_pokemon_tag_name_warning
+TEXT: 태그명을 입력해 주세요.
+
+RESOURCE ID: photobomb_five_charmander
+TEXT: GO스냅샷으로 파이리의 서프라이즈 5회
+
+RESOURCE ID: photobomb_five_electabuzz
+TEXT: 5 Photobombs from Electabuzz in GO Snapshot
+
+RESOURCE ID: photobomb_five_magmar
+TEXT: 5 Photobombs from Magmar in GO Snapshot
+
+RESOURCE ID: player_level_low
+TEXT: 트레이너 레벨이 부족합니다.
+
+RESOURCE ID: pokedex_see_all
+TEXT: 나의 {0} 보기
+
+RESOURCE ID: pokemon_category_0077_2336
+TEXT: 일각포켓몬
+
+RESOURCE ID: pokemon_category_0078_2337
+TEXT: 일각포켓몬
+
+RESOURCE ID: pokemon_category_0867
+TEXT: 원념포켓몬
+
+RESOURCE ID: pokemon_desc_0052_2335
+TEXT: Living with a savage, seafaring people has toughened this Pokémon’s body so much that parts of it have turned to iron.
+
+RESOURCE ID: pokemon_desc_0077_2336
+TEXT: 작은 뿔에 치유의 힘을숨기고 있다. 작은 상처라면뿔을 갖다 대서 치료해준다.
+
+RESOURCE ID: pokemon_desc_0078_2337
+TEXT: 뿔에서 나오는 사이코커터는강력하다. 두꺼운 철판에구멍을 낼 정도의 파괴력을 가졌다.
+
+RESOURCE ID: pokemon_desc_0083_2338
+TEXT: The Farfetch’d of the Galar region are brave warriors, and they wield thick, tough leeks in battle.
+
+RESOURCE ID: pokemon_desc_0562_2344
+TEXT: 저주가 새겨진 점토판이데스마스에 씌었다. 원념의파워를 흡수했다고 전해진다.
+
+RESOURCE ID: pokemon_desc_0867
+TEXT: 강한 저주를 담아 그린고대의 그림이 데스마스의 영혼을흡수해서 움직이기 시작했다.
+
+RESOURCE ID: pokemon_home_about
+TEXT: Pokémon GO에서 Pokémon HOME으로 포켓몬을 전송합니다. 시작하려면 Pokémon HOME에서 이용하고 있는 <a href="https://www.nintendo.co.kr/support/switch/qna/index.php?cateType=%EB%8B%8C%ED%85%90%EB%8F%84+%EC%96%B4%EC%B9%B4%EC%9A%B4%ED%8A%B8&searchWord=">닌텐도 어카운트</a> 가 필요합니다. 포켓몬 전송할 때 전송 에너지가 필요합니다. 전송 에너지는 시간이 지나면 모아집니다. Pokémon HOME으로 포켓몬을 전송하는 자세한 내용은 <a href="https://home.pokemon.com/en-us/move/">여기</a>를 확인하세요.
+
+RESOURCE ID: pokemon_home_transport
+TEXT: 전송
+
+RESOURCE ID: pokemon_info_caught_invasion
+TEXT: {0}(을)를 쓰러뜨려서 잡음
+
+RESOURCE ID: pokemon_info_caught_photobomb
+TEXT: GO스냅샷의 서프라이즈 후에 잡음
+
+RESOURCE ID: pokemon_info_caught_quest_challenge
+TEXT: 필드리서치에서 잡음
+
+RESOURCE ID: pokemon_info_caught_quest_stamp
+TEXT: 대발견을 달성하고 잡음
+
+RESOURCE ID: pokemon_info_caught_quest_story
+TEXT: 스페셜리서치에서 잡음
+
+RESOURCE ID: pokemon_info_caught_quest_timed
+TEXT: 시간제한 리서치에서 잡음
+
+RESOURCE ID: pokemon_info_caught_raid_nem
+TEXT: EX메가 레이드에서 잡음
+
+RESOURCE ID: pokemon_info_caught_raid_nen
+TEXT: EX레이드에서 잡음
+
+RESOURCE ID: pokemon_info_caught_raid_nnm
+TEXT: 메가 레이드에서 잡음
+
+RESOURCE ID: pokemon_info_caught_raid_nnn
+TEXT: 레이드에서 잡음
+
+RESOURCE ID: pokemon_info_caught_raid_rem
+TEXT: 리모트EX 메가 레이드에서 잡음
+
+RESOURCE ID: pokemon_info_caught_raid_ren
+TEXT: 리모트EX에서 잡음
+
+RESOURCE ID: pokemon_info_caught_raid_rnm
+TEXT: 리모트 메가 레이드에서 잡음
+
+RESOURCE ID: pokemon_info_caught_raid_rnn
+TEXT: 리모트 레이드에서 잡음
+
+RESOURCE ID: pokemon_info_caught_tutorial
+TEXT: 야생에서 만남
+
+RESOURCE ID: pokemon_info_caught_vsseeker
+TEXT: CAUGHT IN THE GBL {1}
+
+RESOURCE ID: pokemon_info_caught_wild
+TEXT: 야생에서 만남
+
+RESOURCE ID: pokemon_info_event
+TEXT: EVENT
+
+RESOURCE ID: pokemon_info_evolution_failed
+TEXT: Couldn’t evolve {0} due to an unknown error.
+
+RESOURCE ID: pokemon_info_location
+TEXT: 장소
+
+RESOURCE ID: pokemon_info_location_unknown
+TEXT: 장소불명
+
+RESOURCE ID: pokemon_info_not_transferable
+TEXT: 보낼 수 없는 포켓몬이 포함되어 있습니다!
+
+RESOURCE ID: pokemon_info_received
+TEXT: 받음
+
+RESOURCE ID: pokemon_info_tag_pokemon
+TEXT: 태그
+
+RESOURCE ID: pokemon_info_traded
+TEXT: 교환
+
+RESOURCE ID: pokemon_info_transfer_mega_evo
+TEXT: 메가진화한 포켓몬은 보낼 수 없습니다
+
+RESOURCE ID: pokemon_info_unknown_location
+TEXT: UNKNOWN
+
+RESOURCE ID: pokemon_inventory_favorite_search_remove_button
+TEXT: 삭제
+
+RESOURCE ID: pokemon_inventory_favorite_search_rename_button
+TEXT: Rename
+
+RESOURCE ID: pokemon_inventory_favorite_search_rename_title
+TEXT: Set Search Name
+
+RESOURCE ID: pokemon_inventory_favorite_search_title
+TEXT: Manage Favorite Search
+
+RESOURCE ID: pokemon_inventory_remove_favorites
+TEXT: 이 검색을 즐겨 쓰는 검색에서 삭제하겠습니까?
+
+RESOURCE ID: pokemon_inventory_select_all
+TEXT: SELECT ALL
+
+RESOURCE ID: pokemon_inventory_show_evolution
+TEXT: 진화형을 표시
+
+RESOURCE ID: pokemon_inventory_too_many_favorites
+TEXT: 추가할 수 없습니다. 검색명을 하나 지워주세요.
+
+RESOURCE ID: pokemon_name_0867
+TEXT: 데스판
+
+RESOURCE ID: pokemon_with_tag_count
+TEXT: 이 태그가 붙은 포켓몬: {0}마리
+
+RESOURCE ID: quest_catch_berry_any_drifloon
+TEXT: 흔들풍손을 잡을 때 나무열매를 {0}개 사용한다
+
+RESOURCE ID: quest_catch_berry_nanab_drifloon
+TEXT: 흔들풍손을 잡을 때 나나열매를 {0}개 사용한다
+
+RESOURCE ID: quest_catch_berry_razz_drifloon
+TEXT: 흔들풍손을 잡을 때 라즈열매를 {0}개 사용한다
+
+RESOURCE ID: quest_catch_dark_type_plural
+TEXT: 악타입 포켓몬을 {0}마리 잡는다
+
+RESOURCE ID: quest_catch_drifloon
+TEXT: 흔들풍손을 {0}마리 잡는다
+
+RESOURCE ID: quest_catch_excellent_curve_drifloon
+TEXT: 흔들풍손을 Excellent가 나오게 커브볼로 {0}마리 잡는다 
+
+RESOURCE ID: quest_catch_excellent_with_berry_drifloon
+TEXT: 흔들풍손에게 나무열매를 쓰고 Excellent가 나오게 {0}마리 잡는다.
+
+RESOURCE ID: quest_chart_catch_s1
+TEXT: 리자드를 {0}마리 잡는다
+
+RESOURCE ID: quest_chart_evolve_b
+TEXT: 파이리를 {0} 마리 진화시킨다
+
+RESOURCE ID: quest_chart_evolve_s1
+TEXT: 리자드를 {0}마리 진화 시킨다
+
+RESOURCE ID: quest_complete_chart
+TEXT: 도룡뇽포켓몬의 수수께끼를 풀어라!
+
+RESOURCE ID: quest_complete_elect
+TEXT: The Electrifying Electabuzz
+
+RESOURCE ID: quest_complete_hallowyamas
+TEXT: 영혼포켓몬의 수수께끼를 풀어라!
+
+RESOURCE ID: quest_complete_rockethq7
+TEXT: 악의 조직에 맞서라6
+
+RESOURCE ID: quest_elect_catch_b
+TEXT: Catch {0} Electabuzz
+
+RESOURCE ID: quest_elect_evolve_b
+TEXT: Evolve {0} Electabuzz
+
+RESOURCE ID: quest_evolve_dark_type_singular
+TEXT: 악타입 포켓몬을 진화시킨다
+
+RESOURCE ID: quest_land_curve_type_ghost
+TEXT: 고스트타입 포켓몬을 잡을 때 커브볼로 {0}번 던진다
+
+RESOURCE ID: quest_land_great_curve_inarow_type_ghost
+TEXT: 고스트타입 포켓몬을 잡을 때 커브볼로 Great가 나오게 {0}번 연속으로 던진다
+
+RESOURCE ID: quest_land_great_curve_type_ghost
+TEXT: 고스트타입 포켓몬을 잡을 때 커브볼로 Great가 나오게 {0}번 던진다
+
+RESOURCE ID: quest_land_great_type_ghost
+TEXT: 고스트타입 포켓몬을 잡을 때 Great가 나오게 {0}번 던진다
+
+RESOURCE ID: quest_land_nice_curve_inarow_type_ghost
+TEXT: 고스트타입 포켓몬을 잡을 때 커브볼로 Nice가 나오게 {0}번 연속으로 던진다
+
+RESOURCE ID: quest_land_nice_curve_type_ghost
+TEXT: 고스트타입 포켓몬을 잡을 때 커브볼로 Nice가 나오게 {0}번 던진다
+
+RESOURCE ID: quest_land_nice_type_ghost
+TEXT: 고스트타입 포켓몬을 잡을 때 Nice가 나오게 {0}번 던진다
+
+RESOURCE ID: quest_magmt_catch_b
+TEXT: Catch {0} Magmar
+
+RESOURCE ID: quest_magmt_evolve_b
+TEXT: Evolve {0} Magmar
+
+RESOURCE ID: quest_rockethq1_leaders_win_plural
+TEXT: GO로켓단 리더와의 배틀에서 {0}번 이긴다
+
+RESOURCE ID: quest_special_dialogue_chart_0_0
+TEXT: 안녕, %PLAYERNAME%! 잘 지냈지? 트레이너 동료들도 잘 지내지? 난 여전히 연구에 몰두하고 있어. 파트너 포켓몬과의 산책도 일과 중 하나지.
+
+RESOURCE ID: quest_special_dialogue_chart_0_1
+TEXT: 오늘 아침도 언제나처럼 파트너 포켓몬과 산책하고 있었는데
+
+RESOURCE ID: quest_special_dialogue_chart_0_2
+TEXT: 파이리를 몇 마리나 만났어. 수가 많아서 꼬리의 불꽃이 타는 탁탁 소리가 들릴 정도였지.
+
+RESOURCE ID: quest_special_dialogue_chart_0_3
+TEXT: 파이리가 대량발생한 적은 있지만 희귀한 현상이지...
+
+RESOURCE ID: quest_special_dialogue_chart_0_4
+TEXT: 조사가 필요해.
+
+RESOURCE ID: quest_special_dialogue_chart_0_5
+TEXT: 시작으로 같이 잡아 줘!
+
+RESOURCE ID: quest_special_dialogue_chart_1_0
+TEXT: 아주 좋아!
+
+RESOURCE ID: quest_special_dialogue_chart_1_1
+TEXT: 파이리가 왜 모였는지 곰곰이 생각해 봤는데 다시 자료를 보면
+
+RESOURCE ID: quest_special_dialogue_chart_1_2
+TEXT: 뜨거운 것을 좋아하는 생태가 있었어. 파이리의 기분은 꼬리의 불꽃으로 알 수 있다고 하는 군.
+
+RESOURCE ID: quest_special_dialogue_chart_1_3
+TEXT: 흠.... 태양을 쬐려고 모였을지도 몰라. 진화 시키면 뭔가 알 수 있을지 모르겠군.
+
+RESOURCE ID: quest_special_dialogue_chart_1_4
+TEXT: 파이리에서 진화하는 건 리자드야. 거친 성질의 포켓몬이니까 조심해!
+
+RESOURCE ID: quest_special_dialogue_chart_2_0
+TEXT: 리자드로 진화 시키는 데 성공했구나, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_chart_2_1
+TEXT: 화염포켓몬인 리자드는 항상 싸울 상대를 찾는다고 전해질 정도로 불타오르는 성질을 가지고 있어.
+
+RESOURCE ID: quest_special_dialogue_chart_2_2
+TEXT: 강적 앞에 서면 기분이 고조되어 꼬리의 불꽃색이 푸르스름하게 불타오른다고 해!
+
+RESOURCE ID: quest_special_dialogue_chart_2_3
+TEXT: 이기지 않으면 성에 안 찬다고 할까? 내가 아는 누군가하고 비슷하군...
+
+RESOURCE ID: quest_special_dialogue_chart_2_4
+TEXT: 자, 다음은 리자몽으로 진화 시켜보자. 리자몽에 대해서도 배울 점이 많을 거야!
+
+RESOURCE ID: quest_special_dialogue_chart_3_0
+TEXT: 잘했어! 화염포켓몬 리자몽으로 진화 시켰구나!
+
+RESOURCE ID: quest_special_dialogue_chart_3_1
+TEXT: 리자몽은 지상 1400m까지 날 수 있는 포켓몬이야!
+
+RESOURCE ID: quest_special_dialogue_chart_3_2
+TEXT: 그리고 모든 녹이는 고열의 불꽃을 뿜어 내지. 그렇지만 그 불꽃이 자기보다 약한 자에게 향하는 일은 없어.
+
+RESOURCE ID: quest_special_dialogue_chart_3_3
+TEXT: 대단한 자제심이지! 최강 상대를 꿰뚫어 보는 그 자세가 아주 놀라워!
+
+RESOURCE ID: quest_special_dialogue_chart_3_4
+TEXT: 새로 동료가 된 리자몽과 함께 하는 시간을 즐겨보는 건 어때?
+
+RESOURCE ID: quest_special_dialogue_chart_4_0
+TEXT: %PLAYERNAME%, 너와 리자몽 정말 잘 어울려! 포켓몬은 트레이너에게 든든한 파트너지만
+
+RESOURCE ID: quest_special_dialogue_chart_4_1
+TEXT: 트레이너와의 유대가 깊어지면 더 강해지는 포켓몬이 있어. 그게 메가진화하는 포켓몬이지! 리자몽은 2가지 메가진화 모습이 될 수 있어.
+
+RESOURCE ID: quest_special_dialogue_chart_4_2
+TEXT: 메가리자몽X와 메가리자몽Y는 외모와 힘이 다른 포켓몬이야.
+
+RESOURCE ID: quest_special_dialogue_chart_4_3
+TEXT: 메가리자몽X는 온몸에 흘러넘치는 파워가 특징으로 그 파워가 몸을 검게 물들이고 뿜어내는 불꽃은 푸른 불꽃으로 만들지.
+
+RESOURCE ID: quest_special_dialogue_chart_4_4
+TEXT: 또 연구로 밝혀진 것은 메가리자몽Y는 트레이너와의 유대감을 힘의 원천으로 하고 있다는 것. 그 비행 능력은 제트기를 능가해.
+
+RESOURCE ID: quest_special_dialogue_chart_4_5
+TEXT: 트레이너들이 메가진화한 포켓몬과 함께 배틀하는 모습을 보게 되다니 정말 기대되는걸!
+
+RESOURCE ID: quest_special_dialogue_chart_4_6
+TEXT: 뜨거운 협력에 감사하지, %PLAYERNAME%. 또 다음에 조사를 부탁할게!
+
+RESOURCE ID: quest_special_dialogue_elect_0_0
+TEXT: Hey there, %PLAYERNAME%! I’m really glad to see you.
+
+RESOURCE ID: quest_special_dialogue_elect_0_1
+TEXT: I’ve been dealing with some strange power outages around my mobile lab and wanted to investigate what could be causing the problem.
+
+RESOURCE ID: quest_special_dialogue_elect_0_2
+TEXT: It didn't take me long to find the cause. Seems as though a group of Electabuzz decided that the energy used to power my mobile lab up and running would make a much better snack.
+
+RESOURCE ID: quest_special_dialogue_elect_0_3
+TEXT: They seem to be appearing in higher numbers, which could lead to more outages.
+
+RESOURCE ID: quest_special_dialogue_elect_0_4
+TEXT: Do you think you’d be able to help catch some Electabuzz?
+
+RESOURCE ID: quest_special_dialogue_elect_0_5
+TEXT: The research would be very valuable and I would be very grateful to have my power restored!
+
+RESOURCE ID: quest_special_dialogue_elect_1_0
+TEXT: Welcome back, Trainer.
+
+RESOURCE ID: quest_special_dialogue_elect_1_1
+TEXT: Thanks for the assistance, I really appreciate it! While you were out catching all those Electabuzz, I did some research on this family of Pokémon.
+
+RESOURCE ID: quest_special_dialogue_elect_1_2
+TEXT: Did you know that Electabuzz evolves from Elekid, the Electric Pokémon?
+
+RESOURCE ID: quest_special_dialogue_elect_1_3
+TEXT: A weak electric current flows between its horns. Be careful, Trainer, sticking a hand between its horns will actually shock you!
+
+RESOURCE ID: quest_special_dialogue_elect_1_4
+TEXT: Hmm… I wonder if Spark has tried that with his Buddy Pokémon…
+
+RESOURCE ID: quest_special_dialogue_elect_1_5
+TEXT: Anyway, let’s keep looking into this unusual situation with Electabuzz and make sure it isn’t snacking on any electricity meant for other uses!
+
+RESOURCE ID: quest_special_dialogue_elect_2_0
+TEXT: Great work, %PLAYERNAME%. I think we have enough data on Electabuzz.
+
+RESOURCE ID: quest_special_dialogue_elect_2_1
+TEXT: Also known as the Electric Pokémon, it loves to feed on strong electricity, explaining why it was attracted to my mobile lab.
+
+RESOURCE ID: quest_special_dialogue_elect_2_2
+TEXT: Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.
+
+RESOURCE ID: quest_special_dialogue_elect_2_3
+TEXT: Simply amazing! Let’s continue our research and go ahead and use a Sinnoh Stone to evolve Electabuzz to Electivire!
+
+RESOURCE ID: quest_special_dialogue_elect_2_4
+TEXT: I can’t wait to see what the electrifying conclusion is to our research!
+
+RESOURCE ID: quest_special_dialogue_elect_3_0
+TEXT: I just don’t ever know if they find my jokes funny… should I take a comedy class?
+
+RESOURCE ID: quest_special_dialogue_elect_3_1
+TEXT: OH! I didn’t see you there, %PLAYERNAME%. I see you've evolved your Electabuzz into Electivire like I asked. Thank you!
+
+RESOURCE ID: quest_special_dialogue_elect_3_2
+TEXT: Looking at the Pokédex, it says as its electric charge amplifies, blue sparks begin to crackle between its horns.
+
+RESOURCE ID: quest_special_dialogue_elect_3_3
+TEXT: When in battle, it pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power. I guess you could say its opponent is in for a shock!
+
+RESOURCE ID: quest_special_dialogue_elect_3_4
+TEXT: Be sure to take your time and learn more about this Pokémon before adding it to your battle team, that is a lot of power you are dealing with!
+
+RESOURCE ID: quest_special_dialogue_elect_3_5
+TEXT: With the lights back on in the mobile lab I’m going to head back and wrap up some other projects.
+
+RESOURCE ID: quest_special_dialogue_elect_3_6
+TEXT: Thank you again for all your help, and until next time, let’s GO!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_0
+TEXT: %PLAYERNAME%, 안녕!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_1
+TEXT: 마침 잘 왔어!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_2
+TEXT: 근처 숲에서 출현한 포켓몬 조사가 필요한데, 너에게 부탁할게.
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_3
+TEXT: 난 어두운 숲에는 가까이 안 가거든. 무서운 게 아냐...
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_4
+TEXT: 그냥...
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_5
+TEXT: 어? 연구소 근처에 있는 건 블랑쉬군! 고스트타입 포켓몬의 진화 검증이 남아 있었지.
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_0_6
+TEXT: 어두운 숲은 %PLAYERNAME%에게 맡길게! 곧 만나자!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_0
+TEXT: 블랑쉬, 가라르의 모습으로 진화하는 게 확실한 거지? 어 미안,  블랑쉬랑 이야기하는라... 어라?
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_1
+TEXT: 이 소리는... 데스마스인가! 마스크를 바라보며 울고 있는 것 같군...
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_2
+TEXT: 숲에서 데스마스와 만났다는 거군... 이건 다시 한번 숲에 가줘야겠는데...
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_3
+TEXT: 목격정보를 고스트타입 포켓몬 관련 자료와 비교해봤는데, 찾아줬으면 하는 것은 이 데스마스가 아니라,
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_4
+TEXT: 가라르지방에서 발견된 데스마스야. 점토판의 조각이 특징이야. 저주가 새겨진 점토판이 깃들어 원한의 힘을 흡수한다고 전해져.
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_1_5
+TEXT: 다시 찾아봐 줘. 난... 갈 수 없어... 스파크가 의문의 알에 대해 이야기할 게 있다고 해서 말이지...
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_0
+TEXT: 의문의 알에서 부화하는 것은 독타입, 악타입 포켓몬 뿐이군... 잘 검증 되었어... 어라!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_1
+TEXT: 빠르네 %PLAYERNAME%. ...데스마스는 있었어... 아니, 그건 화강돌!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_2
+TEXT: 화강돌을 트레이너들과 조사한 적이 있었지. 너도 이전에 잡은 적이 있지?
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_3
+TEXT: 또 나타났군. 108개의 영혼이 돌의 갈라진 부분에 연결되고 있다는 희귀한 포켓몬이....
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_4
+TEXT: 이건 악몽인가? 기뻐해야 하나?
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_5
+TEXT: 또 부탁하기 미안하지만 목적을 위해서 어쩔 수 없지. 다시 한번 찾아봐줬으면 하네.
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_2_6
+TEXT: 난 칸델라와 배틀 강담을 하러 가야 해서 이만 실례하지. 너에게 맡기는 것 같지만 잘 부탁한다, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_0
+TEXT: 독, 고스트, 벌레, 악 그리고 페어리타입이라! 배틀을 위한 꼼꼼한 준비, 칸델라다워!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_1
+TEXT: 오, %PLAYERNAME%, 너구나! 가라르의 모습 데스마스를 만났군! 역시 느낌이 많이 다르네!
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_2
+TEXT: 블랑쉬랑 하던 이야기는 가라르의 데스마스가 하나지방과 다른 진화를 한다는 내용이었어.
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_3
+TEXT: 데스마스의 사탕을 모아서 진화시켜보자! 도감 등록하는 것까지 조사니까.
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_4
+TEXT: 이번에는 소름 돕게 즐거운 조사였어.
+
+RESOURCE ID: quest_special_dialogue_hallowyamas_3_5
+TEXT: 계속해서 가을밤을 포켓몬을 생각하며 지내보자고!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_0_0
+TEXT: 안녕, %PLAYERNAME%! 잘 지냈지?
+
+RESOURCE ID: quest_special_dialogue_rockethq7_0_1
+TEXT: GO로켓단이... 그래 다시 움직이기 시작했어!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_0_2
+TEXT: 포켓스톱 주변에서 수상한 움직임이 있었어. 네가 조사해 줬으면 좋겠어.
+
+RESOURCE ID: quest_special_dialogue_rockethq7_0_3
+TEXT: 먼저 사태 파악과 원인 규명이다!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_0
+TEXT: 잘했어, %PLAYERNAME%. 하지만 GO로켓단의 새로운 음모의 진상은 아직 몰라.
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_1
+TEXT: 그들 수법 중 하나로 그림자 포켓몬을 쓰는 게 있어. 그림자 포켓몬은 본래의 힘을 넘어 강화된 포켓몬이야.
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_2
+TEXT: 그림자 포켓몬 강화 프로그램에는 알로가 관여했다고 들었어. 칸델라와 의견 대립을 계기로 팀 발로를 떠난 직후에 시작한 것 같더군.
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_3
+TEXT: 약간의 힌트가 되었니? 힌트라고 하면 스파크가 알이 어쩌고 저쩌고 하던데... 너도 알을 부화할 준비를 하고
+
+RESOURCE ID: quest_special_dialogue_rockethq7_1_4
+TEXT: 조사해줘! 그림자 포켓몬도 구해줘야 한다.
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_0
+TEXT: 그림자 포켓몬을 정화해줘서 고맙군, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_1
+TEXT: 애버라스를 잡았군! 응? 애버라스는 어디서 왔을까? 특이한 무늬의 알이 있던데 그것과 연관이 있나?
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_2
+TEXT: 네가 조무래기를 쓰러뜨리는 동안 리더와 협력해서 알아냈는데, GO로켓단은 특이한 알을 모으고 있다고 하는군.
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_3
+TEXT: 녀석들이 열심히 모으는 이상한 알은 부화하는 포켓몬에 영향은 없는 듯하군.
+
+RESOURCE ID: quest_special_dialogue_rockethq7_2_4
+TEXT: 그렇다면 우리도 모아서 부화시키면 GO로켓단의 기세를 누를 수 있을지 몰라! 부화장치를 준비해서 빈틈 없이 진행해 줘!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_0
+TEXT: %PLAYERNAME%, 훌륭한 배틀이었어! 많은 포켓몬을 구했군! 그중에는 귀여운 포켓몬도 있었나 보네.
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_1
+TEXT: 우리도 의문의 알에 대해서 조사했는데, 스파크가 얻은 정보에 따르면 아무래도 시에라와  관계가 있는 것 같아. 
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_2
+TEXT: GO로켓단 리더라는 건 포켓스톱을 점령을 주도하거나 트레이너에게 배틀만 건다고 생각하고 방심할 수 없지!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_3
+TEXT: 그림자 포켓몬에는 알로, 의문의 알에는 시에라와 같이 음모 뒤에는 각 주모자가 있는 것 같군
+
+RESOURCE ID: quest_special_dialogue_rockethq7_3_4
+TEXT: %PLAYERNAME%, 무슨 말인지 알지? 리더들을 그냥 둬서는 위험해!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_4_0
+TEXT: 아주 좋아, %PLAYERNAME%! 이걸로 조금은 그들의 움직임을 잠시 잡아둘 수 있겠지.
+
+RESOURCE ID: quest_special_dialogue_rockethq7_4_1
+TEXT: 비주기를 찾기 위해 슈퍼 로켓레이더를 준비했어. 하지만 조심해. 블랑쉬와 칸델라가 알려줬는데 비주기는 그림자 뮤츠를 데리고 있다는군.
+
+RESOURCE ID: quest_special_dialogue_rockethq7_4_2
+TEXT: 그림자 뮤츠는 목격된 적이 있어. 하지만 비주기가 다시 그림자 뮤츠를 데리고 나타날 줄이야!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_4_3
+TEXT: 그림자 뮤츠를 구해야 해! 비주기가 이용하기 전에!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_5_0
+TEXT: 좋았어! %PLAYERNAME%, 또 다시 도움을 받았군! GO로켓단 조무래기부터 비주기까지 쓰러뜨렸어!
+
+RESOURCE ID: quest_special_dialogue_rockethq7_5_1
+TEXT: 구해준 포켓몬의 수도 적지 않아. 그림자 뮤츠까지 있지.
+
+RESOURCE ID: quest_special_dialogue_rockethq7_5_2
+TEXT: 앞으로도 GO로켓단은 경계해 줘! 의문의 알을 부화하면 뭔가 알 수 있을지 몰라.
+
+RESOURCE ID: quest_title_chart
+TEXT: 도룡뇽포켓몬의 수수께끼를 풀어라!
+
+RESOURCE ID: quest_title_chart_0
+TEXT: 도룡뇽포켓몬의 수수께끼를 풀어라!(1/5)
+
+RESOURCE ID: quest_title_chart_1
+TEXT: 도룡뇽포켓몬의 수수께끼를 풀어라!(2/5)
+
+RESOURCE ID: quest_title_chart_2
+TEXT: 도룡뇽포켓몬의 수수께끼를 풀어라!(3/5)
+
+RESOURCE ID: quest_title_chart_3
+TEXT: 도룡뇽포켓몬의 수수께끼를 풀어라!(4/5)
+
+RESOURCE ID: quest_title_chart_4
+TEXT: 도룡뇽포켓몬의 수수께끼를 풀어라!(5/5)
+
+RESOURCE ID: quest_title_elect
+TEXT: The Electrifying Electabuzz
+
+RESOURCE ID: quest_title_elect_0
+TEXT: The Electrifying Electabuzz (1/4)
+
+RESOURCE ID: quest_title_elect_1
+TEXT: The Electrifying Electabuzz (2/4)
+
+RESOURCE ID: quest_title_elect_2
+TEXT: The Electrifying Electabuzz (3/4)
+
+RESOURCE ID: quest_title_elect_3
+TEXT: The Electrifying Electabuzz (4/4)
+
+RESOURCE ID: quest_title_hallowyamas
+TEXT: 영혼포켓몬의 수수께끼를 풀어라!
+
+RESOURCE ID: quest_title_hallowyamas_0
+TEXT: 영혼포켓몬의 수수께끼를 풀어라!(1/4)
+
+RESOURCE ID: quest_title_hallowyamas_1
+TEXT: 영혼포켓몬의 수수께끼를 풀어라!(2/4)
+
+RESOURCE ID: quest_title_hallowyamas_2
+TEXT: 영혼포켓몬의 수수께끼를 풀어라!(3/4)
+
+RESOURCE ID: quest_title_hallowyamas_3
+TEXT: 영혼포켓몬의 수수께끼를 풀어라!(4/4)
+
+RESOURCE ID: quest_title_rockethq7
+TEXT: 악의 조직에 맞서라6
+
+RESOURCE ID: quest_title_rockethq7_0
+TEXT: 악의 조직에 맞서라6(1/6)
+
+RESOURCE ID: quest_title_rockethq7_1
+TEXT: 악의 조직에 맞서라6(2/6)
+
+RESOURCE ID: quest_title_rockethq7_2
+TEXT: 악의 조직에 맞서라6(3/6)
+
+RESOURCE ID: quest_title_rockethq7_3
+TEXT: 악의 조직에 맞서라6(4/6)
+
+RESOURCE ID: quest_title_rockethq7_4
+TEXT: 악의 조직에 맞서라6(5/6)
+
+RESOURCE ID: quest_title_rockethq7_5
+TEXT: 악의 조직에 맞서라6(6/6)
+
+RESOURCE ID: quest_title_spwk_0
+TEXT: 스페셜 위켄드 (1/4)
+
+RESOURCE ID: quest_title_spwk_1
+TEXT: 스페셜 위켄드 (2/4)
+
+RESOURCE ID: quest_title_spwk_2
+TEXT: 스페셜 위켄드 (3/4)
+
+RESOURCE ID: quest_title_spwk_3
+TEXT: 스페셜 위켄드 (4/4)
+
+RESOURCE ID: quest_title_spwk_711mx
+TEXT: 스페셜 위켄드 (7-Eleven México)
+
+RESOURCE ID: quest_title_spwk_gh
+TEXT: 스페셜 위켄드 (Grubhub)
+
+RESOURCE ID: quest_title_spwk_mk
+TEXT: 스페셜 위켄드 (Matsumoto Kiyoshi)
+
+RESOURCE ID: quest_title_spwk_sb711jp
+TEXT: 스페셜 위켄드 (SoftBank & 7-Eleven Japan)
+
+RESOURCE ID: quest_title_spwk_vz
+TEXT: 스페셜 위켄드 (Verizon)
+
+RESOURCE ID: quest_transfer_type_ghost_plural
+TEXT: 고스트타입 포켓몬을 {0}마리 보낸다
+
+RESOURCE ID: raid_day_alolan_marowak
+TEXT: 텅구리(알로라의 모습) 레이드 데이
+
+RESOURCE ID: raids_alolan_marowak
+TEXT: 텅구리(알로라의 모습)이 레이드에 출현
+
+RESOURCE ID: remote_raid_invite_ingame_notif
+TEXT: {0}님의 레이드배틀 초대장이 도착했습니다!
+
+RESOURCE ID: remote_raid_invite_push_notif
+TEXT: 레이드 초대
+{0}님의 레이드배틀 초대장이 도착했습니다!
+
+RESOURCE ID: remove_tag_error
+TEXT: 태그 삭제를 못했습니다.
+
+RESOURCE ID: screen_title_pokemon_inventory_tags
+TEXT: 태그
+
+RESOURCE ID: settings_nintendo_account
+TEXT: 닌텐도 어카운트
+
+RESOURCE ID: settings_pokemon_home
+TEXT: Pokémon HOME
+
+RESOURCE ID: shop_remote_raid_passes_title
+TEXT: Uh oh! You're out of Remote Raid Passes
+
+RESOURCE ID: spawn_charmander
+TEXT: 파이리기 야생에서 많이 출현
+
+RESOURCE ID: spawn_electabuzz
+TEXT: More Electabuzz are appearing in the wild
+
+RESOURCE ID: spawn_magmar
+TEXT: More Magmar are appearing in the wild
+
+RESOURCE ID: tag_color_field_subtitle
+TEXT: 색
+
+RESOURCE ID: tag_name_field_subtitle
+TEXT: 이름
+
+RESOURCE ID: tagging_assignment_add_new
+TEXT: 신규 태그
+
+RESOURCE ID: tagging_assignment_button
+TEXT: 태그
+
+RESOURCE ID: tagging_assignment_title
+TEXT: {0}마리에 태그
+
+RESOURCE ID: tagging_favorites_title
+TEXT: 즐겨찾기
+
+RESOURCE ID: ticket_charmander
+TEXT: '도롱뇽포켓몬의 수수께끼를 풀어라!' 티켓이 숍에 등장
+
+RESOURCE ID: ticket_electabuzz
+TEXT: Ticket for Special Research story available in the Shop: The Electrifying Electabuzz
+
+RESOURCE ID: ticket_magmar
+TEXT: Ticket for Special Research story available in the Shop: No Match for Magmar
+
+RESOURCE ID: timed_research_pokemon_meowth
+TEXT: 나옹의 시간제한 리서치
+
+RESOURCE ID: titan_image_gallery_add_photo_button
+TEXT: ADD PHOTO TO POKÉSTOP
+
+RESOURCE ID: titan_image_gallery_button_text
+TEXT: Gallery
+
+RESOURCE ID: titan_image_gallery_photo_count_multiple
+TEXT: {0} Photos
+
+RESOURCE ID: titan_image_gallery_photo_count_singular
+TEXT: 1 Photo
+
+RESOURCE ID: titan_image_gallery_submission_time
+TEXT: {0} {1} ago
+
+RESOURCE ID: titan_image_gallery_too_far_add_photo
+TEXT: Walk closer to add a photo to this PokéStop.
+
+RESOURCE ID: titan_image_gallery_too_far_scanning
+TEXT: Walk closer to scan this PokéStop.
+
+RESOURCE ID: titan_poi_ar_data_opt_in_title_1
+TEXT: PokéStop Scan
+
+RESOURCE ID: titan_upload_wifi_recommended
+TEXT: Wi-Fi 사용 권장
+
+RESOURCE ID: transfer_error_mega
+TEXT: 메가진화한 포켓몬은 전송할 수 없습니다.
+
+RESOURCE ID: transfer_pokemon
+TEXT: 포켓몬 전송
+
+RESOURCE ID: unfriend_niantic_friend_tip
+TEXT: Removing this friend from this Niantic Game will remove them as a friend in all games you both play
+
+RESOURCE ID: unfriend_niantic_friend_title
+TEXT: Are you sure you want to unfriend {0}?
+
+RESOURCE ID: view_all_tags_title
+TEXT: {0}에 붙인 태그를 본다
+
