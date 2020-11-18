@@ -3862,7 +3862,7 @@
   "mega_raids_increase": "เพิ่มจำนวนการตีบอส",
   "mega_speed_bonus": "โบนัสความเร็ว",
   "mega_type_attacks_boosted_msg": "การโจมตีประเภท{0}ได้รับผลจากเมก้าบูสต์",
-  "metadata_local": "Built at 2020-11-02T09:37:11.111529\nat SHA 8e21c83c87b78ff48e7e4f391a6e41a00614f89b\nPipeline 500222, job 4293658",
+  "metadata_local": "Built at 2020-11-03T18:58:03.433420\nat SHA 2b68fe4935aacd814bab29288588200727d9ac76\nPipeline 501088, job 4304935",
   "minute_abbrev": "น.",
   "minutes_and_seconds": "{0} น. {1 }วน.",
   "monodepth_ar_plus_required_toast": "เปิดใช้งาน Niantic AR เพื่อใช้ระบบภาพเสมือนจริง",
