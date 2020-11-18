@@ -8427,7 +8427,7 @@
   "remote_raid_invitations_header": "Invitations",
   "remote_raid_invite_friend_remotely_bonus": "Inviting friends to a raid can be done remotely",
   "remote_raid_invite_ingame_notif": "{0} invited you to join a Raid Battle!",
-  "remote_raid_invite_push_notif": "Raid Invitation\n\r{0} invited you to join a Raid Battle!",
+  "remote_raid_invite_push_notif": "Raid Invitation\n\n{0} invited you to join a Raid Battle!",
   "remote_raid_invite_rate_limit_desc": "You’ve reached the maximum number of invitations you can send for a while. Please try again later.",
   "remote_raid_invite_rate_limit_title": "No More Invitations Can Be Sent",
   "remote_raid_invite_sent_confirmation": "Raid Invitations Sent",
