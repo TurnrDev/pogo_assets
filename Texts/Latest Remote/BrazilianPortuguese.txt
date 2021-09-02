@@ -1,2300 +1,1909 @@
-RESOURCE ID: add_friend_confirmation_title
-TEXT: Enviar um pedido de amizade para {0}
+RESOURCE ID: abi_helpshift_url
+TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
 
-RESOURCE ID: avatar_f_backpack_animegou_00_bundle_icon
-TEXT: Mochila estilo do Goh
+RESOURCE ID: avatar_f_gloves_swshuniformdark_00_bundle_icon
+TEXT: Luvas esportivas (Sombrio)
 
-RESOURCE ID: avatar_f_glasses_grandoakglasses_00_bundle_icon
-TEXT: Óculos do Grand Carvalho
+RESOURCE ID: avatar_f_gloves_swshuniformdefault_00_bundle_icon
+TEXT: Luvas esportivas do Desafiante
 
-RESOURCE ID: avatar_f_glasses_lv40glasses_00_bundle_icon
-TEXT: Óculos do nível 41
+RESOURCE ID: avatar_f_gloves_swshuniformdragon_00_bundle_icon
+TEXT: Luvas esportivas (Dragão)
 
-RESOURCE ID: avatar_f_gloves_bwn_00_bundle_icon
-TEXT: N-Style Gloves
+RESOURCE ID: avatar_f_pants_swshuniformdark_00_bundle_icon
+TEXT: Legging esportiva (Sombrio)
 
-RESOURCE ID: avatar_f_hat_bwn_00_bundle_icon
-TEXT: N-Style Cap
+RESOURCE ID: avatar_f_pants_swshuniformdefault_00_bundle_icon
+TEXT: Bermuda esportiva do Desafiante
 
-RESOURCE ID: avatar_f_hat_gyaradoscap_00_bundle_icon
-TEXT: Gorro de Gyarados
+RESOURCE ID: avatar_f_pants_swshuniformdragon_00_bundle_icon
+TEXT: Bermuda esportiva (Dragão)
 
-RESOURCE ID: avatar_f_hat_lvl50cap_00_bundle_icon
-TEXT: Boné do nível 45
+RESOURCE ID: avatar_f_shirt_swshuniformdark_00_bundle_icon
+TEXT: Camiseta esportiva (Sombrio)
 
-RESOURCE ID: avatar_f_pants_animegou_00_bundle_icon
-TEXT: Calças estilo do Goh
+RESOURCE ID: avatar_f_shirt_swshuniformdefault_00_bundle_icon
+TEXT: Camiseta esportiva do Desafiante
 
-RESOURCE ID: avatar_f_pants_bwn_00_bundle_icon
-TEXT: N-Style Pants
+RESOURCE ID: avatar_f_shirt_swshuniformdragon_00_bundle_icon
+TEXT: Camiseta esportiva (Dragão)
 
-RESOURCE ID: avatar_f_pants_green_00_bundle_icon
-TEXT: Calças estilo do Blue
+RESOURCE ID: avatar_f_shoes_swshuniformdark_00_bundle_icon
+TEXT: Sapatos esportivos (Sombrio)
 
-RESOURCE ID: avatar_f_shirt_animegou_00_bundle_icon
-TEXT: Camiseta estilo do Goh
+RESOURCE ID: avatar_f_shoes_swshuniformdefault_00_bundle_icon
+TEXT: Calçado esportivo do Desafiante
 
-RESOURCE ID: avatar_f_shirt_bwn_00_bundle_icon
-TEXT: N-Style Top
+RESOURCE ID: avatar_f_shoes_swshuniformdragon_00_bundle_icon
+TEXT: Sapatos esportivos (Dragão)
 
-RESOURCE ID: avatar_f_shirt_green_00_bundle_icon
-TEXT: Casaco estilo do Blue
+RESOURCE ID: avatar_f_socks_swshuniformdefault_00_bundle_icon
+TEXT: Meias esportivas do Desafiante
 
-RESOURCE ID: avatar_f_shirt_lvl50_00_bundle_icon
-TEXT: Jaqueta do nível 50
+RESOURCE ID: avatar_f_socks_swshuniformdragon_00_bundle_icon
+TEXT: Legging esportiva (Dragão)
 
-RESOURCE ID: avatar_f_shirt_melmetaljacket_00_bundle_icon
-TEXT: Blusão de Melmetal
+RESOURCE ID: avatar_m_gloves_swshuniformdark_00_bundle_icon
+TEXT: Luvas esportivas (Sombrio)
 
-RESOURCE ID: avatar_f_shirt_melmetalvest_00_bundle_icon
-TEXT: Colete de Melmetal
+RESOURCE ID: avatar_m_gloves_swshuniformdefault_00_bundle_icon
+TEXT: Luvas esportivas do Desafiante
 
-RESOURCE ID: avatar_f_shoes_animegou_00_bundle_icon
-TEXT: Tênis estilo do Goh
+RESOURCE ID: avatar_m_gloves_swshuniformdragon_00_bundle_icon
+TEXT: Luvas esportivas (Dragão)
 
-RESOURCE ID: avatar_f_shoes_bwn_00_bundle_icon
-TEXT: N-Style Shoes
+RESOURCE ID: avatar_m_pants_swshuniformdark_00_bundle_icon
+TEXT: Legging esportiva (Sombrio)
 
-RESOURCE ID: avatar_f_shoes_coolboots_00_bundle_icon
-TEXT: Botas do nível 49
+RESOURCE ID: avatar_m_pants_swshuniformdefault_00_bundle_icon
+TEXT: Bermuda esportiva do Desafiante
 
-RESOURCE ID: avatar_f_shoes_green_00_bundle_icon
-TEXT: Sapatos estilo do Blue
+RESOURCE ID: avatar_m_pants_swshuniformdragon_00_bundle_icon
+TEXT: Bermuda esportiva (Dragão)
 
-RESOURCE ID: avatar_f_shoes_melmetalshoes_00_bundle_icon
-TEXT: Tênis de Melmetal
+RESOURCE ID: avatar_m_shirt_swshuniformdark_00_bundle_icon
+TEXT: Camiseta esportiva (Sombrio)
 
-RESOURCE ID: avatar_m_backpack_animegou_00_bundle_icon
-TEXT: Mochila estilo do Goh
+RESOURCE ID: avatar_m_shirt_swshuniformdefault_00_bundle_icon
+TEXT: Camiseta esportiva do Desafiante
 
-RESOURCE ID: avatar_m_glasses_grandoakglasses_00_bundle_icon
-TEXT: Óculos do Grand Carvalho
+RESOURCE ID: avatar_m_shirt_swshuniformdragon_00_bundle_icon
+TEXT: Camiseta esportiva (Dragão)
 
-RESOURCE ID: avatar_m_glasses_lv40glasses_00_bundle_icon
-TEXT: Óculos do nível 41
+RESOURCE ID: avatar_m_shoes_swshuniformdark_00_bundle_icon
+TEXT: Sapatos esportivos (Sombrio)
 
-RESOURCE ID: avatar_m_gloves_bwn_00_bundle_icon
-TEXT: N-Style Gloves
+RESOURCE ID: avatar_m_shoes_swshuniformdefault_00_bundle_icon
+TEXT: Calçado esportivo do Desafiante
 
-RESOURCE ID: avatar_m_hat_bwn_00_bundle_icon
-TEXT: N-Style Cap
+RESOURCE ID: avatar_m_shoes_swshuniformdragon_00_bundle_icon
+TEXT: Sapatos esportivos (Dragão)
 
-RESOURCE ID: avatar_m_hat_gyaradoscap_00_bundle_icon
-TEXT: Gorro de Gyarados
+RESOURCE ID: avatar_m_socks_swshuniformdefault_00_bundle_icon
+TEXT: Meias esportivas do Desafiante
 
-RESOURCE ID: avatar_m_hat_lvl50cap_00_bundle_icon
-TEXT: Boné do nível 45
+RESOURCE ID: avatar_m_socks_swshuniformdragon_00_bundle_icon
+TEXT: Legging esportiva (Dragão)
 
-RESOURCE ID: avatar_m_pants_animegou_00_bundle_icon
-TEXT: Calças estilo do Goh
+RESOURCE ID: avatar_seasonal
+TEXT: Pokémon GO Tour: Kanto
 
-RESOURCE ID: avatar_m_pants_bwn_00_bundle_icon
-TEXT: N-Style Pants
+RESOURCE ID: boosted_mega_pokemon_slowbro
+TEXT: Mega Slowbro está temporariamente mais poderoso!
 
-RESOURCE ID: avatar_m_pants_green_00_bundle_icon
-TEXT: Calças estilo do Blue
+RESOURCE ID: change_banned_name_dialog
+TEXT: Olá! Parece haver um problema com o apelido que você escolheu. Escolha um apelido novo.
 
-RESOURCE ID: avatar_m_shirt_animegou_00_bundle_icon
-TEXT: Camiseta estilo do Goh
+RESOURCE ID: community_day_eevee_event_name
+TEXT: Dia Comunitário: Eevee
 
-RESOURCE ID: avatar_m_shirt_bwn_00_bundle_icon
-TEXT: N-Style Top
+RESOURCE ID: community_day_oshawott_event_name
+TEXT: Community Day: Oshawott
 
-RESOURCE ID: avatar_m_shirt_green_00_bundle_icon
-TEXT: Casaco estilo do Blue
+RESOURCE ID: error_could_not_retrieve_more_username_suggestions
+TEXT: Não foi possível carregar mais sugestões. Tente novamente.
 
-RESOURCE ID: avatar_m_shirt_lvl50_00_bundle_icon
-TEXT: Jaqueta do nível 50
+RESOURCE ID: error_username_suggestion_just_taken_message
+TEXT: Este apelido não está mais disponível.
 
-RESOURCE ID: avatar_m_shirt_melmetaljacket_00_bundle_icon
-TEXT: Blusão de Melmetal
+RESOURCE ID: error_username_suggestion_just_taken_title
+TEXT: Indisponível
 
-RESOURCE ID: avatar_m_shirt_melmetalvest_00_bundle_icon
-TEXT: Colete de Melmetal
+RESOURCE ID: event_mischief_hour_active
+TEXT: Hora da travessura
 
-RESOURCE ID: avatar_m_shoes_animegou_00_bundle_icon
-TEXT: Tênis estilo do Goh
+RESOURCE ID: event_mischief_hour_countdown
+TEXT: Algumas travessuras estão a caminho...
 
-RESOURCE ID: avatar_m_shoes_bwn_00_bundle_icon
-TEXT: N-Style Shoes
+RESOURCE ID: event_season4_name
+TEXT: Temporada de travessura
 
-RESOURCE ID: avatar_m_shoes_coolboots_00_bundle_icon
-TEXT: Botas do nível 49
+RESOURCE ID: event_season4_research_available
+TEXT: Pesquisa especial "Travessura incompreendida" disponível
 
-RESOURCE ID: avatar_m_shoes_green_00_bundle_icon
-TEXT: Sapatos estilo do Blue
+RESOURCE ID: event_season4_research_complete_bonus
+TEXT: Complete a narrativa da pesquisa especial "Travessura incompreendida" para acessar um evento especial de fim de temporada
 
-RESOURCE ID: avatar_m_shoes_melmetalshoes_00_bundle_icon
-TEXT: Tênis de Melmetal
+RESOURCE ID: event_seasonal_eggs
+TEXT: Pokémon de temporada estão chocando de Ovos
 
-RESOURCE ID: badge_7_day_streaks
-TEXT: Consiga o bônus de dias consecutivos de captura de Pokémon ou giros de Poképaradas de sete dias {0} vezes.
+RESOURCE ID: event_seasonal_wild
+TEXT: Pokémon selvagens de temporada
 
-RESOURCE ID: badge_7_day_streaks_singular
-TEXT: Consiga um bônus de dias consecutivos de captura de Pokémon ou giros de Poképaradas de sete dias.
+RESOURCE ID: event_surprise_bonuses_active
+TEXT: Bônus surpresa já estão disponíveis!
 
-RESOURCE ID: badge_7_day_streaks_title
-TEXT: Triatleta
+RESOURCE ID: event_surprise_bonuses_countdown
+TEXT: Bônus surpresa estarão disponíveis em breve!
 
-RESOURCE ID: badge_event_0008
-TEXT: Test Location, November 22, 2020
+RESOURCE ID: evolve_best_buddy_confirmation
+TEXT: Você quer evoluir seu Melhor companheiro {0}?
 
-RESOURCE ID: badge_event_0008_title
-TEXT: City Spotlight 2020
+RESOURCE ID: form_aegislash_blade
+TEXT: Blade Forme
 
-RESOURCE ID: badge_event_0011
-TEXT: Auckland, November 22, 2020
+RESOURCE ID: form_aegislash_shield
+TEXT: Shield Forme
 
-RESOURCE ID: badge_event_0011_title
-TEXT: City Spotlight 2020
+RESOURCE ID: form_arceus_bug
+TEXT: Bug-Type
 
-RESOURCE ID: badge_event_0012
-TEXT: Kyoto, November 22, 2020
+RESOURCE ID: form_arceus_dark
+TEXT: Dark-Type
 
-RESOURCE ID: badge_event_0012_title
-TEXT: City Spotlight 2020
+RESOURCE ID: form_arceus_dragon
+TEXT: Dragon-Type
 
-RESOURCE ID: badge_event_0015
-TEXT: Busan, November 22, 2020
+RESOURCE ID: form_arceus_electric
+TEXT: Electric-Type
 
-RESOURCE ID: badge_event_0015_title
-TEXT: City Spotlight 2020
+RESOURCE ID: form_arceus_fairy
+TEXT: Fairy-Type
 
-RESOURCE ID: badge_event_0016
-TEXT: Tainan, November 22, 2020
+RESOURCE ID: form_arceus_fighting
+TEXT: Fighting-Type
 
-RESOURCE ID: badge_event_0016_title
-TEXT: City Spotlight 2020
+RESOURCE ID: form_arceus_fire
+TEXT: Fire-Type
 
-RESOURCE ID: badge_level_40
-TEXT: Alcance o nível 40 até 31 de dezembro de 2020.
+RESOURCE ID: form_arceus_flying
+TEXT: Flying-Type
 
-RESOURCE ID: badge_level_40_title
-TEXT: Antigo 40
+RESOURCE ID: form_arceus_ghost
+TEXT: Ghost-Type
 
-RESOURCE ID: badge_pokemon_caught_at_your_lures
-TEXT: Use um Módulo Atrair para ajudar outro Treinador a pegar {0} Pokémon.
+RESOURCE ID: form_arceus_grass
+TEXT: Grass-Type
 
-RESOURCE ID: badge_pokemon_caught_at_your_lures_singular
-TEXT: Use um Módulo Atrair para ajudar outro Treinador a pegar um Pokémon.
+RESOURCE ID: form_arceus_ground
+TEXT: Ground-Type
 
-RESOURCE ID: badge_pokemon_caught_at_your_lures_title
-TEXT: Fã de piquenique
+RESOURCE ID: form_arceus_ice
+TEXT: Ice-Type
 
-RESOURCE ID: badge_raids_with_friends
-TEXT: Vença {0} Reides com 1 amigo.
+RESOURCE ID: form_arceus_normal
+TEXT: Normal-Type
 
-RESOURCE ID: badge_raids_with_friends_singular
-TEXT: Vença 1 Reide com 1 amigo.
+RESOURCE ID: form_arceus_poison
+TEXT: Poison-Type
 
-RESOURCE ID: badge_raids_with_friends_title
-TEXT: Dupla em ascensão
+RESOURCE ID: form_arceus_psychic
+TEXT: Psychic-Type
 
-RESOURCE ID: badge_unique_pokestops
-TEXT: Visite {0} Poképaradas diferentes.
+RESOURCE ID: form_arceus_rock
+TEXT: Rock-Type
 
-RESOURCE ID: badge_unique_pokestops_singular
-TEXT: Visite 1 Poképarada.
+RESOURCE ID: form_arceus_steel
+TEXT: Steel-Type
 
-RESOURCE ID: badge_unique_pokestops_title
-TEXT: Excursionista
+RESOURCE ID: form_arceus_water
+TEXT: Water-Type
 
-RESOURCE ID: badge_unique_raid_bosses_defeated
-TEXT: Derrote {0} espécies diferentes de Pokémon em Reides.
+RESOURCE ID: form_burmy_plant
+TEXT: Manto Vegetal
 
-RESOURCE ID: badge_unique_raid_bosses_defeated_singular
-TEXT: Derrote 1 Pokémon em um Reide.
+RESOURCE ID: form_burmy_sandy
+TEXT: Manto Arenoso
 
-RESOURCE ID: badge_unique_raid_bosses_defeated_title
-TEXT: Em ascensão
+RESOURCE ID: form_burmy_trash
+TEXT: Manto de Lixo
 
-RESOURCE ID: boosted_mega_pokemon_abomasnow
-TEXT: Mega Abomasnow está temporariamente mais poderoso!
+RESOURCE ID: form_castform_normal
+TEXT: Forma Normal
 
-RESOURCE ID: boosted_mega_pokemon_beedrill
-TEXT: Mega Beedrill está temporariamente mais poderoso!
+RESOURCE ID: form_castform_rainy
+TEXT: Rainy Form
 
-RESOURCE ID: boosted_mega_pokemon_blastoise
-TEXT: Mega Blastoise está temporariamente mais poderoso!
+RESOURCE ID: form_castform_snowy
+TEXT: Snowy Form
 
-RESOURCE ID: boosted_mega_pokemon_charizard_x
-TEXT: Mega Charizard X está temporariamente mais poderoso!
+RESOURCE ID: form_castform_sunny
+TEXT: Sunny Form
 
-RESOURCE ID: boosted_mega_pokemon_charizard_y
-TEXT: Mega Charizard Y está temporariamente mais poderoso!
+RESOURCE ID: form_cherrim_overcast
+TEXT: Forma Nublada
 
-RESOURCE ID: boosted_mega_pokemon_gengar
-TEXT: Mega Gengar está temporariamente mais poderoso!
+RESOURCE ID: form_cherrim_sunny
+TEXT: Forma Solar
 
-RESOURCE ID: boosted_mega_pokemon_houndoom
-TEXT: Mega Houndoom está temporariamente mais poderoso!
+RESOURCE ID: form_darmanitan_standard
+TEXT: Modo Padrão
 
-RESOURCE ID: boosted_mega_pokemon_pidgeot
-TEXT: Mega Pidgeot está temporariamente mais poderoso!
+RESOURCE ID: form_darmanitan_zen
+TEXT: Zen Mode
 
-RESOURCE ID: boosted_mega_pokemon_venusaur
-TEXT: Mega Venusaur está temporariamente mais poderoso!
+RESOURCE ID: form_deoxys_attack
+TEXT: Attack Forme
 
-RESOURCE ID: buddy_giftbox_increase
-TEXT: Buddy will bring you Gifts more often
+RESOURCE ID: form_deoxys_defense
+TEXT: Defense Forme
 
-RESOURCE ID: candy_exchange_button
-TEXT: Permuta
+RESOURCE ID: form_deoxys_speed
+TEXT: Speed Forme
 
-RESOURCE ID: candy_trade_xl
-TEXT: doce → doce GG
+RESOURCE ID: form_female
+TEXT: Fêmea
 
-RESOURCE ID: catch_cup_title
-TEXT: Copa de Captura
+RESOURCE ID: form_full_belly
+TEXT: Full Belly Mode
 
-RESOURCE ID: city_spotlight
-TEXT: City Spotlight
+RESOURCE ID: form_furfrou_dandy
+TEXT: Corte Cavalheiro
 
-RESOURCE ID: city_spotlight_2020_auckland_snap1
-TEXT: Tire uma foto perto de Victoria Park
+RESOURCE ID: form_furfrou_debutant
+TEXT: Corte Debutante
 
-RESOURCE ID: city_spotlight_2020_auckland_snap2
-TEXT: Tire uma foto perto de Albert Park
+RESOURCE ID: form_furfrou_diamond
+TEXT: Corte Diamante
 
-RESOURCE ID: city_spotlight_2020_auckland_snap3
-TEXT: Tire uma foto perto de Auckland Domain
+RESOURCE ID: form_furfrou_heart
+TEXT: Corte Coração
 
-RESOURCE ID: city_spotlight_2020_auckland_snap4
-TEXT: Tire uma foto perto de Takutai Square
+RESOURCE ID: form_furfrou_kabuki
+TEXT: Corte Kabuki
 
-RESOURCE ID: city_spotlight_2020_auckland_snap5
-TEXT: Tire uma foto perto de Commercial Bay
+RESOURCE ID: form_furfrou_la_reine
+TEXT: Corte Aristocrático
 
-RESOURCE ID: city_spotlight_2020_auckland_snap6
-TEXT: Tire uma foto perto de Wynyard Quarter
+RESOURCE ID: form_furfrou_matron
+TEXT: Corte Madame
 
-RESOURCE ID: city_spotlight_2020_busan_snap1
-TEXT: Tire uma foto perto de Jagalchi Market
+RESOURCE ID: form_furfrou_natural
+TEXT: Forma Selvagem
 
-RESOURCE ID: city_spotlight_2020_busan_snap2
-TEXT: Tire uma foto perto de Yongdusan Park
+RESOURCE ID: form_furfrou_pharaoh
+TEXT: Corte Faraó
 
-RESOURCE ID: city_spotlight_2020_busan_snap3
-TEXT: Tire uma foto perto de Democracy Park
+RESOURCE ID: form_furfrou_star
+TEXT: Corte Estrela
 
-RESOURCE ID: city_spotlight_2020_busan_snap4
-TEXT: Tire uma foto perto de Jungang Park
+RESOURCE ID: form_genesect_burn
+TEXT: Disco Incendiante
 
-RESOURCE ID: city_spotlight_2020_busan_snap5
-TEXT: Tire uma foto perto de Yurari Plaza
+RESOURCE ID: form_genesect_chill
+TEXT: Disco Congelante
 
-RESOURCE ID: city_spotlight_2020_busan_snap6
-TEXT: Tire uma foto perto de Busan Station
+RESOURCE ID: form_genesect_douse
+TEXT: Disco Hídrico
 
-RESOURCE ID: city_spotlight_2020_dialogue_1_0
-TEXT: É hora de explorar sua cidade com seu Pokémon companheiro, %PLAYERNAME%! Estou animado para fazer o mesmo com meu fiel companheiro.
+RESOURCE ID: form_genesect_normal
+TEXT: Normal
 
-RESOURCE ID: city_spotlight_2020_dialogue_1_1
-TEXT: Os lugares onde passamos a maior parte do nosso tempo podem se tornar mundanos, mas com a atitude certa e um amigo ao seu lado, tudo pode se tornar uma aventura!
+RESOURCE ID: form_genesect_shock
+TEXT: Disco Elétrico
 
-RESOURCE ID: city_spotlight_2020_dialogue_1_2
-TEXT: E até mesmo o que já conhecemos pode esconder coisas novas e interessantes! Vamos explorar juntos!
+RESOURCE ID: form_greninja_ash
+TEXT: Ash-Greninja
 
-RESOURCE ID: city_spotlight_2020_kyoto_snap1
-TEXT: Tire uma foto perto de Takaragaike Park Children's Paradise
+RESOURCE ID: form_hoopa_confined
+TEXT: Hoopa Contido
 
-RESOURCE ID: city_spotlight_2020_kyoto_snap2
-TEXT: Tire uma foto perto de Kyoto International Conference Center
+RESOURCE ID: form_hoopa_unbound
+TEXT: Hoopa Libertado
 
-RESOURCE ID: city_spotlight_2020_kyoto_snap3
-TEXT: Tire uma foto perto de Takaragaike Park Iris Park
+RESOURCE ID: form_keldeo_ordinary
+TEXT: Forma Comum
 
-RESOURCE ID: city_spotlight_2020_kyoto_snap4
-TEXT: Tire uma foto perto de Takaragaike Pond
+RESOURCE ID: form_keldeo_resolute
+TEXT: Resolute Form
 
-RESOURCE ID: city_spotlight_2020_kyoto_snap5
-TEXT: Tire uma foto perto de Nakaragi Path
+RESOURCE ID: form_kyurem_black
+TEXT: Kyurem Preto
 
-RESOURCE ID: city_spotlight_2020_kyoto_snap6
-TEXT: Tire uma foto perto de Kamogawa Park
+RESOURCE ID: form_kyurem_normal
+TEXT: Kyurem
 
-RESOURCE ID: city_spotlight_2020_snap_generic
-TEXT: Tire uma foto perto de {0}
+RESOURCE ID: form_kyurem_white
+TEXT: Kyurem Branco
 
-RESOURCE ID: city_spotlight_2020_tainan_snap1
-TEXT: Tire uma foto perto de National Cheng Kung University Main Library
+RESOURCE ID: form_landorus_incarnate
+TEXT: Forma Materializada
 
-RESOURCE ID: city_spotlight_2020_tainan_snap2
-TEXT: Tire uma foto perto de Tainan Park
+RESOURCE ID: form_landorus_therian
+TEXT: Forma Therian
 
-RESOURCE ID: city_spotlight_2020_tainan_snap3
-TEXT: Tire uma foto perto de Confucius Temple, Tainan
+RESOURCE ID: form_male
+TEXT: Macho
 
-RESOURCE ID: city_spotlight_2020_tainan_snap4
-TEXT: Tire uma foto perto de Blueprint Culture & Creative Park
+RESOURCE ID: form_meloetta_aria
+TEXT: Forma Ária
 
-RESOURCE ID: city_spotlight_2020_tainan_snap5
-TEXT: Tire uma foto perto de Tainan Sports Park & Municipal Baseball Stadium
+RESOURCE ID: form_meloetta_pirouette
+TEXT: Pirouette Forme
 
-RESOURCE ID: city_spotlight_2020_tainan_snap6
-TEXT: Tire uma foto perto de Koxinga Museum & Koxinga Shrine
+RESOURCE ID: form_mimikyu_busted
+TEXT: Busted Form
 
-RESOURCE ID: city_spotlight_2020_test_snap1
-TEXT: Tire uma foto perto do local 1
+RESOURCE ID: form_mimikyu_disguised
+TEXT: Disguised Form
 
-RESOURCE ID: city_spotlight_2020_test_snap2
-TEXT: Tire uma foto perto do local 2
+RESOURCE ID: form_necrozma_dawn_wings
+TEXT: Dawn Wings
 
-RESOURCE ID: city_spotlight_2020_test_snap3
-TEXT: Tire uma foto perto do local 3
+RESOURCE ID: form_necrozma_dusk_mane
+TEXT: Dusk Mane
 
-RESOURCE ID: city_spotlight_2020_test_snap4
-TEXT: Tire uma foto perto do local 4
+RESOURCE ID: form_necrozma_normal
+TEXT: Necrozma
 
-RESOURCE ID: city_spotlight_2020_test_snap5
-TEXT: Tire uma foto perto do local 5
+RESOURCE ID: form_necrozma_ultra
+TEXT: Ultra Necrozma
 
-RESOURCE ID: city_spotlight_2020_test_snap6
-TEXT: Tire uma foto perto do local 6
+RESOURCE ID: form_pirouette
+TEXT: Pirouette Forme
 
-RESOURCE ID: city_spotlight_2020_title
-TEXT: City Spotlight 2020
+RESOURCE ID: form_pompom
+TEXT: Estilo Pompom
 
-RESOURCE ID: city_spotlight_2020_title_1
-TEXT: City Spotlight 2020 (1/1)
+RESOURCE ID: form_primal
+TEXT: Primal Reversion
 
-RESOURCE ID: community_day_electabuzz_event_name
-TEXT: Dia Comunitário: Electabuzz
+RESOURCE ID: form_rotom_fan
+TEXT: Rotom Ventilador
 
-RESOURCE ID: community_day_magmar_event_name
-TEXT: Dia Comunitário: Magmar
+RESOURCE ID: form_rotom_frost
+TEXT: Rotom Congelante
 
-RESOURCE ID: complete_geotarget_quest
-TEXT: Concluir uma tarefa de mapeamento de RA
+RESOURCE ID: form_rotom_heat
+TEXT: Rotom Calor
 
-RESOURCE ID: dialog_basic_no
-TEXT: NO
+RESOURCE ID: form_rotom_mow
+TEXT: Rotom Corte
 
-RESOURCE ID: dialog_basic_yes
-TEXT: YES
+RESOURCE ID: form_rotom_normal
+TEXT: Rotom
 
-RESOURCE ID: err_pokemon_could_not_be_powered_up
-TEXT: Não foi possível fortalecer este Pokémon.
+RESOURCE ID: form_rotom_wash
+TEXT: Rotom Lavagem
 
-RESOURCE ID: event_friendship_2020
-TEXT: 12 dias de amizade
+RESOURCE ID: form_school
+TEXT: Forma Cardume
 
-RESOURCE ID: event_kalos_celebration
-TEXT: Evento de celebração de Kalos
+RESOURCE ID: form_sensu
+TEXT: Estilo Leque
 
-RESOURCE ID: event_season1_name
-TEXT: Temporada de celebração
+RESOURCE ID: form_shaymin_land
+TEXT: Forma Terrestre
 
-RESOURCE ID: event_title_anime_week
-TEXT: Semana Animada
+RESOURCE ID: form_shaymin_sky
+TEXT: Forma Céu
 
-RESOURCE ID: event_title_movie23
-TEXT: Pokémon the Movie: Secrets of the Jungle Event
+RESOURCE ID: form_silvally_bug
+TEXT: Type: Bug
 
-RESOURCE ID: f_avatar_poses_bundle_pose_22
-TEXT: Pose do Blue
+RESOURCE ID: form_silvally_dark
+TEXT: Type: Dark
 
-RESOURCE ID: f_avatar_poses_bundle_pose_24
-TEXT: N Pose
+RESOURCE ID: form_silvally_dragon
+TEXT: Type: Dragon
 
-RESOURCE ID: f_avatar_poses_bundle_pose_25
-TEXT: Pose do nível 43
+RESOURCE ID: form_silvally_electric
+TEXT: Type: Electric
 
-RESOURCE ID: f_avatar_poses_bundle_pose_26
-TEXT: Pose do nível 47
+RESOURCE ID: form_silvally_fairy
+TEXT: Type: Fairy
 
-RESOURCE ID: f_glasses_lv40glasses_00
-TEXT: Óculos do nível 41
+RESOURCE ID: form_silvally_fighting
+TEXT: Type: Fighting
 
-RESOURCE ID: f_glasses_lv40glasses_00_bundle_icon
-TEXT: Óculos do nível 41
+RESOURCE ID: form_silvally_fire
+TEXT: Type: Fire
 
-RESOURCE ID: f_hat_gyaradoscap_00_bundle_icon
-TEXT: Gorro de Gyarados
+RESOURCE ID: form_silvally_flying
+TEXT: Type: Flying
 
-RESOURCE ID: f_hat_lvl50cap_0
-TEXT: Boné do nível 45
+RESOURCE ID: form_silvally_ghost
+TEXT: Type: Ghost
 
-RESOURCE ID: f_hat_lvl50cap_00_bundle_icon
-TEXT: Boné do nível 45
+RESOURCE ID: form_silvally_grass
+TEXT: Type: Grass
 
-RESOURCE ID: f_shirt_lvl50_0
-TEXT: Jaqueta do nível 50
+RESOURCE ID: form_silvally_ground
+TEXT: Type: Ground
 
-RESOURCE ID: f_shirt_lvl50_00_bundle_icon
-TEXT: Jaqueta do nível 50
+RESOURCE ID: form_silvally_ice
+TEXT: Type: Ice
 
-RESOURCE ID: f_shirt_lvl50_1
-TEXT: Jaqueta do nível 50
+RESOURCE ID: form_silvally_normal
+TEXT: Type: Normal
 
-RESOURCE ID: f_shoes_coolboots_0
-TEXT: Botas do nível 49
+RESOURCE ID: form_silvally_poison
+TEXT: Type: Poison
 
-RESOURCE ID: f_shoes_coolboots_00_bundle_icon
-TEXT: Botas do nível 49
+RESOURCE ID: form_silvally_psychic
+TEXT: Type: Psychic
 
-RESOURCE ID: friendship_bonus_increase
-TEXT: Níveis de amizade aumentam mais rápido
+RESOURCE ID: form_silvally_rock
+TEXT: Type: Rock
+
+RESOURCE ID: form_silvally_steel
+TEXT: Type: Steel
+
+RESOURCE ID: form_silvally_water
+TEXT: Type: Water
+
+RESOURCE ID: form_thundurus_incarnate
+TEXT: Forma Materializada
+
+RESOURCE ID: form_thundurus_therian
+TEXT: Forma Therian
+
+RESOURCE ID: form_tornadus_incarnate
+TEXT: Forma Materializada
+
+RESOURCE ID: form_tornadus_therian
+TEXT: Forma Therian
+
+RESOURCE ID: form_vivillon_archipelago
+TEXT: Archipelago Pattern
+
+RESOURCE ID: form_vivillon_continental
+TEXT: Continental Pattern
+
+RESOURCE ID: form_vivillon_elegant
+TEXT: Elegant Pattern
+
+RESOURCE ID: form_vivillon_fancy
+TEXT: Fancy Pattern
+
+RESOURCE ID: form_vivillon_garden
+TEXT: Garden Pattern
+
+RESOURCE ID: form_vivillon_high_plains
+TEXT: High Plains Pattern
+
+RESOURCE ID: form_vivillon_icy_snow
+TEXT: Icy Snow Pattern
+
+RESOURCE ID: form_vivillon_jungle
+TEXT: Jungle Pattern
+
+RESOURCE ID: form_vivillon_marine
+TEXT: Marine Pattern
+
+RESOURCE ID: form_vivillon_meadow
+TEXT: Meadow Pattern
+
+RESOURCE ID: form_vivillon_modern
+TEXT: Modern Pattern
+
+RESOURCE ID: form_vivillon_monsoon
+TEXT: Monsoon Pattern
+
+RESOURCE ID: form_vivillon_ocean
+TEXT: Ocean Pattern
+
+RESOURCE ID: form_vivillon_pokeball
+TEXT: Poké Ball Pattern
+
+RESOURCE ID: form_vivillon_polar
+TEXT: Polar Pattern
+
+RESOURCE ID: form_vivillon_river
+TEXT: River Pattern
+
+RESOURCE ID: form_vivillon_sandstorm
+TEXT: Sandstorm Pattern
+
+RESOURCE ID: form_vivillon_savanna
+TEXT: Savanna Pattern
+
+RESOURCE ID: form_vivillon_sun
+TEXT: Sun Pattern
+
+RESOURCE ID: form_vivillon_tundra
+TEXT: Tundra Pattern
+
+RESOURCE ID: form_wishiwashi_school
+TEXT: Forma Cardume
+
+RESOURCE ID: form_wishiwashi_solo
+TEXT: Solo Form
+
+RESOURCE ID: form_zygarde_complete
+TEXT: Complete Forme
+
+RESOURCE ID: form_zygarde_fifty_percent
+TEXT: 50% Forme
+
+RESOURCE ID: form_zygarde_ten_percent
+TEXT: 10% Forme
+
+RESOURCE ID: gbl_quadruple_dust_win
+TEXT: 4× Poeira Estelar de recompensa na Liga de Batalha GO
 
 RESOURCE ID: general1.ticket.2_description
-TEXT: Um ingresso para acessar a pesquisa especial "Magmar em erupção", em 21 de novembro de 2020, das 11h às 17h, horário local, de onde você estiver. Mais detalhes podem ser encontrados na seção de novidades do jogo.
-
-VOCÊ DEVE JOGAR DURANTE O HORÁRIO ESPECIFICADO PARA RECEBER TODOS OS BÔNUS DO EVENTO ESPECIAL.
-
-RESOURCE ID: general1.ticket.2_description_2
-TEXT: Um ingresso para acessar a pesquisa especial "Magmar em erupção", em 21 de novembro de 2020, das 11h às 17h, horário local, de onde você estiver. Mais detalhes podem ser encontrados na seção de novidades do jogo.
-
-VOCÊ DEVE JOGAR DURANTE O HORÁRIO ESPECIFICADO PARA RECEBER TODOS OS BÔNUS DO EVENTO ESPECIAL.
-
-RESOURCE ID: general1.ticket.2_title
-TEXT: Ingresso: Magmar em erupção
-
-RESOURCE ID: general1.ticket.2_title_2
-TEXT: Ingresso: Magmar em erupção
-
-RESOURCE ID: group_seasonal
-TEXT: Festivo
-
-RESOURCE ID: gym_tag_event
-TEXT: EVENTO
-
-RESOURCE ID: home_event_name
-TEXT: Evento do Pokémon HOME
-
-RESOURCE ID: home_privacy_warning
-TEXT: Ao conectar o Pokémon GO com o Pokémon HOME, certas informações serão compartilhadas com a The Pokémon Company durante o processo de transferência de Pokémon. Leia este  <a href="https://niantic.helpshift.com/a/pokemon-go/?s=accessories-and-services&f=sending-pokemon-to-pokemon-home">artigo</a> para mais informações. Dados compartilhados com a The Pokémon Company estão sujeitos à política de privacidade da The Pokémon Company.
-
-RESOURCE ID: home_transfer_warning
-TEXT: Certos Pokémon enviados para o Pokémon HOME não podem ser levados com você para outros jogos de Pokémon. Confira o aplicativo do Pokémon HOME para saber mais. Depois de enviar Pokémon para o Pokémon HOME, estes Pokémon não podem voltar para o Pokémon GO.
-
-RESOURCE ID: iap_category_avatar
-TEXT: Boutique
-
-RESOURCE ID: invalid_character_tag_name_warning
-TEXT: Este nome contém um caractere inválido.
-
-RESOURCE ID: item_event_ticket_pink_desc
-TEXT: Um ingresso para acessar uma pesquisa especial no dia 21 de novembro, das 11h às 17h, horário local, de onde você estiver.
-
-RESOURCE ID: item_event_ticket_pink_desc_2
-TEXT: Um ingresso para acessar uma pesquisa especial no dia 21 de novembro, das 11h às 17h, horário local, de onde você estiver.
-
-RESOURCE ID: item_event_ticket_pink_details
-TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a uma pesquisa especial no dia 21 de novembro, de onde você estiver.
-
-RESOURCE ID: item_event_ticket_pink_details_2
-TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a uma pesquisa especial no dia 21 de novembro, de onde você estiver.
-
-RESOURCE ID: item_xl_rare_candy_desc
-TEXT: Um doce misterioso. Quando é usado em um Pokémon, ele se transforma no Doce GG daquele Pokémon.
-
-RESOURCE ID: item_xl_rare_candy_name
-TEXT: Doce Raro GG
-
-RESOURCE ID: kanto_cup_title
-TEXT: Copa de Kanto
-
-RESOURCE ID: lake_trio_event_name
-TEXT: Evento dos Lendários dos lagos
-
-RESOURCE ID: level_up_details_gui_title
-TEXT: Requisitos de nível {0}
-
-RESOURCE ID: level_up_gear_banner
-TEXT: Itens de estilo de nível {0}
-
-RESOURCE ID: level_up_quest_widget_description
-TEXT: Recompensas de tarefas serão concedidas automaticamente após a conclusão.
-
-RESOURCE ID: limited_research_nidoran
-TEXT: Pesquisa limitada de Nidoran♀ e Nidoran♂
-
-RESOURCE ID: little_cup_title
-TEXT: Copinha
-
-RESOURCE ID: m_avatar_poses_bundle_pose_22
-TEXT: Pose do Blue
-
-RESOURCE ID: m_avatar_poses_bundle_pose_24
-TEXT: N Pose
-
-RESOURCE ID: m_avatar_poses_bundle_pose_25
-TEXT: Pose do nível 43
-
-RESOURCE ID: m_avatar_poses_bundle_pose_26
-TEXT: Pose do nível 47
-
-RESOURCE ID: m_glasses_lv40glasses_00
-TEXT: Óculos do nível 41
-
-RESOURCE ID: m_glasses_lv40glasses_00_bundle_icon
-TEXT: Óculos do nível 41
-
-RESOURCE ID: m_hat_gyaradoscap_00_bundle_icon
-TEXT: Gorro de Gyarados
-
-RESOURCE ID: m_hat_lvl50cap_0
-TEXT: Boné do nível 45
-
-RESOURCE ID: m_hat_lvl50cap_00_bundle_icon
-TEXT: Boné do nível 45
-
-RESOURCE ID: m_shirt_lvl50_0
-TEXT: Jaqueta do nível 50
-
-RESOURCE ID: m_shirt_lvl50_00_bundle_icon
-TEXT: Jaqueta do nível 50
-
-RESOURCE ID: m_shirt_lvl50_1
-TEXT: Jaqueta do nível 50
-
-RESOURCE ID: m_shoes_coolboots_0
-TEXT: Botas do nível 49
-
-RESOURCE ID: m_shoes_coolboots_00_bundle_icon
-TEXT: Botas do nível 49
-
-RESOURCE ID: maximum_tags_error
-TEXT: Cannot create more than {0} tags
-
-RESOURCE ID: metadata_patch
-TEXT: Built at 2020-11-25T18:51:06.431672
-at SHA 907d7edbfe3c4cd440151506190713b3735b82ad
-Patch from: 0.193.1-SHA-310fd888, 0.193.0-SHA-4d0e8664
-
-RESOURCE ID: photobomb_five_electabuzz
-TEXT: 5 encontros surpresa com Electabuzz ao usar o Retrato GO
-
-RESOURCE ID: photobomb_five_magmar
-TEXT: 5 encontros surpresa com Magmar ao usar o Retrato GO
-
-RESOURCE ID: poi_contrib_ar_added
-TEXT: Você terá mais {0} contribuições de scan disponíveis amanhã.
-
-RESOURCE ID: poi_contrib_ar_avail
-TEXT: Você tem {0} contribuições de scan disponíveis hoje.
-
-RESOURCE ID: poi_contrib_ar_maxed
-TEXT: Você atingiu seu máximo diário de contribuições de scan de {0}.
-
-RESOURCE ID: poi_contrib_edit_desc_added
-TEXT: Você terá mais {0} edições de descrição disponíveis amanhã.
-
-RESOURCE ID: poi_contrib_edit_desc_avail
-TEXT: Você tem {0} edições de descrição disponíveis hoje.
-
-RESOURCE ID: poi_contrib_edit_desc_maxed
-TEXT: Você atingiu seu máximo diário de edições de descrição de {0}.
-
-RESOURCE ID: poi_contrib_edit_location_added
-TEXT: Você terá mais {0} edições de localização disponíveis amanhã.
-
-RESOURCE ID: poi_contrib_edit_location_avail
-TEXT: Você tem {0} edições de localização disponíveis hoje.
-
-RESOURCE ID: poi_contrib_edit_location_maxed
-TEXT: Você atingiu seu máximo diário de edições de localização de {0}.
-
-RESOURCE ID: poi_contrib_edit_photo_added
-TEXT: Você terá mais {0} contribuições de foto disponíveis amanhã.
-
-RESOURCE ID: poi_contrib_edit_photo_avail
-TEXT: Você tem {0} contribuições de foto disponíveis hoje.
-
-RESOURCE ID: poi_contrib_edit_photo_maxed
-TEXT: Você atingiu seu máximo diário de contribuições de foto de {0}.
-
-RESOURCE ID: poi_contrib_edit_title_added
-TEXT: Você terá mais {0} edições de título disponíveis amanhã.
-
-RESOURCE ID: poi_contrib_edit_title_avail
-TEXT: Você tem {0} edições de título disponíveis hoje.
-
-RESOURCE ID: poi_contrib_edit_title_maxed
-TEXT: Você atingiu seu máximo diário de edições de título de {0}.
-
-RESOURCE ID: poi_contrib_nom_added
-TEXT: Você terá {0} proposta(s) de Poképarada disponíveis amanhã.
-
-RESOURCE ID: poi_contrib_nom_avail
-TEXT: Você tem {0} proposta(s) de Poképarada disponíveis hoje.
-
-RESOURCE ID: poi_contrib_nom_maxed
-TEXT: Você atingiu seu máximo diário de propostas de Poképarada de {0}.
-
-RESOURCE ID: poi_contrib_report_added
-TEXT: Você terá mais {0} reportações disponíveis amanhã.
-
-RESOURCE ID: poi_contrib_report_avail
-TEXT: Você tem {0} reportações disponíveis hoje.
-
-RESOURCE ID: poi_contrib_report_maxed
-TEXT: Você atingiu seu máximo diário de reportações de {0}.
-
-RESOURCE ID: poi_contrib_sponsor_content_added
-TEXT: Você terá mais {0} reportações de conteúdo disponíveis amanhã.
-
-RESOURCE ID: poi_contrib_sponsor_content_avail
-TEXT: Você tem {0} reportações de conteúdo disponíveis hoje.
-
-RESOURCE ID: poi_contrib_sponsor_content_maxed
-TEXT: Você atingiu seu máximo diário de reportações de conteúdo de {0}.
-
-RESOURCE ID: poi_contrib_sponsor_loc_added
-TEXT: Você terá mais {0} reportações de localização disponíveis amanhã.
-
-RESOURCE ID: poi_contrib_sponsor_loc_avail
-TEXT: Você tem {0} reportações de localização disponíveis hoje.
-
-RESOURCE ID: poi_contrib_sponsor_loc_maxed
-TEXT: Você atingiu seu máximo diário de reportações de localização de {0}.
-
-RESOURCE ID: poi_sub_next_button
-TEXT: OK
-
-RESOURCE ID: pokedex_see_all
-TEXT: VER TODOS {0}
-
-RESOURCE ID: pokemon_category_0650
-TEXT: Pokémon Noz Espinhosa
-
-RESOURCE ID: pokemon_category_0651
-TEXT: Pokémon Armadura Espinhosa
-
-RESOURCE ID: pokemon_category_0652
-TEXT: Pokémon Armadura Espinhosa
-
-RESOURCE ID: pokemon_category_0653
-TEXT: Pokémon Raposa
-
-RESOURCE ID: pokemon_category_0654
-TEXT: Pokémon Raposa
-
-RESOURCE ID: pokemon_category_0655
-TEXT: Pokémon Raposa
-
-RESOURCE ID: pokemon_category_0656
-TEXT: Pokémon Sapo Bolha
-
-RESOURCE ID: pokemon_category_0657
-TEXT: Pokémon Sapo Bolha
-
-RESOURCE ID: pokemon_category_0658
-TEXT: Pokémon Ninja
-
-RESOURCE ID: pokemon_category_0659
-TEXT: Pokémon Escavador
-
-RESOURCE ID: pokemon_category_0660
-TEXT: Pokémon Escavador
-
-RESOURCE ID: pokemon_category_0661
-TEXT: Pokémon Pintarroxinho
-
-RESOURCE ID: pokemon_category_0662
-TEXT: Pokémon Brasa
-
-RESOURCE ID: pokemon_category_0663
-TEXT: Pokémon Ardente
-
-RESOURCE ID: pokemon_category_0664
-TEXT: Pokémon Poeira Dispersa
-
-RESOURCE ID: pokemon_category_0665
-TEXT: Pokémon Poeira Dispersa
-
-RESOURCE ID: pokemon_category_0666
-TEXT: Pokémon Escama
-
-RESOURCE ID: pokemon_category_0667
-TEXT: Pokémon Filhote de Leão
-
-RESOURCE ID: pokemon_category_0668
-TEXT: Pokémon Real
-
-RESOURCE ID: pokemon_category_0669
-TEXT: Pokémon Florescimento Simples
-
-RESOURCE ID: pokemon_category_0670
-TEXT: Single Bloom Pokémon
-
-RESOURCE ID: pokemon_category_0671
-TEXT: Garden Pokémon
-
-RESOURCE ID: pokemon_category_0672
-TEXT: Mount Pokémon
-
-RESOURCE ID: pokemon_category_0673
-TEXT: Mount Pokémon
-
-RESOURCE ID: pokemon_category_0674
-TEXT: Playful Pokémon
-
-RESOURCE ID: pokemon_category_0675
-TEXT: Daunting Pokémon
-
-RESOURCE ID: pokemon_category_0676
-TEXT: Poodle Pokémon
-
-RESOURCE ID: pokemon_category_0677
-TEXT: Pokémon Retenção
-
-RESOURCE ID: pokemon_category_0678
-TEXT: Pokémon Restrição
-
-RESOURCE ID: pokemon_category_0679
-TEXT: Sword Pokémon
-
-RESOURCE ID: pokemon_category_0680
-TEXT: Sword Pokémon
-
-RESOURCE ID: pokemon_category_0681
-TEXT: Royal Sword Pokémon
-
-RESOURCE ID: pokemon_category_0682
-TEXT: Perfume Pokémon
-
-RESOURCE ID: pokemon_category_0683
-TEXT: Fragrance Pokémon
-
-RESOURCE ID: pokemon_category_0684
-TEXT: Cotton Candy Pokémon
-
-RESOURCE ID: pokemon_category_0685
-TEXT: Meringue Pokémon
-
-RESOURCE ID: pokemon_category_0686
-TEXT: Revolving Pokémon
-
-RESOURCE ID: pokemon_category_0687
-TEXT: Overturning Pokémon
-
-RESOURCE ID: pokemon_category_0688
-TEXT: Two-Handed Pokémon
-
-RESOURCE ID: pokemon_category_0689
-TEXT: Collective Pokémon
-
-RESOURCE ID: pokemon_category_0690
-TEXT: Mock Kelp Pokémon
-
-RESOURCE ID: pokemon_category_0691
-TEXT: Mock Kelp Pokémon
-
-RESOURCE ID: pokemon_category_0692
-TEXT: Water Gun Pokémon
-
-RESOURCE ID: pokemon_category_0693
-TEXT: Howitzer Pokémon
-
-RESOURCE ID: pokemon_category_0694
-TEXT: Generator Pokémon
-
-RESOURCE ID: pokemon_category_0695
-TEXT: Generator Pokémon
-
-RESOURCE ID: pokemon_category_0696
-TEXT: Royal Heir Pokémon
-
-RESOURCE ID: pokemon_category_0697
-TEXT: Despot Pokémon
-
-RESOURCE ID: pokemon_category_0698
-TEXT: Tundra Pokémon
-
-RESOURCE ID: pokemon_category_0699
-TEXT: Tundra Pokémon
-
-RESOURCE ID: pokemon_category_0700
-TEXT: Intertwining Pokémon
-
-RESOURCE ID: pokemon_category_0701
-TEXT: Wrestling Pokémon
-
-RESOURCE ID: pokemon_category_0702
-TEXT: Antenna Pokémon
-
-RESOURCE ID: pokemon_category_0703
-TEXT: Jewel Pokémon
-
-RESOURCE ID: pokemon_category_0704
-TEXT: Soft Tissue Pokémon
-
-RESOURCE ID: pokemon_category_0705
-TEXT: Soft Tissue Pokémon
-
-RESOURCE ID: pokemon_category_0706
-TEXT: Dragon Pokémon
-
-RESOURCE ID: pokemon_category_0707
-TEXT: Pokémon Chaveiro
-
-RESOURCE ID: pokemon_category_0708
-TEXT: Stump Pokémon
-
-RESOURCE ID: pokemon_category_0709
-TEXT: Elder Tree Pokémon
-
-RESOURCE ID: pokemon_category_0710
-TEXT: Pumpkin Pokémon
-
-RESOURCE ID: pokemon_category_0711
-TEXT: Pumpkin Pokémon
-
-RESOURCE ID: pokemon_category_0712
-TEXT: Ice Chunk Pokémon
-
-RESOURCE ID: pokemon_category_0713
-TEXT: Iceberg Pokémon
-
-RESOURCE ID: pokemon_category_0714
-TEXT: Pokémon Onda Sonora
-
-RESOURCE ID: pokemon_category_0715
-TEXT: Pokémon Onda Sonora
-
-RESOURCE ID: pokemon_category_0716
-TEXT: Life Pokémon
-
-RESOURCE ID: pokemon_category_0717
-TEXT: Destruction Pokémon
-
-RESOURCE ID: pokemon_category_0718
-TEXT: Order Pokémon
-
-RESOURCE ID: pokemon_category_0719
-TEXT: Jewel Pokémon
-
-RESOURCE ID: pokemon_category_0720
-TEXT: Mischief Pokémon
-
-RESOURCE ID: pokemon_category_0721
-TEXT: Steam Pokémon
-
-RESOURCE ID: pokemon_desc_0650
-TEXT: Os espinhos em sua cabeça normalmente são macios. Quando ele os flexiona, as pontas tornam-se tão duras e afiadas que podem perfurar rochas.
-
-RESOURCE ID: pokemon_desc_0651
-TEXT: Ele depende da sua carapaça resistente para repelir ataques de predadores. Contra-ataca com seus espinhos afiados.
-
-RESOURCE ID: pokemon_desc_0652
-TEXT: Sua Investida é poderosa o suficiente para virar um tanque de 50 toneladas. Ele protege seus aliados de perigos com o próprio corpo.
-
-RESOURCE ID: pokemon_desc_0653
-TEXT: Comer um galho o enche de energia. Suas orelhas espaçosas expelem ar mais quente que 200 ºC.
-
-RESOURCE ID: pokemon_desc_0654
-TEXT: Ele possui um galho preso em sua cauda. Com o atrito do pelo da cauda, incendeia o galho e o lança em batalha.
-
-RESOURCE ID: pokemon_desc_0655
-TEXT: Olha fixamente para a chama na ponta do seu galho para alcançar um estado de concentração que o permite enxergar o futuro.
-
-RESOURCE ID: pokemon_desc_0656
-TEXT: Liberam bolhas flexíveis do peito e das costas. As bolhas reduzem os danos que sofreriam ao serem atacados.
-
-RESOURCE ID: pokemon_desc_0657
-TEXT: Pode atirar seixos cobertos em bolhas com controle preciso, atingindo latas vazias a 30 metros de distância.
-
-RESOURCE ID: pokemon_desc_0658
-TEXT: Pode atirar seixos cobertos em bolhas com controle preciso, atingindo latas vazias a 30 metros de distância.
-
-RESOURCE ID: pokemon_desc_0659
-TEXT: Usam suas grandes orelhas para cavar tocas. Eles cavam a noite inteira sem parar.
-
-RESOURCE ID: pokemon_desc_0660
-TEXT: Com suas orelhas poderosas, podem levantar facilmente rochas de 1 tonelada ou mais. Eles podem ser uma grande ajuda em canteiros de obras.
-
-RESOURCE ID: pokemon_desc_0661
-TEXT: Esses Pokémon amigáveis enviam sinais uns para os outros com belos gorjeios e o movimento das penas da cauda.
-
-RESOURCE ID: pokemon_desc_0662
-TEXT: Atira brasas do seu bico em suas presas. Uma vez que as captura, as grelha em alta temperatura antes de comê-las.
-
-RESOURCE ID: pokemon_desc_0663
-TEXT: No calor de uma batalha empolgante, ele dispara brasas dos espaços entre suas penas e vai para o ar.
-
-RESOURCE ID: pokemon_desc_0664
-TEXT: When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.
-
-RESOURCE ID: pokemon_desc_0665
-TEXT: It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.
-
-RESOURCE ID: pokemon_desc_0666
-TEXT: Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.
-
-RESOURCE ID: pokemon_desc_0667
-TEXT: Quanto mais forte o oponente que enfrenta, mais calor surge da sua crina e mais poder flui pelo seu corpo.
-
-RESOURCE ID: pokemon_desc_0668
-TEXT: O macho com a maior juba de fogo é o líder do grupo.
-
-RESOURCE ID: pokemon_desc_0669
-TEXT: It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body.
-
-RESOURCE ID: pokemon_desc_0670
-TEXT: It flutters around fields of flowers and cares for flowers that are starting to wilt. It draws out the hidden power of flowers to battle.
-
-RESOURCE ID: pokemon_desc_0671
-TEXT: It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.
-
-RESOURCE ID: pokemon_desc_0672
-TEXT: Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.
-
-RESOURCE ID: pokemon_desc_0673
-TEXT: It can tell how its Trainer is feeling by subtle shifts in the grip on its horns. This empathic sense lets them run as if one being.
-
-RESOURCE ID: pokemon_desc_0674
-TEXT: It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark.
-
-RESOURCE ID: pokemon_desc_0675
-TEXT: Although it possesses a violent temperament, it won't put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.
-
-RESOURCE ID: pokemon_desc_0676
-TEXT: Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.
-
-RESOURCE ID: pokemon_desc_0677
-TEXT: O órgão que emite seu intenso poder psíquico é abrigado por suas orelhas para impedir que esse poder vaze.
-
-RESOURCE ID: pokemon_desc_0678
-TEXT: Quando em perigo, ergue as orelhas e libera poder psíquico suficiente para moer um caminhão de 10 toneladas e transformá-lo em pó.
-
-RESOURCE ID: pokemon_desc_0679
-TEXT: Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.
-
-RESOURCE ID: pokemon_desc_0680
-TEXT: When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.
-
-RESOURCE ID: pokemon_desc_0681
-TEXT: Generations of kings were attended by these Pokémon, which used their spectral power to manipulate and control people and Pokémon.
-
-RESOURCE ID: pokemon_desc_0682
-TEXT: It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.
-
-RESOURCE ID: pokemon_desc_0683
-TEXT: It devises various scents, pleasant and unpleasant, and emits scents that its enemies dislike in order to gain an edge in battle.
-
-RESOURCE ID: pokemon_desc_0684
-TEXT: To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.
-
-RESOURCE ID: pokemon_desc_0685
-TEXT: It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work.
-
-RESOURCE ID: pokemon_desc_0686
-TEXT: Opponents who stare at the flashing of the light-emitting spots on its body become dazed and lose their will to fight.
-
-RESOURCE ID: pokemon_desc_0687
-TEXT: It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.
-
-RESOURCE ID: pokemon_desc_0688
-TEXT: Two Binacle live together on one rock. When they fight, one of them will move to a different rock.
-
-RESOURCE ID: pokemon_desc_0689
-TEXT: When they evolve, two Binacle multiply into seven. They fight with the power of seven Binacle.
-
-RESOURCE ID: pokemon_desc_0690
-TEXT: Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.
-
-RESOURCE ID: pokemon_desc_0691
-TEXT: Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory.
-
-RESOURCE ID: pokemon_desc_0692
-TEXT: They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.
-
-RESOURCE ID: pokemon_desc_0693
-TEXT: Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls.
-
-RESOURCE ID: pokemon_desc_0694
-TEXT: They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.
-
-RESOURCE ID: pokemon_desc_0695
-TEXT: They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.
-
-RESOURCE ID: pokemon_desc_0696
-TEXT: This Pokémon was restored from a fossil. If something happens that it doesn't like, it throws a tantrum and runs wild.
-
-RESOURCE ID: pokemon_desc_0697
-TEXT: Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited.
-
-RESOURCE ID: pokemon_desc_0698
-TEXT: This ancient Pokémon was restored from part of its body that had been frozen in ice for over 100 million years.
-
-RESOURCE ID: pokemon_desc_0699
-TEXT: The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit, surrounding its enemies and encasing them in ice.
-
-RESOURCE ID: pokemon_desc_0700
-TEXT: It sends a soothing aura from its ribbonlike feelers to calm fights.
-
-RESOURCE ID: pokemon_desc_0701
-TEXT: Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.
-
-RESOURCE ID: pokemon_desc_0702
-TEXT: Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.
-
-RESOURCE ID: pokemon_desc_0703
-TEXT: Born from the temperatures and pressures deep underground, it fires beams from the stone in its head.
-
-RESOURCE ID: pokemon_desc_0704
-TEXT: The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn't dry out.
-
-RESOURCE ID: pokemon_desc_0705
-TEXT: It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can't see anything.
-
-RESOURCE ID: pokemon_desc_0706
-TEXT: This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.
-
-RESOURCE ID: pokemon_desc_0707
-TEXT: Esses colecionadores de chaves ameaçam quaisquer agressores ao tilintar ferozmente suas chaves sobre eles.
-
-RESOURCE ID: pokemon_desc_0708
-TEXT: These Pokémon are created when spirits possess rotten tree stumps. They prefer to live in abandoned forests.
-
-RESOURCE ID: pokemon_desc_0709
-TEXT: It can control trees at will. It will trap people who harm the forest, so they can never leave.
-
-RESOURCE ID: pokemon_desc_0710
-TEXT: The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.
-
-RESOURCE ID: pokemon_desc_0711
-TEXT: Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.
-
-RESOURCE ID: pokemon_desc_0712
-TEXT: It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.
-
-RESOURCE ID: pokemon_desc_0713
-TEXT: Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.
-
-RESOURCE ID: pokemon_desc_0714
-TEXT: Eles vivem em cavernas na escuridão total. Suas enormes orelhas podem emitir ondas ultrassônicas de 200.000 hertz.
-
-RESOURCE ID: pokemon_desc_0715
-TEXT: Eles voam sem destino nas noites sem luar e atacam presas descuidadas. Nada pode vencê-los em uma batalha no escuro.
-
-RESOURCE ID: pokemon_desc_0716
-TEXT: Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.
-
-RESOURCE ID: pokemon_desc_0717
-TEXT: When this legendary Pokémon's wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.
-
-RESOURCE ID: pokemon_desc_0718
-TEXT: When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.
-
-RESOURCE ID: pokemon_desc_0719
-TEXT: A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.
-
-RESOURCE ID: pokemon_desc_0720
-TEXT: In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.
-
-RESOURCE ID: pokemon_desc_0721
-TEXT: It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread.
-
-RESOURCE ID: pokemon_desc_0865
-TEXT: Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.
-
-RESOURCE ID: pokemon_info_candy_exchange_player_lv_too_low
-TEXT: Seu nível de Treinador é muito baixo para transformar doces em doces GG.
-
-RESOURCE ID: pokemon_info_powerup_need_xl_candies
-TEXT: Você precisa de mais doces GG de {0}.
-
-RESOURCE ID: pokemon_info_unknown_location
-TEXT: DESCONHECIDO
-
-RESOURCE ID: pokemon_info_xl_candy_label
-TEXT: Doce GG de {0}
-
-RESOURCE ID: pokemon_inventory_favorite_search_rename_button
-TEXT: Renomear
-
-RESOURCE ID: pokemon_inventory_favorite_search_rename_title
-TEXT: Definir nome da pesquisa
-
-RESOURCE ID: pokemon_inventory_favorite_search_title
-TEXT: Gerenciar pesquisa de favoritos
-
-RESOURCE ID: pokemon_inventory_select_all
-TEXT: SELECIONAR TUDO
-
-RESOURCE ID: pokemon_name_0650
-TEXT: Chespin
-
-RESOURCE ID: pokemon_name_0651
-TEXT: Quilladin
-
-RESOURCE ID: pokemon_name_0652
-TEXT: Chesnaught
-
-RESOURCE ID: pokemon_name_0653
-TEXT: Fennekin
-
-RESOURCE ID: pokemon_name_0654
-TEXT: Braixen
-
-RESOURCE ID: pokemon_name_0655
-TEXT: Delphox
-
-RESOURCE ID: pokemon_name_0656
-TEXT: Froakie
-
-RESOURCE ID: pokemon_name_0657
-TEXT: Frogadier
-
-RESOURCE ID: pokemon_name_0658
-TEXT: Greninja
-
-RESOURCE ID: pokemon_name_0659
-TEXT: Bunnelby
-
-RESOURCE ID: pokemon_name_0660
-TEXT: Diggersby
-
-RESOURCE ID: pokemon_name_0661
-TEXT: Fletchling
-
-RESOURCE ID: pokemon_name_0662
-TEXT: Fletchinder
-
-RESOURCE ID: pokemon_name_0663
-TEXT: Talonflame
-
-RESOURCE ID: pokemon_name_0664
-TEXT: Scatterbug
-
-RESOURCE ID: pokemon_name_0665
-TEXT: Spewpa
-
-RESOURCE ID: pokemon_name_0666
-TEXT: Vivillon
-
-RESOURCE ID: pokemon_name_0667
-TEXT: Litleo
-
-RESOURCE ID: pokemon_name_0668
-TEXT: Pyroar
-
-RESOURCE ID: pokemon_name_0669
-TEXT: Flabébé
-
-RESOURCE ID: pokemon_name_0670
-TEXT: Floette
-
-RESOURCE ID: pokemon_name_0671
-TEXT: Florges
-
-RESOURCE ID: pokemon_name_0672
-TEXT: Skiddo
-
-RESOURCE ID: pokemon_name_0673
-TEXT: Gogoat
-
-RESOURCE ID: pokemon_name_0674
-TEXT: Pancham
-
-RESOURCE ID: pokemon_name_0675
-TEXT: Pangoro
-
-RESOURCE ID: pokemon_name_0676
-TEXT: Furfrou
-
-RESOURCE ID: pokemon_name_0677
-TEXT: Espurr
-
-RESOURCE ID: pokemon_name_0678
-TEXT: Meowstic
-
-RESOURCE ID: pokemon_name_0679
-TEXT: Honedge
-
-RESOURCE ID: pokemon_name_0680
-TEXT: Doublade
-
-RESOURCE ID: pokemon_name_0681
-TEXT: Aegislash
-
-RESOURCE ID: pokemon_name_0682
-TEXT: Spritzee
-
-RESOURCE ID: pokemon_name_0683
-TEXT: Aromatisse
-
-RESOURCE ID: pokemon_name_0684
-TEXT: Swirlix
-
-RESOURCE ID: pokemon_name_0685
-TEXT: Slurpuff
-
-RESOURCE ID: pokemon_name_0686
-TEXT: Inkay
-
-RESOURCE ID: pokemon_name_0687
-TEXT: Malamar
-
-RESOURCE ID: pokemon_name_0688
-TEXT: Binacle
-
-RESOURCE ID: pokemon_name_0689
-TEXT: Barbaracle
-
-RESOURCE ID: pokemon_name_0690
-TEXT: Skrelp
-
-RESOURCE ID: pokemon_name_0691
-TEXT: Dragalge
-
-RESOURCE ID: pokemon_name_0692
-TEXT: Clauncher
-
-RESOURCE ID: pokemon_name_0693
-TEXT: Clawitzer
-
-RESOURCE ID: pokemon_name_0694
-TEXT: Helioptile
-
-RESOURCE ID: pokemon_name_0695
-TEXT: Heliolisk
-
-RESOURCE ID: pokemon_name_0696
-TEXT: Tyrunt
-
-RESOURCE ID: pokemon_name_0697
-TEXT: Tyrantrum
-
-RESOURCE ID: pokemon_name_0698
-TEXT: Amaura
-
-RESOURCE ID: pokemon_name_0699
-TEXT: Aurorus
-
-RESOURCE ID: pokemon_name_0700
-TEXT: Sylveon
-
-RESOURCE ID: pokemon_name_0701
-TEXT: Hawlucha
-
-RESOURCE ID: pokemon_name_0702
-TEXT: Dedenne
-
-RESOURCE ID: pokemon_name_0703
-TEXT: Carbink
-
-RESOURCE ID: pokemon_name_0704
-TEXT: Goomy
-
-RESOURCE ID: pokemon_name_0705
-TEXT: Sliggoo
-
-RESOURCE ID: pokemon_name_0706
-TEXT: Goodra
-
-RESOURCE ID: pokemon_name_0707
-TEXT: Klefki
-
-RESOURCE ID: pokemon_name_0708
-TEXT: Phantump
-
-RESOURCE ID: pokemon_name_0709
-TEXT: Trevenant
-
-RESOURCE ID: pokemon_name_0710
-TEXT: Pumpkaboo
-
-RESOURCE ID: pokemon_name_0711
-TEXT: Gourgeist
-
-RESOURCE ID: pokemon_name_0712
-TEXT: Bergmite
-
-RESOURCE ID: pokemon_name_0713
-TEXT: Avalugg
-
-RESOURCE ID: pokemon_name_0714
-TEXT: Noibat
-
-RESOURCE ID: pokemon_name_0715
-TEXT: Noivern
-
-RESOURCE ID: pokemon_name_0716
-TEXT: Xerneas
-
-RESOURCE ID: pokemon_name_0717
-TEXT: Yveltal
-
-RESOURCE ID: pokemon_name_0718
-TEXT: Zygarde
-
-RESOURCE ID: pokemon_name_0719
-TEXT: Diancie
-
-RESOURCE ID: pokemon_name_0720
-TEXT: Hoopa
-
-RESOURCE ID: pokemon_name_0721
-TEXT: Volcanion
-
-RESOURCE ID: quest_battle_gbl_plural
-TEXT: Battle in the GO Battle League {0} times
-
-RESOURCE ID: quest_battle_gbl_singular
-TEXT: Battle in GO Battle League
-
-RESOURCE ID: quest_battle_gbl_win_plural
-TEXT: Vencer {0} Batalhas de Treinador na Liga de Batalha GO
-
-RESOURCE ID: quest_battle_gbl_win_singular
-TEXT: Vencer 1 Batalha de Treinador na Liga de Batalha GO
-
-RESOURCE ID: quest_battle_great_win_plural
-TEXT: Vencer {0} Batalhas de Treinador na Grande Liga
-
-RESOURCE ID: quest_battle_great_win_singular
-TEXT: Vencer uma Batalha de Treinador na Grande Liga
-
-RESOURCE ID: quest_battle_master_win_plural
-TEXT: Vencer {0} Batalhas de Treinador na Liga Mestra
-
-RESOURCE ID: quest_battle_master_win_singular
-TEXT: Vencer uma Batalha de Treinador na Liga Mestra
-
-RESOURCE ID: quest_battle_ultra_win_plural
-TEXT: Vencer {0} Batalhas de Treinador na Ultra-liga
-
-RESOURCE ID: quest_battle_ultra_win_singular
-TEXT: Vencer uma Batalha de Treinador na Ultra-liga
-
-RESOURCE ID: quest_buddy_souvenir_plural
-TEXT: Receber {0} lembrancinhas do seu companheiro
-
-RESOURCE ID: quest_buddy_souvenir_singular
-TEXT: Receber uma lembrancinha do seu companheiro
-
-RESOURCE ID: quest_buddy_walk_km_plural
-TEXT: Caminhar {0} km com seu companheiro
-
-RESOURCE ID: quest_catch_in_day_plural
-TEXT: Pegar {0} Pokémon em um único dia
-
-RESOURCE ID: quest_catch_legendary_inarow_plural
-TEXT: Pegar um Pokémon Lendário em seus próximos {0} encontros com Pokémon Lendários
-
-RESOURCE ID: quest_catch_legendary_plural
-TEXT: Pegar {0} Pokémon Lendários
-
-RESOURCE ID: quest_catch_legendary_singular
-TEXT: Pegar um Pokémon Lendário
-
-RESOURCE ID: quest_catch_special_chespin
-TEXT: Pegar 1 Chespin.
-
-RESOURCE ID: quest_catch_special_fennekin
-TEXT: Pegar 1 Fennekin.
-
-RESOURCE ID: quest_catch_special_fletchling
-TEXT: Pegar 1 Fletchling.
-
-RESOURCE ID: quest_catch_special_froakie
-TEXT: Pegar 1 Froakie.
-
-RESOURCE ID: quest_catch_special_litleo
-TEXT: Pegar 1 Litleo.
-
-RESOURCE ID: quest_complete_elect
-TEXT: O eletrizante Electabuzz 
-
-RESOURCE ID: quest_complete_magmt
-TEXT: Magmar em erupção
-
-RESOURCE ID: quest_eevee_evolve_plural
-TEXT: Evoluir Eevee para cada uma de suas singulares evoluções
-
-RESOURCE ID: quest_elect_catch_b
-TEXT: Pegar {0} Electabuzz.
-
-RESOURCE ID: quest_elect_evolve_b
-TEXT: Evoluir {0} Electabuzz.
-
-RESOURCE ID: quest_evolve_poison_type_singular
-TEXT: Evoluir 1 Pokémon de tipo Venenoso.
-
-RESOURCE ID: quest_feed_goldenrazz_plural
-TEXT: Usar {0} Frutas Frambo douradas para ajudar a pegar Pokémon.
-
-RESOURCE ID: quest_field_research_plural
-TEXT: Completar {0} tarefas de pesquisa de campo
-
-RESOURCE ID: quest_field_research_singular
-TEXT: Completar uma tarefa de pesquisa de campo
-
-RESOURCE ID: quest_gbl_rank
-TEXT: Alcançar o ranque {0} na Liga de Batalha GO
-
-RESOURCE ID: quest_gbl_rank_twenty
-TEXT: Alcançar o ranque 20 na Liga de Batalha GO
-
-RESOURCE ID: quest_gold_medal_plural
-TEXT: Ganhar {0} medalhas de ouro
-
-RESOURCE ID: quest_gold_medal_plural_five
-TEXT: Ganhar 5 medalhas de ouro
-
-RESOURCE ID: quest_gold_medal_singular
-TEXT: Ganhar uma medalha de ouro
-
-RESOURCE ID: quest_lucky_plural
-TEXT: Receber {0} Pokémon sortudos em trocas
-
-RESOURCE ID: quest_lucky_singular
-TEXT: Receber um Pokémon sortudo em uma troca
-
-RESOURCE ID: quest_magmt_catch_b
-TEXT: Pegar {0} Magmar.
-
-RESOURCE ID: quest_magmt_evolve_b
-TEXT: Evoluir {0} Magmar.
-
-RESOURCE ID: quest_platinum_medal_plural
-TEXT: Ganhar {0} medalhas de platina
-
-RESOURCE ID: quest_platinum_medal_plural_five
-TEXT: Ganhar 5 medalhas de platina
-
-RESOURCE ID: quest_platinum_medal_plural_forty
-TEXT: Ganhar 40 medalhas de platina
-
-RESOURCE ID: quest_platinum_medal_plural_ten
-TEXT: Ganhar 10 medalhas de platina
-
-RESOURCE ID: quest_platinum_medal_plural_twenty
-TEXT: Ganhar 20 medalhas de platina
-
-RESOURCE ID: quest_platinum_medal_singular
-TEXT: Ganhar uma medalha de platina
-
-RESOURCE ID: quest_power_up_legendary_plural
-TEXT: Fortalecer um Pokémon Lendário {0} vezes
-
-RESOURCE ID: quest_power_up_legendary_singular
-TEXT: Fortalecer um Pokémon Lendário
-
-RESOURCE ID: quest_power_up_max_plural
-TEXT: Fortalecer {0} Pokémon até o PC máximo deles
-
-RESOURCE ID: quest_power_up_max_singular
-TEXT: Fortalecer um Pokémon até o PC máximo dele
-
-RESOURCE ID: quest_snapshots_inarow_plural
-TEXT: Tirar um retrato de um Pokémon {0} dias seguidos
-
-RESOURCE ID: quest_special_dialogue_elect_0_0
-TEXT: Olá, %PLAYERNAME%! Que bom ver você por aqui.
-
-RESOURCE ID: quest_special_dialogue_elect_0_1
-TEXT: A força tem acabando bastante aqui no meu laboratório móvel ultimamente. Eu queria saber o que está causando isso.
-
-RESOURCE ID: quest_special_dialogue_elect_0_2
-TEXT: Até que não demorou muito para eu descobrir a causa disso. Parece que um grupo de Electabuzz decidiu que a eletricidade do meu laboratório seria um lanche perfeito.
-
-RESOURCE ID: quest_special_dialogue_elect_0_3
-TEXT: Parece que os Electabuzz estão aparecendo em números maiores, o que pode causar mais falta de energia.
-
-RESOURCE ID: quest_special_dialogue_elect_0_4
-TEXT: Você acha que consegue capturar alguns destes Pokémon?
-
-RESOURCE ID: quest_special_dialogue_elect_0_5
-TEXT: A pesquisa será valiosa, e eu ficarei grato por ter a energia de volta!
-
-RESOURCE ID: quest_special_dialogue_elect_1_0
-TEXT: Que bom que você voltou.
-
-RESOURCE ID: quest_special_dialogue_elect_1_1
-TEXT: Obrigado pela ajuda, de verdade! Enquanto você estava capturando alguns Electabuzz, eu realizei algumas pesquisas sobre a linha Evolutiva deste Pokémon.
-
-RESOURCE ID: quest_special_dialogue_elect_1_2
-TEXT: Você sabia que Electabuzz evolui de Elekid?
-
-RESOURCE ID: quest_special_dialogue_elect_1_3
-TEXT: Uma corrente elétrica fraca flui entre os chifres de Elekid. Tome cuidado! Colocar as suas mãos entre os chifres de Elekid vai te dar um choque e tanto!
-
-RESOURCE ID: quest_special_dialogue_elect_1_4
-TEXT: Hmmm, agora me pergunto se Spark já fez isso com o Pokémon companheiro dele...
-
-RESOURCE ID: quest_special_dialogue_elect_1_5
-TEXT: De qualquer forma, vamos continuar nossa pesquisa sobre estes Electabuzz e garantir que eles não estejam lanchando eletricidade destinada a outras coisas!
-
-RESOURCE ID: quest_special_dialogue_elect_2_0
-TEXT: Bom trabalho, %PLAYERNAME%. Eu acho que já conseguimos bastante informação sobre Electabuzz.
-
-RESOURCE ID: quest_special_dialogue_elect_2_1
-TEXT: Também conhecido como o Pokémon Elétrico, ele adora se alimentar de alta eletricidade. Isto explica a razão pela qual vários Electabuzz foram atraídos para o meu laboratório móvel.
-
-RESOURCE ID: quest_special_dialogue_elect_2_2
-TEXT: Eletricidade percorre pela superfície do corpo de Electabuzz. Quando está escuro, todo o seu corpo brilha em um azul esbranquiçado.
-
-RESOURCE ID: quest_special_dialogue_elect_2_3
-TEXT: Magnífico! Vamos continuar com a nossa pesquisa. Vá em frente e use uma Pedra de Sinnoh para evoluir Electabuzz em Electivire!
-
-RESOURCE ID: quest_special_dialogue_elect_2_4
-TEXT: Eu mal posso esperar para ver quais fatos eletrizantes sobre esta Evolução iremos descobrir!
-
-RESOURCE ID: quest_special_dialogue_elect_3_0
-TEXT: Eu só não sei se eles algum dia vão achar minhas piadas engraçadas. Será que devo fazer um curso de comediante?
-
-RESOURCE ID: quest_special_dialogue_elect_3_1
-TEXT: AH! Eu não vi você aí, %PLAYERNAME%. Então você evoluiu Electabuzz em Electivire como pedi. Obrigado!
-
-RESOURCE ID: quest_special_dialogue_elect_3_2
-TEXT: De acordo com o Pokédex, a carga elétrica de Electivire se amplificou e faíscas azuis começaram a sair entre os seus chifres.
-
-RESOURCE ID: quest_special_dialogue_elect_3_3
-TEXT: Quando batalha, Electivire empurra as pontas de suas duas caudas contra o seu oponente, e aí, ele libera uma energia de mais de 20.000 volts! Eu acho que dá pra dizer que o oponente dele ficará chocado!
-
-RESOURCE ID: quest_special_dialogue_elect_3_4
-TEXT: Tenha cuidado ao batalhar com este Pokémon. Você estará lidando com um poder e tanto!
-
-RESOURCE ID: quest_special_dialogue_elect_3_5
-TEXT: Já que a energia voltou no meu laboratório móvel, vou voltar aos meus afazeres e terminar alguns outros projetos.
-
-RESOURCE ID: quest_special_dialogue_elect_3_6
-TEXT: Agradeço novamente por toda a ajuda, e até a próxima. Vamos nessa!
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_0
-TEXT: Oi, %PLAYERNAME%! Posso dizer o quão impressionado estou com seu progresso como Treinador?
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_1
-TEXT: Você realmente dedicou seu tempo e esforço para se tornar um dos melhores! Bom trabalho!
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_2
-TEXT: Diga-me, você se lembra de quando nos conhecemos? Você estava apenas começando na época, e eu enviei você para capturar seu primeiro Pokémon.
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_3
-TEXT: E veja você agora! Fico feliz que possamos compartilhar esta memória.
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_4
-TEXT: Bom, tenho certeza de que um Treinador de elite como você domina a arte de capturar Pokémon, mas é importante manter suas habilidades afiadas.
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_5
-TEXT: Que tal sair por aí e capturar alguns Pokémon? Eu atribui algumas tarefas a você que devem desafiar até um Treinador do seu porte.
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_6
-TEXT: Boa sorte, e divirta-se!
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_0
-TEXT: Bom trabalho como sempre.
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_1
-TEXT: Tenho certeza de que aquelas tarefas foram moleza para alguém com as suas habilidades, mas elas eram só um aquecimento!
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_2
-TEXT: Estas próximas tarefas vão ser um pouco mais desafiadoras.
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_3
-TEXT: Tenho certeza de que você criou vínculos especiais com vários Pokémon no decorrer das suas aventuras. Você deve até ter alguns Pokémon que sempre gosta de trazer às batalhas.
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_4
-TEXT: Quero ver o quão poderosos são estes vínculos. Por que não vai desafiar alguns Recrutas da Equipe GO Rocket e batalhar em alguns Reides?
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_5
-TEXT: Afinal de contas, os melhores Treinadores jamais param de treinar!
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_6
-TEXT: Boa sorte!
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_0
-TEXT: Como foi, %PLAYERNAME%?
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_1
-TEXT: Estou certo de que você se divertiu trabalhando junto de seus companheiros Pokémon mais próximos.
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_2
-TEXT: É sempre fascinante ver como Treinadores e Pokémon trabalham juntos, e eu posso ver que você tem muito orgulho em treinar sua equipe. Bom trabalho!
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_3
-TEXT: Por que você não evolui alguns dos Pokémon que capturou para que possam alcançar o potencial máximo deles? Você talvez até descubra algumas opções novas para batalhas!
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_4
-TEXT: Mas já chega disso, vamos voltar à nossa pesquisa!
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_5
-TEXT: Esta próxima série de tarefas testará suas habilidades em capturar Pokémon novamente, mas com um porém. Ou será que eu deveria dizer, com uma curva? É isso mesmo, você precisará testar suas habilidades com bolas curvas!
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_6
-TEXT: Não deixe de alongar o braço que usa para arremessar!
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_0
-TEXT: Bom trabalho! Posso ver que você se esforçou bastante naquela pesquisa.
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_1
-TEXT: Blanche está me ajudando a analisar e cuidar de todos aqueles Pokémon que você nos enviou. É uma amostra de progresso impressionante, e até Blanche ficou de boca aberta.
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_2
-TEXT: Mas enfim, eu deveria voltar ao trabalho.
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_3
-TEXT: Mas antes de ir, eu queria dizer como foi bom foi relembrar nossas primeiras memórias como Professor e Treinador.
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_4
-TEXT: Estou incrivelmente orgulhoso de você e de quanto você avançou!
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_5
-TEXT: Sei que ainda falta muito para terminar seu treinamento, mas vou ficar de olho no seu progresso e aviso quando eu tiver mais desafios para você!
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_6
-TEXT: Até breve, %PLAYERNAME%. Vamos nessa!
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_0
-TEXT: Oi, %PLAYERNAME%! Eu queria conferir seu progresso. Parece que você melhorou ainda mais como Treinador desde a última vez que conversamos!
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_1
-TEXT: Quanto a mim, eu tenho passado muito tempo com meu Pokémon Companheiro ultimamente, e isto tem me ajudado a pensar em algumas novas oportunidades de pesquisa.
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_2
-TEXT: Você se lembra do seu primeiro Pokémon Companheiro? Eu me lembro do meu, era o misterioso Pokémon Porca, Meltan!
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_3
-TEXT: Eu ainda lembro do dia em que Meltan recebeu sua fita de melhor companheiro.
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_4
-TEXT: Este é um momento para qualquer Treinador se orgulhar, não acha?
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_5
-TEXT: Meltan e eu estamos juntos há tempos, mas ainda fico empolgado com a ideia de visitar uma nova Poképarada juntos.
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_6
-TEXT: Que tal você e seu companheiro visitarem alguns de seus lugares favoritos juntos?
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_0
-TEXT: Espero que você tenha aproveitado a caminhada com seu companheiro. Visitaram alguma Poképarada interessante?
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_1
-TEXT: Eu estava inspirado para sair um pouco. Juntei-me a Spark e o companheiro dele para uma longa caminhada depois que ele venceu uma batalha.
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_2
-TEXT: Eu até tirei uma foto para celebrar a ocasião!
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_3
-TEXT: Caminhar juntos pode ser uma ótima maneira de fortalecer o vínculo com seus Pokémon. E também é um ótimo exercício!
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_4
-TEXT: Ver o vínculo que Spark compartilha com os Pokémon dele me deu algumas ideias de pesquisa. Ah, e Spark me pediu para dizer que ele está torcendo por você!
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_5
-TEXT: Que tal você e seu companheiro saírem para dar uma caminhada, desafiar outro Treinador e seu Pokémon para uma batalha, e tirar algumas fotos para capturar estes momentos divertidos?
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_6
-TEXT: Trabalhar duro é importante, mas aproveitar as memórias feitas no caminho também! Divirta-se!
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_0
-TEXT: Você se divertiu com seu Pokémon, %PLAYERNAME%?
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_1
-TEXT: Estou sempre surpreso com a variedade de fotos tiradas pelos Treinadores ao redor do mundo.
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_2
-TEXT: Eu gosto principalmente daquelas que capturam encontros-surpresa com Pokémon como Smeargle!
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_3
-TEXT: Esta é uma das melhores partes ao tirar fotos, você nunca sabe o que pode aparecer!
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_4
-TEXT: Hmmm... Isto me lembra de quando a Equipe GO Rocket começou a aparecer, sem ser convidada, nas fotos dos Treinadores... O que me faz lembrar também de que preciso da sua ajuda com uma pesquisa!
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_5
-TEXT: Para começar, por que você e seu companheiro não se aquecem batalhando em alguns Reides? Quando estiverem prontos, precisaremos dar um jeito nos Líderes da Equipe GO Rocket que estão por aqui.
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_6
-TEXT: Eles estão sempre tramando algo, então é bom ficar de olho caso tentem tomar o controle de Poképaradas perto de você. Boa sorte!
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_0
-TEXT: Que trabalho fantástico, %PLAYERNAME%.
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_1
-TEXT: Os Líderes da Equipe GO Rocket são um grande desafio para a maioria dos Treinadores, mas eu sabia que eles não seriam páreo para você e seu Pokémon companheiro!
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_2
-TEXT: O poder da amizade é, de fato, forte. E este é só um dos benefícios de cultivar vínculos com seus Pokémon.
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_3
-TEXT: A confiança entre um Treinador e seu Pokémon é diferente de tudo que eu já vi. Não deixe de aumentar a sua com seus Pokémon!
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_4
-TEXT: Que bom que eu passei por aqui para conferir seu progresso.
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_5
-TEXT: Estarei de volta com mais desafios divertidos enquanto você continua sua jornada.
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_6
-TEXT: Até a próxima!
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_0
-TEXT: Oi, %PLAYERNAME%.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_1
-TEXT: Dá pra ver que você tem trabalhado mais do que nunca!
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_2
-TEXT: Temos pensado muito no passado, não é? Eu acho importante olhar para as nossas conquistas de outrora de vez em quando, especialmente quando conquistamos tanta coisa!
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_3
-TEXT: A primeira vitória numa batalha é um dos momentos mais importantes para muitos Treinadores.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_4
-TEXT: É uma emoção inesquecível! Sem falar do orgulho pelo Pokémon que garantiu sua vitória.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_5
-TEXT: E você, %PLAYERNAME%? Aposto que você tem histórias sobre batalhas épicas para contar aos seus colegas Treinadores.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_6
-TEXT: Quero focar nas suas habilidades de batalha neste próximo desafio. Para se preparar, que tal organizar sua equipe e praticar algumas jogadas?
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_0
-TEXT: Você claramente tem Pokémon muito poderosos.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_1
-TEXT: Você realizou um ótimo trabalho treinando eles! Queria ver o progresso das suas habilidades de batalha, então consultei Candela para saber o que ela acha.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_2
-TEXT: É uma honra dizer que ela está tão orgulhosa de você quanto eu!
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_3
-TEXT: Para este próximo desafio, ela sugeriu que você enfrentasse alguns dos oponentes mais difíceis dela: a Equipe GO Rocket e seus Líderes.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_4
-TEXT: Os Líderes da Equipe GO Rocket podem ser intimidadores, então Candela pediu para que eu compartilhasse algumas dicas com você.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_5
-TEXT: Ela disse que, em batalhas, você deve enfrentar seus oponentes com muita calma, usando Pokémon fortes, e com o coração cheio de entusiasmo.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_6
-TEXT: Com isto em mente, acho que é hora de você sair e testar suas habilidades!
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_0
-TEXT: Ótimo trabalho, %PLAYERNAME%! Suas habilidades de batalha estão ainda mais impressionantes do que da última vez que nos encontramos.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_1
-TEXT: Estas habilidades são importantes não somente ao enfrentar a Equipe GO Rocket, mas também para batalhar em Reides. Você se lembra do seu primeiro Reide?
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_2
-TEXT: Para mim, há algo especial em um grupo de Treinadores que se reúne para enfrentar um Reide com seus parceiros Pokémon.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_3
-TEXT: A importância do vínculo entre Treinadores e seus Pokémon é inquestionável, mas acho que o vínculo que os Treinadores compartilham com seus colegas também é importante.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_4
-TEXT: Não importa o nível das suas habilidades, a equipe em que você está ou os Pokémon que você traz para a batalha, Reides se resumem a Treinadores trabalhando juntos para alcançar um objetivo em comum. Este é o significado de fazer parte da comunidade de Treinadores!
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_5
-TEXT: Espero que isto tenha inspirado você a sair e participar de alguns Reides com seus colegas Treinadores, porque isto é parte da sua próxima tarefa!
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_6
-TEXT: Este deve ser um desafio divertido, então dê o seu melhor!
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_0
-TEXT: Excelente trabalho.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_1
-TEXT: Você gostou de passar um tempo com seus colegas Treinadores enquanto completava suas tarefas?
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_2
-TEXT: Espero que tenha até encontrado um Pokémon ótimo para adicionar à sua equipe!
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_3
-TEXT: Não deixe de continuar criando memórias com outros Treinadores enquanto trabalham juntos e exploram este mundo magnífico cheio de Pokémon.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_4
-TEXT: Poucos Treinadores chegaram tão longe como você. Não se esqueça de comemorar o seu progresso.
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_5
-TEXT: E lembre-se: a jornada é tão importante quanto o destino!
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_6
-TEXT: Até a próxima, %PLAYERNAME%!
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_0
-TEXT: Eu sabia que não demoraria para nos encontrarmos de novo, %PLAYERNAME%.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_1
-TEXT: Mas antes de começarmos este desafio, vamos respirar fundo.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_2
-TEXT: Inspirar... Expirar... Mais uma vez. Inspirar... Expirar... Ah, bem melhor.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_3
-TEXT: Respirar fundo é uma ótima maneira de limpar a mente e focar na tarefa à frente. E você vai precisar de muito foco para enfrentar o que vou jogar no seu colo.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_4
-TEXT: Sacou? "Jogar"? Enfim... A marca de um ótimo Treinador é a dedicação ao treinamento, e dedicação de verdade leva tempo.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_5
-TEXT: Suas próximas tarefas levarão um tempo para serem completadas, mas não se preocupe. Comece respirando fundo e lembre-se de se divertir!
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_6
-TEXT: Treinar pode ser difícil, mas não se esqueça de que é para ser divertido também.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_0
-TEXT: Que trabalho impressionante!
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_1
-TEXT: Não sei quantos Treinadores teriam a dedicação e a paciência para completar aquelas tarefas.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_2
-TEXT: Eu estava pensando... Você se lembra de quando decidiu de qual equipe queria participar?
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_3
-TEXT: Frequentemente, Treinadores formam uma conexão forte com suas equipes e se tornam membros dedicados. Outros, no entanto, acabam trocando de equipe em busca de perspectivas diferentes e novos desafios.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_4
-TEXT: O caminho de cada um é diferente, e sempre encorajo você a encontrar o seu próprio. Há muito para aprender da Equipe Instinto, Equipe Sabedoria e da Equipe Valor. Cada equipe tem suas características e seu foco próprios.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_5
-TEXT: Quero que você aprenda com seus colegas Treinadores e respeite as escolhas deles. Tenho certeza que isto ajudará você a melhorar como Treinador! Afinal, só podemos entender a nós mesmos quando entendemos os outros.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_6
-TEXT: Agora, de volta à sua pesquisa. Sinto que esta próxima série de tarefas testará sua determinação, então não se apresse. Vamos nos reagrupar assim que você tiver terminado!
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_0
-TEXT: Boas-vindas de volta. Você certamente mostrou muita dedicação ao completar aquelas tarefas.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_1
-TEXT: Qual tarefa você achou mais difícil? E qual foi a mais divertida?
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_2
-TEXT: Estamos nos aproximando do fim deste desafio, e tenho que admitir que estou ficando um pouco emotivo! Eu e os líderes de equipe sentimos um orgulho enorme quando vemos o quanto você melhorou.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_3
-TEXT: Espero que você se orgulhe de si mesmo também, %PLAYERNAME%. Para terminar este desafio, cada líder de equipe queria que você participasse de algumas das atividades favoritas deles.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_4
-TEXT: Spark quer que você aproveite uma caminhada com seu companheiro para fortalecer o vínculo de vocês, e Blanche quer que você se lembre da importância das pesquisas e análises evoluindo alguns dos seus Pokémon para alcançarem seu potencial máximo.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_5
-TEXT: E Candela... Bom, ela quer comemorar com você depois que você vencer alguns Reides.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_6
-TEXT: Eu acho que estas tarefas são ótimas para um Treinador versátil como você. Estarei aqui para dar meus parabéns quando você tiver terminado!
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_0
-TEXT: Incrível. Simplesmente incrível, %PLAYERNAME%! Deixe-me ser o primeiro a parabenizar você por completar este desafio. Você se tornou um Treinador de primeira categoria, e tem sido uma honra trabalhar ao seu lado!
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_1
-TEXT: Tem sido maravilhoso observar seu crescimento desde que começou sua jornada como um Treinador de Pokémon. Você tem um talento incrível e espero que você use bem suas habilidades.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_2
-TEXT: Sabe, eu quero que você ajude outros Treinadores a se tornarem os melhores. Sua experiência também traz muitas responsabilidades e espero que você continue demonstrando sua bondade, paciência e amizade àqueles que precisam da sua ajuda.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_3
-TEXT: O mundo dos Pokémon é um lugar lindo, e quero que você seja um líder e mostre a todos o quão incrível nossa comunidade pode ser, ao mesmo tempo que a protege de vilões como a Equipe GO Rocket ou de qualquer um que possa nos ameaçar.
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_4
-TEXT: Lembre-se de como você se sentiu ao capturar um Pokémon pela primeira vez, de quando caminhou com seu companheiro pela primeira vez, de quando participou de um Reide pela primeira vez, e coloque esta energia em tudo o que você faz. Com seu coração forte e sua determinação inigualável, não há nada que você não possa fazer!
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_5
-TEXT: Eu espero que você sinta tanto orgulho de si quanto eu e os líderes de equipe sentimos de você. Não se preocupe, eu estarei aqui sempre que você precisar, e saiba que continuarei chamando você de vez em quando para me ajudar com pesquisas. Afinal, há sempre algo novo a ser descoberto!
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_6
-TEXT: Muito obrigado por tudo, %PLAYERNAME%. Eu sei que sempre posso contar com você! E tenho certeza de que você sabe o que estou prestes a dizer antes que eu comece a chorar... Vamos nessa!
-
-RESOURCE ID: quest_special_dialogue_magmt_0_0
-TEXT: Ah, %PLAYERNAME%! Você chegou na hora certa. Eu acabei de encontrar algo estranho!
-
-RESOURCE ID: quest_special_dialogue_magmt_0_1
-TEXT: Tenho sentido um pouco de calor ultimamente, então caminhei até uma clareira próxima para aproveitar a brisa fresca, mas a temperatura pareceu subir assim que cheguei!
-
-RESOURCE ID: quest_special_dialogue_magmt_0_2
-TEXT: Curioso, não? Suspeito que seja obra de um certo Pokémon.
-
-RESOURCE ID: quest_special_dialogue_magmt_0_3
-TEXT: Há um Pokémon que é conhecido por odiar tanto áreas frias que lança chamas abrasadoras para aquecer os arredores.
-
-RESOURCE ID: quest_special_dialogue_magmt_0_4
-TEXT: Eu acredito que há grandes grupos deste Pokémon aparecendo agora por todo o lugar.
-
-RESOURCE ID: quest_special_dialogue_magmt_0_5
-TEXT: Ah, quer saber de qual Pokémon estou falando? Acho que vou manter isso em segredo por enquanto. Mas vou escrever neste pedaço de papel e podemos verificar mais tarde se eu estava certo!
-
-RESOURCE ID: quest_special_dialogue_magmt_0_6
-TEXT: Você pode ir investigar e me dizer o que encontrar? Obrigado!
-
-RESOURCE ID: quest_special_dialogue_magmt_1_0
-TEXT: Boas-vindas de volta, %PLAYERNAME%.
-
-RESOURCE ID: quest_special_dialogue_magmt_1_1
-TEXT: Como prometido, agora revelarei meu palpite sobre qual Pokémon é responsável por estes picos recentes na temperatura. Como pode ver, escrevi... Magmar!
-
-RESOURCE ID: quest_special_dialogue_magmt_1_2
-TEXT: Minha intuição está bem "em chamas", hein? É assim que os jovens fa... Nossa! Aquela pequena bola de fogo transformou meu papel em cinzas!
-
-RESOURCE ID: quest_special_dialogue_magmt_1_3
-TEXT: Enfim, parece que a causa destas frentes quentes irregulares é, de fato, Magmar, o Pokémon Cospe-fogo.
-
-RESOURCE ID: quest_special_dialogue_magmt_1_4
-TEXT: Quando Magmar respira profundamente, ondas de calor se formam ao redor de seu corpo, tornando-o difícil de ver com clareza. Não é incrível?
-
-RESOURCE ID: quest_special_dialogue_magmt_1_5
-TEXT: E pensar que este Pokémon intimidador evolui do adorável Magby, o Pokémon Carvão Vivo!
-
-RESOURCE ID: quest_special_dialogue_magmt_1_6
-TEXT: No entanto, por mais adorável que Magby seja, estudos mostram que sempre que inspira e expira, brasas quentes pingam de sua boca e narinas. Mas isso não me impede de tentar abraçá-lo!
-
-RESOURCE ID: quest_special_dialogue_magmt_1_7
-TEXT: Enfim, %PLAYERNAME%, você deveria tentar evoluir seu Magmar! Venha falar comigo novamente antes de fazer isso, pois terei mais dicas interessantes para você.
-
-RESOURCE ID: quest_special_dialogue_magmt_2_0
-TEXT: Você está quase lá, %PLAYERNAME%!
-
-RESOURCE ID: quest_special_dialogue_magmt_2_1
-TEXT: Em breve, você terá um Magmortar, o Pokémon Explosão. Que empolgante!
-
-RESOURCE ID: quest_special_dialogue_magmt_2_2
-TEXT: Porém, tome cuidado com as pontas dos braços de Magmortar: elas podem produzir bolas de fogo de até 1.900 °C!
-
-RESOURCE ID: quest_special_dialogue_magmt_2_3
-TEXT: Já imaginou se você conseguisse lançar bolas de fogo de seus braços? Fwoosh! Fwoosh! Ei, isso é divertido! Fwoosh!
-
-RESOURCE ID: quest_special_dialogue_magmt_2_4
-TEXT: Lá vou eu esquentando a cabeça com Pokémon. Entendeu? "Esquentando"! Meu lado cômico está a todo vapor.
-
-RESOURCE ID: quest_special_dialogue_magmt_2_5
-TEXT: De qualquer formar, com esta Pedra de Sinnoh e o doce de Magmar que você adquiriu, você deve ser capaz de evoluir seu Magmar para Magmortar em breve. Continue com o ótimo trabalho, %PLAYERNAME%!
-
-RESOURCE ID: quest_special_dialogue_magmt_3_0
-TEXT: Excelente trabalho, %PLAYERNAME%! Parece que você conseguiu seu próprio Magmortar.
-
-RESOURCE ID: quest_special_dialogue_magmt_3_1
-TEXT: Magmar, assim como Magby e Magmar, costuma viver em vulcões.
-
-RESOURCE ID: quest_special_dialogue_magmt_3_2
-TEXT: Seu corpo pode até adquirir uma tonalidade esbranquiçada com o calor intenso gerado pelas bolas de fogo que atira das pontas de seus braços.
-
-RESOURCE ID: quest_special_dialogue_magmt_3_3
-TEXT: Uau, aprender sobre Magmar e sua linha Evolutiva realmente acendeu um fogo no meu coração. Preciso voltar à minha pesquisa imediatamente!
-
-RESOURCE ID: quest_special_dialogue_magmt_3_4
-TEXT: Vejo você por aí, %PLAYERNAME%!
-
-RESOURCE ID: quest_stardust_plural
-TEXT: Ganhar {0} Poeiras Estelares
-
-RESOURCE ID: quest_supereffective_charge_plural
-TEXT: Usar {0} ataques carregados supereficazes
-
-RESOURCE ID: quest_supereffective_charge_singular
-TEXT: Usar um ataque carregado supereficaz
-
-RESOURCE ID: quest_title_anime_week
-TEXT: Pesquisa da Semana Animada
-
-RESOURCE ID: quest_title_elect
-TEXT: O eletrizante Electabuzz 
-
-RESOURCE ID: quest_title_elect_0
-TEXT: O eletrizante Electabuzz  (1/4)
-
-RESOURCE ID: quest_title_elect_1
-TEXT: O eletrizante Electabuzz  (2/4)
-
-RESOURCE ID: quest_title_elect_2
-TEXT: O eletrizante Electabuzz  (3/4)
-
-RESOURCE ID: quest_title_elect_3
-TEXT: O eletrizante Electabuzz  (4/4)
-
-RESOURCE ID: quest_title_jj_special_research
-TEXT: Distracted by Something Shiny
-
-RESOURCE ID: quest_title_jj_special_research_0
-TEXT: Distracted by Something Shiny (1 / 4)
-
-RESOURCE ID: quest_title_jj_special_research_1
-TEXT: Distracted by Something Shiny (2 / 4)
-
-RESOURCE ID: quest_title_jj_special_research_2
-TEXT: Distracted by Something Shiny (3 / 4)
-
-RESOURCE ID: quest_title_jj_special_research_3
-TEXT: Distracted by Something Shiny (4 / 4)
-
-RESOURCE ID: quest_title_lvl_40
-TEXT: Desafio do Antigo 40
-
-RESOURCE ID: quest_title_lvl_40_0
-TEXT: Desafio do Antigo 40 (1/4)
-
-RESOURCE ID: quest_title_lvl_40_1
-TEXT: Desafio do Antigo 40 (2/4)
-
-RESOURCE ID: quest_title_lvl_40_2
-TEXT: Desafio do Antigo 40 (3/4)
-
-RESOURCE ID: quest_title_lvl_40_3
-TEXT: Desafio do Antigo 40 (4/4)
-
-RESOURCE ID: quest_title_lvl_43
-TEXT: Desafio do Nível 43
-
-RESOURCE ID: quest_title_lvl_43_0
-TEXT: Desafio do Nível 43 (1/4)
-
-RESOURCE ID: quest_title_lvl_43_1
-TEXT: Desafio do Nível 43 (2/4)
-
-RESOURCE ID: quest_title_lvl_43_2
-TEXT: Desafio do Nível 43 (3/4)
-
-RESOURCE ID: quest_title_lvl_43_3
-TEXT: Desafio do Nível 43 (4/4)
-
-RESOURCE ID: quest_title_lvl_45
-TEXT: Desafio do Nível 45
-
-RESOURCE ID: quest_title_lvl_45_0
-TEXT: Desafio do Nível 45 (1/4)
-
-RESOURCE ID: quest_title_lvl_45_1
-TEXT: Desafio do Nível 45 (2/4)
-
-RESOURCE ID: quest_title_lvl_45_2
-TEXT: Desafio do Nível 45 (3/4)
-
-RESOURCE ID: quest_title_lvl_45_3
-TEXT: Desafio do Nível 45 (4/4)
-
-RESOURCE ID: quest_title_lvl_48
-TEXT: Desafio do Nível 48
-
-RESOURCE ID: quest_title_lvl_48_0
-TEXT: Desafio do Nível 48 (1/4)
-
-RESOURCE ID: quest_title_lvl_48_1
-TEXT: Desafio do Nível 48 (2/4)
-
-RESOURCE ID: quest_title_lvl_48_2
-TEXT: Desafio do Nível 48 (3/4)
-
-RESOURCE ID: quest_title_lvl_48_3
-TEXT: Desafio do Nível 48 (4/4)
-
-RESOURCE ID: quest_title_lvl_50
-TEXT: Desafio do Nível 50
-
-RESOURCE ID: quest_title_lvl_50_0
-TEXT: Desafio do Nível 50 (1/4)
-
-RESOURCE ID: quest_title_lvl_50_1
-TEXT: Desafio do Nível 50 (2/4)
-
-RESOURCE ID: quest_title_lvl_50_2
-TEXT: Desafio do Nível 50 (3/4)
-
-RESOURCE ID: quest_title_lvl_50_3
-TEXT: Desafio do Nível 50 (4/4)
-
-RESOURCE ID: quest_title_magmt
-TEXT: Magmar em erupção
-
-RESOURCE ID: quest_title_magmt_0
-TEXT: Magmar em erupção (1/4)
-
-RESOURCE ID: quest_title_magmt_1
-TEXT: Magmar em erupção (2/4)
-
-RESOURCE ID: quest_title_magmt_2
-TEXT: Magmar em erupção (3/4)
-
-RESOURCE ID: quest_title_magmt_3
-TEXT: Magmar em erupção (4/4)
-
-RESOURCE ID: quest_trade_100km_plural
-TEXT: Realizar {0} trocas com Pokémon pegos a pelo menos 100 km de distância
-
-RESOURCE ID: quest_trade_200km_plural
-TEXT: Realizar {0} trocas com Pokémon pegos a pelo menos 200 km de distância
-
-RESOURCE ID: quest_trade_300km_plural
-TEXT: Realizar {0} trocas com Pokémon pegos a pelo menos 300 km de distância
-
-RESOURCE ID: quest_trade_400km_plural
-TEXT: Realizar {0} trocas com Pokémon pegos a pelo menos 400 km de distância
-
-RESOURCE ID: quest_trade_500km_plural
-TEXT: Realizar {0} trocas com Pokémon pegos a pelo menos 500 km de distância
-
-RESOURCE ID: quest_trade_500km_singular
-TEXT: Realizar uma troca com Pokémon pegos a pelo menos 500 km de distância
-
-RESOURCE ID: quest_trade_50km_plural
-TEXT: Realizar {0} trocas com Pokémon pegos a pelo menos 50 km de distância
-
-RESOURCE ID: quest_walk_25km_inaweek_plural
-TEXT: Caminhar 25 km em uma semana {0} vezes
-
-RESOURCE ID: quest_win_raid_lvl1plus_less1500cp_plural
-TEXT: Vencer {0} Reides usando apenas Pokémon com 1500 PC ou menos
-
-RESOURCE ID: quest_win_raid_lvl1plus_less1500cp_singular
-TEXT: Vencer um Reide usando apenas Pokémon com 1,500 PC ou menos
-
-RESOURCE ID: quest_win_raid_lvl3plus_less1500cp_plural
-TEXT: Vencer {0} Reides de três estrelas usando apenas Pokémon com 1,500 PC ou menos
-
-RESOURCE ID: quest_win_raid_lvl3plus_less1500cp_singular
-TEXT: Vencer um Reide de três estrelas usando apenas Pokémon com 1,500 PC ou menos
-
-RESOURCE ID: quest_win_raid_unique_plural
-TEXT: Vencer {0} Reides usando uma equipe de Pokémon de todas as espécies diferentes
-
-RESOURCE ID: quest_win_raid_unique_singular
-TEXT: Vencer uma Reide usando uma equipe de Pokémon de todas as espécies diferentes
-
-RESOURCE ID: quest_win_rocket_leader_less1500cp_plural
-TEXT: Derrotar um Líder da Equipe GO Rocket {0} vezes usando apenas Pokémon com 1,500 PC ou menos
-
-RESOURCE ID: quest_win_rocket_leader_less1500cp_singular
-TEXT: Derrotar um Líder da Equipe GO Rocket usando apenas Pokémon com 1500 PC ou menos
-
-RESOURCE ID: quest_win_rocket_leader_less2500cp_plural
-TEXT: Derrotar um Líder da Equipe GO Rocket {0} vezes usando apenas Pokémon com 2,500 PC ou menos
-
-RESOURCE ID: quest_win_rocket_leader_less3000cp_plural
-TEXT: Derrotar um Líder da Equipe GO Rocket {0} vezes usando apenas Pokémon com 3,000 PC ou menos
-
-RESOURCE ID: quest_win_rocket_leader_less3500cp_plural
-TEXT: Derrotar um Líder da Equipe GO Rocket {0} vezes usando apenas Pokémon com 3,500 PC ou menos
-
-RESOURCE ID: quest_win_rocket_leader_less4000cp_plural
-TEXT: Derrotar um Líder da Equipe GO Rocket {0} vezes usando apenas Pokémon com 4,000 PC ou menos
-
-RESOURCE ID: raid_xp_increase
-TEXT: Aumento de PE ao participar de Reides
-
-RESOURCE ID: rare_xl_candy_usage_confirmation
-TEXT: Quer transformar um Doce Raro GG em um doce GG de {0}?
-
-RESOURCE ID: reward_avatar_items
-TEXT: Recompensas da boutique
-
-RESOURCE ID: shop_remote_raid_passes_title
-TEXT: Ops! Você não tem mais Passe de Reide a Distancia.
-
-RESOURCE ID: spawn_electabuzz
-TEXT: Electabuzz selvagens estão aparecendo com mais frequência
-
-RESOURCE ID: spawn_magmar
-TEXT: Magmar estão aparecendo com mais frequência
-
-RESOURCE ID: ticket_electabuzz
-TEXT: Ingressos para a pesquisa especial "O eletrizante Electabuzz" estão disponíveis na loja
-
-RESOURCE ID: ticket_electabuzz_description
-TEXT: Um ingresso para acessar a pesquisa especial bônus "Visão dupla" do Dia Comunitário de Seedot, em 24 de maio de 2020, das 11h às 17h, horário local, de onde você estiver. Mais detalhes podem ser encontrados na seção de novidades do jogo.
+TEXT: Um ingresso para acessar a pesquisa especial "Escolha quem você será", em 14 e 15 de agosto de 2021, das 11h às 17h, horário local, de onde você estiver. Mais detalhes podem ser encontrados na seção de novidades do jogo.
 
 VOCÊ DEVE JOGAR DURANTE O HORÁRIO ESPECIFICADO PARA RECEBER O BÔNUS.
 
-RESOURCE ID: ticket_electabuzz_title
-TEXT: Ingresso: Visão dupla
+RESOURCE ID: general1.ticket.2_eevet_description
+TEXT: Um ingresso para acessar a pesquisa especial "Escolha quem você será", em 14 e 15 de agosto de 2021, das 11h às 17h, horário local, de onde você estiver. Mais detalhes podem ser encontrados na seção de novidades do jogo.
 
-RESOURCE ID: ticket_magmar
-TEXT: Ingressos para a pesquisa especial "Magmar em erupção" estão disponíveis na loja
+VOCÊ DEVE JOGAR DURANTE O HORÁRIO ESPECIFICADO PARA RECEBER O BÔNUS.
 
-RESOURCE ID: timed_research_pokemon_nidoran
-TEXT: Nidoran♀ e Nidoran♂ na pesquisa limitada
+RESOURCE ID: general1.ticket.2_eevet_title
+TEXT: Ingresso: Escolha quem você será
 
-RESOURCE ID: today_view_city_ar_bonus
-TEXT: Recompensas especiais de tarefas de mapeamento de RA em toda a cidade
+RESOURCE ID: general1.ticket.2_oshat_description
+TEXT: A ticket to access the "From Scalchops to Seamitars" Special Research from September 19, 2021, at 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.
 
-RESOURCE ID: today_view_city_scan_competition
-TEXT: Competição de tarefas de mapeamento de RA entre cidades
+ YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 
-RESOURCE ID: today_view_city_timed_research
-TEXT: Pesquisa temporária em toda a cidade
+RESOURCE ID: general1.ticket.2_oshat_title
+TEXT: From Scalchops to Seamitars Ticket
 
-RESOURCE ID: trade_distance_increase
-TEXT: Aumento da distância para trocas
+RESOURCE ID: general1.ticket.2_title
+TEXT: Ingresso: Escolha quem você será
 
-RESOURCE ID: tutorial_level_40_plus_info
-TEXT: Agora que alcançou o nível 40, você terá alguns novos desafios que deverá completar para avançar para o próximo nível.
+RESOURCE ID: general_xxl
+TEXT: XXL
 
-RESOURCE ID: tutorial_level_40_plus_intro
-TEXT: Parabéns pelo seu progresso incrível!
+RESOURCE ID: general_xxs
+TEXT: XXS
 
-RESOURCE ID: tutorial_xl_candy_1
-TEXT: Parece que você encontrou um doce GG! Ouvi dizer que você pode usar isso para ajudar seus Pokémon a se tornarem ainda mais fortes do que com os doces comuns!
+RESOURCE ID: gift_pokestop_guaranteed
+TEXT: Presentes garantidos por girar fotodiscos de Poképaradas
 
-RESOURCE ID: tutorial_xl_candy_2
-TEXT: É possível que você encontre doces GG depois de capturar Pokémon. Quanto mais forte for o Pokémon, maior será a probabilidade de você encontrar doces GG.
+RESOURCE ID: gym_level_bonus
+TEXT: Fortificação de Ginásio
 
-RESOURCE ID: unfriend_niantic_friend_title
-TEXT: Tem certeza de que quer terminar a amizade com {0}?
+RESOURCE ID: help_center_friends_link
+TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614900279
 
-RESOURCE ID: upload_mgmt_ar_scans
-TEXT: AR Scans: {0}
+RESOURCE ID: help_center_raid_log_link
+TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
 
-RESOURCE ID: upload_mgmt_cancel_all
-TEXT: CANCEL UPLOAD
+RESOURCE ID: incense_effectiveness_walking
+TEXT: Aumento na eficácia de Incensos ao caminhar
 
-RESOURCE ID: upload_mgmt_cancel_individual
-TEXT: CANCEL
+RESOURCE ID: item_event_ticket_pink_desc
+TEXT: Um ingresso para acessar uma pesquisa especial nos dias 14 e 15 de agosto de 2021, das 11h às 17h, horário local, de onde você estiver.
 
-RESOURCE ID: upload_mgmt_confirm_delete_individual
-TEXT: Do you want to delete {0} ({1} MB)?
+RESOURCE ID: item_event_ticket_pink_details
+TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a uma pesquisa especial nos dias 14 e 15 de agosto de 2021, de onde você estiver.
 
-RESOURCE ID: upload_mgmt_confirm_yes
-TEXT: YES
+RESOURCE ID: item_event_ticket_pink_eevet_desc
+TEXT: Um ingresso para acessar uma pesquisa especial nos dias 14 e 15 de agosto de 2021, das 11h às 17h, horário local, de onde você estiver.
 
-RESOURCE ID: upload_mgmt_delete_individual
-TEXT: DELETE
+RESOURCE ID: item_event_ticket_pink_eevet_details
+TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a uma pesquisa especial nos dias 14 e 15 de agosto de 2021, de onde você estiver.
 
-RESOURCE ID: upload_mgmt_images
-TEXT: Photos: {0}
+RESOURCE ID: item_event_ticket_pink_oshat_desc
+TEXT: A ticket to access a special research on September 19, 2021 from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 
-RESOURCE ID: upload_mgmt_manage
-TEXT: MANAGE
+RESOURCE ID: item_event_ticket_pink_oshat_details
+TEXT: This ticket will automatically activate to give you access to a special research on September 19, 2021, wherever you are in the world.
 
-RESOURCE ID: upload_mgmt_manage_menu_header
-TEXT: MANAGE CONTRIBUTIONS
+RESOURCE ID: item_leader_map_fragment_desc
+TEXT: Ao derrotar um Recruta da Equipe GO Rocket, você poderá obter um componente misterioso. Colete seis componentes misteriosos para combiná-los!
 
-RESOURCE ID: upload_mgmt_no_pending_data
-TEXT: You have no contributions pending upload.
+RESOURCE ID: leader_map_assembled_description
+TEXT: Seus componentes misteriosos formaram um Radar Rocket! Use-o para rastrear esconderijos da Equipe GO Rocket.
 
-RESOURCE ID: upload_mgmt_noms
-TEXT: PokéStop Nominations: {0}
+RESOURCE ID: little_jungle_cup_title
+TEXT: Copinha Selvagem
 
-RESOURCE ID: upload_mgmt_ok
-TEXT: OK
+RESOURCE ID: lure_rainy_event_bonus
+TEXT: Event Pokémon attracted to Rainy Lure Modules
 
-RESOURCE ID: upload_mgmt_pending_data
-TEXT: You have {0} MB pending upload.
+RESOURCE ID: master_premier_classic_title
+TEXT: Premier LM Clássica
 
-RESOURCE ID: upload_mgmt_retry
-TEXT: RETRY
+RESOURCE ID: metadata_patch
+TEXT: Built at 2021-08-30T21:01:46.274217
+at SHA 1d4fc1e988fcd485b0279ce9145a43b9c7696790
+Patch from: 0.217.0-SHA-c6d9d393, 0.217.1-SHA-e2c5ee9b
 
-RESOURCE ID: upload_mgmt_thank_you
-TEXT: Thank you for your contribution!
+RESOURCE ID: move_name_0352
+TEXT: Esfera Climática
 
-RESOURCE ID: upload_mgmt_upload_all
-TEXT: UPLOAD ALL ({0} MB)
+RESOURCE ID: mvt_stat_remote_distance_player_details
+TEXT: Participou a {0} km de distância
 
-RESOURCE ID: upload_mgmt_upload_confirm
-TEXT: Do you want to upload now?
+RESOURCE ID: onboard_name_registered|1
+TEXT: Que apelido legal!
+Prazer em conhecer você!
 
-RESOURCE ID: upload_mgmt_upload_confirm_info
-TEXT: You’re about to upload {0} MB of data. If you aren’t connected to Wi-Fi, data rates may apply.
+RESOURCE ID: photobomb_five_eevee
+TEXT: 5 encontros surpresa com Eevee ao usar o Retrato GO
 
-RESOURCE ID: upload_mgmt_upload_failed
-TEXT: Upload failed
+RESOURCE ID: photobomb_five_oshawott
+TEXT: 5 Photobombs from Oshawott in GO Snapshot
 
-RESOURCE ID: upload_mgmt_upload_individual
-TEXT: UPLOAD
+RESOURCE ID: poi_category_add_another
+TEXT: Adicionar outra
 
-RESOURCE ID: upload_mgmt_upload_later
-TEXT: UPLOAD LATER
+RESOURCE ID: poi_category_add_button
+TEXT: ADICIONAR CATEGORIA DE LOCALIZAÇÃO
 
-RESOURCE ID: upload_mgmt_upload_later_instruction
-TEXT: When you’re ready to upload your contribution, please go to Settings > Player Contributions.
+RESOURCE ID: poi_category_add_title_edit
+TEXT: Categorize este local.
 
-RESOURCE ID: upload_mgmt_uploading_all_msg
-TEXT: Uploading all ({0} MB)
+RESOURCE ID: poi_category_add_title_nom
+TEXT: Categorize este local.
 
-RESOURCE ID: upload_mgmt_uploading_individual
-TEXT: Uploading
+RESOURCE ID: poi_category_already_selected
+TEXT: A categoria já está selecionada
 
-RESOURCE ID: upload_mgmt_waiting_upload_msg
-TEXT: Waiting to upload
+RESOURCE ID: poi_category_back
+TEXT: VOLTAR
+
+RESOURCE ID: poi_category_nom_title
+TEXT: Categoria de Wayspot
+
+RESOURCE ID: poi_category_optional_prompt
+TEXT: Insira sugestões separadas por vírgulas.
+
+RESOURCE ID: poi_category_optional_title
+TEXT: Sugestão de categoria (opcional)
+
+RESOURCE ID: poi_category_select_error
+TEXT: {0} não está na lista de categorias.
+
+RESOURCE ID: poi_category_select_prompt
+TEXT: Selecione ou digite aqui.
+
+RESOURCE ID: poi_category_selected
+TEXT: Selecionados
+
+RESOURCE ID: poi_category_selected_title
+TEXT: Selecionados (até 3)
+
+RESOURCE ID: poi_category_sumit
+TEXT: ENVIAR
+
+RESOURCE ID: poi_category_thankyou
+TEXT: Agradecemos a sua contribuição!
+
+RESOURCE ID: poi_close_toast
+TEXT: Esta Poképarada fechará às {0: hh:mm tt}
+
+RESOURCE ID: poi_contrib_edit_category_added
+TEXT: Envios de categoria que serão adicionados amanhã: {0}.
+
+RESOURCE ID: poi_contrib_edit_category_avail
+TEXT: Envios de categoria disponíveis hoje: {0}.
+
+RESOURCE ID: poi_contrib_edit_category_maxed
+TEXT: Você atingiu seu máximo diário de envios de categoria de {0}.
+
+RESOURCE ID: poi_contrib_remaining_category_multiple
+TEXT: {0} envios de categoria restantes
+
+RESOURCE ID: poi_contrib_remaining_category_one
+TEXT: 1 envio de categoria restante
+
+RESOURCE ID: poi_contrib_upload_later_msg
+TEXT: Quando você estiver pronto para fazer o upload, acesse o menu principal.
+
+RESOURCE ID: poi_contrib_upload_now_msg
+TEXT: Você receberá um e-mail de confirmação em breve.
+
+RESOURCE ID: poi_point_progress_toast
+TEXT: Agradecemos a sua contribuição!
+
+RESOURCE ID: poi_power_g_level
+TEXT: Agradecemos as suas contribuições! Você e outros Treinadores podem receber bônus neste Ginásio.
+
+RESOURCE ID: poi_power_g_level_body
+TEXT: Agradecemos a sua contribuição! Você e outros Treinadores podem receber bônus neste Ginásio.
+
+RESOURCE ID: poi_power_g_level_title
+TEXT: Fortificação de Ginásio concluída!
+
+RESOURCE ID: poi_power_level
+TEXT: Nível {0}
+
+RESOURCE ID: poi_power_mainmenu
+TEXT: Quando você estiver pronto para fazer o upload do seu scan, acesse o menu principal.
+
+RESOURCE ID: poi_power_p_level
+TEXT: Thank you for your contributions! You and nearby trainers can get a bonus from this PokeStop.
+
+RESOURCE ID: poi_power_p_level_body
+TEXT: Agradecemos a sua contribuição! Você e outros Treinadores podem receber bônus nesta Poképarada.
+
+RESOURCE ID: poi_power_p_level_title
+TEXT: Fortificação de Poképarada concluída!
+
+RESOURCE ID: poi_power_turorial_1
+TEXT: If you scan this PokéStop or add a photo, PokeStop points will increase. When it levels up it will provide more bonuses depending on its level.
+
+RESOURCE ID: poi_power_turorial_2
+TEXT: When you level up a PokeStop, you can get these bonus and benefits.
+
+RESOURCE ID: poi_power_turorial_3
+TEXT: LEVEL 1
+
+RESOURCE ID: poi_power_turorial_4
+TEXT: LEVEL 2
+
+RESOURCE ID: poi_power_turorial_5
+TEXT: LEVEL 3
+
+RESOURCE ID: poi_power_turorial_6
+TEXT: Get bonus items!
+
+RESOURCE ID: poi_power_turorial_7
+TEXT: When you visit the location with your buddy and spin the Photo disk, your buddy gets a heart!
+
+RESOURCE ID: poi_power_turorial_8
+TEXT: At a PokéStop, wild Pokémon will appear more frequently. At a Gym, you’ll have bonus Premier Balls in the Pokémon encounter after you win a Raid Battle.
+
+RESOURCE ID: poi_power_tutorial_1
+TEXT: Se você escanear esta localização ou adicionar uma foto, a localização ganhará pontos de localização. Quando a localização estiver fortificada, ela fornecerá bônus dependendo do seu nível.
+
+RESOURCE ID: poi_power_tutorial_2
+TEXT: Fortifique uma localização para receber esses bônus.
+
+RESOURCE ID: poi_power_tutorial_3
+TEXT: NÍVEL 1
+
+RESOURCE ID: poi_power_tutorial_4
+TEXT: NÍVEL 2
+
+RESOURCE ID: poi_power_tutorial_5
+TEXT: NÍVEL 3
+
+RESOURCE ID: poi_power_tutorial_6
+TEXT: Receba itens de bônus!
+
+RESOURCE ID: poi_power_tutorial_7
+TEXT: Ao girar o fotodisco da localização enquanto seu companheiro está caminhando com você, seu companheiro ganhará um coração!
+
+RESOURCE ID: poi_power_tutorial_8
+TEXT: Em Poképaradas, Pokémon selvagens aparecerão com mais frequência. Em Ginásios, você receberá mais Bolas Presenteadas no encontro com Pokémon depois de vencer uma Batalha de Reide.
+
+RESOURCE ID: poi_power_upload_confirm
+TEXT: Arquivos carregados: {0}
+
+RESOURCE ID: poi_power_upload_failf
+TEXT: {0} file upload(s) failed.
+
+RESOURCE ID: poi_power_upload_later
+TEXT: FAZER UPLOAD MAIS TARDE
+
+RESOURCE ID: poi_power_upload_point
+TEXT: Pontos de localização adicionados a Poképaradas/Ginásios: {0}
+
+RESOURCE ID: poi_power_upload_req
+TEXT: UPLOAD OBRIGATÓRIO
+
+RESOURCE ID: poi_power_uploadbar
+TEXT: Fazendo upload {0}/{1}
+
+RESOURCE ID: poi_power_viewinmap
+TEXT: VER NO MAPA ({0})
+
+RESOURCE ID: poi_powered_up_duration
+TEXT: Fortificação ativa até {0:ddd hh:mm tt}
+
+RESOURCE ID: pokemon_category_0144_g
+TEXT: Pokémon Cruel
+
+RESOURCE ID: pokemon_category_0145_g
+TEXT: Pokémon Pernas Fortes
+
+RESOURCE ID: pokemon_category_0146_g
+TEXT: Pokémon Malevolente
+
+RESOURCE ID: pokemon_category_0746
+TEXT: Pokémon Peixinho
+
+RESOURCE ID: pokemon_category_0747
+TEXT: Pokémon Estrela Brutal
+
+RESOURCE ID: pokemon_category_0748
+TEXT: Pokémon Estrela Brutal
+
+RESOURCE ID: pokemon_category_0749
+TEXT: Pokémon Teimoso
+
+RESOURCE ID: pokemon_category_0750
+TEXT: Pokémon Cavalo de Tração
+
+RESOURCE ID: pokemon_category_0751
+TEXT: Pokémon Bolha de Água
+
+RESOURCE ID: pokemon_category_0752
+TEXT: Pokémon Bolha de Água
+
+RESOURCE ID: pokemon_category_0753
+TEXT: Pokémon Foice de Folha
+
+RESOURCE ID: pokemon_category_0754
+TEXT: Pokémon Foice Florescida
+
+RESOURCE ID: pokemon_category_0755
+TEXT: Pokémon Iluminador
+
+RESOURCE ID: pokemon_category_0756
+TEXT: Pokémon Iluminador
+
+RESOURCE ID: pokemon_category_0757
+TEXT: Pokémon Lagarto Tóxico
+
+RESOURCE ID: pokemon_category_0758
+TEXT: Pokémon Lagarto Tóxico
+
+RESOURCE ID: pokemon_category_0759
+TEXT: Pokémon Agitado
+
+RESOURCE ID: pokemon_category_0760
+TEXT: Pokémon Braço Forte
+
+RESOURCE ID: pokemon_category_0761
+TEXT: Pokémon Fruta
+
+RESOURCE ID: pokemon_category_0762
+TEXT: Pokémon Fruta
+
+RESOURCE ID: pokemon_category_0763
+TEXT: Pokémon Fruta
+
+RESOURCE ID: pokemon_category_0764
+TEXT: Pokémon Colhedor de Flores
+
+RESOURCE ID: pokemon_category_0765
+TEXT: Pokémon Sábio
+
+RESOURCE ID: pokemon_category_0766
+TEXT: Pokémon Trabalho em Equipe
+
+RESOURCE ID: pokemon_category_0767
+TEXT: Pokémon Escapada
+
+RESOURCE ID: pokemon_category_0768
+TEXT: Pokémon Escama Dura
+
+RESOURCE ID: pokemon_category_0769
+TEXT: Pokémon Monte de Areia
+
+RESOURCE ID: pokemon_category_0770
+TEXT: Pokémon Castelo de Areia
+
+RESOURCE ID: pokemon_category_0771
+TEXT: Pokémon Pepino-do-mar
+
+RESOURCE ID: pokemon_category_0772
+TEXT: Pokémon Sintético
+
+RESOURCE ID: pokemon_category_0773
+TEXT: Pokémon Sintético
+
+RESOURCE ID: pokemon_category_0774
+TEXT: Pokémon Meteoro
+
+RESOURCE ID: pokemon_category_0775
+TEXT: Pokémon Cochilando
+
+RESOURCE ID: pokemon_category_0776
+TEXT: Pokémon Tartaruga Explosiva
+
+RESOURCE ID: pokemon_category_0777
+TEXT: Pokémon Fofinho
+
+RESOURCE ID: pokemon_category_0778
+TEXT: Pokémon Disfarce
+
+RESOURCE ID: pokemon_category_0779
+TEXT: Pokémon Ranger Dentes
+
+RESOURCE ID: pokemon_category_0780
+TEXT: Pokémon Plácido
+
+RESOURCE ID: pokemon_category_0781
+TEXT: Pokémon Alga Sinistra
+
+RESOURCE ID: pokemon_category_0782
+TEXT: Pokémon Escamoso
+
+RESOURCE ID: pokemon_category_0783
+TEXT: Pokémon Escamoso
+
+RESOURCE ID: pokemon_category_0784
+TEXT: Pokémon Escamoso
+
+RESOURCE ID: pokemon_category_0785
+TEXT: Pokémon Espírito Nativo
+
+RESOURCE ID: pokemon_category_0786
+TEXT: Pokémon Espírito Nativo
+
+RESOURCE ID: pokemon_category_0787
+TEXT: Pokémon Espírito Nativo
+
+RESOURCE ID: pokemon_category_0788
+TEXT: Pokémon Espírito Nativo
+
+RESOURCE ID: pokemon_category_0789
+TEXT: Pokémon Nebulosa
+
+RESOURCE ID: pokemon_category_0790
+TEXT: Pokémon Protoestrela
+
+RESOURCE ID: pokemon_category_0791
+TEXT: Pokémon Solar
+
+RESOURCE ID: pokemon_category_0792
+TEXT: Pokémon Lunar
+
+RESOURCE ID: pokemon_category_0793
+TEXT: Pokémon Parasita
+
+RESOURCE ID: pokemon_category_0794
+TEXT: Pokémon Inchado
+
+RESOURCE ID: pokemon_category_0795
+TEXT: Pokémon Elegância
+
+RESOURCE ID: pokemon_category_0796
+TEXT: Pokémon Cintilante
+
+RESOURCE ID: pokemon_category_0797
+TEXT: Pokémon Lançamento
+
+RESOURCE ID: pokemon_category_0798
+TEXT: Pokémon Espada Sacada
+
+RESOURCE ID: pokemon_category_0799
+TEXT: Pokémon Papa-porcaria
+
+RESOURCE ID: pokemon_category_0800
+TEXT: Pokémon Prisma
+
+RESOURCE ID: pokemon_category_0801
+TEXT: Pokémon Artificial
+
+RESOURCE ID: pokemon_category_0802
+TEXT: Pokémon Morador das Sombras
+
+RESOURCE ID: pokemon_category_0803
+TEXT: Pokémon Espinho Venenoso
+
+RESOURCE ID: pokemon_category_0804
+TEXT: Pokémon Espinho Venenoso
+
+RESOURCE ID: pokemon_category_0805
+TEXT: Pokémon Muralha
+
+RESOURCE ID: pokemon_category_0806
+TEXT: Pokémon Fogos de Artifício
+
+RESOURCE ID: pokemon_category_0807
+TEXT: Pokémon Trovoada
+
+RESOURCE ID: pokemon_category_0810
+TEXT: Pokémon Chimpanzé
+
+RESOURCE ID: pokemon_category_0811
+TEXT: Pokémon Batida
+
+RESOURCE ID: pokemon_category_0812
+TEXT: Pokémon Percussionista
+
+RESOURCE ID: pokemon_category_0813
+TEXT: Pokémon Coelho
+
+RESOURCE ID: pokemon_category_0814
+TEXT: Pokémon Coelho
+
+RESOURCE ID: pokemon_category_0815
+TEXT: Pokémon Artilheiro
+
+RESOURCE ID: pokemon_category_0816
+TEXT: Pokémon Lagarto d’Água
+
+RESOURCE ID: pokemon_category_0817
+TEXT: Pokémon Lagarto d’Água
+
+RESOURCE ID: pokemon_category_0818
+TEXT: Pokémon Agente Secreto
+
+RESOURCE ID: pokemon_category_0821
+TEXT: Pokémon Passarinho
+
+RESOURCE ID: pokemon_category_0824
+TEXT: Pokémon Larva
+
+RESOURCE ID: pokemon_category_0827
+TEXT: Pokémon Raposa
+
+RESOURCE ID: pokemon_category_0828
+TEXT: Pokémon Raposa
+
+RESOURCE ID: pokemon_category_0829
+TEXT: Pokémon Florescer
+
+RESOURCE ID: pokemon_category_0834
+TEXT: Pokémon Mordida
+
+RESOURCE ID: pokemon_category_0835
+TEXT: Pokémon Filhote
+
+RESOURCE ID: pokemon_category_0837
+TEXT: Pokémon Carvão
+
+RESOURCE ID: pokemon_category_0838
+TEXT: Pokémon Carvão
+
+RESOURCE ID: pokemon_category_0839
+TEXT: Pokémon Carvão
+
+RESOURCE ID: pokemon_category_0859
+TEXT: Pokémon Ardiloso
+
+RESOURCE ID: pokemon_category_0860
+TEXT: Pokémon Malandro
+
+RESOURCE ID: pokemon_category_0864
+TEXT: Pokémon Coral
+
+RESOURCE ID: pokemon_category_0872
+TEXT: Pokémon Minhoca
+
+RESOURCE ID: pokemon_category_0875
+TEXT: Pokémon Pinguim
+
+RESOURCE ID: pokemon_category_0876
+TEXT: Pokémon Emoção
+
+RESOURCE ID: pokemon_category_0880
+TEXT: Pokémon Fóssil
+
+RESOURCE ID: pokemon_category_0881
+TEXT: Pokémon Fóssil
+
+RESOURCE ID: pokemon_category_0882
+TEXT: Pokémon Fóssil
+
+RESOURCE ID: pokemon_category_0883
+TEXT: Pokémon Fóssil
+
+RESOURCE ID: pokemon_desc_0080_2583
+TEXT: Uma mordida de Shellder causou uma reação química com os temperos contidos dentro do corpo de Slowbro, fazendo com que Slowbro se tornasse um Pokémon de tipo Venenoso.
+
+RESOURCE ID: pokemon_desc_0144_g
+TEXT: Suas penas em forma de lâmina são compostas de energia psíquica e conseguem cortar placas espessas de ferro como se fossem papel.
+
+RESOURCE ID: pokemon_desc_0145_g
+TEXT: Ao esfregar suas penas, produz um ruído crepitante parecido com energia elétrica. É por isso que este Pokémon é conhecido como Zapdos.
+
+RESOURCE ID: pokemon_desc_0146_g
+TEXT: A aura sinistra em forma de fogo deste Pokémon consome o espírito de qualquer criatura que toca. As vítimas se tornam sombras esgotadas de si mesmas.
+
+RESOURCE ID: pokemon_desc_0746
+TEXT: Quando está em apuros, seus olhos brilhantes atraem outros da sua espécie. O brilho dos seus olhos pode ser visto há mais de 40 km de distância.
+
+RESOURCE ID: pokemon_desc_0746_school
+TEXT: Conhecidos por alguns como “demônio dos mares”, quando Wishiwashi se machucam em batalhas e alguns deles se dissipam, tornam-se um cardume normal.
+
+RESOURCE ID: pokemon_desc_0746_solo
+TEXT: Quando está em apuros, seus olhos brilhantes atraem outros da sua espécie. O brilho dos seus olhos pode ser visto há mais de 40 km de distância.
+
+RESOURCE ID: pokemon_desc_0747
+TEXT: Com exceção da sua cabeça, as partes de seu corpo se regeneram rápido quando são cortadas. Após uma boa noite de sono, Mareanie volta ao normal.
+
+RESOURCE ID: pokemon_desc_0748
+TEXT: Toxapex cria uma cúpula para se esconder usando suas 12 pernas. A força das marés não afeta Toxapex quando está lá, por isso, é muito confortável.
+
+RESOURCE ID: pokemon_desc_0749
+TEXT: Devido ao seu poder imenso, Mudbray pode carregar 50 vezes o seu peso corporal e não sente nada.
+
+RESOURCE ID: pokemon_desc_0750
+TEXT: É capaz de caminhar por estradas montanhosas durante 3 dias e 3 noites carregando uma carga de 10 toneladas sem ao menos descansar.
+
+RESOURCE ID: pokemon_desc_0751
+TEXT: Só consegue respirar oxigênio que se dissolveu na água, por isso, usa uma bolha de água em sua cabeça quando caminha em terra firme.
+
+RESOURCE ID: pokemon_desc_0752
+TEXT: Tem o costume de guardar coisas que gosta em sua bolha de água. Se o seu Treinador não prestar atenção, Araquanid irá colocá-lo em sua bolha!
+
+RESOURCE ID: pokemon_desc_0753
+TEXT: Fomantis ama a luz solar. Banhar-se regularmente no sol faz com que cresça com cores vívidas.
+
+RESOURCE ID: pokemon_desc_0754
+TEXT: Ao dilacerar seus inimigos, parece estar dançando. Sua aparência elegante faz com que algumas pessoas considerem Lurantis o Pokémon de tipo Planta mais glamoroso de todos.
+
+RESOURCE ID: pokemon_desc_0755
+TEXT: Gosta de lugares úmidos e escuros. Quando cai a noite, os esporos dos seus cogumelos brilham.
+
+RESOURCE ID: pokemon_desc_0756
+TEXT: Quando participa de brigas territoriais com Parasect, a área toda fica completamente coberta de esporos!
+
+RESOURCE ID: pokemon_desc_0757
+TEXT: Com o seu gás venenoso, enfraquece os seus oponentes e os deixa zonzos. Salandit não se dão bem com Spinda, já que sempre estão zonzos.
+
+RESOURCE ID: pokemon_desc_0758
+TEXT: Castiga Salandit que não trouxeram comida para ela dando um tapão com sua mão em chamas.
+
+RESOURCE ID: pokemon_desc_0759
+TEXT: Stufful odeia abraços ou qualquer tipo de contato físico. Este Pokémon irá se debater, desvencilhar e resistir ao toque usando seu poder imenso.
+
+RESOURCE ID: pokemon_desc_0760
+TEXT: Gaba-se da sua tremenda força física. Muitas pessoas o consideram o Pokémon mais perigoso da região de Alola.
+
+RESOURCE ID: pokemon_desc_0761
+TEXT: Gira as sépalas em sua cabeça para tentar resistir ser engolido por Pokémon pássaros. Normalmente isso não dá em nada.
+
+RESOURCE ID: pokemon_desc_0762
+TEXT: Está sempre saltitante, balançando as sépalas em sua cabeça sem se preocupar. Se acertarem você, pode ser bem doloroso.
+
+RESOURCE ID: pokemon_desc_0763
+TEXT: Um Pokémon com uma personalidade agressiva e mestre dos chutes. Solta um grunhido toda vez que chuta um oponente.
+
+RESOURCE ID: pokemon_desc_0764
+TEXT: Pega flores e as cola em seu corpo com o fluido que produz. O aroma exalado por suas pétalas possui um poder curativo.
+
+RESOURCE ID: pokemon_desc_0765
+TEXT: Oranguru não se dão bem uns com os outros, portanto, estão sempre brigando para decidir quem é o melhor.
+
+RESOURCE ID: pokemon_desc_0766
+TEXT: Frutas são suas armas e sua principal fonte de alimento. Aquele que conseguir jogar uma fruta o mais longe, é o líder da trupe.
+
+RESOURCE ID: pokemon_desc_0767
+TEXT: Como o Pokémon incrivelmente covarde que é, Wimpod sai em disparada quando qualquer coisa chega perto dele.
+
+RESOURCE ID: pokemon_desc_0768
+TEXT: As suas maiores armas são suas garras, que é capaz de estender e retrair como desejar. Golisopod ocasionalmente está acompanhado de Wimpod.
+
+RESOURCE ID: pokemon_desc_0769
+TEXT: Se você construir montes de areia ao brincar, destrua-os antes de voltar para casa, ou eles poderão ser possuídos e se tornar Sandygast.
+
+RESOURCE ID: pokemon_desc_0770
+TEXT: Depois de gerar uma tempestade de areia para deter seus oponentes, este Pokémon tenebroso rouba a vitalidade deles.
+
+RESOURCE ID: pokemon_desc_0771
+TEXT: Todo o seu corpo é coberto por gosma. Se pisar acidentalmente em um deles, você escorregará, irritando Pyukumuku e fazendo com que ataque!
+
+RESOURCE ID: pokemon_desc_0772
+TEXT: Para prevenir sua fúria iminente, seu poder verdadeiro está selado por trás de sua máscara supercontrolada.
+
+RESOURCE ID: pokemon_desc_0773
+TEXT: Depois de fortalecer sua determinação através do vínculo criado com seu Treinador, conseguiu destruir sua máscara supercontrolada.
+
+RESOURCE ID: pokemon_desc_0773_disc
+TEXT: Este Pokémon agora é capaz de trocar de tipo. Por isso, emite um brilho prateado devido à energia que emana do seu interior.
+
+RESOURCE ID: pokemon_desc_0773_normal
+TEXT: Depois de fortalecer sua determinação através do vínculo criado com seu Treinador, conseguiu destruir sua máscara supercontrolada.
+
+RESOURCE ID: pokemon_desc_0774
+TEXT: Apesar da sua concha externa ser super-resistente, o choque causado ao cair no chão irá parti-la em migalhas.
+
+RESOURCE ID: pokemon_desc_0774_exposed
+TEXT: Esta é a sua forma sem concha. A cor do seu núcleo depende da composição dos alimentos que ingeriu.
+
+RESOURCE ID: pokemon_desc_0774_meteor
+TEXT: Apesar da sua concha externa ser super-resistente, o choque causado ao cair no chão irá parti-la em migalhas.
+
+RESOURCE ID: pokemon_desc_0775
+TEXT: Dorme a vida toda, já que sua dieta é composta de folhas com propriedades sedativas.
+
+RESOURCE ID: pokemon_desc_0776
+TEXT: O seu casco explosivo é muito perigoso, mas é extremamente sensível à umidade. Em dias chuvosos, Turtonator se protege em cavernas.
+
+RESOURCE ID: pokemon_desc_0777
+TEXT: A sua capacidade de gerar eletricidade é limitada. Por isso, este Pokémon recarrega sua energia sendo atingido por raios propositalmente!
+
+RESOURCE ID: pokemon_desc_0778
+TEXT: O sopro do vento revelou o que se esconde sob seu trapo a um Treinador que passava por perto. Ao voltar para casa, o Treinador foi dolorosamente dessa para melhor naquela mesma noite.
+
+RESOURCE ID: pokemon_desc_0779
+TEXT: A pele de Bruxish é espessa o bastante para protegê-lo dos espinhos de Mareanie. Com seus dentes robustos, esmaga os espinhos e os devora.
+
+RESOURCE ID: pokemon_desc_0779_busted
+TEXT: Mimikyu fica triste quando sua identidade é revelada, e por isso se vingará sem dó nem piedade de qualquer oponente que ousar quebrar seu pescoço.
+
+RESOURCE ID: pokemon_desc_0779_disguised
+TEXT: A pele de Bruxish é espessa o bastante para protegê-lo dos espinhos de Mareanie. Com seus dentes robustos, esmaga os espinhos e os devora.
+
+RESOURCE ID: pokemon_desc_0780
+TEXT: Visita cidades e brinca com as crianças. Drampa protege as crianças quando estão em perigo, por isso, suas mães não precisam se preocupar.
+
+RESOURCE ID: pokemon_desc_0781
+TEXT: A sua alga verde e parecida com correntes pode se esticar por dezenas de metros. Por algum motivo, se dá bem com Skrelp.
+
+RESOURCE ID: pokemon_desc_0782
+TEXT: Nunca dará as costas a um inimigo em batalha. Guerreiros antigos apreciavam a valentia de Jangmo-o, por isso, costumavam ter um deles ao seu lado.
+
+RESOURCE ID: pokemon_desc_0783
+TEXT: As suas escamas podem ser esculpidas e processadas para criar panelas e frigideiras. Elas conduzem calor muito bem, portanto, são um item bem popular.
+
+RESOURCE ID: pokemon_desc_0784
+TEXT: Batalha com valentia usando seus punhos, que são protegidos por escamas de aço, e seu melhor soco é o gancho para cima.
+
+RESOURCE ID: pokemon_desc_0785
+TEXT: O espírito guardião de Melemele incumbido de poderes elétricos, Tapu Koko é um Pokémon muito curioso. De tempos em tempos, aparece diante das pessoas.
+
+RESOURCE ID: pokemon_desc_0786
+TEXT: Apesar de ser conhecido como espírito guardião, Tapu Lele não se importa em ser cruel e é descrito como uma encarnação da natureza.
+
+RESOURCE ID: pokemon_desc_0787
+TEXT: Emite sons com sua cauda para avisar aos outros onde está, evitando assim conflitos desnecessários. O espírito guardião de Ula-Ula controla as plantas.
+
+RESOURCE ID: pokemon_desc_0788
+TEXT: Embora seja considerado um espírito guardião, às vezes, calamidades terríveis acontecem àqueles que inadvertidamente se aproximam de Tapu Fini.
+
+RESOURCE ID: pokemon_desc_0789
+TEXT: Ninguém sabe ao certo se Cosmog pertence a este mundo. Quando está em apuros, teletransporta-se para um lugar seguro onde pode se esconder.
+
+RESOURCE ID: pokemon_desc_0790
+TEXT: À medida que absorve luz, Cosmoem não para de crescer. Seu casco dourado é surpreendentemente resistente.
+
+RESOURCE ID: pokemon_desc_0791
+TEXT: Em textos antigos, este Pokémon é descrito como “a criatura que devora o sol".
+
+RESOURCE ID: pokemon_desc_0792
+TEXT: Às vezes, invoca poderes e formas de vidas desconhecidos através de portais que levam a outros mundos.
+
+RESOURCE ID: pokemon_desc_0793
+TEXT: Apareceu neste mundo através de uma Ultrafenda Espacial. Nihilego parece ser um parasita que se alimenta de pessoas e Pokémon para sobreviver.
+
+RESOURCE ID: pokemon_desc_0794
+TEXT: Buzzwole é um tipo de Ultracriatura que anda por aí exibindo o seu corpo extremamente bombado.
+
+RESOURCE ID: pokemon_desc_0795
+TEXT: Um ser de outro mundo com um corpo magro e esbelto, mas muito poderoso.
+
+RESOURCE ID: pokemon_desc_0796
+TEXT: Xurkitree são considerados Ultracriaturas. Alguns são imóveis como árvores, com seus braços e pernas grudados no chão.
+
+RESOURCE ID: pokemon_desc_0797
+TEXT: Celesteela é uma das Ultracriaturas perigosas, e altas cargas de energia podem ser detectadas em seus dois braços gigantescos.
+
+RESOURCE ID: pokemon_desc_0798
+TEXT: O corpo desta Ultracriatura é fino como papel e afiado como uma espada.
+
+RESOURCE ID: pokemon_desc_0799
+TEXT: Uma forma de vida desconhecida chamada de Ultracriatura. Parece estar com fome constantemente, e está sempre devorando alguma coisa.
+
+RESOURCE ID: pokemon_desc_0800
+TEXT: A fonte de sua energia é a luz. Caso não esteja se alimentando de luz, impurezas irão se alojar nele, Necrozma escurecerá e parará de se mover
+
+RESOURCE ID: pokemon_desc_0801
+TEXT: Construída há aproximadamente 500 anos por um cientista, a parte conhecida como Coralma é o verdadeiro ser vivo.
+
+RESOURCE ID: pokemon_desc_0802
+TEXT: Mergulha nas sombras de pessoas e Pokémon para entender os seus sentimentos e copiar suas competências.
+
+RESOURCE ID: pokemon_desc_0803
+TEXT: Uma Ultracriatura que vive em um mundo diferente e pia estrondosamente enquanto esguicha veneno em seus oponentes pelas agulhas na sua cabeça.
+
+RESOURCE ID: pokemon_desc_0804
+TEXT: Um tipo de Ultracriatura. Solta um líquido venenoso e brilhante de suas agulhas. Este líquido também é muito grudento.
+
+RESOURCE ID: pokemon_desc_0805
+TEXT: Quando paredes de pedras começaram a se mover e atacar, a verdadeira identidade bruta deste ser misterioso foi revelada. Parece ser uma Ultracriatura.
+
+RESOURCE ID: pokemon_desc_0806
+TEXT: Uma Ultracriatura que surgiu de uma Ultrafenda Espacial, ela causa explosões e aproveita-se da surpresa dos seus oponentes para roubar a vitalidade deles.
+
+RESOURCE ID: pokemon_desc_0807
+TEXT: Zeraora se aproxima dos seus oponentes na velocidade da luz, depois os dilacera dos pés à cabeça com suas garras afiadas.
+
+RESOURCE ID: pokestop_spin_new_xp_ten
+TEXT: 10× PE por visitar Poképaradas pela primeira vez
+
+RESOURCE ID: pokestop_spin_new_xp_three
+TEXT: 3× PE por visitar Poképaradas pela primeira vez
+
+RESOURCE ID: pups_tutorial_p0_body
+TEXT: Se você escanear uma localização, seus pontos de localização aumentarão. Quando a localização for Fortificada, ele fornecerá bônus aos Treinadores próximos, dependendo do seu nível.
+
+RESOURCE ID: pups_tutorial_p0_title
+TEXT: Fortificação de localização
+
+RESOURCE ID: pups_tutorial_p1_body
+TEXT: Receba esses bônus de Poképaradas e Ginásios Fortificados!
+
+RESOURCE ID: pups_tutorial_p1_title
+TEXT: Bônus de Fortificação
+
+RESOURCE ID: pups_tutorial_p2_body
+TEXT: Ao girar um fotodisco em uma Poképarada ou Ginásio, pare o fotodisco onde ele começou para adicionar um ponto de localização!
+
+RESOURCE ID: pups_tutorial_p2_title
+TEXT: Girada de fotodisco da sorte
+
+RESOURCE ID: pups_tutorial_p3_body
+TEXT: Com esse recurso, você pode escanear Poképaradas e Ginásios ao caminhar por suas localizações do mundo real e gravar vídeos com seu dispositivo. Esses scans contribuirão para a criação de mapas 3D dessas localizações.
+
+RESOURCE ID: pups_tutorial_p3_title
+TEXT: O que é o escaneamento de Poképarada?
+
+RESOURCE ID: quest_complete_eevet
+TEXT: Escolha quem você será
+
+RESOURCE ID: quest_complete_oshat
+TEXT: From Scalchops to Seamitars
+
+RESOURCE ID: quest_defeat_rocket
+TEXT: Derrotar {0} membros da Equipe GO Rocket
+
+RESOURCE ID: quest_eevet_catch_b
+TEXT: Pegar {0} Eevee.
+
+RESOURCE ID: quest_eevet_evolve_b
+TEXT: Evoluir {0} Eevee.
+
+RESOURCE ID: quest_gofest_2021_dialogue_popstar_3_1
+TEXT: Blanche está tomando conta do ensaio, por isso, Pikachu vai ficar ajudando ela agora.
+
+RESOURCE ID: quest_gofest_2021_dialogue_rockstar_3_1
+TEXT: Blanche está tomando conta do ensaio, por isso, Pikachu vai ficar ajudando ela. Enquanto isso, precisamos encontrar um parceiro para Pikachu.
+
+RESOURCE ID: quest_oshat_catch_b
+TEXT: Catch {0} Oshawott
+
+RESOURCE ID: quest_oshat_evolve_b
+TEXT: Evolve {0} Oshawott
+
+RESOURCE ID: quest_oshat_evolve_s1
+TEXT: Evolve {0} Dewott
+
+RESOURCE ID: quest_special_dialogue_eevet_0_0
+TEXT: Oi, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_eevet_0_1
+TEXT: Não sei se você notou, mas há um grande influxo de Eevee, o Pokémon Evolução!
+
+RESOURCE ID: quest_special_dialogue_eevet_0_2
+TEXT: Alguns teorizam que a chave para os mistérios das Evoluções de Pokémon está na genética de Eevee.
+
+RESOURCE ID: quest_special_dialogue_eevet_0_3
+TEXT: Eu consigo entender essa hipótese. Afinal, Eevee pode evoluir para OITO Pokémon!
+
+RESOURCE ID: quest_special_dialogue_eevet_0_4
+TEXT: Eu bem que gostaria de ser tão adaptável quanto Eevee!
+
+RESOURCE ID: quest_special_dialogue_eevet_0_5
+TEXT: Eu não tenho nem oito roupas diferentes. Eu basicamente visto este jaleco o tempo todo, até mesmo em eventos formais!
+
+RESOURCE ID: quest_special_dialogue_eevet_0_6
+TEXT: Enfim, talvez possamos desvendar ainda mais mistérios sobre as Evoluções de Pokémon se pesquisarmos sobre Eevee!
+
+RESOURCE ID: quest_special_dialogue_eevet_0_7
+TEXT: Mal posso esperar para começar a aprender sobre Eevee! Vamos nessa!
+
+RESOURCE ID: quest_special_dialogue_eevet_1_0
+TEXT: Ótimo trabalho com sua pesquisa sobre Eevee, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_eevet_1_1
+TEXT: De acordo com minhas descobertas, o DNA irregular de Eevee dá a ele a capacidade de evoluir para vários Pokémon diferentes.
+
+RESOURCE ID: quest_special_dialogue_eevet_1_2
+TEXT: Por exemplo, Eevee tem três evoluções originalmente descobertas na região de Kanto: Vaporeon, de tipo Água; Jolteon, de tipo Elétrico; e Flareon, de tipo Fogo.
+
+RESOURCE ID: quest_special_dialogue_eevet_1_3
+TEXT: Não é fascinante como Eevee consegue evoluir para Pokémon de tipos tão diferentes?
+
+RESOURCE ID: quest_special_dialogue_eevet_1_4
+TEXT: Conforme você trabalha na sua pesquisa sobre Eevee, talvez possa aprender mais sobre esses Pokémon. Boa sorte!
+
+RESOURCE ID: quest_special_dialogue_eevet_2_0
+TEXT: Ótimo trabalho, %PLAYERNAME%! Vejo que você conseguiu um Vaporeon, um Jolteon e um Flareon!
+
+RESOURCE ID: quest_special_dialogue_eevet_2_1
+TEXT: Essa criaturas incríveis são capazes de feitos impressionantes.
+
+RESOURCE ID: quest_special_dialogue_eevet_2_2
+TEXT: Você sabia que Vaporeon pode se tornar invisível na água?
+
+RESOURCE ID: quest_special_dialogue_eevet_2_3
+TEXT: Ou que Jolteon pode lançar raios com a potência de 10.000 volts?
+
+RESOURCE ID: quest_special_dialogue_eevet_2_4
+TEXT: E que Flareon é capaz de cuspir fogo a mais de 1.700 graus Celsius?
+
+RESOURCE ID: quest_special_dialogue_eevet_2_5
+TEXT: Não é incrível como todos esses três Pokémon evoluem de Eevee?
+
+RESOURCE ID: quest_special_dialogue_eevet_2_6
+TEXT: Talvez haja algo além da genética que dê a Eevee tanto potencial.
+
+RESOURCE ID: quest_special_dialogue_eevet_2_7
+TEXT: Vamos fazer pesquisas adicionais para aprender mais sobre Eevee. Em certas horas do dia, este Pokémon pode evoluir para Pokémon originalmente descobertos na região de Johto: Espeon, de tipo Psíquico, e Umbreon, de tipo Sombrio.
+
+RESOURCE ID: quest_special_dialogue_eevet_2_8
+TEXT: Se você continuar pesquisando, talvez os encontre também!
+
+RESOURCE ID: quest_special_dialogue_eevet_3_0
+TEXT: Ótimo trabalho, %PLAYERNAME%! Parece que você conseguiu um Espeon e um Umbreon!
+
+RESOURCE ID: quest_special_dialogue_eevet_3_1
+TEXT: Espeon, de tipo Psíquico, pode usar o pelo fino de seu corpo para sentir as correntes de ar e prever o próximo movimento dos inimigos. Geralmente evolui de Eevee durante o dia.
+
+RESOURCE ID: quest_special_dialogue_eevet_3_2
+TEXT: Já Umbreon, de tipo Sombrio, evolui de Eevee durante a noite. Dizem que os anéis de Umbreon brilham em amarelo sob a lua cheia.
+
+RESOURCE ID: quest_special_dialogue_eevet_3_3
+TEXT: Quem poderia imaginar que algo como a hora do dia seria capaz de afetar a Evolução de um Pokémon!
+
+RESOURCE ID: quest_special_dialogue_eevet_3_4
+TEXT: É maravilhoso mergulhar ainda mais fundo nos mistérios dos Pokémon.
+
+RESOURCE ID: quest_special_dialogue_eevet_3_5
+TEXT: Vamos continuar pesquisando as Evoluções de Eevee que foram originalmente descobertas na região de Sinnoh.
+
+RESOURCE ID: quest_special_dialogue_eevet_3_6
+TEXT: Leafeon, de tipo Planta, e Glaceon, de tipo Gelo, parecem ter evoluído para se adaptar ao ambiente.
+
+RESOURCE ID: quest_special_dialogue_eevet_3_7
+TEXT: Que tal pesquisar sobre esses Pokémon?
+
+RESOURCE ID: quest_special_dialogue_eevet_4_0
+TEXT: Você voltou, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_eevet_4_1
+TEXT: Vejo que você conseguiu um Leafeon e um Glaceon! Parabéns!
+
+RESOURCE ID: quest_special_dialogue_eevet_4_2
+TEXT: Os ambientes diferentes na região de Sinnoh parecem ter feito com que o adaptável Eevee evoluísse para um Pokémon de tipo Planta e um Pokémon de tipo Gelo. É inspirador ver o quão resiliente este pequeno Pokémon pode ser!
+
+RESOURCE ID: quest_special_dialogue_eevet_4_3
+TEXT: Podemos não descobrir todos os segredos sobre as Evoluções de Pokémon hoje, mas acho que aprendemos muito sobre nós mesmos através dos Pokémon.
+
+RESOURCE ID: quest_special_dialogue_eevet_4_4
+TEXT: Pesquisar sobre Eevee hoje me ensinou que há muitos caminhos na vida para escolher.
+
+RESOURCE ID: quest_special_dialogue_eevet_4_5
+TEXT: Espero que Eevee possa te inspirar a encontrar o melhor caminho para você.
+
+RESOURCE ID: quest_special_dialogue_eevet_4_6
+TEXT: Mas chega das minhas divagações. Eevee é conhecido por ter mais uma Evolução: Sylveon, de tipo Fada, que foi originalmente descoberta na região de Kalos.
+
+RESOURCE ID: quest_special_dialogue_eevet_4_7
+TEXT: Este Pokémon tem antenas em forma de fita que usa para acalmar os outros. Sylveon evolui de Eevee quando atinge um certo nível de amizade e pode confiar totalmente no seu amado Treinador. Fico até emocionado quando penso nisso!
+
+RESOURCE ID: quest_special_dialogue_eevet_4_8
+TEXT: Espero que você tenha a sorte de cruzar com um Pokémon maravilhoso como Sylveon em breve.
+
+RESOURCE ID: quest_special_dialogue_eevet_4_9
+TEXT: Até lá, vamos nessa!
+
+RESOURCE ID: quest_special_dialogue_oshat_0_0
+TEXT: Hey there, %PLAYERNAME%! I came across a truly surprising sight recently while going for a walk—trees in the nearby forest were covered with slash marks!
+
+RESOURCE ID: quest_special_dialogue_oshat_0_1
+TEXT: I’ve heard of a Pokémon called Oshawott, the Sea Otter Pokémon, that can detach the scalchop on its stomach for use as a blade. Maybe the slash marks were caused by all of the Oshawott nearby?
+
+RESOURCE ID: quest_special_dialogue_oshat_0_2
+TEXT: Let's use this as an opportunity to go and catch some of those Oshwott so we can find out more!
+
+RESOURCE ID: quest_special_dialogue_oshat_1_0
+TEXT: Hey %PLAYERNAME%! Did you know that Oshawott doesn't just use the scalchop on its stomach to fight, but that it can be used to break open hard berries as well?
+
+RESOURCE ID: quest_special_dialogue_oshat_1_1
+TEXT: Maybe we can learn even more about Oshawott once it evolves into its next Evolution: Dewott! Don’t let its cute exterior fool you—Dewott takes itself very seriously.
+
+RESOURCE ID: quest_special_dialogue_oshat_1_2
+TEXT: Also known as the Discipline Pokémon, this little fella uses strict training to learn its flowing double-scalchop technique. I’d love to see Dewott’s fighting in action!
+
+RESOURCE ID: quest_special_dialogue_oshat_2_0
+TEXT: Wow, Dewott's double-scalchop technique is amazing! Aren’t Pokémon so curious, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_oshat_2_1
+TEXT: I barely have the coordination to rub my tummy and pat my head at the same time and we have creatures that have their own special battle techniques. Truly inspiring stuff!
+
+RESOURCE ID: quest_special_dialogue_oshat_2_2
+TEXT: I’m starting to understand a bit more about this Pokémon now. And I have an inkling that we’ll get to learn even more soon!
+
+RESOURCE ID: quest_special_dialogue_oshat_2_3
+TEXT: It’s Evolution, Samurott, apparently uses swords incorporated in its armor called seamitars. Apparently in the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.
+
+RESOURCE ID: quest_special_dialogue_oshat_2_4
+TEXT: Sounds like it’s a true master of its craft! No wonder it’s known as the Formidable Pokémon! Let’s evolve Dewott and see this mastery for ourselves, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_oshat_3_0
+TEXT: Well would you look at that, %PLAYERNAME%, a Samurott in the flesh! It’s seamitars truly are a sight to behold. Knowing it can draw and sheathe its blades in a blink of an eye, I wonder how fast it can dice up berries...
+
+RESOURCE ID: quest_special_dialogue_oshat_3_1
+TEXT: Thanks for all your help today, %PLAYERNAME%. We’ve learned so much about Oshawott, Dewott, and Samurott—and from them too! I’ll SEA you next time! Ha-ha!
+
+RESOURCE ID: quest_special_dialogue_season4_0_0
+TEXT: Olá, %PLAYERNAME%! Quem bom que você está aqui. Uma nova aventura está prestes a começar!
+
+RESOURCE ID: quest_special_dialogue_season4_0_1
+TEXT: Não faz muito tempo que vários Pokémon Lendários começaram a emergir de anéis misteriosos que apareceram repentinamente no céu. Após algumas pesquisas, descobrimos que quem estava por trás disso era Hoopa, o Pokémon Travessura.
+
+RESOURCE ID: quest_special_dialogue_season4_0_2
+TEXT: Os anéis de Hoopa permitem que ele teletransporte coisas, incluindo a si mesmo, para onde desejar. Este poder torna difícil rastreá-lo, mas por algum motivo, Hoopa parece continuar voltando por aqui.
+
+RESOURCE ID: quest_special_dialogue_season4_0_3
+TEXT: Como eu sei? Bom, estava trabalhando no meu laboratório quando meus óculos foram retirados do meu rosto. Spark estava lá me ajudando, e disse que viu uma mão pequenina, meio lilás, saindo de um anel e roubando meus óculos. Muita ousadia, não?
+
+RESOURCE ID: quest_special_dialogue_season4_0_4
+TEXT: Por sorte, ele e Candela conseguiram recuperar meus óculos perseguindo os anéis que apareciam do nada em tudo quanto é canto no meu laboratório móvel. Pelo menos, eu ainda consigo enxergar. Haha!
+
+RESOURCE ID: quest_special_dialogue_season4_0_5
+TEXT: Não que eu precise dizer, mas eu ainda não sei por que Hoopa está aqui. Rastreá-lo tem sido difícil, mas com a sua ajuda, tenho certeza que resolveremos isso em um piscar de olhos.
+
+RESOURCE ID: quest_special_dialogue_season4_0_6
+TEXT: Enquanto isso, por que você não usa um Incenso para ver quais Pokémon consegue encontrar nesta área?
+
+RESOURCE ID: quest_special_dialogue_season4_1_0
+TEXT: Como em grandes suspenses, resolver este caso levará tempo, paciência e confiança. Em algumas das vezes, você precisará trabalhar sem minha ajuda, mas prometo que compartilharei tudo o que encontrar para ajudar em nossa busca.
+
+RESOURCE ID: quest_special_dialogue_season4_1_1
+TEXT: Continue explorando o mundo como sempre. Você nunca sabe o que vai encontrar!
+
+RESOURCE ID: quest_special_dialogue_season4_1_2
+TEXT: Voltarei quando tiver mais informações sobre Hoopa. Desde já, agradeço pela sua ajuda, %PLAYERNAME%!
+
+RESOURCE ID: quest_title_eevet
+TEXT: Escolha quem você será
+
+RESOURCE ID: quest_title_eevet_0
+TEXT: Escolha quem você será (1/5)
+
+RESOURCE ID: quest_title_eevet_1
+TEXT: Escolha quem você será (2/5)
+
+RESOURCE ID: quest_title_eevet_2
+TEXT: Escolha quem você será (3/5)
+
+RESOURCE ID: quest_title_eevet_3
+TEXT: Escolha quem você será (4/5)
+
+RESOURCE ID: quest_title_eevet_4
+TEXT: Escolha quem você será (5/5)
+
+RESOURCE ID: quest_title_oshat
+TEXT: From Scalchops to Seamitars
+
+RESOURCE ID: quest_title_oshat_0
+TEXT: From Scalchops to Seamitars (1/4)
+
+RESOURCE ID: quest_title_oshat_1
+TEXT: From Scalchops to Seamitars (2/4)
+
+RESOURCE ID: quest_title_oshat_2
+TEXT: From Scalchops to Seamitars (3/4)
+
+RESOURCE ID: quest_title_oshat_3
+TEXT: From Scalchops to Seamitars (4/4)
+
+RESOURCE ID: quest_title_season4
+TEXT: Travessura incompreendida
+
+RESOURCE ID: quest_title_season4_0
+TEXT: Travessura incompreendida (1/16)
+
+RESOURCE ID: quest_title_season4_1
+TEXT: Travessura incompreendida (2/16)
+
+RESOURCE ID: quest_title_season4_10
+TEXT: Travessura incompreendida (11/16)
+
+RESOURCE ID: quest_title_season4_11
+TEXT: Travessura incompreendida (12/16)
+
+RESOURCE ID: quest_title_season4_12
+TEXT: Travessura incompreendida (13/16)
+
+RESOURCE ID: quest_title_season4_13
+TEXT: Travessura incompreendida (14/16)
+
+RESOURCE ID: quest_title_season4_14
+TEXT: Travessura incompreendida (15/16)
+
+RESOURCE ID: quest_title_season4_15
+TEXT: Travessura incompreendida (16/16)
+
+RESOURCE ID: quest_title_season4_2
+TEXT: Travessura incompreendida (3/16)
+
+RESOURCE ID: quest_title_season4_3
+TEXT: Travessura incompreendida (4/16)
+
+RESOURCE ID: quest_title_season4_4
+TEXT: Travessura incompreendida (5/16)
+
+RESOURCE ID: quest_title_season4_5
+TEXT: Travessura incompreendida (6/16)
+
+RESOURCE ID: quest_title_season4_6
+TEXT: Travessura incompreendida (7/16)
+
+RESOURCE ID: quest_title_season4_7
+TEXT: Travessura incompreendida (8/16)
+
+RESOURCE ID: quest_title_season4_8
+TEXT: Travessura incompreendida (9/16)
+
+RESOURCE ID: quest_title_season4_9
+TEXT: Travessura incompreendida (10/16)
+
+RESOURCE ID: quest_title_uu1_jul21_0
+TEXT: Ultrabônus 2021: tempo (1/5)
+
+RESOURCE ID: quest_title_uu1_jul21_1
+TEXT: Ultrabônus 2021: tempo (2/5)
+
+RESOURCE ID: quest_title_uu1_jul21_2
+TEXT: Ultrabônus 2021: tempo (3/5)
+
+RESOURCE ID: quest_title_uu1_jul21_3
+TEXT: Ultrabônus 2021: tempo (4/5)
+
+RESOURCE ID: quest_title_uu1_jul21_4
+TEXT: Ultrabônus 2021: tempo (5/5)
+
+RESOURCE ID: quest_title_uu2_aug21_0
+TEXT: Ultrabônus 2021: espaço (1/5)
+
+RESOURCE ID: quest_title_uu2_aug21_1
+TEXT: Ultrabônus 2021: espaço (2/5)
+
+RESOURCE ID: quest_title_uu2_aug21_2
+TEXT: Ultrabônus 2021: espaço (3/5)
+
+RESOURCE ID: quest_title_uu2_aug21_3
+TEXT: Ultrabônus 2021: espaço (4/5)
+
+RESOURCE ID: quest_title_uu2_aug21_4
+TEXT: Ultrabônus 2021: espaço (5/5)
+
+RESOURCE ID: quest_title_uu3_aug21_0
+TEXT: Ultrabônus 2021: Espada e Escudo (1/5)
+
+RESOURCE ID: quest_title_uu3_aug21_1
+TEXT: Ultrabônus 2021: Espada e Escudo (2/5)
+
+RESOURCE ID: quest_title_uu3_aug21_2
+TEXT: Ultrabônus 2021: Espada e Escudo (3/5)
+
+RESOURCE ID: quest_title_uu3_aug21_3
+TEXT: Ultrabônus 2021: Espada e Escudo (4/5)
+
+RESOURCE ID: quest_title_uu3_aug21_4
+TEXT: Ultrabônus 2021: Espada e Escudo (5/5)
+
+RESOURCE ID: quest_under_investigation
+TEXT: O Professor Willow está atualmente realizando uma investigação sobre esta pesquisa. Confira mais detalhes em breve!
+
+RESOURCE ID: quest_use_any_potion
+TEXT: Usar qualquer Poção em um Pokémon.
+
+RESOURCE ID: quest_use_hyper_potion
+TEXT: Usar 1 Hiperpoção em um Pokémon.
+
+RESOURCE ID: quest_use_max_potion
+TEXT: Usar 1 Poção Máxima em um Pokémon.
+
+RESOURCE ID: quest_use_super_potion
+TEXT: Usar 1 Superpoção em um Pokémon.
+
+RESOURCE ID: safari_2020_dialogue_1_2a
+TEXT: Why not take the time to bond with your buddy?
+
+RESOURCE ID: spawn_eevee
+TEXT: Eevee selvagens estão aparecendo com mais frequência
+
+RESOURCE ID: spawn_oshawott
+TEXT: More Oshawott are appearing in the wild
+
+RESOURCE ID: ticket_eevee
+TEXT: Ingressos para uma pesquisa especial exclusiva estão disponíveis na loja
+
+RESOURCE ID: ticket_oshawott
+TEXT: Ticket for Special Research story available in the Shop: From Scalchops to Seamitars
+
+RESOURCE ID: tips_battle_at_gyms_tutorial_body
+TEXT: Você pode reivindicar um ginásio controlado por um time rival derrotando os Pokémon no Ginásio. Se reduzir a motivação de todos os Pokémon no Ginásio a zero, poderá reivindicar o Ginásio para a sua equipe.
+
+RESOURCE ID: tips_battle_at_gyms_tutorial_title
+TEXT: Batalha em Ginásios
+
+RESOURCE ID: tips_gym_pokecoins_tutorial_body
+TEXT: Ganhe até 50 Pokémoedas por dia quando o seu Pokémon defende um Ginásio.
+
+Você receberá estas Pokémoedas quando o seu Pokémon voltar da defesa do Ginásio.
+
+RESOURCE ID: tips_gym_pokecoins_tutorial_title
+TEXT: Ganhe Pokémoedas
+
+RESOURCE ID: tips_loading_screen_battle_switch_charged_move
+TEXT: Troque de Pokémon durante a batalha para utilizar os diferentes ataques carregados da sua equipe de batalha.
+
+RESOURCE ID: tips_loading_screen_curveball_chance
+TEXT: Jogar bolas curvas aumentará suas chances de capturar um Pokémon.
+
+RESOURCE ID: tips_loading_screen_daily_raid_pass
+TEXT: Obtenha seu Passe de Reide gratuito diário girando um fotodisco em qualquer Ginásio.
+
+RESOURCE ID: tips_loading_screen_discard_all_items
+TEXT: Descarte rapidamente todo o estoque de qualquer item em sua Bolsa tocando no botão − na tela de descarte.
+
+RESOURCE ID: tips_loading_screen_evolve_knocked_out
+TEXT: Quando você evolui um Pokémon que foi nocauteado em batalha, o Pokémon recupera automaticamente toda a sua saúde.
+
+RESOURCE ID: tips_loading_screen_friendship_lucky_egg
+TEXT: Use um Ovo da Sorte para dobrar os PE que você ganha ao aumentar seu nível de amizade com outros Treinadores.
+
+RESOURCE ID: tips_loading_screen_golden_razz_gym
+TEXT: Oferecer uma Fruta Frambo dourada a um Pokémon que estiver defendendo um Ginásio curará completamente o Pokémon.
+
+RESOURCE ID: tips_loading_screen_raid_egg_hatch
+TEXT: Treinadores costumam entrar em Reides difíceis assim que o Ovo de Reide choca.
+
+RESOURCE ID: tips_loading_screen_raid_party_prep
+TEXT: Prepare uma equipe de batalha com antecedência para ter sua estratégia pronta antes de desafiar um Chefe de Reide.
+
+RESOURCE ID: tips_no_tag_message_title
+TEXT: Crie tags
+
+RESOURCE ID: tips_potion_revive_tutorial_intro_0
+TEXT: Parece que seu Pokémon desmaiou. Aqui estão algumas Poções e Reviver, use-os para restaurar o PS do seu Pokémon.
+
+RESOURCE ID: tips_potion_revive_tutorial_intro_1
+TEXT: Para usar estes itens, abra a sua Bolsa. Espero que eles sejam úteis, {0}! Vamos cuidar dos nossos Pokémon, da mesma forma que eles cuidam de nós.
+
+RESOURCE ID: tips_potion_revive_tutorial_outro_0
+TEXT: Pegue mais Poções e Reviver vencendo Batalhas de Reide e girando fotodiscos de Poképaradas e Ginásios!
+
+RESOURCE ID: tips_potion_tutorial_0
+TEXT: O seu trabalho não para por aqui. Vamos deixar o seu Pokémon com PS total!
+
+RESOURCE ID: tips_potion_tutorial_1
+TEXT: Você pode usar Poções para restaurar o PS do seu Pokémon.
+
+RESOURCE ID: tips_potion_tutorial_2
+TEXT: Para usar Poções, toque no Pokémon para restaurar o seu PS.
+
+RESOURCE ID: tips_potion_tutorial_3
+TEXT: Novinho em folha! Ver um Pokémon se sentir melhor é uma das minhas coisas favoritas.
+
+RESOURCE ID: tips_potion_tutorial_select_item_toast
+TEXT: Use as suas Poções para restaurar o PS dos seus Pokémon.
+
+RESOURCE ID: tips_potion_tutorial_use_item_toast
+TEXT: Toque em um Pokémon para restaurar o seu PS.
+
+RESOURCE ID: tips_raid_tutorial_charged_attack_body
+TEXT: Quando o seu medidor de ataque estiver cheio, toque no botão para executar um ataque carregado, que pode causar muito dano.
+
+RESOURCE ID: tips_raid_tutorial_charged_attack_title
+TEXT: Ataque carregados
+
+RESOURCE ID: tips_raid_tutorial_difficulty_body
+TEXT: O ícone indica a dificuldade de um Reide. Trabalhe com outros treinadores para derrotar chefes de Reides mais desafiadores!
+
+Se você derrotar um Megachefe de Reide, conseguirá Megaenergia para Megaevoluir aquele Pokémon.
+
+RESOURCE ID: tips_raid_tutorial_difficulty_title
+TEXT: Dificuldade de Reides
+
+RESOURCE ID: tips_raid_tutorial_dodge_body
+TEXT: Deslize para a esquerda ou direita para se esquivar de ataques do seu oponente.
+
+RESOURCE ID: tips_raid_tutorial_dodge_title
+TEXT: Esquive
+
+RESOURCE ID: tips_revive_tutorial_0
+TEXT: Use Reviver em um Pokémon desmaiado para restaurar a metade do seu PS máximo.
+
+RESOURCE ID: tips_revive_tutorial_select_item_toast
+TEXT: Use Reviver para reanimar Pokémon desmaiados.
+
+RESOURCE ID: tips_revive_tutorial_use_item_toast
+TEXT: Toque nos seus Pokémon desmaiados para reanimá-los.
+
+RESOURCE ID: tips_tag_list_tip_section_title
+TEXT: DICAS
+
+RESOURCE ID: tips_tagging_idea_evolve
+TEXT: Evoluir
+
+RESOURCE ID: tips_tagging_idea_gym_attacker
+TEXT: Desafiador de Ginásio
+
+RESOURCE ID: tips_tagging_idea_gym_defender
+TEXT: Defensor de Ginásio
+
+RESOURCE ID: tips_tagging_idea_trade
+TEXT: Trocas
+
+RESOURCE ID: tips_tagging_learn_more_button
+TEXT: SAIBA MAIS
+
+RESOURCE ID: tips_tagging_tutorial_body_0
+TEXT: Conforme sua coleção de Pokémon cresce, tente usar tags para categorizar e classificar facilmente seus Pokémon de acordo com características específicas.
+
+RESOURCE ID: tips_tagging_tutorial_body_1
+TEXT: Aqui estão alguns exemplos de como você pode utilizar tags.
+
+RESOURCE ID: tips_tagging_tutorial_title_0
+TEXT: Usando tags
+
+RESOURCE ID: tips_tagging_tutorial_title_1
+TEXT: Idéias para tags
+
+RESOURCE ID: tips_warning_modal_title
+TEXT: Preste atenção à sua volta
+
+RESOURCE ID: two_free_raid_passes
+TEXT: Até 2 Passes de Reide gratuitos por dia ao girar fotodiscos de Ginásios
+
+RESOURCE ID: ultra_premier_classic_title
+TEXT: Premier UL Clássica
+
+RESOURCE ID: ultra_unlock_event_name_space
+TEXT: Ultrabônus - Parte 2: espaço
+
+RESOURCE ID: ultra_unlock_event_name_sword_shield
+TEXT: Ultrabônus - Parte 3: Espada e Escudo
+
+RESOURCE ID: ultra_unlock_event_name_time
+TEXT: Ultrabônus - Parte 1: tempo
+
+RESOURCE ID: unknown
+TEXT: A
+
+RESOURCE ID: unlimited_label
+TEXT: Sem limite
+
+RESOURCE ID: upmgmt_summary_about
+TEXT: Sobre pontos de localização
+
+RESOURCE ID: username_suggestion_disclaimer_change_name
+TEXT: Você pode mudar seu apelido apenas uma vez.
+
+RESOURCE ID: username_suggestion_disclaimer_new_user
+TEXT: Você pode mudar seu apelido mais tarde.
+
+RESOURCE ID: username_suggestion_name_looks_good_banned_name
+TEXT: Legal!
+
+RESOURCE ID: username_suggestion_name_looks_good_change_name
+TEXT: Legal!
+Você pode mudar o seu apelido apenas uma vez.
+
+RESOURCE ID: username_suggestion_name_looks_good_new_user
+TEXT: Legal!
+Você pode mudar o seu apelido mais tarde.
+
+RESOURCE ID: username_suggestions_header
+TEXT: Apelidos disponíveis
+
+RESOURCE ID: v2_onboard_name_registered|1
+TEXT: Que apelido legal!
+Prazer em conhecer você!
+
+RESOURCE ID: wayfarer_eligible_body
+TEXT: Parabéns! Você se tornou elegível para o Niantic Wayfarer, um programa que permite que você ajude a melhorar os jogos da Niantic contribuindo com informações sobre lugares interessantes e únicos ao redor do mundo. Complete o tutorial do Wayfarer para desbloquear funcionalidades de proposta e edição de Poképaradas.
+
+RESOURCE ID: wayfarer_eligible_goto
+TEXT: VISITE O WAYFARER
+
+RESOURCE ID: wayfarer_eligible_later
+TEXT: MAIS TARDE
+
+RESOURCE ID: wayfarer_eligible_title
+TEXT: Você está elegível para o Niantic Wayfarer!
+
+RESOURCE ID: wayfarer_eligible_unlock_msg
+TEXT: Complete o tutorial do Wayfarer para começar!
 

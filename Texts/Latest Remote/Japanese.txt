@@ -1,2552 +1,1356 @@
-RESOURCE ID: avatar_f_backpack_animegou_00_bundle_icon
-TEXT: ゴウ  バックパック
+RESOURCE ID: abi_helpshift_url
+TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
 
-RESOURCE ID: avatar_f_glasses_grandoakglasses_00_bundle_icon
-TEXT: ダイオーキドのメガネ
+RESOURCE ID: abi_new_player_onboarding_title
+TEXT: 仲間がいればもっと楽しい
 
-RESOURCE ID: avatar_f_glasses_lv40glasses_00_bundle_icon
-TEXT: レベル41 サングラス
+RESOURCE ID: avatar_f_gloves_swshuniformdark_00_bundle_icon
+TEXT: スポーツグローブ　あく
 
-RESOURCE ID: avatar_f_gloves_bwn_00_bundle_icon
-TEXT: N アクセサリー
+RESOURCE ID: avatar_f_gloves_swshuniformdefault_00_bundle_icon
+TEXT: スポーツグローブ　チャレンジ
 
-RESOURCE ID: avatar_f_hat_bwn_00_bundle_icon
-TEXT: N キャップ
+RESOURCE ID: avatar_f_gloves_swshuniformdragon_00_bundle_icon
+TEXT: スポーツグローブ　ドラゴン
 
-RESOURCE ID: avatar_f_hat_gyaradoscap_00_bundle_icon
-TEXT: ギャラドス帽子
+RESOURCE ID: avatar_f_pants_swshuniformdark_00_bundle_icon
+TEXT: スポーツレッグ　あく
 
-RESOURCE ID: avatar_f_hat_lvl50cap_00_bundle_icon
-TEXT: レベル45 帽子
+RESOURCE ID: avatar_f_pants_swshuniformdefault_00_bundle_icon
+TEXT: スポーツパンツ　チャレンジ
 
-RESOURCE ID: avatar_f_pants_animegou_00_bundle_icon
-TEXT: ゴウ ボトムス
+RESOURCE ID: avatar_f_pants_swshuniformdragon_00_bundle_icon
+TEXT: スポーツパンツ　ドラゴン
 
-RESOURCE ID: avatar_f_pants_bwn_00_bundle_icon
-TEXT: N ボトムス
+RESOURCE ID: avatar_f_shirt_swshuniformdark_00_bundle_icon
+TEXT: スポーツシャツ　あく
 
-RESOURCE ID: avatar_f_pants_green_00_bundle_icon
-TEXT: グリーン ボトムス
+RESOURCE ID: avatar_f_shirt_swshuniformdefault_00_bundle_icon
+TEXT: スポーツシャツ　チャレンジ
 
-RESOURCE ID: avatar_f_shirt_animegou_00_bundle_icon
-TEXT: ゴウ トップス
+RESOURCE ID: avatar_f_shirt_swshuniformdragon_00_bundle_icon
+TEXT: スポーツシャツ　ドラゴン
 
-RESOURCE ID: avatar_f_shirt_bwn_00_bundle_icon
-TEXT: N トップス
+RESOURCE ID: avatar_f_shoes_swshuniformdark_00_bundle_icon
+TEXT: スポーツシューズ　あく
 
-RESOURCE ID: avatar_f_shirt_green_00_bundle_icon
-TEXT: グリーン トップス
+RESOURCE ID: avatar_f_shoes_swshuniformdefault_00_bundle_icon
+TEXT: スポーツシューズ　チャレンジ
 
-RESOURCE ID: avatar_f_shirt_lvl50_00_bundle_icon
-TEXT: レベル50 ジャケット
+RESOURCE ID: avatar_f_shoes_swshuniformdragon_00_bundle_icon
+TEXT: スポーツシューズ　ドラゴン
 
-RESOURCE ID: avatar_f_shirt_melmetaljacket_00_bundle_icon
-TEXT: メルメタル ダウンジャケット
+RESOURCE ID: avatar_f_socks_swshuniformdefault_00_bundle_icon
+TEXT: スポーツレッグ　チャレンジ
 
-RESOURCE ID: avatar_f_shirt_melmetalvest_00_bundle_icon
-TEXT: メルメタル ダウンベスト
+RESOURCE ID: avatar_f_socks_swshuniformdragon_00_bundle_icon
+TEXT: スポーツレッグ　ドラゴン
 
-RESOURCE ID: avatar_f_shoes_animegou_00_bundle_icon
-TEXT: ゴウ シューズ
+RESOURCE ID: avatar_m_gloves_swshuniformdark_00_bundle_icon
+TEXT: スポーツグローブ　あく
 
-RESOURCE ID: avatar_f_shoes_bwn_00_bundle_icon
-TEXT: N シューズ
+RESOURCE ID: avatar_m_gloves_swshuniformdefault_00_bundle_icon
+TEXT: スポーツグローブ　チャレンジ
 
-RESOURCE ID: avatar_f_shoes_coolboots_00_bundle_icon
-TEXT: レベル49 ブーツ
+RESOURCE ID: avatar_m_gloves_swshuniformdragon_00_bundle_icon
+TEXT: スポーツグローブ　ドラゴン
 
-RESOURCE ID: avatar_f_shoes_green_00_bundle_icon
-TEXT: グリーン シューズ
+RESOURCE ID: avatar_m_pants_swshuniformdark_00_bundle_icon
+TEXT: スポーツレッグ　あく
 
-RESOURCE ID: avatar_f_shoes_melmetalshoes_00_bundle_icon
-TEXT: メルメタル シューズ
+RESOURCE ID: avatar_m_pants_swshuniformdefault_00_bundle_icon
+TEXT: スポーツパンツ　チャレンジ
 
-RESOURCE ID: avatar_m_backpack_animegou_00_bundle_icon
-TEXT: ゴウ  バックパック
+RESOURCE ID: avatar_m_pants_swshuniformdragon_00_bundle_icon
+TEXT: スポーツパンツ　ドラゴン
 
-RESOURCE ID: avatar_m_glasses_grandoakglasses_00_bundle_icon
-TEXT: ダイオーキドのメガネ
+RESOURCE ID: avatar_m_shirt_swshuniformdark_00_bundle_icon
+TEXT: スポーツシャツ　あく
 
-RESOURCE ID: avatar_m_glasses_lv40glasses_00_bundle_icon
-TEXT: レベル41 サングラス
+RESOURCE ID: avatar_m_shirt_swshuniformdefault_00_bundle_icon
+TEXT: スポーツシャツ　チャレンジ
 
-RESOURCE ID: avatar_m_gloves_bwn_00_bundle_icon
-TEXT: N アクセサリー
+RESOURCE ID: avatar_m_shirt_swshuniformdragon_00_bundle_icon
+TEXT: スポーツシャツ　ドラゴン
 
-RESOURCE ID: avatar_m_hat_bwn_00_bundle_icon
-TEXT: N キャップ
+RESOURCE ID: avatar_m_shoes_swshuniformdark_00_bundle_icon
+TEXT: スポーツシューズ　あく
 
-RESOURCE ID: avatar_m_hat_gyaradoscap_00_bundle_icon
-TEXT: ギャラドス帽子
+RESOURCE ID: avatar_m_shoes_swshuniformdefault_00_bundle_icon
+TEXT: スポーツシューズ　チャレンジ
 
-RESOURCE ID: avatar_m_hat_lvl50cap_00_bundle_icon
-TEXT: レベル45 帽子
+RESOURCE ID: avatar_m_shoes_swshuniformdragon_00_bundle_icon
+TEXT: スポーツシューズ　ドラゴン
 
-RESOURCE ID: avatar_m_pants_animegou_00_bundle_icon
-TEXT: ゴウ ボトムス
+RESOURCE ID: avatar_m_socks_swshuniformdefault_00_bundle_icon
+TEXT: スポーツレッグ　チャレンジ
 
-RESOURCE ID: avatar_m_pants_bwn_00_bundle_icon
-TEXT: N ボトムス
+RESOURCE ID: avatar_m_socks_swshuniformdragon_00_bundle_icon
+TEXT: スポーツレッグ　ドラゴン
 
-RESOURCE ID: avatar_m_pants_green_00_bundle_icon
-TEXT: グリーン ボトムス
+RESOURCE ID: avatar_seasonal
+TEXT: Pokémon GO Tour：カントー地方
 
-RESOURCE ID: avatar_m_shirt_animegou_00_bundle_icon
-TEXT: ゴウ トップス
+RESOURCE ID: boosted_mega_pokemon_slowbro
+TEXT: メガヤドランがパワーアップ
 
-RESOURCE ID: avatar_m_shirt_bwn_00_bundle_icon
-TEXT: N トップス
+RESOURCE ID: change_banned_name_dialog
+TEXT: ニックネームに問題があるようだ。新しいニックネームを教えてくれるかな？
 
-RESOURCE ID: avatar_m_shirt_green_00_bundle_icon
-TEXT: グリーン トップス
+RESOURCE ID: community_day_eevee_event_name
+TEXT: コミュニティ・デイ：イーブイ
 
-RESOURCE ID: avatar_m_shirt_lvl50_00_bundle_icon
-TEXT: レベル50 ジャケット
+RESOURCE ID: community_day_oshawott_event_name
+TEXT: コミュニティ・デイ：ミジュマル
 
-RESOURCE ID: avatar_m_shirt_melmetaljacket_00_bundle_icon
-TEXT: メルメタル ダウンジャケット
+RESOURCE ID: error_could_not_retrieve_more_username_suggestions
+TEXT: 提案を読み込めませんでした。もう一度お試しください。
 
-RESOURCE ID: avatar_m_shirt_melmetalvest_00_bundle_icon
-TEXT: メルメタル ダウンベスト
+RESOURCE ID: error_username_suggestion_just_taken_message
+TEXT: このニックネームは使用できません
 
-RESOURCE ID: avatar_m_shoes_animegou_00_bundle_icon
-TEXT: ゴウ シューズ
+RESOURCE ID: error_username_suggestion_just_taken_title
+TEXT: 使用不可
 
-RESOURCE ID: avatar_m_shoes_bwn_00_bundle_icon
-TEXT: N シューズ
+RESOURCE ID: event_mischief_hour_active
+TEXT: いたずらアワー
 
-RESOURCE ID: avatar_m_shoes_coolboots_00_bundle_icon
-TEXT: レベル49 ブーツ
+RESOURCE ID: event_mischief_hour_countdown
+TEXT: いたずら開始まであと少し…
 
-RESOURCE ID: avatar_m_shoes_green_00_bundle_icon
-TEXT: グリーン シューズ
+RESOURCE ID: event_season4_name
+TEXT: いたずらなシーズン
 
-RESOURCE ID: avatar_m_shoes_melmetalshoes_00_bundle_icon
-TEXT: メルメタル シューズ
+RESOURCE ID: event_season4_research_available
+TEXT: 「いたずらポケモンを解明せよ！」スペシャルリサーチ
 
-RESOURCE ID: badge_7_day_streaks
-TEXT: 7日連続ゲットまたはスピンボーナスを{0}回達成した！
+RESOURCE ID: event_season4_research_complete_bonus
+TEXT: 「いたずらポケモンを解明せよ！」完了でシーズン末イベントにアクセス
 
-RESOURCE ID: badge_7_day_streaks_singular
-TEXT: 7日連続ゲットまたはスピンボーナスを達成した！
+RESOURCE ID: event_seasonal_eggs
+TEXT: 今シーズンのポケモンがタマゴから生まれる
 
-RESOURCE ID: badge_7_day_streaks_title
-TEXT: トライアスリート
+RESOURCE ID: event_seasonal_wild
+TEXT: 今シーズンのポケモンが野生で出現
 
-RESOURCE ID: badge_event_0008
-TEXT: Test Location, November 22, 2020
+RESOURCE ID: event_surprise_bonuses_active
+TEXT: サプライズボーナスがスタートしました！
 
-RESOURCE ID: badge_event_0008_title
-TEXT: City Spotlight 2020
+RESOURCE ID: event_surprise_bonuses_countdown
+TEXT: サプライズボーナスがまもなくスタート！
 
-RESOURCE ID: badge_event_0011
-TEXT: Auckland, November 22, 2020
+RESOURCE ID: form_aegislash_blade
+TEXT: Blade Forme
 
-RESOURCE ID: badge_event_0011_title
-TEXT: City Spotlight 2020
+RESOURCE ID: form_aegislash_shield
+TEXT: Shield Forme
 
-RESOURCE ID: badge_event_0012
-TEXT: Kyoto, November 22, 2020
+RESOURCE ID: form_arceus_bug
+TEXT: Bug-Type
 
-RESOURCE ID: badge_event_0012_title
-TEXT: City Spotlight 2020
+RESOURCE ID: form_arceus_dark
+TEXT: Dark-Type
 
-RESOURCE ID: badge_event_0015
-TEXT: Busan, November 22, 2020
+RESOURCE ID: form_arceus_dragon
+TEXT: Dragon-Type
 
-RESOURCE ID: badge_event_0015_title
-TEXT: City Spotlight 2020
+RESOURCE ID: form_arceus_electric
+TEXT: Electric-Type
 
-RESOURCE ID: badge_event_0016
-TEXT: Tainan, November 22, 2020
+RESOURCE ID: form_arceus_fairy
+TEXT: Fairy-Type
 
-RESOURCE ID: badge_event_0016_title
-TEXT: City Spotlight 2020
+RESOURCE ID: form_arceus_fighting
+TEXT: Fighting-Type
 
-RESOURCE ID: badge_level_40
-TEXT: 2020年内にレベル40になった！
+RESOURCE ID: form_arceus_fire
+TEXT: Fire-Type
 
-RESOURCE ID: badge_level_40_title
-TEXT: レガシー40
+RESOURCE ID: form_arceus_flying
+TEXT: Flying-Type
 
-RESOURCE ID: badge_pokemon_caught_at_your_lures
-TEXT: ルアーで呼び寄せ捕まえられたポケモンが{0}匹になった！
+RESOURCE ID: form_arceus_ghost
+TEXT: Ghost-Type
 
-RESOURCE ID: badge_pokemon_caught_at_your_lures_singular
-TEXT: ルアーで呼び寄せられたポケモンが捕まえられた！
+RESOURCE ID: form_arceus_grass
+TEXT: Grass-Type
 
-RESOURCE ID: badge_pokemon_caught_at_your_lures_title
-TEXT: ピクニックガール
+RESOURCE ID: form_arceus_ground
+TEXT: Ground-Type
 
-RESOURCE ID: badge_raids_with_friends
-TEXT: フレンドと{0}回一緒にレイドバトルに勝った！
+RESOURCE ID: form_arceus_ice
+TEXT: Ice-Type
 
-RESOURCE ID: badge_raids_with_friends_singular
-TEXT: フレンドと一緒にレイドバトルに勝った！
+RESOURCE ID: form_arceus_normal
+TEXT: Normal-Type
 
-RESOURCE ID: badge_raids_with_friends_title
-TEXT: ホープコンビ
+RESOURCE ID: form_arceus_poison
+TEXT: Poison-Type
 
-RESOURCE ID: badge_unique_pokestops_singular
-TEXT: ポケストップを訪れた！
+RESOURCE ID: form_arceus_psychic
+TEXT: Psychic-Type
 
-RESOURCE ID: badge_unique_pokestops_title
-TEXT: かんこうきゃく
+RESOURCE ID: form_arceus_rock
+TEXT: Rock-Type
 
-RESOURCE ID: badge_unique_raid_bosses_defeated
-TEXT: レイドで{0}種類のポケモンを倒した！
+RESOURCE ID: form_arceus_steel
+TEXT: Steel-Type
 
-RESOURCE ID: badge_unique_raid_bosses_defeated_singular
-TEXT: レイドでポケモンを倒した！
+RESOURCE ID: form_arceus_water
+TEXT: Water-Type
 
-RESOURCE ID: badge_unique_raid_bosses_defeated_title
-TEXT: ホープトレーナー
+RESOURCE ID: form_burmy_plant
+TEXT: くさきのミノ
 
-RESOURCE ID: beluga_wonder_box_activate_message
-TEXT: ０日になったら、ポケモンをPokémon HOME (もしくはNintendo Switch) へ送り、
-ふしぎなはこを有効化しましょう
+RESOURCE ID: form_burmy_sandy
+TEXT: すなちのミノ
 
-RESOURCE ID: boosted_mega_pokemon_abomasnow
-TEXT: メガユキノオーがパワーアップ
+RESOURCE ID: form_burmy_trash
+TEXT: ゴミのミノ
 
-RESOURCE ID: boosted_mega_pokemon_beedrill
-TEXT: メガスピアーがパワーアップ
+RESOURCE ID: form_castform_normal
+TEXT: ポワルンのすがた
 
-RESOURCE ID: boosted_mega_pokemon_blastoise
-TEXT: メガカメックスがパワーアップ
+RESOURCE ID: form_castform_rainy
+TEXT: Rainy Form
 
-RESOURCE ID: boosted_mega_pokemon_charizard_x
-TEXT: メガリザードンＸがパワーアップ
+RESOURCE ID: form_castform_snowy
+TEXT: Snowy Form
 
-RESOURCE ID: boosted_mega_pokemon_charizard_y
-TEXT: メガリザードンＹがパワーアップ
+RESOURCE ID: form_castform_sunny
+TEXT: Sunny Form
 
-RESOURCE ID: boosted_mega_pokemon_gengar
-TEXT: メガゲンガーがパワーアップ
+RESOURCE ID: form_cherrim_overcast
+TEXT: ネガフォルム
 
-RESOURCE ID: boosted_mega_pokemon_houndoom
-TEXT: メガヘルガーがパワーアップ
+RESOURCE ID: form_cherrim_sunny
+TEXT: ポジフォルム
 
-RESOURCE ID: boosted_mega_pokemon_pidgeot
-TEXT: メガピジョットがパワーアップ
+RESOURCE ID: form_darmanitan_standard
+TEXT: ノーマルモード
 
-RESOURCE ID: boosted_mega_pokemon_venusaur
-TEXT: メガフシギバナがパワーアップ
+RESOURCE ID: form_darmanitan_zen
+TEXT: Zen Mode
 
-RESOURCE ID: buddy_giftbox_increase
-TEXT: 相棒がギフトを見つけてくれる頻度アップ
+RESOURCE ID: form_deoxys_attack
+TEXT: Attack Forme
 
-RESOURCE ID: candy_exchange_button
-TEXT: 変換
+RESOURCE ID: form_deoxys_defense
+TEXT: Defense Forme
 
-RESOURCE ID: candy_trade_xl
-TEXT: アメ → アメXL
+RESOURCE ID: form_deoxys_speed
+TEXT: Speed Forme
 
-RESOURCE ID: catch_cup_title
-TEXT: 速成カップ
+RESOURCE ID: form_female
+TEXT: メス
 
-RESOURCE ID: city_spotlight
-TEXT: City Spotlight
+RESOURCE ID: form_full_belly
+TEXT: Full Belly Mode
 
-RESOURCE ID: city_spotlight_2020_auckland_snap1
-TEXT: Victoria Parkの近くでGOスナップショットを撮る
+RESOURCE ID: form_furfrou_dandy
+TEXT: Dandy Trim
 
-RESOURCE ID: city_spotlight_2020_auckland_snap2
-TEXT: Albert Parkの近くでGOスナップショットを撮る
+RESOURCE ID: form_furfrou_debutant
+TEXT: Debutante Trim
 
-RESOURCE ID: city_spotlight_2020_auckland_snap3
-TEXT: Auckland Domainの近くでGOスナップショットを撮る
+RESOURCE ID: form_furfrou_diamond
+TEXT: ダイヤカット
 
-RESOURCE ID: city_spotlight_2020_auckland_snap4
-TEXT: Takutai Squareの近くでGOスナップショットを撮る
+RESOURCE ID: form_furfrou_heart
+TEXT: ハートカット
 
-RESOURCE ID: city_spotlight_2020_auckland_snap5
-TEXT: Commercial Bayの近くでGOスナップショットを撮る
+RESOURCE ID: form_furfrou_kabuki
+TEXT: カブキカット
 
-RESOURCE ID: city_spotlight_2020_auckland_snap6
-TEXT: Wynyard Quarterの近くでGOスナップショットを撮る
+RESOURCE ID: form_furfrou_la_reine
+TEXT: La Reine Trim
 
-RESOURCE ID: city_spotlight_2020_busan_snap1
-TEXT: Jagalchi Marketの近くでGOスナップショットを撮る
+RESOURCE ID: form_furfrou_matron
+TEXT: Matron Trim
 
-RESOURCE ID: city_spotlight_2020_busan_snap2
-TEXT: Yongdusan Parkの近くでGOスナップショットを撮る
+RESOURCE ID: form_furfrou_natural
+TEXT: Natural Form
 
-RESOURCE ID: city_spotlight_2020_busan_snap3
-TEXT: Democracy Parkの近くでGOスナップショットを撮る
+RESOURCE ID: form_furfrou_pharaoh
+TEXT: Pharaoh Trim
 
-RESOURCE ID: city_spotlight_2020_busan_snap4
-TEXT: Jungang Parkの近くでGOスナップショットを撮る
+RESOURCE ID: form_furfrou_star
+TEXT: Star Trim
 
-RESOURCE ID: city_spotlight_2020_busan_snap5
-TEXT: Yurari Plazaの近くでGOスナップショットを撮る
+RESOURCE ID: form_genesect_burn
+TEXT: ブレイズカセット
 
-RESOURCE ID: city_spotlight_2020_busan_snap6
-TEXT: Busan Stationの近くでGOスナップショットを撮る
+RESOURCE ID: form_genesect_chill
+TEXT: フリーズカセット
 
-RESOURCE ID: city_spotlight_2020_dialogue_1_0
-TEXT: 相棒のポケモンを連れて出かけないか、%PLAYERNAME%！慣れてしまって、
+RESOURCE ID: form_genesect_douse
+TEXT: アクアカセット
 
-RESOURCE ID: city_spotlight_2020_dialogue_1_1
-TEXT: 新たな発見がないように思える場所だとしても、大好きなポケモンと、ちょっとした冒険心さえあれば、
+RESOURCE ID: form_genesect_normal
+TEXT: カセットなし
 
-RESOURCE ID: city_spotlight_2020_dialogue_1_2
-TEXT: 楽しい探索ができるんだ。ポケモンと、冒険心、この2つで、人生はより楽しい！さぁ、元気にGOだ！
+RESOURCE ID: form_genesect_shock
+TEXT: イナズマカセット
 
-RESOURCE ID: city_spotlight_2020_kyoto_snap1
-TEXT: 宝が池公園 子どもの楽園の近くでGOスナップショットを撮る
+RESOURCE ID: form_greninja_ash
+TEXT: Ash-Greninja
 
-RESOURCE ID: city_spotlight_2020_kyoto_snap2
-TEXT: 京都国際会館の近くでGOスナップショットを撮る
+RESOURCE ID: form_hoopa_confined
+TEXT: Hoopa Confined
 
-RESOURCE ID: city_spotlight_2020_kyoto_snap3
-TEXT: 宝が池公園菖蒲園の近くでGOスナップショットを撮る
+RESOURCE ID: form_hoopa_unbound
+TEXT: Hoopa Unbound
 
-RESOURCE ID: city_spotlight_2020_kyoto_snap4
-TEXT: 宝が池の近くでGOスナップショットを撮る
+RESOURCE ID: form_keldeo_ordinary
+TEXT: いつものすがた
 
-RESOURCE ID: city_spotlight_2020_kyoto_snap5
-TEXT: 半木の道の近くでGOスナップショットを撮る
+RESOURCE ID: form_keldeo_resolute
+TEXT: Resolute Form
 
-RESOURCE ID: city_spotlight_2020_kyoto_snap6
-TEXT: 鴨川公園の近くでGOスナップショットを撮る
+RESOURCE ID: form_kyurem_black
+TEXT: ブラック
 
-RESOURCE ID: city_spotlight_2020_snap_generic
-TEXT: {0}の近くでGOスナップショットを撮る
+RESOURCE ID: form_kyurem_normal
+TEXT: キュレム
 
-RESOURCE ID: city_spotlight_2020_tainan_snap1
-TEXT: National Cheng Kung University Main Libraryの近くでGOスナップショットを撮る
+RESOURCE ID: form_kyurem_white
+TEXT: ホワイト
 
-RESOURCE ID: city_spotlight_2020_tainan_snap2
-TEXT: Tainan Parkの近くでGOスナップショットを撮る
+RESOURCE ID: form_landorus_incarnate
+TEXT: けしんフォルム
 
-RESOURCE ID: city_spotlight_2020_tainan_snap3
-TEXT: Confucius Temple, Tainanの近くでGOスナップショットを撮る
+RESOURCE ID: form_landorus_therian
+TEXT: れいじゅうフォルム
 
-RESOURCE ID: city_spotlight_2020_tainan_snap4
-TEXT: Blueprint Culture & Creative Parkの近くでGOスナップショットを撮る
+RESOURCE ID: form_male
+TEXT: オス
 
-RESOURCE ID: city_spotlight_2020_tainan_snap5
-TEXT: Tainan Sports Park & Municipal Baseball Stadiumの近くでGOスナップショットを撮る
+RESOURCE ID: form_meloetta_aria
+TEXT: ボイスフォルム
 
-RESOURCE ID: city_spotlight_2020_tainan_snap6
-TEXT: Koxinga Museum & Koxinga Shrineの近くでGOスナップショットを撮る
+RESOURCE ID: form_meloetta_pirouette
+TEXT: Pirouette Forme
 
-RESOURCE ID: city_spotlight_2020_test_snap1
-TEXT: ロケーション1の近くでGOスナップショットを撮る
+RESOURCE ID: form_mimikyu_busted
+TEXT: Busted Form
 
-RESOURCE ID: city_spotlight_2020_test_snap2
-TEXT: ロケーション2の近くでGOスナップショットを撮る
+RESOURCE ID: form_mimikyu_disguised
+TEXT: Disguised Form
 
-RESOURCE ID: city_spotlight_2020_test_snap3
-TEXT: ロケーション3の近くでGOスナップショットを撮る
+RESOURCE ID: form_necrozma_dawn_wings
+TEXT: Dawn Wings
 
-RESOURCE ID: city_spotlight_2020_test_snap4
-TEXT: ロケーション4の近くでGOスナップショットを撮る
+RESOURCE ID: form_necrozma_dusk_mane
+TEXT: Dusk Mane
 
-RESOURCE ID: city_spotlight_2020_test_snap5
-TEXT: ロケーション5の近くでGOスナップショットを撮る
+RESOURCE ID: form_necrozma_normal
+TEXT: ネクロズマ
 
-RESOURCE ID: city_spotlight_2020_test_snap6
-TEXT: ロケーション6の近くでGOスナップショットを撮る
+RESOURCE ID: form_necrozma_ultra
+TEXT: Ultra Necrozma
 
-RESOURCE ID: city_spotlight_2020_title
-TEXT: City Spotlight 2020
+RESOURCE ID: form_pirouette
+TEXT: Pirouette Forme
 
-RESOURCE ID: city_spotlight_2020_title_1
-TEXT: City Spotlight 2020 (1/1)
+RESOURCE ID: form_primal
+TEXT: Primal Reversion
 
-RESOURCE ID: community_day_electabuzz_event_name
-TEXT: コミュニティ・デイ：エレブー
+RESOURCE ID: form_rotom_fan
+TEXT: スピンロトム
 
-RESOURCE ID: community_day_magmar_event_name
-TEXT: コミュニティ・デイ：ブーバー
+RESOURCE ID: form_rotom_frost
+TEXT: フロストロトム
 
-RESOURCE ID: complete_geotarget_quest
-TEXT: ARマッピングフィールドリサーチを完了する
+RESOURCE ID: form_rotom_heat
+TEXT: ヒートロトム
 
-RESOURCE ID: dialog_basic_no
-TEXT: いいえ
+RESOURCE ID: form_rotom_mow
+TEXT: カットロトム
 
-RESOURCE ID: dialog_basic_yes
-TEXT: はい
+RESOURCE ID: form_rotom_normal
+TEXT: ロトム
 
-RESOURCE ID: err_pokemon_could_not_be_powered_up
-TEXT: エラー：強化できませんでした
+RESOURCE ID: form_rotom_wash
+TEXT: ウォッシュロトム
 
-RESOURCE ID: event_friendship_2020
-TEXT: 友情の12日間
+RESOURCE ID: form_shaymin_land
+TEXT: ランドフォルム
 
-RESOURCE ID: event_kalos_celebration
-TEXT: カロスセレブレーション
+RESOURCE ID: form_shaymin_sky
+TEXT: スカイフォルム
 
-RESOURCE ID: event_season1_name
-TEXT: セレブレーションシーズン
+RESOURCE ID: form_silvally_bug
+TEXT: タイプ：むし
 
-RESOURCE ID: event_title_anime_week
-TEXT: TVアニメコラボウィーク
+RESOURCE ID: form_silvally_dark
+TEXT: タイプ：あく
 
-RESOURCE ID: event_title_movie23
-TEXT: 「劇場版ポケットモンスター ココ」イベント
+RESOURCE ID: form_silvally_dragon
+TEXT: Type: Dragon
 
-RESOURCE ID: f_avatar_poses_bundle_pose_22
-TEXT: グリーン
+RESOURCE ID: form_silvally_electric
+TEXT: タイプ：でんき
 
-RESOURCE ID: f_avatar_poses_bundle_pose_24
-TEXT: N
+RESOURCE ID: form_silvally_fairy
+TEXT: Type: Fairy
 
-RESOURCE ID: f_avatar_poses_bundle_pose_25
-TEXT: レベル43 ポーズ
+RESOURCE ID: form_silvally_fighting
+TEXT: タイプ：かくとう
 
-RESOURCE ID: f_avatar_poses_bundle_pose_26
-TEXT: レベル47 ポーズ
+RESOURCE ID: form_silvally_fire
+TEXT: タイプ：ほのお
 
-RESOURCE ID: f_glasses_lv40glasses_00
-TEXT: レベル41 サングラス
+RESOURCE ID: form_silvally_flying
+TEXT: タイプ：ひこう
 
-RESOURCE ID: f_glasses_lv40glasses_00_bundle_icon
-TEXT: レベル41 サングラス
+RESOURCE ID: form_silvally_ghost
+TEXT: Type: Ghost
 
-RESOURCE ID: f_hat_gyaradoscap_00_bundle_icon
-TEXT: ギャラドス帽子
+RESOURCE ID: form_silvally_grass
+TEXT: タイプ：くさ
 
-RESOURCE ID: f_hat_lvl50cap_0
-TEXT: レベル45 帽子
+RESOURCE ID: form_silvally_ground
+TEXT: タイプ：じめん
 
-RESOURCE ID: f_hat_lvl50cap_00_bundle_icon
-TEXT: レベル45 帽子
+RESOURCE ID: form_silvally_ice
+TEXT: タイプ：こおり
 
-RESOURCE ID: f_shirt_lvl50_0
-TEXT: レベル50 ジャケット
+RESOURCE ID: form_silvally_normal
+TEXT: Type: Normal
 
-RESOURCE ID: f_shirt_lvl50_00_bundle_icon
-TEXT: レベル50 ジャケット
+RESOURCE ID: form_silvally_poison
+TEXT: タイプ：どく
 
-RESOURCE ID: f_shirt_lvl50_1
-TEXT: レベル50 ジャケット
+RESOURCE ID: form_silvally_psychic
+TEXT: タイプ：エスパー
 
-RESOURCE ID: f_shoes_coolboots_0
-TEXT: レベル49 ブーツ
+RESOURCE ID: form_silvally_rock
+TEXT: タイプ：いわ
 
-RESOURCE ID: f_shoes_coolboots_00_bundle_icon
-TEXT: レベル49 ブーツ
+RESOURCE ID: form_silvally_steel
+TEXT: タイプ：はがね
 
-RESOURCE ID: filter_key_raid_ex
-TEXT: EXレイド
+RESOURCE ID: form_silvally_water
+TEXT: タイプ：みず
 
-RESOURCE ID: filter_key_raid_mega
-TEXT: メガレイド
+RESOURCE ID: form_thundurus_incarnate
+TEXT: けしんフォルム
 
-RESOURCE ID: filter_key_raid_remote
-TEXT: リモートレイド
+RESOURCE ID: form_thundurus_therian
+TEXT: れいじゅうフォルム
 
-RESOURCE ID: friendship_bonus_increase
-TEXT: より速く仲良し度が上がる
+RESOURCE ID: form_tornadus_incarnate
+TEXT: けしんフォルム
+
+RESOURCE ID: form_tornadus_therian
+TEXT: れいじゅうフォルム
+
+RESOURCE ID: form_vivillon_archipelago
+TEXT: Archipelago Pattern
+
+RESOURCE ID: form_vivillon_continental
+TEXT: Continental Pattern
+
+RESOURCE ID: form_vivillon_elegant
+TEXT: Elegant Pattern
+
+RESOURCE ID: form_vivillon_fancy
+TEXT: Fancy Pattern
+
+RESOURCE ID: form_vivillon_garden
+TEXT: Garden Pattern
+
+RESOURCE ID: form_vivillon_high_plains
+TEXT: High Plains Pattern
+
+RESOURCE ID: form_vivillon_icy_snow
+TEXT: Icy Snow Pattern
+
+RESOURCE ID: form_vivillon_jungle
+TEXT: Jungle Pattern
+
+RESOURCE ID: form_vivillon_marine
+TEXT: Marine Pattern
+
+RESOURCE ID: form_vivillon_meadow
+TEXT: Meadow Pattern
+
+RESOURCE ID: form_vivillon_modern
+TEXT: Modern Pattern
+
+RESOURCE ID: form_vivillon_monsoon
+TEXT: Monsoon Pattern
+
+RESOURCE ID: form_vivillon_ocean
+TEXT: Ocean Pattern
+
+RESOURCE ID: form_vivillon_pokeball
+TEXT: Poké Ball Pattern
+
+RESOURCE ID: form_vivillon_polar
+TEXT: Polar Pattern
+
+RESOURCE ID: form_vivillon_river
+TEXT: River Pattern
+
+RESOURCE ID: form_vivillon_sandstorm
+TEXT: Sandstorm Pattern
+
+RESOURCE ID: form_vivillon_savanna
+TEXT: Savanna Pattern
+
+RESOURCE ID: form_vivillon_sun
+TEXT: Sun Pattern
+
+RESOURCE ID: form_vivillon_tundra
+TEXT: Tundra Pattern
+
+RESOURCE ID: form_wishiwashi_school
+TEXT: School Form
+
+RESOURCE ID: form_wishiwashi_solo
+TEXT: Solo Form
+
+RESOURCE ID: form_zygarde_complete
+TEXT: Complete Forme
+
+RESOURCE ID: form_zygarde_fifty_percent
+TEXT: 50% Forme
+
+RESOURCE ID: form_zygarde_ten_percent
+TEXT: 10% Forme
+
+RESOURCE ID: gbl_quadruple_dust_win
+TEXT: 4× GBLで手に入るほしのすな
 
 RESOURCE ID: general1.ticket.2_description
-TEXT: 世界中のどこにいても、現地時間2020年11月21日の11:00AM～5:00PMに、ゲーム内でスタートできるイベント「ひふきポケモンを解明せよ！」を遊ぶことができるチケット。詳細は、ゲーム内ニュースで確認できます。
+TEXT: 世界中のどこにいても、現地時間2021年8月14・15日11:00AM～5:00PMにゲーム内イベント「しんかポケモンを解明せよ！」を遊ぶことができるチケット。詳細は、ゲーム内ニュースで確認できます。
 
 イベントを最大限にお楽しみいただくには、記載の開催時間内に遊び終える必要があります。
 
-RESOURCE ID: general1.ticket.2_description_2
-TEXT: 世界中のどこにいても、現地時間2020年11月21日の11:00AM～5:00PMに、ゲーム内でスタートできるイベント「ひふきポケモンを解明せよ！」を遊ぶことができるチケット。詳細は、ゲーム内ニュースで確認できます。
+RESOURCE ID: general1.ticket.2_eevet_description
+TEXT: 世界中のどこにいても、現地時間2021年8月14・15日11:00AM～5:00PMにゲーム内イベント「しんかポケモンを解明せよ！」を遊ぶことができるチケット。詳細は、ゲーム内ニュースで確認できます。
 
 イベントを最大限にお楽しみいただくには、記載の開催時間内に遊び終える必要があります。
+
+RESOURCE ID: general1.ticket.2_eevet_title
+TEXT: 「しんかポケモンを解明せよ！」チケット
+
+RESOURCE ID: general1.ticket.2_oshat_description
+TEXT: 世界中のどこにいても、現地時間2021年9月19日の11:00AM～5:00PMに、ゲーム内でスタートできるイベント「ラッコポケモンを解明せよ！」を遊ぶことができるチケット。詳細は、ゲーム内ニュースで確認できます。
+
+イベントを最大限にお楽しみいただくには、記載の開催時間内に遊び終える必要があります。
+
+RESOURCE ID: general1.ticket.2_oshat_title
+TEXT: 「ラッコポケモンを解明せよ！」チケット
 
 RESOURCE ID: general1.ticket.2_title
-TEXT: 「ひふきポケモンを解明せよ！」チケット
+TEXT: 「しんかポケモンを解明せよ！」チケット
 
-RESOURCE ID: general1.ticket.2_title_2
-TEXT: 「ひふきポケモンを解明せよ！」チケット
+RESOURCE ID: general_xxl
+TEXT: XXL
 
-RESOURCE ID: group_seasonal
-TEXT: ウィンター
+RESOURCE ID: general_xxs
+TEXT: XXL
 
-RESOURCE ID: gym_tag_event
-TEXT: イベント
+RESOURCE ID: gift_pokestop_guaranteed
+TEXT: ポケストップスピンのギフト確定
 
-RESOURCE ID: home_event_name
-TEXT: Pokémon HOME イベント
+RESOURCE ID: gofest2021_day2
+TEXT: GO Fest 2021 Day 2: レイド！
 
-RESOURCE ID: home_exceeds_max_pokemon
-TEXT: 一度に転送できるポケモン数の上限を超えています
+RESOURCE ID: gym_level_bonus
+TEXT: ジムパワーアップ
 
-RESOURCE ID: home_invalid_pokemon
-TEXT: 転送できないポケモンが含まれています
+RESOURCE ID: help_center_friends_link
+TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614900279
 
-RESOURCE ID: home_login_app_modal_body
-TEXT: あなたの端末でニンテンドー
-アカウントと Pokémon HOME
-との連携をお試しの上、再度
-Pokémon HOME への連携を
-お試しください。
+RESOURCE ID: help_center_raid_log_link
+TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
 
-RESOURCE ID: home_login_app_modal_title
-TEXT: Pokémon HOME に
-接続していません
-
-RESOURCE ID: home_privacy_warning
-TEXT: Pokémon GOとPokémon HOME を連携すると、
-ポケモンを転送する過程で限られた情報が
-株式会社ポケモンに共有されます。詳細な情報について
-は、<a href="https://niantic.helpshift.com/a/pokemon-go/?s=accessories-and-services&f=sending-pokemon-to-pokemon-home">ヘルプ</a>内に明記された文章をご確認ください。
-株式会社ポケモンに提供されたデータは、
-株式会社ポケモンのプライバシーポリシーに基づき
-取り扱われます。
-
-RESOURCE ID: home_settings_transfer_warning
-TEXT: Pokémon HOME に転送したポケモンは、
-Pokémon GO に戻すことはできません。
-
-RESOURCE ID: home_signed_in
-TEXT: サインイン
-
-RESOURCE ID: home_support_id_about
-TEXT: 下記があなたのPokémon HOMEのサポートIDに
-なります。もしこの情報がPokémon HOMEに
-表示されたサポートIDと異なる場合には、一度
-サインアウトしていただいた上で、再度異なる
-ニンテンドーアカウントでサインインしてください。
-
-RESOURCE ID: home_transfer_error_gym_deployed
-TEXT: ジムに配置されているポケモンは転送できません
-
-RESOURCE ID: home_transfer_error_shadow_pokemon_error
-TEXT: シャドウポケモンは転送できません
-
-RESOURCE ID: home_transfer_next_steps
-TEXT: Pokémon HOME を開いてポケモンの転送を完了し
-てください。転送を完了するまで、新たにポケモン
-をPokémon GOからPokémon HOME へ送ることは
-できません。
-
-RESOURCE ID: home_transfer_warning
-TEXT: Pokémon HOMEに転送した一部のポケモンは、
-他の『ポケットモンスター』シリーズに
-連れていくことができません。詳細は、
-Pokémon HOME アプリ内でご確認ください。
-Pokémon HOME に転送したポケモンは、
-Pokémon GO に戻すことはできません。
-
-RESOURCE ID: home_transporter_about
-TEXT: ポケモンをPokémon Home へ送るには、
-転送装置のエナジーが必要です。ポケモンによって
-必要なエナジー量は違います。
-
-RESOURCE ID: invalid_character_tag_name_warning
-TEXT: 使えない文字が含まれています
+RESOURCE ID: incense_effectiveness_walking
+TEXT: 歩いている間おこうの効果増
 
 RESOURCE ID: item_event_ticket_pink_desc
-TEXT: 現地時間2020年11月21日（11:00AM～5:00PM）にスペシャルリサーチを遂行するためのチケット。
-
-RESOURCE ID: item_event_ticket_pink_desc_2
-TEXT: 現地時間2020年11月21日（11:00AM～5:00PM）にスペシャルリサーチを遂行するためのチケット。
+TEXT: 現地時間2021年8月14・15日11:00AM～5:00PMにスペシャルリサーチを遂行するためのチケット。
 
 RESOURCE ID: item_event_ticket_pink_details
-TEXT: このチケットは自動的に発動し、現地時間2020年11月21日にスペシャルリサーチが行えるようになります。
+TEXT: このチケットは自動的に発動し、現地時間2021年8月14・15日にスペシャルリサーチが行えるようになります。
 
-RESOURCE ID: item_event_ticket_pink_details_2
-TEXT: このチケットは自動的に発動し、現地時間2020年11月21日にスペシャルリサーチが行えるようになります。
+RESOURCE ID: item_event_ticket_pink_eevet_desc
+TEXT: 現地時間2021年8月14・15日11:00AM～5:00PMにスペシャルリサーチを遂行するためのチケット。
 
-RESOURCE ID: item_xl_rare_candy_desc
-TEXT: エネルギーのつまったアメ。どんなポケモンのアメXLにも変えられる。
+RESOURCE ID: item_event_ticket_pink_eevet_details
+TEXT: このチケットは自動的に発動し、現地時間2021年8月14・15日にスペシャルリサーチが行えるようになります。
 
-RESOURCE ID: item_xl_rare_candy_name
-TEXT: ふしぎなアメXL
+RESOURCE ID: item_event_ticket_pink_oshat_desc
+TEXT: 現地時間2021年9月19日11:00AM～5:00PMにスペシャルリサーチを遂行するためのチケット。
 
-RESOURCE ID: kanto_cup_title
-TEXT: カントーカップ
+RESOURCE ID: item_event_ticket_pink_oshat_details
+TEXT: このチケットは自動的に発動し、現地時間2021年9月19日にスペシャルリサーチが行えるようになります。
 
-RESOURCE ID: lake_trio_event_name
-TEXT: 湖の神話イベント
+RESOURCE ID: item_leader_map_fragment_desc
+TEXT: GOロケット団がポケストップに使う道具の一部で、6個集めるとひとつの装置として使うことができる。
 
-RESOURCE ID: level_up_details_gui_title
-TEXT: レベル{0}に必要なタスク
+RESOURCE ID: leader_map_assembled_description
+TEXT: ふしぎなパーツが集まりロケットレーダーになった！GOロケット団アジトを探そう！
 
-RESOURCE ID: level_up_gear_banner
-TEXT: レベル{0}のスタイル
+RESOURCE ID: little_jungle_cup_title
+TEXT: リトルジャングルカップ
 
-RESOURCE ID: level_up_quest_widget_description
-TEXT: すべて完了させてリワードを入手！
+RESOURCE ID: lure_rainy_event_bonus
+TEXT: いつもとは違うポケモンがレイニールアーに反応
 
-RESOURCE ID: limited_research_nidoran
-TEXT: ニドラン♀とニドラン♂の限定リサーチ
-
-RESOURCE ID: little_cup_title
-TEXT: リトルカップ
-
-RESOURCE ID: m_avatar_poses_bundle_pose_22
-TEXT: グリーン
-
-RESOURCE ID: m_avatar_poses_bundle_pose_24
-TEXT: N
-
-RESOURCE ID: m_avatar_poses_bundle_pose_25
-TEXT: レベル43 ポーズ
-
-RESOURCE ID: m_avatar_poses_bundle_pose_26
-TEXT: レベル47 ポーズ
-
-RESOURCE ID: m_glasses_lv40glasses_00
-TEXT: レベル41 サングラス
-
-RESOURCE ID: m_glasses_lv40glasses_00_bundle_icon
-TEXT: レベル41 サングラス
-
-RESOURCE ID: m_hat_gyaradoscap_00_bundle_icon
-TEXT: ギャラドス帽子
-
-RESOURCE ID: m_hat_lvl50cap_0
-TEXT: レベル45 帽子
-
-RESOURCE ID: m_hat_lvl50cap_00_bundle_icon
-TEXT: レベル45 帽子
-
-RESOURCE ID: m_shirt_lvl50_0
-TEXT: レベル50 ジャケット
-
-RESOURCE ID: m_shirt_lvl50_00_bundle_icon
-TEXT: レベル50 ジャケット
-
-RESOURCE ID: m_shirt_lvl50_1
-TEXT: レベル50 ジャケット
-
-RESOURCE ID: m_shoes_coolboots_0
-TEXT: レベル49 ブーツ
-
-RESOURCE ID: m_shoes_coolboots_00_bundle_icon
-TEXT: レベル49 ブーツ
-
-RESOURCE ID: maximum_tags_error
-TEXT: Cannot create more than {0} tags
-
-RESOURCE ID: mega_energy_cap_stardust_warning
-TEXT: メガエナジーの上限を超えるリワードは、ほしのすなに換算されます
-
-RESOURCE ID: mega_evo_bonus_buff_title
-TEXT: {0}のボーナス
+RESOURCE ID: master_premier_classic_title
+TEXT: MLプレミアクラシック
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2020-11-25T18:51:06.431672
-at SHA 907d7edbfe3c4cd440151506190713b3735b82ad
-Patch from: 0.193.1-SHA-310fd888, 0.193.0-SHA-4d0e8664
+TEXT: Built at 2021-08-30T21:01:46.274217
+at SHA 1d4fc1e988fcd485b0279ce9145a43b9c7696790
+Patch from: 0.217.0-SHA-c6d9d393, 0.217.1-SHA-e2c5ee9b
 
-RESOURCE ID: nintendo_account_not_linked
-TEXT: ニンテンドーアカウントを再度Pokémon GO に連携してください
+RESOURCE ID: move_name_0352
+TEXT: ウェザーボール
 
-RESOURCE ID: photobomb_five_electabuzz
-TEXT: GOスナップショットでエレブーのサプライズ5回
+RESOURCE ID: photobomb_five_eevee
+TEXT: GOスナップショットでイーブイのサプライズ5回
 
-RESOURCE ID: photobomb_five_magmar
-TEXT: GOスナップショットでブーバーのサプライズ5回
+RESOURCE ID: photobomb_five_oshawott
+TEXT: GOスナップショットでミジュマルのサプライズ5回
 
-RESOURCE ID: poi_contrib_ar_added
-TEXT: 明日{0}件追加されます。
+RESOURCE ID: poi_category_nom_title
+TEXT: Wayspotカテゴリ
 
-RESOURCE ID: poi_contrib_ar_avail
-TEXT: {0}件のスキャン投稿ができます。
+RESOURCE ID: poi_category_thankyou
+TEXT: ありがとうございました！
 
-RESOURCE ID: poi_contrib_ar_maxed
-TEXT: 一日に投稿できるスキャン上限 ({0}) に達しました
+RESOURCE ID: poi_close_toast
+TEXT: このポケストップが閉じる時間： {0: hh:mm tt}
 
-RESOURCE ID: poi_contrib_edit_desc_added
-TEXT: 明日{0}件追加されます。
+RESOURCE ID: poi_contrib_edit_category_added
+TEXT: {0} more category submission(s) will be added tomorrow.
 
-RESOURCE ID: poi_contrib_edit_desc_avail
-TEXT: {0}件説明テキスト編集ができます。
+RESOURCE ID: poi_contrib_edit_category_avail
+TEXT: You have {0} category submission(s) available today.
 
-RESOURCE ID: poi_contrib_edit_desc_maxed
-TEXT: 一日に編集できる説明テキスト上限 ({0}) に達しました
+RESOURCE ID: poi_contrib_edit_category_maxed
+TEXT: You have reached your max daily category submission(s) of {0}.
 
-RESOURCE ID: poi_contrib_edit_location_added
-TEXT: 明日{0}件追加されます。
+RESOURCE ID: poi_contrib_remaining_category_multiple
+TEXT: {0} category submissions remaining
 
-RESOURCE ID: poi_contrib_edit_location_avail
-TEXT: {0}件の位置設定ができます。
+RESOURCE ID: poi_contrib_remaining_category_one
+TEXT: One category submission remaining
 
-RESOURCE ID: poi_contrib_edit_location_maxed
-TEXT: 一日に設定できる位置の上限 ({0}) に達しました
+RESOURCE ID: poi_contrib_upload_later_msg
+TEXT: アップロードの準備が完了したら、メインメニューにお進みください。
 
-RESOURCE ID: poi_contrib_edit_photo_added
-TEXT: 明日{0}件追加されます。
+RESOURCE ID: poi_contrib_upload_later_thanks
+TEXT: ありがとうございました！
 
-RESOURCE ID: poi_contrib_edit_photo_avail
-TEXT: {0}件の写真投稿ができます。
+RESOURCE ID: poi_contrib_upload_now_msg
+TEXT: 詳細を記載したメールを後ほどお送りします。
 
-RESOURCE ID: poi_contrib_edit_photo_maxed
-TEXT: 一日に投稿できる写真上限 ({0}) に達しました
-
-RESOURCE ID: poi_contrib_edit_title_added
-TEXT: 明日{0}件追加されます。
-
-RESOURCE ID: poi_contrib_edit_title_avail
-TEXT: {0}件タイトル編集ができます。
-
-RESOURCE ID: poi_contrib_edit_title_maxed
-TEXT: 一日に編集できるタイトル上限 ({0}) に達しました
-
-RESOURCE ID: poi_contrib_nom_added
-TEXT: 明日{0}件追加されます。
-
-RESOURCE ID: poi_contrib_nom_avail
-TEXT: {0}件のポケストップ選出ができます。
-
-RESOURCE ID: poi_contrib_nom_maxed
-TEXT: 一日に選出できるポケストップ上限 ({0}) に達しました
-
-RESOURCE ID: poi_contrib_report_added
-TEXT: 明日{0}件追加されます。
-
-RESOURCE ID: poi_contrib_report_avail
-TEXT: {0}件報告できます。
-
-RESOURCE ID: poi_contrib_report_maxed
-TEXT: 一日に可能な報告上限 ({0}) に達しました
-
-RESOURCE ID: poi_contrib_sponsor_content_added
-TEXT: 明日{0}件追加されます。
-
-RESOURCE ID: poi_contrib_sponsor_content_avail
-TEXT: {0}件の内容に関する報告ができます。
-
-RESOURCE ID: poi_contrib_sponsor_content_maxed
-TEXT: 一日に投稿できる内容に関する報告件数の上限 ({0}) に達しました
-
-RESOURCE ID: poi_contrib_sponsor_loc_added
-TEXT: 明日{0}件追加されます。
-
-RESOURCE ID: poi_contrib_sponsor_loc_avail
-TEXT: {0}件の報告ができます。
-
-RESOURCE ID: poi_contrib_sponsor_loc_maxed
-TEXT: 一日に投稿できる報告件数の上限 ({0}) に達しました
-
-RESOURCE ID: poi_sub_next_button
-TEXT: OK
-
-RESOURCE ID: pokedex_see_all
-TEXT: ボックス内の{0}を見る
-
-RESOURCE ID: pokemon_category_0650
-TEXT: いがぐりポケモン
-
-RESOURCE ID: pokemon_category_0651
-TEXT: とげよろいポケモン
-
-RESOURCE ID: pokemon_category_0652
-TEXT: とげよろいポケモン
-
-RESOURCE ID: pokemon_category_0653
-TEXT: キツネポケモン
-
-RESOURCE ID: pokemon_category_0654
-TEXT: キツネポケモン
-
-RESOURCE ID: pokemon_category_0655
-TEXT: キツネポケモン
-
-RESOURCE ID: pokemon_category_0656
-TEXT: あわがえるポケモン
-
-RESOURCE ID: pokemon_category_0657
-TEXT: あわがえるポケモン
-
-RESOURCE ID: pokemon_category_0658
-TEXT: しのびポケモン
-
-RESOURCE ID: pokemon_category_0659
-TEXT: あなほりポケモン
-
-RESOURCE ID: pokemon_category_0660
-TEXT: あなほりポケモン
-
-RESOURCE ID: pokemon_category_0661
-TEXT: コマドリポケモン
-
-RESOURCE ID: pokemon_category_0662
-TEXT: ひのこポケモン
-
-RESOURCE ID: pokemon_category_0663
-TEXT: れっかポケモン
-
-RESOURCE ID: pokemon_category_0664
-TEXT: こなふきポケモン
-
-RESOURCE ID: pokemon_category_0665
-TEXT: こなふきポケモン
-
-RESOURCE ID: pokemon_category_0666
-TEXT: りんぷんポケモン
-
-RESOURCE ID: pokemon_category_0667
-TEXT: わかじしポケモン
-
-RESOURCE ID: pokemon_category_0668
-TEXT: おうじゃポケモン
-
-RESOURCE ID: pokemon_category_0669
-TEXT: いちりんポケモン
-
-RESOURCE ID: pokemon_category_0670
-TEXT: いちりんポケモン
-
-RESOURCE ID: pokemon_category_0671
-TEXT: ガーデンポケモン
-
-RESOURCE ID: pokemon_category_0672
-TEXT: ライドポケモン
-
-RESOURCE ID: pokemon_category_0673
-TEXT: ライドポケモン
-
-RESOURCE ID: pokemon_category_0674
-TEXT: やんちゃポケモン
-
-RESOURCE ID: pokemon_category_0675
-TEXT: こわもてポケモン
-
-RESOURCE ID: pokemon_category_0676
-TEXT: プードルポケモン
-
-RESOURCE ID: pokemon_category_0677
-TEXT: じせいポケモン
-
-RESOURCE ID: pokemon_category_0678
-TEXT: よくせいポケモン
-
-RESOURCE ID: pokemon_category_0679
-TEXT: とうけんポケモン
-
-RESOURCE ID: pokemon_category_0680
-TEXT: とうけんポケモン
-
-RESOURCE ID: pokemon_category_0681
-TEXT: おうけんポケモン
-
-RESOURCE ID: pokemon_category_0682
-TEXT: こうすいポケモン
-
-RESOURCE ID: pokemon_category_0683
-TEXT: ほうこうポケモン
-
-RESOURCE ID: pokemon_category_0684
-TEXT: わたあめポケモン
-
-RESOURCE ID: pokemon_category_0685
-TEXT: ホイップポケモン
-
-RESOURCE ID: pokemon_category_0686
-TEXT: かいてんポケモン
-
-RESOURCE ID: pokemon_category_0687
-TEXT: ぎゃくてんポケモン
-
-RESOURCE ID: pokemon_category_0688
-TEXT: ふたてポケモン
-
-RESOURCE ID: pokemon_category_0689
-TEXT: しゅうごうポケモン
-
-RESOURCE ID: pokemon_category_0690
-TEXT: クサモドキポケモン
-
-RESOURCE ID: pokemon_category_0691
-TEXT: クサモドキポケモン
-
-RESOURCE ID: pokemon_category_0692
-TEXT: みずでっぽうポケモン
-
-RESOURCE ID: pokemon_category_0693
-TEXT: ランチャーポケモン
-
-RESOURCE ID: pokemon_category_0694
-TEXT: はつでんポケモン
-
-RESOURCE ID: pokemon_category_0695
-TEXT: はつでんポケモン
-
-RESOURCE ID: pokemon_category_0696
-TEXT: ようくんポケモン
-
-RESOURCE ID: pokemon_category_0697
-TEXT: ぼうくんポケモン
-
-RESOURCE ID: pokemon_category_0698
-TEXT: ツンドラポケモン
-
-RESOURCE ID: pokemon_category_0699
-TEXT: ツンドラポケモン
-
-RESOURCE ID: pokemon_category_0700
-TEXT: むすびつきポケモン
-
-RESOURCE ID: pokemon_category_0701
-TEXT: レスリングポケモン
-
-RESOURCE ID: pokemon_category_0702
-TEXT: アンテナポケモン
-
-RESOURCE ID: pokemon_category_0703
-TEXT: ほうせきポケモン
-
-RESOURCE ID: pokemon_category_0704
-TEXT: なんたいポケモン
-
-RESOURCE ID: pokemon_category_0705
-TEXT: なんたいポケモン
-
-RESOURCE ID: pokemon_category_0706
-TEXT: ドラゴンポケモン
-
-RESOURCE ID: pokemon_category_0707
-TEXT: かぎたばポケモン
-
-RESOURCE ID: pokemon_category_0708
-TEXT: きりかぶポケモン
-
-RESOURCE ID: pokemon_category_0709
-TEXT: ろうぼくポケモン
-
-RESOURCE ID: pokemon_category_0710
-TEXT: かぼちゃポケモン
-
-RESOURCE ID: pokemon_category_0711
-TEXT: かぼちゃポケモン
-
-RESOURCE ID: pokemon_category_0712
-TEXT: ひょうかいポケモン
-
-RESOURCE ID: pokemon_category_0713
-TEXT: ひょうざんポケモン
-
-RESOURCE ID: pokemon_category_0714
-TEXT: おんぱポケモン
-
-RESOURCE ID: pokemon_category_0715
-TEXT: おんぱポケモン
-
-RESOURCE ID: pokemon_category_0716
-TEXT: せいめいポケモン
-
-RESOURCE ID: pokemon_category_0717
-TEXT: はかいポケモン
-
-RESOURCE ID: pokemon_category_0718
-TEXT: ちつじょポケモン
-
-RESOURCE ID: pokemon_category_0719
-TEXT: ほうせきポケモン
-
-RESOURCE ID: pokemon_category_0720
-TEXT: いたずらポケモン
-
-RESOURCE ID: pokemon_category_0721
-TEXT: スチームポケモン
-
-RESOURCE ID: pokemon_desc_0650
-TEXT: 普段　やわらかい　頭の　トゲは力を　こめると　鋭く　とがり岩をも　つらぬくほど　硬くなる。
-
-RESOURCE ID: pokemon_desc_0651
-TEXT: 体を　覆う　頑丈な　殻が敵の　攻撃を　弾き返し鋭い　トゲで　反撃する。
-
-RESOURCE ID: pokemon_desc_0652
-TEXT: 体当たりで　５０トンの　戦車をひっくり返す　パワー。自分が　盾となって　仲間を　守る。
-
-RESOURCE ID: pokemon_desc_0653
-TEXT: 小枝を　食べると　元気になって摂氏２００度を　超える　熱気を大きな　耳から　噴き出す。
-
-RESOURCE ID: pokemon_desc_0654
-TEXT: 木の枝を　尻尾に　挿している。尻尾の　毛の　摩擦熱で枝に　火をつけて　戦う。
-
-RESOURCE ID: pokemon_desc_0655
-TEXT: 杖の　先端で　燃える　炎を　見つめて精神統一すると未来の　出来事を　見通せる。
-
-RESOURCE ID: pokemon_desc_0656
-TEXT: 胸と　背中から　泡を　出す。弾力のある　泡で　攻撃を　受け止めてダメージを　減らす。
-
-RESOURCE ID: pokemon_desc_0657
-TEXT: 泡で　包んだ　小石を　投げる技を　使う。３０メートル　先の空き缶に　当てる　コントロール。
-
-RESOURCE ID: pokemon_desc_0658
-TEXT: 水を　圧縮して　手裏剣を　作り出す。高速回転させて　飛ばすと金属も　真っ二つ。
-
-RESOURCE ID: pokemon_desc_0659
-TEXT: 大きな　耳で　地面を　掘って巣穴を　作る。一晩中　休まずに　掘り続けられる。
-
-RESOURCE ID: pokemon_desc_0660
-TEXT: 大きな　耳は　１トンを　超える 岩を楽に　持ち上げる　パワー。工事現場で　大活躍する。
-
-RESOURCE ID: pokemon_desc_0661
-TEXT: 人懐っこい　性格。美しい　さえずりと尾羽を　振る　動きで仲間に　合図を　送る。
-
-RESOURCE ID: pokemon_desc_0662
-TEXT: 火の粉を　クチバシから　飛ばして草むらを　焦がし　驚いて飛び出した　獲物を　捕まえる。
-
-RESOURCE ID: pokemon_desc_0663
-TEXT: 激しい　戦いで　興奮すると全身の　羽毛の　すきまから火の粉を　噴き出して　飛行する。
-
-RESOURCE ID: pokemon_desc_0664
-TEXT: とりポケモンに　襲われると黒い　粉を　まき散らす。触れると　マヒする　毒の粉だ。
-
-RESOURCE ID: pokemon_desc_0665
-TEXT: しげみの　陰に　隠れて　暮らす。敵に　襲われると　体の　毛を鋭く　逆立てて　威嚇する。
-
-RESOURCE ID: pokemon_desc_0666
-TEXT: 世界には　さまざまな　羽模様のビビヨンがいる。住んでいる　土地の気候が　影響しているようだ。
-
-RESOURCE ID: pokemon_desc_0667
-TEXT: 強い　相手に　立ち向かうときほどたてがみが　高温になり全身に　力が　みなぎるのだ。
-
-RESOURCE ID: pokemon_desc_0668
-TEXT: 群れの　中で　一番　大きな　炎のたてがみを　持つ　オスがリーダーとして　仲間を　率いる。
-
-RESOURCE ID: pokemon_desc_0669
-TEXT: 花の　秘めた　力を　引き出して自在に　操る。フラベベが　持つ　花はもはや　体の　一部だ。
-
-RESOURCE ID: pokemon_desc_0670
-TEXT: 花畑を　飛び回り　枯れかけた　花を世話する。花の　秘められた　力を引き出して　戦う。
-
-RESOURCE ID: pokemon_desc_0671
-TEXT: テリトリーは　見事な　花園。草花の　放つ　エネルギーを　浴びて自分の　パワーにするのだ。
-
-RESOURCE ID: pokemon_desc_0672
-TEXT: 人と　暮らすようになった最初の　ポケモンと　言われる。穏やかな　性格の　ポケモン。
-
-RESOURCE ID: pokemon_desc_0673
-TEXT: ツノを　握る　わずかな　違いからトレーナーの　気持ちを　読み取るので一体となって　走れるのだ。
-
-RESOURCE ID: pokemon_desc_0674
-TEXT: 敵に　なめられないよう　がんばってにらみつけるが　効果は　薄い。くわえた　葉っぱが　トレードマーク。
-
-RESOURCE ID: pokemon_desc_0675
-TEXT: 気性が　荒く　ケンカっ早いが弱いものいじめは　許さない。葉っぱで　敵の　動きを　読む。
-
-RESOURCE ID: pokemon_desc_0676
-TEXT: ボサボサの　体毛を　刈りこむと 姿が　美しくなる　だけでなく 身体の　キレが　良くなるのだ。
-
-RESOURCE ID: pokemon_desc_0677
-TEXT: 強力な　サイコパワーが 漏れ出さないように　放出する　器官を 耳で　ふさいでいるのだ。
-
-RESOURCE ID: pokemon_desc_0678
-TEXT: 危険が　迫ると　耳を　持ち上げ １０トン　トラックを　ひねりつぶす サイコパワーを　解放する。
-
-RESOURCE ID: pokemon_desc_0679
-TEXT: 死者の　魂が　古代の　剣に 宿って　生まれたらしい。 人に　とりつき　命を　吸う。
-
-RESOURCE ID: pokemon_desc_0680
-TEXT: 進化して　２本に　分裂した。 テレパシーで　会話して 連係攻撃で　敵を　切り刻む。
-
-RESOURCE ID: pokemon_desc_0681
-TEXT: 歴代の　王が　連れていた。 霊力で　人や　ポケモンの 心を　操り　従わせる。
-
-RESOURCE ID: pokemon_desc_0682
-TEXT: かいだ　者を　うっとりさせる 香りを　体から　漂わせる。 食べた　もので　香りが　変わる。
-
-RESOURCE ID: pokemon_desc_0683
-TEXT: さまざまな　においを　作り出す。 相手の　嫌がる　においを　出して 戦いを　有利に　進めるのだ。
-
-RESOURCE ID: pokemon_desc_0684
-TEXT: わたあめのような　甘くて　ベタつく 白い　糸を　出して 相手を　絡め取り　動きを　封じる。
-
-RESOURCE ID: pokemon_desc_0685
-TEXT: わずかな　においでも　かぎわける 敏感な　きゅうかくを　活かして パティシエの　手伝いを　している。
-
-RESOURCE ID: pokemon_desc_0686
-TEXT: 発光体の　点滅を　見つめた　相手は 目が　くらみ　戦う　気持ちが なくなってしまうのだ。
-
-RESOURCE ID: pokemon_desc_0687
-TEXT: ポケモンで　一番　強力な 催眠術を　使う。相手を　意のままに 操ってしまうのだ。
-
-RESOURCE ID: pokemon_desc_0688
-TEXT: ２匹の　カメテテが　ひとつの　岩で 暮らす。ケンカすると　どちらかが 他の　岩に　移る。
-
-RESOURCE ID: pokemon_desc_0689
-TEXT: 進化のとき　２匹の　カメテテが ７匹に　分裂した　ポケモン。 ７匹分の　パワーで　戦う。
-
-RESOURCE ID: pokemon_desc_0690
-TEXT: 腐った　海藻に　擬態する。 気づかずに　近寄ってきた　獲物に 毒液を　浴びせて　しとめる。
-
-RESOURCE ID: pokemon_desc_0691
-TEXT: タンカーの　船体を　腐らせる　猛毒を 縄張りに　入りこんだ　ものに 見境なく　吐きかける。
-
-RESOURCE ID: pokemon_desc_0692
-TEXT: 大きな　ハサミから　圧縮した　水を ピストルのように　撃ち出し 飛んでいる　獲物を　撃ち落とす。
-
-RESOURCE ID: pokemon_desc_0693
-TEXT: 水の　砲弾を　発射する 巨大な　腕を　持つ。 タンカーの　船体を　撃ち抜くぞ。
-
-RESOURCE ID: pokemon_desc_0694
-TEXT: 砂漠で　生活する。 太陽の　光を　浴びて　発電すれば エサを　食べなくても　平気なのだ。
-
-RESOURCE ID: pokemon_desc_0695
-TEXT: エリマキを　広げて　発電する。 エレザード　１匹で　高層ビルで 必要な　電気を　作れるのだ。
-
-RESOURCE ID: pokemon_desc_0696
-TEXT: 化石から　復活した　ポケモン。 気に入らない　ことが　あると かんしゃくを　起こして　大暴れ。
-
-RESOURCE ID: pokemon_desc_0697
-TEXT: 分厚い　鉄板を　紙のように かみちぎる　おおあごで　古代の 世界では　無敵を　誇った。
-
-RESOURCE ID: pokemon_desc_0698
-TEXT: １億年前から　氷漬けに　なっていた 体の　一部から　復活した 古代の　ポケモン。
-
-RESOURCE ID: pokemon_desc_0699
-TEXT: マイナス１５０度の　冷気を ひし形の　結晶から　出して 敵を　包み　氷漬けにする。
-
-RESOURCE ID: pokemon_desc_0700
-TEXT: リボンのような　触角から 気持ちを　和らげる　波動を　送りこみ 戦いを　やめさせる。
-
-RESOURCE ID: pokemon_desc_0701
-TEXT: 体格は　小柄だが　カイリキーや ハリテヤマなど　大きな　ポケモンと 互角に　戦う　テクニシャン。
-
-RESOURCE ID: pokemon_desc_0702
-TEXT: ヒゲが　アンテナの　役割。 電波を　送受信して　遠くの　仲間と 連絡を　取り合うのだ。
-
-RESOURCE ID: pokemon_desc_0703
-TEXT: 地下深くの　高温　高圧な 環境で　生まれた。 頭の　石から　エネルギーを　放つ。
-
-RESOURCE ID: pokemon_desc_0704
-TEXT: 一番　弱い　ドラゴンポケモン。 ヌメヌメの　体が　乾かないよう ジメジメした　日陰で　暮らす。
-
-RESOURCE ID: pokemon_desc_0705
-TEXT: なんでも　溶かしてしまう　粘液を 分泌して　敵を　撃退する。 目玉は　退化して　見えていない。
-
-RESOURCE ID: pokemon_desc_0706
-TEXT: 人懐っこい　ドラゴンポケモン。 大好きな　トレーナーに　抱き着いて 粘液で　ヌルヌルにしてしまう。
-
-RESOURCE ID: pokemon_desc_0707
-TEXT: カギを　集める　習性。 敵に　襲われると　ジャラジャラと カギを　打ち鳴らして　威嚇する。
-
-RESOURCE ID: pokemon_desc_0708
-TEXT: 腐った　切り株に　魂が　宿り ポケモンに　なった。 人の　寄りつかない　森に　住む。
-
-RESOURCE ID: pokemon_desc_0709
-TEXT: ほかの　木々を　自在に　操る。 森を　荒らす　人間は　死ぬまで 森から　出られないようにするのだ。
-
-RESOURCE ID: pokemon_desc_0710
-TEXT: 成仏できない　魂を カボチャの　体に　入れている。 日暮れと　ともに　動きはじめる。
-
-RESOURCE ID: pokemon_desc_0711
-TEXT: 新月の　夜に　不気味な　声で 歌いながら　街中を　さまよう。 その歌を　聞くと　のろわれる。
-
-RESOURCE ID: pokemon_desc_0712
-TEXT: 体を　覆う　氷が 敵の　攻撃を　防ぐ。割られても 冷気で　すぐに　氷を　張る。
-
-RESOURCE ID: pokemon_desc_0713
-TEXT: 凍りついた　体は　鋼鉄のように 硬い。立ちふさがる　ものを 巨体で　押しつぶし　移動する。
-
-RESOURCE ID: pokemon_desc_0714
-TEXT: 真っ暗な　洞窟で　暮らす。 ２０万ヘルツの　超音波を 大きな　耳から　発射する。
-
-RESOURCE ID: pokemon_desc_0715
-TEXT: 月明かりすら　ない　闇夜を　飛び 油断している　獲物を　襲う。 暗闇の　戦いでは　無敵だ。
-
-RESOURCE ID: pokemon_desc_0716
-TEXT: 永遠の　命を　分け与えると 言われている。樹木の　姿で １０００年　眠り　復活する。
-
-RESOURCE ID: pokemon_desc_0717
-TEXT: 翼と　尾羽を　広げて　赤く　輝くとき 生き物の　命を　吸い取る 伝説の　ポケモン。
-
-RESOURCE ID: pokemon_desc_0718
-TEXT: カロス地方の　生態系が　崩れると 姿を　現して 秘めた　力を　発揮するらしい。
-
-RESOURCE ID: pokemon_desc_0719
-TEXT: メレシーの　突然変異。 ピンク色に　輝く　体は 世界一　美しいと　言われる。
-
-RESOURCE ID: pokemon_desc_0720
-TEXT: 真の姿は　巨大な　力を　持っている。 財宝　欲しさに　それが　隠された　城ごと 引き抜き　奪い去った　という　伝説が　ある。
-
-RESOURCE ID: pokemon_desc_0721
-TEXT: 水蒸気を　噴き出して　自分の　姿を 濃霧で　隠す。人の　立ち入らない 山に　住むという。
-
-RESOURCE ID: pokemon_desc_tmpevo_0003_0001
-TEXT: 十分な　栄養と　太陽の　光が 花の　色を　鮮やかに　すると　いわれる。 花の　香りは　人の　心を　癒す。
-
-RESOURCE ID: pokemon_desc_tmpevo_0006_0002
-TEXT: 強い　相手を　求めて　空を　飛び回る。 なんでも　溶かして　しまう　高熱の　炎を 自分より　弱いものに　向けることは　しない。
-
-RESOURCE ID: pokemon_desc_tmpevo_0006_0003
-TEXT: 強い　相手を　求めて　空を　飛び回る。 なんでも　溶かして　しまう　高熱の　炎を 自分より　弱いものに　向けることは　しない。
-
-RESOURCE ID: pokemon_desc_tmpevo_0009_0001
-TEXT: 甲羅の　噴射口の　ねらいは　正確。 水の　弾丸を　５０メートル　離れた 空き缶に　命中させる　ことが　できるぞ。
-
-RESOURCE ID: pokemon_desc_tmpevo_0015_0001
-TEXT: 縄張り意識が　とても　強いので　スピアーの すみかには　近づかない　ほうが　身の　ためだ。 怒ると　集団で　襲って　くるぞ。
-
-RESOURCE ID: pokemon_desc_tmpevo_0018_0001
-TEXT: 美しい　光沢の　羽を　持つ　ポケモン。 頭の　羽の　美しさに　心　奪われ ピジョットを　育てる　トレーナーも　多い。
-
-RESOURCE ID: pokemon_desc_tmpevo_0065_0001
-TEXT: 筋肉と　引き換えに　フーディンの 真の　力が　解放　された。 サイコパワーで　すべてを　見通す。
-
-RESOURCE ID: pokemon_desc_tmpevo_0080_0001
-TEXT: シェルダーに　丸呑み　されて 鉄壁の　守りを　手に　入れた。 中は　結構　快適　なのだ。
-
-RESOURCE ID: pokemon_desc_tmpevo_0094_0001
-TEXT: メガシンカに　よって　異次元への アクセスが　可能に。　全身が あやしい　パワーに　満ち満ちている。
-
-RESOURCE ID: pokemon_desc_tmpevo_0115_0001
-TEXT: メガシンカした　子の　背中を　見た 母親は　いずれ　訪れる 別れの日に　思いを　馳せるのだ。
-
-RESOURCE ID: pokemon_desc_tmpevo_0127_0001
-TEXT: もうスピードで　とびまわり　あいての すきを　ねらっている。　きょだいな ハサミで　くしざしにする　つもりだ。
-
-RESOURCE ID: pokemon_desc_tmpevo_0130_0001
-TEXT: マッハの　速度で　水中　から 飛び出す。　巻き込まれれば　大きな 船も　真っ二つに　へし折れるぞ。
-
-RESOURCE ID: pokemon_desc_tmpevo_0142_0001
-TEXT: メガシンカに　より　失われていた 遺伝子が　よみがえり　全身を 覆う　鋭い　岩が　復活。
-
-RESOURCE ID: pokemon_desc_tmpevo_0181_0001
-TEXT: 膨大な　エネルギーが　細胞を 激しく　刺激。　眠っていた ドラゴンの　血が　目覚めたらしい。
-
-RESOURCE ID: pokemon_desc_tmpevo_0208_0001
-TEXT: イワークよりも　深い　地中に　すんでいる。 地球の　中心に　向かって　掘り進み 深さ　１キロに　達する　ことも　ある。
-
-RESOURCE ID: pokemon_desc_tmpevo_0212_0001
-TEXT: はさむより　なぐるほうが　とくい。 ながいじかん　たたかうと　ハサミの おもさに　たえられなくなる。
-
-RESOURCE ID: pokemon_desc_tmpevo_0214_0001
-TEXT: すさまじい　エネルギーを　あびて ビルドアップ。　メガシンカが　おわると ひどい　きんにくつうに　なやまされる。
-
-RESOURCE ID: pokemon_desc_tmpevo_0229_0001
-TEXT: メガシンカで　全身が　発熱。 激しい　炎の　息吹を 噴き出し　相手を　炭に　変える。
-
-RESOURCE ID: pokemon_desc_tmpevo_0248_0001
-TEXT: メガシンカの　影響で　更に 凶暴に　なった。　トレーナーの 命令も　聞こえているか　不明。
-
-RESOURCE ID: pokemon_desc_tmpevo_0254_0001
-TEXT: 体に　生えた　葉っぱは　鋭い　切れ味。 素早い　身のこなしで　木の　枝を　飛び回り 敵の　頭上や　背後から　襲いかかるぞ。
-
-RESOURCE ID: pokemon_desc_tmpevo_0257_0001
-TEXT: 戦いに　なると　手首から　灼熱の 炎を　噴き上げ　勇敢に　挑みかかる、 相手が　手強いほど　激しく　燃えあがる。
-
-RESOURCE ID: pokemon_desc_tmpevo_0260_0001
-TEXT: 重さ　１トン以上　ある　岩の　塊を 軽々　引っ張る　パワーを　持つ　ポケモンだ。 濁った　水中も　見通す　視力。
-
-RESOURCE ID: pokemon_desc_tmpevo_0282_0001
-TEXT: 未来を　予知する　能力で　トレーナーの 危険を　察知したとき　最大　パワーの サイコエネルギーを　使うと　いわれている。
-
-RESOURCE ID: pokemon_desc_tmpevo_0302_0001
-TEXT: 巨大化した　宝石で　あらゆる 攻撃を　ガード。　ただし　すごく 重たいので　動くのは　苦手。
-
-RESOURCE ID: pokemon_desc_tmpevo_0303_0001
-TEXT: ２つの　アゴは　意思が　あるように 激しく　暴れまくっている。 ひと噛みで　岩石も　コナゴナだ。
-
-RESOURCE ID: pokemon_desc_tmpevo_0306_0001
-TEXT: 山　一つを　自分の　縄張りに　していて 荒らした　相手は　容赦なく　たたきのめす。 いつも　山の　中を　見回り　している。
-
-RESOURCE ID: pokemon_desc_tmpevo_0308_0001
-TEXT: めいそうする　ことで　体の　エネルギーが 高まり　第６感が　鋭くなる　という。 野山と　一体になって　気配を　消す。
-
-RESOURCE ID: pokemon_desc_tmpevo_0310_0001
-TEXT: 身体に　電気が　たまりすぎていて 苛立っている。　落雷と　同じ スピードの　瞬発力がある。
-
-RESOURCE ID: pokemon_desc_tmpevo_0319_0001
-TEXT: 突進した　瞬間　頭から 鋭い　トゲが　飛び出し　相手の 体を　深く　傷つける。
-
-RESOURCE ID: pokemon_desc_tmpevo_0323_0001
-TEXT: 体の　中に　火山を　持つ　ポケモンだ。 体に　たまった　摂氏　１万度の　マグマを 時々　背中の　コブから　噴き上げている。
-
-RESOURCE ID: pokemon_desc_tmpevo_0334_0001
-TEXT: 綿雲に　紛れて　大空を　舞う。 透き通った　声で　メロディを　さえずれば 耳にした　ものは　うっとり　夢心地。
-
-RESOURCE ID: pokemon_desc_tmpevo_0354_0001
-TEXT: メガシンカで　怨念が　増幅。 チャックの　中に　仕舞われていた 呪いの　パワーが　あふれ出す。
-
-RESOURCE ID: pokemon_desc_tmpevo_0359_0001
-TEXT: メガシンカの　エネルギーを　いあつの オーラに　かえて　ふりまいている。 きのよわいひとは　ショックし　する。
-
-RESOURCE ID: pokemon_desc_tmpevo_0362_0001
-TEXT: メガシンカの　パワーが　つよすぎて アゴが　くだけてしまった。　うまく エサを　くえずに　いらだっている。
-
-RESOURCE ID: pokemon_desc_tmpevo_0373_0001
-TEXT: 前足を　カラの　隙間に　乗せて 飛行体勢を　とる。　複雑な 地形も　高速で　飛びまわるぞ。
-
-RESOURCE ID: pokemon_desc_tmpevo_0376_0001
-TEXT: かてないと　はんだんすると　ツメで あいてを　つかみ　だいばくはつの カウントを　はじめるぞ。
-
-RESOURCE ID: pokemon_desc_tmpevo_0380_0001
-TEXT: 人間の　心を　敏感に　感じとる。 敵意を　キャッチすると　全身の　羽を 逆立てて　激しく　鳴き声で　威嚇する。
-
-RESOURCE ID: pokemon_desc_tmpevo_0381_0001
-TEXT: 見た　ものや　考えた　イメージを　相手に 映像として　見せる　能力を　持つ。 人間の　言葉を　理解することが　できる。
-
-RESOURCE ID: pokemon_desc_tmpevo_0384_0001
-TEXT: 何億年も　生き続けていると　いわれる。 グラードンと　カイオーガの　争いを 治めたという　伝説が　残されている。
-
-RESOURCE ID: pokemon_desc_tmpevo_0428_0001
-TEXT: メガシンカに　よって　戦いの 本能が　覚醒。　攻撃の 邪魔になる　毛を　脱ぎ捨てた。
-
-RESOURCE ID: pokemon_desc_tmpevo_0445_0001
-TEXT: メガシンカまえ　より　きょうぼうな せいしつ。　りょううでの　カマで てきを　ズタズタに　きりきざむ。
-
-RESOURCE ID: pokemon_desc_tmpevo_0448_0001
-TEXT: ばくはつてきな　エネルギーを　あびて とうそうほんのうが　めざめた。　てきに たいして　いっさい　ようしゃしない。
-
-RESOURCE ID: pokemon_desc_tmpevo_0460_0001
-TEXT: ブリザードを　発生させて　あたり 一面を　真っ白に　してしまう。 別名　アイスモンスター。
-
-RESOURCE ID: pokemon_desc_tmpevo_0475_0001
-TEXT: 相手の　考えを　敏感に キャッチする　能力を　持つため 先に　攻撃が　できるのだ。
-
-RESOURCE ID: pokemon_desc_tmpevo_0531_0001
-TEXT: 耳の　触角で　相手の 体調や　タマゴから　ポケモンが いつ　でてくるのかも　わかるのだ。
-
-RESOURCE ID: pokemon_desc_tmpevo_0719_0001
-TEXT: メレシーの　突然変異。 ピンク色に　輝く　体は 世界一　美しいと　言われる。
-
-RESOURCE ID: pokemon_home_about
-TEXT: Pokémon GOからPokémon HOME へポケモンを転送し
-ます。開始するには、Pokémon HOME で利用している
-ものと同じ <a href="https://www.nintendo.co.jp/support/nintendo_account/index.html">ニンテンドーアカウント</a> が必要になります。
-ポケモン転送には、転送エナジーが必要です。
-転送エナジーは時間が経つと溜まります。
-
-Pokémon HOME へポケモンを転送する詳細については、<a href="https://www.pokemon.co.jp/ex/pokemonhome/pokemongo/">こちら</a>をご確認ください。
-
-RESOURCE ID: pokemon_info_candy_exchange_player_lv_too_low
-TEXT: アメXLに変換するには、トレーナーレベルがたりません
-
-RESOURCE ID: pokemon_info_caught
-TEXT: 捕まえた
-
-RESOURCE ID: pokemon_info_caught_vsseeker
-TEXT: GOバトルリーグの{1}で捕まえた
-
-RESOURCE ID: pokemon_info_evolution_failed
-TEXT: エラー：{0}は進化できませんでした
-
-RESOURCE ID: pokemon_info_mega_evolution_replace
-TEXT: {0}と交代します。
-
-RESOURCE ID: pokemon_info_mega_evolution_replace_detail
-TEXT: 一度に1匹だけメガシンカします。
-
-RESOURCE ID: pokemon_info_mega_evolution_time
-TEXT: メガシンカは{0}時間だけ発生します。
-
-RESOURCE ID: pokemon_info_powerup_need_xl_candies
-TEXT: {0}のアメXLがたりません
-
-RESOURCE ID: pokemon_info_received
-TEXT: 手に入れた
-
-RESOURCE ID: pokemon_info_traded
-TEXT: 交換で手に入れた
-
-RESOURCE ID: pokemon_info_unknown_location
-TEXT: 不明
-
-RESOURCE ID: pokemon_info_xl_candy_label
-TEXT: {0}のアメXL
-
-RESOURCE ID: pokemon_name_0650
-TEXT: ハリマロン
-
-RESOURCE ID: pokemon_name_0651
-TEXT: ハリボーグ
-
-RESOURCE ID: pokemon_name_0652
-TEXT: ブリガロン
-
-RESOURCE ID: pokemon_name_0653
-TEXT: フォッコ
-
-RESOURCE ID: pokemon_name_0654
-TEXT: テールナー
-
-RESOURCE ID: pokemon_name_0655
-TEXT: マフォクシー
-
-RESOURCE ID: pokemon_name_0656
-TEXT: ケロマツ
-
-RESOURCE ID: pokemon_name_0657
-TEXT: ゲコガシラ
-
-RESOURCE ID: pokemon_name_0658
-TEXT: ゲッコウガ
-
-RESOURCE ID: pokemon_name_0659
-TEXT: ホルビー
-
-RESOURCE ID: pokemon_name_0660
-TEXT: ホルード
-
-RESOURCE ID: pokemon_name_0661
-TEXT: ヤヤコマ
-
-RESOURCE ID: pokemon_name_0662
-TEXT: ヒノヤコマ
-
-RESOURCE ID: pokemon_name_0663
-TEXT: ファイアロー
-
-RESOURCE ID: pokemon_name_0664
-TEXT: コフキムシ
-
-RESOURCE ID: pokemon_name_0665
-TEXT: コフーライ
-
-RESOURCE ID: pokemon_name_0666
-TEXT: ビビヨン
-
-RESOURCE ID: pokemon_name_0667
-TEXT: シシコ
-
-RESOURCE ID: pokemon_name_0668
-TEXT: カエンジシ
-
-RESOURCE ID: pokemon_name_0669
-TEXT: フラベベ
-
-RESOURCE ID: pokemon_name_0670
-TEXT: フラエッテ
-
-RESOURCE ID: pokemon_name_0671
-TEXT: フラージェス
-
-RESOURCE ID: pokemon_name_0672
-TEXT: メェークル
-
-RESOURCE ID: pokemon_name_0673
-TEXT: ゴーゴート
-
-RESOURCE ID: pokemon_name_0674
-TEXT: ヤンチャム
-
-RESOURCE ID: pokemon_name_0675
-TEXT: ゴロンダ
-
-RESOURCE ID: pokemon_name_0676
-TEXT: トリミアン
-
-RESOURCE ID: pokemon_name_0677
-TEXT: ニャスパー
-
-RESOURCE ID: pokemon_name_0678
-TEXT: ニャオニクス
-
-RESOURCE ID: pokemon_name_0679
-TEXT: ヒトツキ
-
-RESOURCE ID: pokemon_name_0680
-TEXT: ニダンギル
-
-RESOURCE ID: pokemon_name_0681
-TEXT: ギルガルド
-
-RESOURCE ID: pokemon_name_0682
-TEXT: シュシュプ
-
-RESOURCE ID: pokemon_name_0683
-TEXT: フレフワン
-
-RESOURCE ID: pokemon_name_0684
-TEXT: ペロッパフ
-
-RESOURCE ID: pokemon_name_0685
-TEXT: ペロリーム
-
-RESOURCE ID: pokemon_name_0686
-TEXT: マーイーカ
-
-RESOURCE ID: pokemon_name_0687
-TEXT: カラマネロ
-
-RESOURCE ID: pokemon_name_0688
-TEXT: カメテテ
-
-RESOURCE ID: pokemon_name_0689
-TEXT: ガメノデス
-
-RESOURCE ID: pokemon_name_0690
-TEXT: クズモー
-
-RESOURCE ID: pokemon_name_0691
-TEXT: ドラミドロ
-
-RESOURCE ID: pokemon_name_0692
-TEXT: ウデッポウ
-
-RESOURCE ID: pokemon_name_0693
-TEXT: ブロスター
-
-RESOURCE ID: pokemon_name_0694
-TEXT: エリキテル
-
-RESOURCE ID: pokemon_name_0695
-TEXT: エレザード
-
-RESOURCE ID: pokemon_name_0696
-TEXT: チゴラス
-
-RESOURCE ID: pokemon_name_0697
-TEXT: ガチゴラス
-
-RESOURCE ID: pokemon_name_0698
-TEXT: アマルス
-
-RESOURCE ID: pokemon_name_0699
-TEXT: アマルルガ
-
-RESOURCE ID: pokemon_name_0700
-TEXT: ニンフィア
-
-RESOURCE ID: pokemon_name_0701
-TEXT: ルチャブル
-
-RESOURCE ID: pokemon_name_0702
-TEXT: デデンネ
-
-RESOURCE ID: pokemon_name_0703
-TEXT: メレシー
-
-RESOURCE ID: pokemon_name_0704
-TEXT: ヌメラ
-
-RESOURCE ID: pokemon_name_0705
-TEXT: ヌメイル
-
-RESOURCE ID: pokemon_name_0706
-TEXT: ヌメルゴン
-
-RESOURCE ID: pokemon_name_0707
-TEXT: クレッフィ
-
-RESOURCE ID: pokemon_name_0708
-TEXT: ボクレー
-
-RESOURCE ID: pokemon_name_0709
-TEXT: オーロット
-
-RESOURCE ID: pokemon_name_0710
-TEXT: バケッチャ
-
-RESOURCE ID: pokemon_name_0711
-TEXT: パンプジン
-
-RESOURCE ID: pokemon_name_0712
-TEXT: カチコール
-
-RESOURCE ID: pokemon_name_0713
-TEXT: クレベース
-
-RESOURCE ID: pokemon_name_0714
-TEXT: オンバット
-
-RESOURCE ID: pokemon_name_0715
-TEXT: オンバーン
-
-RESOURCE ID: pokemon_name_0716
-TEXT: ゼルネアス
-
-RESOURCE ID: pokemon_name_0717
-TEXT: イベルタル
-
-RESOURCE ID: pokemon_name_0718
-TEXT: ジガルデ
-
-RESOURCE ID: pokemon_name_0719
-TEXT: ディアンシー
-
-RESOURCE ID: pokemon_name_0720
-TEXT: フーパ
-
-RESOURCE ID: pokemon_name_0721
-TEXT: ボルケニオン
-
-RESOURCE ID: quest_battle_gbl_plural
-TEXT: GOバトルリーグ対戦を{0}回する
-
-RESOURCE ID: quest_battle_gbl_singular
-TEXT: GOバトルリーグ対戦をする
-
-RESOURCE ID: quest_battle_gbl_win_plural
-TEXT: GOバトルリーグのトレーナー対戦で{0}回勝つ
-
-RESOURCE ID: quest_battle_gbl_win_singular
-TEXT: GOバトルリーグのトレーナー対戦で勝つ
-
-RESOURCE ID: quest_battle_great_win_plural
-TEXT: スーパーリーグでのトレーナー対戦で{0}回勝つ
-
-RESOURCE ID: quest_battle_great_win_singular
-TEXT: スーパーリーグでのトレーナー対戦で勝つ
-
-RESOURCE ID: quest_battle_master_win_plural
-TEXT: マスターリーグでのトレーナー対戦で{0}回勝つ
-
-RESOURCE ID: quest_battle_master_win_singular
-TEXT: マスターリーグでのトレーナー対戦で勝つ
-
-RESOURCE ID: quest_battle_ultra_win_plural
-TEXT: ハイパーリーグでのトレーナー対戦で{0}回勝つ
-
-RESOURCE ID: quest_battle_ultra_win_singular
-TEXT: ハイパーリーグでのトレーナー対戦で勝つ
-
-RESOURCE ID: quest_buddy_souvenir_plural
-TEXT: 相棒のポケモンからおみやげを{0}個もらう
-
-RESOURCE ID: quest_buddy_souvenir_singular
-TEXT: 相棒のポケモンからおみやげをもらう
-
-RESOURCE ID: quest_buddy_walk_km_plural
-TEXT: 相棒のポケモンと一緒に{0}km歩く
-
-RESOURCE ID: quest_catch_in_day_plural
-TEXT: 1日にポケモンを{0}匹捕まえる
-
-RESOURCE ID: quest_catch_legendary_inarow_plural
-TEXT: 伝説のポケモンを{0}回連続で捕まえる
-
-RESOURCE ID: quest_catch_legendary_plural
-TEXT: 伝説のポケモンを{0}匹捕まえる
-
-RESOURCE ID: quest_catch_legendary_singular
-TEXT: 伝説のポケモンを捕まえる
-
-RESOURCE ID: quest_catch_special_chespin
-TEXT: ハリマロンを捕まえる
-
-RESOURCE ID: quest_catch_special_fennekin
-TEXT: フォッコを捕まえる
-
-RESOURCE ID: quest_catch_special_fletchling
-TEXT: ヤヤコマを捕まえる
-
-RESOURCE ID: quest_catch_special_froakie
-TEXT: ケロマツを捕まえる
-
-RESOURCE ID: quest_catch_special_litleo
-TEXT: シシコを捕まえる
-
-RESOURCE ID: quest_catch_type_electric_singular
-TEXT: でんきタイプのポケモンを捕まえる
-
-RESOURCE ID: quest_complete_elect
-TEXT: でんげきポケモンを解明せよ！
-
-RESOURCE ID: quest_complete_magmt
-TEXT: ひふきポケモンを解明せよ！
-
-RESOURCE ID: quest_eevee_evolve_plural
-TEXT: イーブイをすべて違う進化形に進化させる
-
-RESOURCE ID: quest_elect_catch_b
-TEXT: エレブーを{0}匹捕まえる
-
-RESOURCE ID: quest_elect_evolve_b
-TEXT: エレブーを{0}匹進化させる
-
-RESOURCE ID: quest_evolve_poison_type_singular
-TEXT: どくタイプのポケモンを進化させる
-
-RESOURCE ID: quest_evolve_type_electric_singular
-TEXT: でんきタイプのポケモンを進化させる
-
-RESOURCE ID: quest_feed_goldenrazz_plural
-TEXT: ポケモンを捕まえるときにきんのズリのみ{0}個を使う
-
-RESOURCE ID: quest_field_research_plural
-TEXT: フィールドリサーチタスクを{0}回達成する
-
-RESOURCE ID: quest_field_research_singular
-TEXT: フィールドリサーチタスクを達成する
-
-RESOURCE ID: quest_gbl_rank
-TEXT: GOバトルリーグでランク{0}になる
-
-RESOURCE ID: quest_gbl_rank_twenty
-TEXT: GOバトルリーグでランク20になる
-
-RESOURCE ID: quest_gold_medal_plural
-TEXT: メダル{0}個をゴールドにする
-
-RESOURCE ID: quest_gold_medal_plural_five
-TEXT: メダル5個をゴールドにする
-
-RESOURCE ID: quest_gold_medal_singular
-TEXT: メダルをゴールドにする
-
-RESOURCE ID: quest_lucky_plural
-TEXT: キラポケモンを{0}匹手に入れる
-
-RESOURCE ID: quest_lucky_singular
-TEXT: キラポケモンを手に入れる
-
-RESOURCE ID: quest_magmt_catch_b
-TEXT: ブーバーを{0}匹捕まえる
-
-RESOURCE ID: quest_magmt_evolve_b
-TEXT: ブーバーを{0}匹進化させる
-
-RESOURCE ID: quest_platinum_medal_plural
-TEXT: メダル{0}個をプラチナにする
-
-RESOURCE ID: quest_platinum_medal_plural_five
-TEXT: メダル5個をプラチナにする
-
-RESOURCE ID: quest_platinum_medal_plural_forty
-TEXT: メダル40個をプラチナにする
-
-RESOURCE ID: quest_platinum_medal_plural_ten
-TEXT: メダル10個をプラチナにする
-
-RESOURCE ID: quest_platinum_medal_plural_twenty
-TEXT: メダル20個をプラチナにする
-
-RESOURCE ID: quest_platinum_medal_singular
-TEXT: メダルをプラチナにする
-
-RESOURCE ID: quest_power_up_legendary_plural
-TEXT: 伝説のポケモンを{0}回強化する
-
-RESOURCE ID: quest_power_up_legendary_singular
-TEXT: 伝説のポケモンを強化する
-
-RESOURCE ID: quest_power_up_max_plural
-TEXT: ポケモン{0}匹をCP上限まで強化する
-
-RESOURCE ID: quest_power_up_max_singular
-TEXT: ポケモンをCP上限まで強化する
-
-RESOURCE ID: quest_snapshots_inarow_plural
-TEXT: ポケモンのGOスナップショット写真を{0}日連続で撮る
-
-RESOURCE ID: quest_special_dialogue_elect_0_0
-TEXT: やぁ、%PLAYERNAME%！ちょうど良かった！
-
-RESOURCE ID: quest_special_dialogue_elect_0_1
-TEXT: 移動研究所とその周りで、電力の異常が見られる。
-
-RESOURCE ID: quest_special_dialogue_elect_0_2
-TEXT: 原因は、エレブーだ。移動研究所に供給される電力を、エレブーが食べているようなんだ。
-
-RESOURCE ID: quest_special_dialogue_elect_0_3
-TEXT: 何匹も集まってきたので、停電が頻発している。
-
-RESOURCE ID: quest_special_dialogue_elect_0_4
-TEXT: エレブーを捕まえてくれないか？
-
-RESOURCE ID: quest_special_dialogue_elect_0_5
-TEXT: 調査対象として興味深いし、このまま研究所の停電が続いては、やっかいだからね。
-
-RESOURCE ID: quest_special_dialogue_elect_1_0
-TEXT: あぁ、助かったよ。これで、エレブーについて理解が深まったと思うが、
-
-RESOURCE ID: quest_special_dialogue_elect_1_1
-TEXT: 試しに聞いてみよう。エレブーは何から進化する？
-
-RESOURCE ID: quest_special_dialogue_elect_1_2
-TEXT: 答えは、エレキッド。エレキッドは、何ポケモンに分類される？
-
-RESOURCE ID: quest_special_dialogue_elect_1_3
-TEXT: 答えは、でんきポケモン！エレキッドのツノの間には、弱い電流が流れているんだ。興味本位で触らないように！
-
-RESOURCE ID: quest_special_dialogue_elect_1_4
-TEXT: スパークは、エレキッドを連れていて、感電したことないのだろうか？
-
-RESOURCE ID: quest_special_dialogue_elect_1_5
-TEXT: はなしをエレブーに戻そう。エレブーに電気のつまみ食いをされては、電力不足は解消しないからな．．．
-
-RESOURCE ID: quest_special_dialogue_elect_2_0
-TEXT: 素晴らしい、%PLAYERNAME%！エレブーについての調査は、完了に近い。
-
-RESOURCE ID: quest_special_dialogue_elect_2_1
-TEXT: 強い電気が大好物のようだ。最初の1匹が、移動研究所に寄って来たことで、今回の事態を引き起こしたんだな。
-
-RESOURCE ID: quest_special_dialogue_elect_2_2
-TEXT: エレブーの体の表面には、電気が流れているのは知っていたかな？周囲が暗いと、全身が青白く光るのが見えるほどだ。
-
-RESOURCE ID: quest_special_dialogue_elect_2_3
-TEXT: すごいな！シンオウのいしを持っていれば、エレキブルに進化させることができる。
-
-RESOURCE ID: quest_special_dialogue_elect_2_4
-TEXT: 進化させてみヨーギラス！
-
-RESOURCE ID: quest_special_dialogue_elect_3_0
-TEXT: ギャグのセンスがないって思われたかな？どこかで、人の笑わせ方について講義を受けようか．．．
-
-RESOURCE ID: quest_special_dialogue_elect_3_1
-TEXT: おっと、%PLAYERNAME%、もう戻ったのか！エレキブルに進化させることができたんだな！
-
-RESOURCE ID: quest_special_dialogue_elect_3_2
-TEXT: エレキブルというのは、すごいポケモンだぞ！電気がたまった状態では、2本のツノの間で、激しく散る火花が見られる。
-
-RESOURCE ID: quest_special_dialogue_elect_3_3
-TEXT: しっぽの先は、相手に押しあてて攻撃に使うんだ。流す電流は、2万ボルト以上！
-
-RESOURCE ID: quest_special_dialogue_elect_3_4
-TEXT: 一緒にバトルにのぞむなら、ちゃんと勉強してから、だ。でないと使いこなせないぞ！
-
-RESOURCE ID: quest_special_dialogue_elect_3_5
-TEXT: 移動研究所に無事、電力がもどったようだな。これで、やっと仕事が片付くよ。
-
-RESOURCE ID: quest_special_dialogue_elect_3_6
-TEXT: いつもながら協力に感謝する！また会おう、それまで元気にGO！
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_0
-TEXT: やぁ、%PLAYERNAME%！きみのトレーナーとしての成長ぶりには驚いている。心から賞賛の言葉を贈りたいよ。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_1
-TEXT: ポケモントレーナーとしての努力を惜しまなかった結果だ。よくやった！
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_2
-TEXT: 初めて出会ったあの日のことを覚えているかい？ポケモンが現れ、きみに捕まえるようお願いした日。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_3
-TEXT: あの日から、すべては始まったんだな！
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_4
-TEXT: あれから長い時間が流れ、多くのポケモンに出会った。これからも、この不思議な生き物の世界を探索し続けることで、わたしの研究に協力して欲しい！
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_5
-TEXT: まずは、ポケモンを捕まえることを中心に、さらなる協力をお願いしよう。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_0_6
-TEXT: 頑張って、楽しみながら行ってくれ！
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_0
-TEXT: いつもながら、素晴らしい。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_1
-TEXT: 想像以上に、速い調査ぶりだな。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_2
-TEXT: 次は、バトルの腕前を活かしてもらおう。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_3
-TEXT: いつもの調子で、きみと、きみのポケモンが協力してバトルするんだ。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_4
-TEXT: 戦う相手は、GOロケット団のしたっぱや、レイドに現れるボスポケモン。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_5
-TEXT: 強敵をあいてに実力を発揮できるトレーナーは、
-
-RESOURCE ID: quest_special_dialogue_lvl_43_1_6
-TEXT: それほど多くない！頼んだぞ！
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_0
-TEXT: どうだった、%PLAYERNAME%？
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_1
-TEXT: ポケモンと一緒に、何かに挑戦するっていうのは、楽しいものだ。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_2
-TEXT: バトルのスタイルは、多種多様。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_3
-TEXT: それを見るのも楽しい。きみの戦略は緻密だ。だが、新たに進化させることができるポケモンがいるか、を含めて再検討してもいいんじゃないかな？
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_4
-TEXT: 次にお願いするのは、ポケモンを捕まえることだけじゃない。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_5
-TEXT: ひねりを加えてみたぞ。変化球を混ぜてみたと言うべきか．．．
-
-RESOURCE ID: quest_special_dialogue_lvl_43_2_6
-TEXT: そのカーブボールの腕を活かして、頑張ってくれ！
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_0
-TEXT: よくやった！速度、正確性、どれも高い調査ぶりだ！
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_1
-TEXT: 助手を務めてくれたブランシェも、感心していたよ。これからも、きみの調査には注目していく、とのことだった。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_2
-TEXT: わたしも、残りの調査を終えなければ。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_3
-TEXT: これで失礼するが、伝えておきたいことがある。これまでの道のり、そして、
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_4
-TEXT: きみの成長ぶりを振り返ることができて、感慨深い調査だった。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_5
-TEXT: これからの活躍も期待している。トレーナーとして成長し続けて欲しい。何かまたお願いしたいことが出てきたら連絡するよ。
-
-RESOURCE ID: quest_special_dialogue_lvl_43_3_6
-TEXT: %PLAYERNAME%、それまで元気にGO！
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_0
-TEXT: やぁ、%PLAYERNAME%！前回、協力をお願いしてから、少し経つが、あれから、さらに進歩したようだな。
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_1
-TEXT: わたしのほうは、相棒のポケモンと一緒に過ごすことが多かったので、相棒との絆、に想いをはせていた。
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_2
-TEXT: わたしの最初の相棒は、なんとも不思議な、ナットポケモン、メルタンだった。
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_3
-TEXT: 最高の相棒になったときは、うれしかった。
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_4
-TEXT: きみも相棒のポケモンには、特別な想いがあるんじゃないかな？
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_5
-TEXT: 相棒と一緒に訪れた場所というのも、よく覚えているものだよね。
-
-RESOURCE ID: quest_special_dialogue_lvl_45_0_6
-TEXT: 改めて、相棒と一緒にお気に入りの場所を訪れてみてはどうかな？
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_0
-TEXT: 相棒と散歩しているうちに、面白いポケストップを見つけることができたかな？
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_1
-TEXT: わたしは、バトルしていたスパークを見に行っていたんだ。勝って勢いがついたスパークと相棒ポケモンに誘われ、一緒に歩いていたんだ。
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_2
-TEXT: 久しぶりに長い距離をスパークと歩いたな．．．
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_3
-TEXT: 歩くのは健康に良いし、相棒ポケモンとの絆も深まる。
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_4
-TEXT: スパークと相棒を見ていて、きみにも、相棒との時間を楽しんでもらいたい、と思ったんだ。
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_5
-TEXT: いままでの道のりを振り返りながら、相棒ポケモンと一緒に歩き、
-
-RESOURCE ID: quest_special_dialogue_lvl_45_1_6
-TEXT: ときには、トレーナーとバトルする。楽しいに違いないぞ！
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_0
-TEXT: たくさん思い出を増やせたかな、%PLAYERNAME%？
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_1
-TEXT: 研究に没頭していると、つい、時間が経つのを忘れてしまう。
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_2
-TEXT: このあいだは、相棒ポケモンのすがたを写真におさめようとして、
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_3
-TEXT: カメラ越しに、ずっとながめていたら、
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_4
-TEXT: 時間が経ってしまった．．．そうして過ごしているあいだは、GOロケット団の悪だくみに目を光らせることも、おろそかになりがち．．．
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_5
-TEXT: レイドバトルや、その付近をチェックして、GOロケット団リーダーの怪しい動きが察知できたら、
-
-RESOURCE ID: quest_special_dialogue_lvl_45_2_6
-TEXT: どんどん倒して欲しい。ポケストップはGOロケット団のためにあるんじゃない、ということを思い知らせてやってくれ！
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_0
-TEXT: 素晴らしい、%PLAYERNAME%！
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_1
-TEXT: きみなら、GOロケット団のリーダーに対して、気負いなく戦えるだろう、と思っていたよ。
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_2
-TEXT: 相棒のポケモンも、とても頼りになったことだろう。
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_3
-TEXT: トレーナーとポケモンの絆、それは何ものにも代えがたく、美しい！
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_4
-TEXT: きみの近況がわかって、よかった。
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_5
-TEXT: これからの調査のヒントをもらえた。
-
-RESOURCE ID: quest_special_dialogue_lvl_45_3_6
-TEXT: また会えるのを楽しみにしているよ！
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_0
-TEXT: やぁ、%PLAYERNAME%。
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_1
-TEXT: 調子が良さそうじゃないか！
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_2
-TEXT: ついにここまで来たんだな。最初のポケモンを捕まえたあの日から、歩み続けたトレーナーとしての道を思うと、感慨に浸ってしまうよ。
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_3
-TEXT: バトルで最初につかんだ勝利を覚えているかな？
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_4
-TEXT: 勝ちを決めてくれたポケモンのことが、とても誇らしく思えて．．．
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_5
-TEXT: どうだい、%PLAYERNAME%？トレーナー仲間に自慢したいバトルはあるかい？
-
-RESOURCE ID: quest_special_dialogue_lvl_48_0_6
-TEXT: ここからの調査は、さらに難易度が上がるため、入念な準備が必要だ。ナイススローを投げまくってくれ！
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_0
-TEXT: きみのポケモンはよく鍛えられている。
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_1
-TEXT: 優れたトレーナーだから当然、というわけではないぞ。キャンデラに聞いたところ、
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_2
-TEXT: よくツボを押さえて鍛えている、と言っていた。
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_3
-TEXT: GOロケット団リーダーを倒すことをお願いしたい、と話したところ、彼女もきみになら任せられる、と言っていた。
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_4
-TEXT: GOロケット団リーダーとのバトルは、予測が難しい。どんな手を使ってくるか、考えてしまうこともあると思う。
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_5
-TEXT: キャンデラは、こう言っていたよ。頭をクールに保つと同時に熱い心を持て、と。そうすれば、きっと勝てる、とも言っていた。
-
-RESOURCE ID: quest_special_dialogue_lvl_48_1_6
-TEXT: キャンデラも応援している。頑張ってくれ！
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_0
-TEXT: 見事だ、%PLAYERNAME%！成長ぶりが目覚ましいな。
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_1
-TEXT: 次は、レイドバトルでボスポケモンと戦ってもらおう。
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_2
-TEXT: トレーナーたちが協力して強い相手に向かっていく姿には感動するよ。
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_3
-TEXT: トレーナーとポケモンとの絆も大切だが、トレーナー仲間が心を一つにすることも、同じように大切だ。
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_4
-TEXT: 新米もベテランも、チームメイトでも違うチームでも、心を一つに同じゴールに向かって進む、といったら大げさかな？でもそれが、トレーナーのコミュニティの良さだよね？
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_5
-TEXT: さぁ、どんなトレーナーと、どんなボスポケモンを倒すのか？
-
-RESOURCE ID: quest_special_dialogue_lvl_48_2_6
-TEXT: 熱いレイドバトルを見せてくれ！
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_0
-TEXT: 見事だった。
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_1
-TEXT: 仲間のトレーナーと協力してバトルできたかな？
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_2
-TEXT: 途中で、興味深いポケモンにも出会えたかな？
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_3
-TEXT: ポケモンという不思議な生き物のいる世界を探索していると、さまざまな場所で活動するトレーナーたちと仲良くなれる。それも、また、格別だ！
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_4
-TEXT: それにしても、よくここまでやってくれた。
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_5
-TEXT: わたしは、結果だけについて話しているんじゃない。過程も重視する。これからも、楽しみながら進んでいってくれ！
-
-RESOURCE ID: quest_special_dialogue_lvl_48_3_6
-TEXT: また会おう、%PLAYERNAME%！
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_0
-TEXT: またこうして会える日を楽しみにしていたよ、%PLAYERNAME%。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_1
-TEXT: まあ、そう先を急ぐなよ。深呼吸してみよう。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_2
-TEXT: 吸って．．．吐いて．．．もう一度、深く吸って．．．吐いて．．．
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_3
-TEXT: 今回の調査は、時間がかかると思うが、
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_4
-TEXT: 適度に力を抜いて頑張ってくれ。それが、途中で「投げ」ださないための得策だ。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_5
-TEXT: 全力「投入」もいいが、何より、トレーナーたちに、楽しみながら協力してもらう、
-
-RESOURCE ID: quest_special_dialogue_lvl_50_0_6
-TEXT: これが、わたしの調査依頼の目的と言ってもいいくらいだ。よろしく頼むよ！
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_0
-TEXT: 見事だ！
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_1
-TEXT: 完璧な調査協力だった。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_2
-TEXT: そういえば、どのチームに属しているんだったかな？
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_3
-TEXT: 最初からチームを替えることなく、替える気が全くないトレーナーもいれば、新たな挑戦を自分に課すため、チーム替えするものもいる。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_4
-TEXT: トレーナーにもいろいろなタイプがいるように、チームリーダーたちも、それぞれ自分の信念を持っている。チームリーダーたちの成長ぶりも、振り返ると感慨深いな。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_5
-TEXT: それぞれの個性や、チームの特徴を活かして、協力しながら、わたしを支えてくれるまでになった。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_1_6
-TEXT: さぁ、ここからは、いままでにも増して、トレーナーとしての資質や、やる気が試されるぞ。頑張ってくれ！
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_0
-TEXT: よくやってくれた。きみの本気が伝わってきたよ。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_1
-TEXT: どの調査がおもしろかったかな？難しかったのは？
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_2
-TEXT: あと少しで完了だ。終わってしまうのは、少しさみしい気もする．．．わたしも、チームリーダーたちも、きみのことを本当に誇りに思っているよ。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_3
-TEXT: そんな意識の高いトレーナー、%PLAYERNAME%、きみには、チームリーダーたちから依頼内容をもらっている。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_4
-TEXT: スパークからは、相棒にアメを見つけてもらうことが提案された。ブランシェからは、ポケモンを進化させること、
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_5
-TEXT: キャンデラからは．．．特にないそうだ。ただ、一緒にレイドの勝利を喜び合いたい、とのことだった。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_2_6
-TEXT: トレーナーとしての総合力を発揮して行う、総まとめ、のような調査だな。完了したらまた会おう！
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_0
-TEXT: %PLAYERNAME%！ 名実ともに、トップクラスのトレーナーになったきみに、おめでとう、と言わせてもらいたい。一緒に調査ができて光栄に思っている。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_1
-TEXT: きみの成長を、一緒に体験したかのように感じるよ。きみには素質があるし、持っている技も洗練されてきたな。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_2
-TEXT: 他のトレーナーたちにも、引き続き、広い心を持って接してくれ。トレーナーがあるべき姿を示し、良き指導者のような存在になってほしい。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_3
-TEXT: ポケモンの住む美しい世界をより良くし、GOロケット団や、そのほかの邪悪なものから守っていくことも期待されている。
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_4
-TEXT: 最初の1匹を捕まえたときの喜び、相棒が一緒に歩いてくれたときの喜び、レイドバトルでボスポケモンを倒したときの喜び、
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_5
-TEXT: すべて、忘れないでくれ！わたしとチームリーダーたちだけでなく、きみも、自分自身をほめるべきだ。これからも、いつも見守っているし、また協力が必要なときは連絡するよ。研究課題は尽きることがない。一緒に大発見を目指そうじゃないか！
-
-RESOURCE ID: quest_special_dialogue_lvl_50_3_6
-TEXT: 協力に感謝する、%PLAYERNAME%。頼りになるトレーナー%PLAYERNAME%に、この言葉を贈ろう．．．元気にGO！！
-
-RESOURCE ID: quest_special_dialogue_magmt_0_0
-TEXT: やぁ、%PLAYERNAME%！なんか暑くないか？散歩していて、温度が上がった気がしたので、
-
-RESOURCE ID: quest_special_dialogue_magmt_0_1
-TEXT: 風通しの良い、涼しいスポットを探していたのだが、どこに行っても熱風を感じるんだ．．．
-
-RESOURCE ID: quest_special_dialogue_magmt_0_2
-TEXT: ポケモンが関係しているのか？
-
-RESOURCE ID: quest_special_dialogue_magmt_0_3
-TEXT: 寒いところが苦手で、自分が住みやすいように、環境を変えるポケモンを知っているぞ。炎を使って。
-
-RESOURCE ID: quest_special_dialogue_magmt_0_4
-TEXT: 気候の違いはあるが、とあるポケモンが多く出現し、各所で温度が上がっているに違いない。
-
-RESOURCE ID: quest_special_dialogue_magmt_0_5
-TEXT: そのポケモン名は、紙に書いておくから、きみが、
-
-RESOURCE ID: quest_special_dialogue_magmt_0_6
-TEXT: 調査から帰ったら、見てみようじゃないか！
-
-RESOURCE ID: quest_special_dialogue_magmt_1_0
-TEXT: さあ、結果の照合だ、%PLAYERNAME%！
-
-RESOURCE ID: quest_special_dialogue_magmt_1_1
-TEXT: わたしが書いたのは．．．ブーバーだ！あ、火の粉が．．．
-
-RESOURCE ID: quest_special_dialogue_magmt_1_2
-TEXT: ．．．飛んできたぞ。紙が燃えてしまった！
-
-RESOURCE ID: quest_special_dialogue_magmt_1_3
-TEXT: やはり、ひふきポケモンであるブーバーが、このあたり一帯を熱風で包んでいたんだな。
-
-RESOURCE ID: quest_special_dialogue_magmt_1_4
-TEXT: ブーバーが、ひとたび深呼吸すれば、体のまわりにカゲロウができるので、その姿がぼんやりとしか見えない。
-
-RESOURCE ID: quest_special_dialogue_magmt_1_5
-TEXT: そんなポケモンが、愛らしいブビィから進化するなんて、信じられるかい？ブビィも、相当熱いポケモンではあるがね。
-
-RESOURCE ID: quest_special_dialogue_magmt_1_6
-TEXT: 息を吸ったり吐いたりするたびに、口と鼻から火の粉がもれてしまうんだ。抱き上げるたびに、やけどしそうになるが、コツをつかめば大丈夫！
-
-RESOURCE ID: quest_special_dialogue_magmt_1_7
-TEXT: さあ、調査を続行しよう、%PLAYERNAME%！
-
-RESOURCE ID: quest_special_dialogue_magmt_2_0
-TEXT: その調子だ、%PLAYERNAME%！
-
-RESOURCE ID: quest_special_dialogue_magmt_2_1
-TEXT: もう少しで、ばくえんポケモンであるブーバーンが爆誕するぞ！
-
-RESOURCE ID: quest_special_dialogue_magmt_2_2
-TEXT: 腕の先から撃ち出す火の玉は、2000度と言われている。どうやって、それほど高温の火の玉をつくりだし、撃つんだろう？
-
-RESOURCE ID: quest_special_dialogue_magmt_2_3
-TEXT: 腕の先から、こう、バ、バ、バ、バーーン！！
-
-RESOURCE ID: quest_special_dialogue_magmt_2_4
-TEXT: ちょっとアツくなりすぎてしまった．．．
-
-RESOURCE ID: quest_special_dialogue_magmt_2_5
-TEXT: シンオウのいし、ブーバーのアメは持っているね？頑張ってブーバーンまで進化させてみよう、%PLAYERNAME%！
-
-RESOURCE ID: quest_special_dialogue_magmt_3_0
-TEXT: %PLAYERNAME%、ばくえんポケモンを手に入れたね！
-
-RESOURCE ID: quest_special_dialogue_magmt_3_1
-TEXT: ブビィ、ブーバーと同じく、ブーバーンも火山の火口に住んでいる。
-
-RESOURCE ID: quest_special_dialogue_magmt_3_2
-TEXT: 腕の先から2000度の火の玉を撃つ、と言ったが、やはり、体の中も相当熱くなるようだ。体がほのかに白くなるらしい。
-
-RESOURCE ID: quest_special_dialogue_magmt_3_3
-TEXT: 高温で白く光るブーバーンか．．．研究心に火がついた。フィールドワークに出かけることにする！
-
-RESOURCE ID: quest_special_dialogue_magmt_3_4
-TEXT: これで失礼するよ、%PLAYERNAME%。またすぐ会おう！
-
-RESOURCE ID: quest_special_dialogue_yokosuka_1_1
-TEXT: 今日の調査で、驚異的な量のほしのすなが得られたことだろう。これをより有効に活用するには、ポケモンの強化はもちろんだが、ポケモン交換をしてみてはどうかな。では、また会おう、%PLAYERNAME%！ 
-
-RESOURCE ID: quest_stardust_plural
-TEXT: ほしのすなを{0}手に入れる
-
-RESOURCE ID: quest_supereffective_charge_plural
-TEXT: こうかばつぐんのスペシャルアタックを{0}回使ってバトルする
-
-RESOURCE ID: quest_supereffective_charge_singular
-TEXT: こうかばつぐんのスペシャルアタックを使ってバトルする
-
-RESOURCE ID: quest_title_anime_week
-TEXT: TVアニメコラボウィークリサーチ
-
-RESOURCE ID: quest_title_elect
-TEXT: でんげきポケモンを解明せよ！
-
-RESOURCE ID: quest_title_elect_0
-TEXT: でんげきポケモンを解明せよ！(1/4)
-
-RESOURCE ID: quest_title_elect_1
-TEXT: でんげきポケモンを解明せよ！(2/4)
-
-RESOURCE ID: quest_title_elect_2
-TEXT: でんげきポケモンを解明せよ！(3/4)
-
-RESOURCE ID: quest_title_elect_3
-TEXT: でんげきポケモンを解明せよ！(4/4)
-
-RESOURCE ID: quest_title_jj_special_research
-TEXT: 色違いセレビィのリサーチ
-
-RESOURCE ID: quest_title_jj_special_research_0
-TEXT: 色違いセレビィのリサーチ(1/4)
-
-RESOURCE ID: quest_title_jj_special_research_1
-TEXT: 色違いセレビィのリサーチ(2/4)
-
-RESOURCE ID: quest_title_jj_special_research_2
-TEXT: 色違いセレビィのリサーチ(3/4)
-
-RESOURCE ID: quest_title_jj_special_research_3
-TEXT: 色違いセレビィのリサーチ(4/4)
-
-RESOURCE ID: quest_title_lvl_40
-TEXT: レガシー40チャレンジ
-
-RESOURCE ID: quest_title_lvl_40_0
-TEXT: レガシー40チャレンジ (1/4)
-
-RESOURCE ID: quest_title_lvl_40_1
-TEXT: レガシー40チャレンジ (2/4)
-
-RESOURCE ID: quest_title_lvl_40_2
-TEXT: レガシー40チャレンジ (3/4)
-
-RESOURCE ID: quest_title_lvl_40_3
-TEXT: レガシー40チャレンジ (4/4)
-
-RESOURCE ID: quest_title_lvl_43
-TEXT: レベル43チャレンジ
-
-RESOURCE ID: quest_title_lvl_43_0
-TEXT: レベル43チャレンジ (1/4)
-
-RESOURCE ID: quest_title_lvl_43_1
-TEXT: レベル43チャレンジ (2/4)
-
-RESOURCE ID: quest_title_lvl_43_2
-TEXT: レベル43チャレンジ (3/4)
-
-RESOURCE ID: quest_title_lvl_43_3
-TEXT: レベル43チャレンジ (4/4)
-
-RESOURCE ID: quest_title_lvl_45
-TEXT: レベル45チャレンジ
-
-RESOURCE ID: quest_title_lvl_45_0
-TEXT: レベル45チャレンジ (1/4)
-
-RESOURCE ID: quest_title_lvl_45_1
-TEXT: レベル45チャレンジ (2/4)
-
-RESOURCE ID: quest_title_lvl_45_2
-TEXT: レベル45チャレンジ (3/4)
-
-RESOURCE ID: quest_title_lvl_45_3
-TEXT: レベル45チャレンジ (4/4)
-
-RESOURCE ID: quest_title_lvl_48
-TEXT: レベル48チャレンジ
-
-RESOURCE ID: quest_title_lvl_48_0
-TEXT: レベル48チャレンジ (1/4)
-
-RESOURCE ID: quest_title_lvl_48_1
-TEXT: レベル48チャレンジ (2/4)
-
-RESOURCE ID: quest_title_lvl_48_2
-TEXT: レベル48チャレンジ (3/4)
-
-RESOURCE ID: quest_title_lvl_48_3
-TEXT: レベル48チャレンジ (4/4)
-
-RESOURCE ID: quest_title_lvl_50
-TEXT: レベル50チャレンジ
-
-RESOURCE ID: quest_title_lvl_50_0
-TEXT: レベル50チャレンジ (1/4)
-
-RESOURCE ID: quest_title_lvl_50_1
-TEXT: レベル50チャレンジ (2/4)
-
-RESOURCE ID: quest_title_lvl_50_2
-TEXT: レベル50チャレンジ (3/4)
-
-RESOURCE ID: quest_title_lvl_50_3
-TEXT: レベル50チャレンジ (4/4)
-
-RESOURCE ID: quest_title_magmt
-TEXT: ひふきポケモンを解明せよ！
-
-RESOURCE ID: quest_title_magmt_0
-TEXT: ひふきポケモンを解明せよ！(1/4)
-
-RESOURCE ID: quest_title_magmt_1
-TEXT: ひふきポケモンを解明せよ！(2/4)
-
-RESOURCE ID: quest_title_magmt_2
-TEXT: ひふきポケモンを解明せよ！(3/4)
-
-RESOURCE ID: quest_title_magmt_3
-TEXT: ひふきポケモンを解明せよ！(4/4)
-
-RESOURCE ID: quest_title_rockethq3_1
-TEXT: 悪の組織に立ち向かえ 2 (2/6) 
-
-RESOURCE ID: quest_title_rockethq3_2
-TEXT: 悪の組織に立ち向かえ 2 (3/6) 
-
-RESOURCE ID: quest_title_rockethq3_3
-TEXT: 悪の組織に立ち向かえ 2 (4/6) 
-
-RESOURCE ID: quest_title_rockethq3_4
-TEXT: 悪の組織に立ち向かえ 2 (5/6) 
-
-RESOURCE ID: quest_title_rockethq3_5
-TEXT: 悪の組織に立ち向かえ 2 (6/6) 
-
-RESOURCE ID: quest_trade_100km_plural
-TEXT: 100km以上離れた場所からのポケモンを{0}匹交換する
-
-RESOURCE ID: quest_trade_200km_plural
-TEXT: 200km以上離れた場所からのポケモンを{0}匹交換する
-
-RESOURCE ID: quest_trade_300km_plural
-TEXT: 300km以上離れた場所からのポケモンを{0}匹交換する
-
-RESOURCE ID: quest_trade_400km_plural
-TEXT: 400km以上離れた場所からのポケモンを{0}匹交換する
-
-RESOURCE ID: quest_trade_500km_plural
-TEXT: 500km以上離れた場所からのポケモンを{0}匹交換する
-
-RESOURCE ID: quest_trade_500km_singular
-TEXT: 500km以上離れた場所からのポケモンを交換する
-
-RESOURCE ID: quest_trade_50km_plural
-TEXT: 50km以上離れた場所からのポケモンを{0}匹交換する
-
-RESOURCE ID: quest_walk_25km_inaweek_plural
-TEXT: 1週間に25km歩くを{0}回する
-
-RESOURCE ID: quest_win_raid_lvl1plus_less1500cp_plural
-TEXT: CP1500以下のポケモンのみを使いレイドで{0}回勝つ
-
-RESOURCE ID: quest_win_raid_lvl1plus_less1500cp_singular
-TEXT: CP1,500以下のポケモンのみを使いレイドで勝つ
-
-RESOURCE ID: quest_win_raid_lvl3plus_less1500cp_plural
-TEXT: CP1,500以下のポケモンのみを使い3つ星レイドで{0}回勝つ
-
-RESOURCE ID: quest_win_raid_lvl3plus_less1500cp_singular
-TEXT: CP1,500以下のポケモンのみを使い3つ星レイドで勝つ
-
-RESOURCE ID: quest_win_raid_unique_plural
-TEXT: すべて違う種類のポケモンを使いレイドで{0}回勝つ
-
-RESOURCE ID: quest_win_raid_unique_singular
-TEXT: すべて違う種類のポケモンを使いレイドで勝つ
-
-RESOURCE ID: quest_win_rocket_leader_less1500cp_plural
-TEXT: CP1,500以下のポケモンのみを使いGOロケット団リーダーに{0}回勝つ
-
-RESOURCE ID: quest_win_rocket_leader_less1500cp_singular
-TEXT: CP1500以下のポケモンのみを使いGOロケット団リーダーに勝つ
-
-RESOURCE ID: quest_win_rocket_leader_less2500cp_plural
-TEXT: CP2,500以下のポケモンのみを使いGOロケット団リーダーに{0}回勝つ
-
-RESOURCE ID: quest_win_rocket_leader_less3000cp_plural
-TEXT: CP3,000以下のポケモンのみを使いGOロケット団リーダーに{0}回勝つ
-
-RESOURCE ID: quest_win_rocket_leader_less3500cp_plural
-TEXT: CP3,500以下のポケモンのみを使いGOロケット団リーダーに{0}回勝つ
-
-RESOURCE ID: quest_win_rocket_leader_less4000cp_plural
-TEXT: CP4,000以下のポケモンのみを使いGOロケット団リーダーに{0}回勝つ
-
-RESOURCE ID: raid_xp_increase
-TEXT: レイドでもらえるXP増
-
-RESOURCE ID: rare_xl_candy_usage_confirmation
-TEXT: ふしぎなアメXLを{0}のアメXLに変えますか？
-
-RESOURCE ID: reward_avatar_items
-TEXT: 着せ替えアイテム
-
-RESOURCE ID: spawn_electabuzz
-TEXT: エレブーがより多く野生で出現
-
-RESOURCE ID: spawn_magmar
-TEXT: ブーバーがより多く野生で出現
-
-RESOURCE ID: ticket_electabuzz
-TEXT: 「でんげきポケモンを解明せよ！」チケットがショップに登場
-
-RESOURCE ID: ticket_electabuzz_description
-TEXT: 世界中のどこにいても、現地時間2020年5月24日の11:00 AM～5:00 PMに、ゲーム内でスタートできるイベント「どんぐりポケモンの謎を解け！」を遊ぶことができるチケット。詳細は、ゲーム内ニュースで確認できます。
-
-イベントを最大限にお楽しみいただくには、記載の開催時間内に遊び終える必要があります。
-
-RESOURCE ID: ticket_electabuzz_title
-TEXT: チケット：どんぐりポケモンの謎を解け！
-
-RESOURCE ID: ticket_magmar
-TEXT: 「ひふきポケモンを解明せよ！」チケットがショップに登場
-
-RESOURCE ID: timed_research_pokemon_nidoran
-TEXT: ニドラン♀とニドラン♂のタイムチャレンジ
-
-RESOURCE ID: today_view_city_ar_bonus
-TEXT: 街めぐりARマッピングフィールドリサーチのリワード
-
-RESOURCE ID: today_view_city_scan_competition
-TEXT: 街めぐりARマッピングフィールドリサーチ対抗戦
-
-RESOURCE ID: today_view_city_timed_research
-TEXT: 街めぐりタイムチャレンジ
-
-RESOURCE ID: trade_distance_increase
-TEXT: 交換できる範囲増
-
-RESOURCE ID: transfer_error_mega
-TEXT: メガシンカしたポケモンは転送できません
-
-RESOURCE ID: transfer_pokemon
-TEXT: ポケモン転送
-
-RESOURCE ID: tutorial_level_40_plus_info
-TEXT: きみには、さらに上を目指してもらおう。そのためには、経験を積むことに加えて、難しいタスクが課されるだろう。
-
-RESOURCE ID: tutorial_level_40_plus_intro
-TEXT: ここまで、よく頑張った！
-
-RESOURCE ID: tutorial_xl_candy_1
-TEXT: アメXLを手に入れたようだな！ポケモンの強化が簡単になるアメだ。
-
-RESOURCE ID: tutorial_xl_candy_2
-TEXT: ポケモンを捕まえるときに、このアメが落ちていることがある。そのポケモンが強ければ強いほど、アメXLを見つけるチャンスも上がるぞ！
-
-RESOURCE ID: upload_mgmt_ar_scans
-TEXT: ARスキャン：{0}
-
-RESOURCE ID: upload_mgmt_cancel_all
-TEXT: アップロードキャンセル
-
-RESOURCE ID: upload_mgmt_cancel_individual
-TEXT: キャンセル
-
-RESOURCE ID: upload_mgmt_confirm_delete_individual
-TEXT: [filename] ({1}MB) を削除しますか？
-
-RESOURCE ID: upload_mgmt_confirm_yes
-TEXT: はい
-
-RESOURCE ID: upload_mgmt_delete_individual
-TEXT: 削除
-
-RESOURCE ID: upload_mgmt_images
-TEXT: 写真：{0}
-
-RESOURCE ID: upload_mgmt_manage
-TEXT: 管理
-
-RESOURCE ID: upload_mgmt_manage_menu_header
-TEXT: 提出ファイル管理
-
-RESOURCE ID: upload_mgmt_no_pending_data
-TEXT: アップロード待機中のファイルはありません
-
-RESOURCE ID: upload_mgmt_noms
-TEXT: ポケストップ選出：{0}
-
-RESOURCE ID: upload_mgmt_ok
-TEXT: OK
-
-RESOURCE ID: upload_mgmt_pending_data
-TEXT: {0}MBのアップロードが終了していません
-
-RESOURCE ID: upload_mgmt_retry
-TEXT: リトライ
-
-RESOURCE ID: upload_mgmt_thank_you
+RESOURCE ID: poi_point_progress_toast
 TEXT: ありがとうございました。
 
-RESOURCE ID: upload_mgmt_upload_all
-TEXT: すべてアップロード ({0}MB)
+RESOURCE ID: poi_power_g_level
+TEXT: ありがとうございます。このジムからのボーナスを冒険にお役立てください。
 
-RESOURCE ID: upload_mgmt_upload_confirm
-TEXT: いますぐアップロードしますか？
+RESOURCE ID: poi_power_g_level_body
+TEXT: ありがとうございます。このジムからのボーナスを冒険にお役立てください。
 
-RESOURCE ID: upload_mgmt_upload_confirm_info
-TEXT: {0}MBのファイルがアップロードされます。Wi-Fiに接続していない場合、通信料がかかることがあります。
+RESOURCE ID: poi_power_g_level_title
+TEXT: ジムパワーアップ完了！
 
-RESOURCE ID: upload_mgmt_upload_failed
-TEXT: アップロードに失敗しました
+RESOURCE ID: poi_power_level
+TEXT: レベル{0}
 
-RESOURCE ID: upload_mgmt_upload_individual
-TEXT: アップロード
+RESOURCE ID: poi_power_mainmenu
+TEXT: アップロードの準備が完了したら、メインメニューにお進みください。
 
-RESOURCE ID: upload_mgmt_upload_later
-TEXT: あとでアップロード
+RESOURCE ID: poi_power_p_level
+TEXT: ありがとうございます。このポケストップからのボーナスを冒険にお役立てください。
 
-RESOURCE ID: upload_mgmt_upload_later_instruction
-TEXT: アップロードの準備が完了したら、設定から、プレイヤーによる選出に進んでください。
+RESOURCE ID: poi_power_p_level_body
+TEXT: ありがとうございます。このポケストップからのボーナスを冒険にお役立てください。
 
-RESOURCE ID: upload_mgmt_uploading_all_msg
-TEXT: すべてアップロードしています ({0}MB)
+RESOURCE ID: poi_power_p_level_title
+TEXT: ポケストップパワーアップ完了！
 
-RESOURCE ID: upload_mgmt_uploading_individual
-TEXT: アップロード中
+RESOURCE ID: poi_power_turorial_1
+TEXT: このポケストップをスキャンするか写真提出を行うと、ポイントが増え、レベルが上がるにつれてボーナスも増えます。
 
-RESOURCE ID: upload_mgmt_waiting_upload_msg
-TEXT: アップロードを待っています
+RESOURCE ID: poi_power_turorial_2
+TEXT: ポケストップのレベルが上がると、もらえるボーナスです。
+
+RESOURCE ID: poi_power_turorial_3
+TEXT: レベル1
+
+RESOURCE ID: poi_power_turorial_4
+TEXT: レベル2
+
+RESOURCE ID: poi_power_turorial_5
+TEXT: レベル3
+
+RESOURCE ID: poi_power_turorial_6
+TEXT: ボーナスを手にいれましょう！
+
+RESOURCE ID: poi_power_turorial_7
+TEXT: 相棒と一緒に訪れ、フォトディスクを回すと、相棒のハートがもらえます！
+
+RESOURCE ID: poi_power_turorial_8
+TEXT: ポケストップの周りでは、よりポケモンに出会えやすくなり、ジムでは、レイドバトル後に手に入るプレミアボールが増えます。
+
+RESOURCE ID: poi_power_tutorial_1
+TEXT: この場所をスキャンするか写真提出を行うと、ロケーションポイントが増え、レベルが上がるにつれてボーナスも増えます。
+
+RESOURCE ID: poi_power_tutorial_2
+TEXT: パワーアップさせてボーナスを手にいれましょう。
+
+RESOURCE ID: poi_power_tutorial_3
+TEXT: レベル1
+
+RESOURCE ID: poi_power_tutorial_4
+TEXT: レベル2
+
+RESOURCE ID: poi_power_tutorial_5
+TEXT: レベル3
+
+RESOURCE ID: poi_power_tutorial_6
+TEXT: ボーナスを手にいれましょう！
+
+RESOURCE ID: poi_power_tutorial_7
+TEXT: 相棒と一緒に訪れ、フォトディスクを回すと、相棒のハートがもらえます！
+
+RESOURCE ID: poi_power_tutorial_8
+TEXT: ポケストップの周りでは、よりポケモンに出会えやすくなり、ジムでは、レイドバトル後に手に入るプレミアボールが増えます。
+
+RESOURCE ID: poi_power_upload_confirm
+TEXT: {0}件アップロードされました！
+
+RESOURCE ID: poi_power_upload_failf
+TEXT: {0}件アップロードに失敗しました
+
+RESOURCE ID: poi_power_upload_later
+TEXT: あとでアップロードする
+
+RESOURCE ID: poi_power_upload_point
+TEXT: 計{0}ポイントがポケストップ・ジムに追加されました
+
+RESOURCE ID: poi_power_upload_req
+TEXT: アップロードが必要です
+
+RESOURCE ID: poi_power_uploadbar
+TEXT: アップロード中 {0}/{1}
+
+RESOURCE ID: poi_power_viewinmap
+TEXT: マップで見る({0})
+
+RESOURCE ID: poi_powered_up_duration
+TEXT:  {0:ddd hh:mm tt} までパワーアップ持続
+
+RESOURCE ID: pokemon_info_mega_evolution_replace_detail
+TEXT: （一度に1匹のみ）
+
+RESOURCE ID: pokemon_info_mega_evolution_time
+TEXT: メガシンカ持続時間：{0}時間
+
+RESOURCE ID: pokestop_spin_new_xp_ten
+TEXT: 10× 新ポケストップスピンXP
+
+RESOURCE ID: pokestop_spin_new_xp_three
+TEXT: 3× 新ポケストップスピンXP
+
+RESOURCE ID: pups_tutorial_p0_body
+TEXT: ロケーションをスキャンするか写真提出を行うと、ロケーションポイントが増え、レベルが上がるにつれてボーナスも増えます。
+
+RESOURCE ID: pups_tutorial_p0_title
+TEXT: ロケーションパワーアップ
+
+RESOURCE ID: pups_tutorial_p1_body
+TEXT: パワーアップしたポケストップ・ジムからボーナスをもらいましょう！
+
+RESOURCE ID: pups_tutorial_p1_title
+TEXT: パワーアップボーナス
+
+RESOURCE ID: pups_tutorial_p2_body
+TEXT: ポケストップ・ジムのフォトディスクを回すときにそのポケストップ・ジムにロケーションポイントを追加できるチャンスがあります。
+
+RESOURCE ID: pups_tutorial_p2_title
+TEXT: フォトディスクを回してポイント獲得
+
+RESOURCE ID: pups_tutorial_p3_body
+TEXT: ポケストップ・ジムの周りを歩き、お使いの端末で動画を撮る機能です。その場所の3Dマップを作成するために使用されます。
+
+RESOURCE ID: pups_tutorial_p3_title
+TEXT: ポケストップスキャンとは？
+
+RESOURCE ID: quest_beat_raid_10_minutes
+TEXT: レイドに10分未満で勝つ
+
+RESOURCE ID: quest_beat_raid_60_seconds
+TEXT: レイドに60秒未満で勝つ
+
+RESOURCE ID: quest_beat_raid_singular_minutes
+TEXT: レイドに{0}分未満で勝つ
+
+RESOURCE ID: quest_beat_raid_singular_seconds
+TEXT: レイドに{0}秒未満で勝つ
+
+RESOURCE ID: quest_complete_eevet
+TEXT: しんかポケモンを解明せよ！
+
+RESOURCE ID: quest_complete_oshat
+TEXT: ラッコポケモンを解明せよ！
+
+RESOURCE ID: quest_defeat_rocket
+TEXT: GOロケット団員に{0}回勝つ
+
+RESOURCE ID: quest_eevet_catch_b
+TEXT: イーブイを{0}匹捕まえる
+
+RESOURCE ID: quest_eevet_evolve_b
+TEXT: イーブイを{0}匹進化させる
+
+RESOURCE ID: quest_oshat_catch_b
+TEXT: ミジュマルを{0}匹捕まえる
+
+RESOURCE ID: quest_oshat_evolve_b
+TEXT: ミジュマルを{0}匹進化させる
+
+RESOURCE ID: quest_oshat_evolve_s1
+TEXT: フタチマルを{0}匹進化させる
+
+RESOURCE ID: quest_special_dialogue_eevet_0_0
+TEXT: やぁ、%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_eevet_0_1
+TEXT: 見たか？しんかポケモンであるイーブイが大挙してやってきた！
+
+RESOURCE ID: quest_special_dialogue_eevet_0_2
+TEXT: ポケモン進化のナゾを解くカギは、イーブイの遺伝子にあり、と主張する研究者もいる。
+
+RESOURCE ID: quest_special_dialogue_eevet_0_3
+TEXT: 妥当な仮説だ。8種もの進化形があるんだからな。
+
+RESOURCE ID: quest_special_dialogue_eevet_0_4
+TEXT: そんなイーブイに比べ、
+
+RESOURCE ID: quest_special_dialogue_eevet_0_5
+TEXT: わたしはどうだ？どんな場所に行くにも、この白衣．．．
+
+RESOURCE ID: quest_special_dialogue_eevet_0_6
+TEXT: ．．．とにかく、イーブイをよく観察しよう。進化のナゾにせまることができるかもしれないぞ！
+
+RESOURCE ID: quest_special_dialogue_eevet_0_7
+TEXT: 早速スタートだ！
+
+RESOURCE ID: quest_special_dialogue_eevet_1_0
+TEXT: その調子だ、%PLAYERNAME%！
+
+RESOURCE ID: quest_special_dialogue_eevet_1_1
+TEXT: 次に調査するのは、カントー地方で最初に発見された
+
+RESOURCE ID: quest_special_dialogue_eevet_1_2
+TEXT: みずタイプのシャワーズ、でんきタイプのサンダース、ほのおタイプのブースターだ。
+
+RESOURCE ID: quest_special_dialogue_eevet_1_3
+TEXT: これほどまでにタイプが違うポケモンに進化するなんて、すごいな！
+
+RESOURCE ID: quest_special_dialogue_eevet_1_4
+TEXT: 近くでよく観察してみたいものだ！
+
+RESOURCE ID: quest_special_dialogue_eevet_2_0
+TEXT: いいぞ、%PLAYERNAME%!！無事シャワーズ、サンダース、ブースターを捕まえたようだな。
+
+RESOURCE ID: quest_special_dialogue_eevet_2_1
+TEXT: どれもすごいポケモンだが、
+
+RESOURCE ID: quest_special_dialogue_eevet_2_2
+TEXT: シャワーズは、水に溶けることができるって知っていたかな？
+
+RESOURCE ID: quest_special_dialogue_eevet_2_3
+TEXT: サンダースが10000ボルトの電気を吐き出すことができることは？
+
+RESOURCE ID: quest_special_dialogue_eevet_2_4
+TEXT: ブースターが1700度の火を吐くことは？
+
+RESOURCE ID: quest_special_dialogue_eevet_2_5
+TEXT: 全部イーブイから進化するとは！
+
+RESOURCE ID: quest_special_dialogue_eevet_2_6
+TEXT: 遺伝子以外にも何かあるんじゃないかな？
+
+RESOURCE ID: quest_special_dialogue_eevet_2_7
+TEXT: ジョウト地方で最初に発見されたエスパータイプのエーフィ、あくタイプのブラッキーは特定の時間に進化する。
+
+RESOURCE ID: quest_special_dialogue_eevet_2_8
+TEXT: 調査中に出会えるといいな！
+
+RESOURCE ID: quest_special_dialogue_eevet_3_0
+TEXT: 見事だ、%PLAYERNAME%！エーフィとブラッキーじゃないか！
+
+RESOURCE ID: quest_special_dialogue_eevet_3_1
+TEXT: エーフィは細かい体毛を使って空気の流れを読み取ることで、相手の動きをあてることができる！普通は日中イーブイから進化するんだ。
+
+RESOURCE ID: quest_special_dialogue_eevet_3_2
+TEXT: あくタイプのブラッキーは、夜に進化し、満月の夜には全身のわっか模様が黄色く光ると言われている。
+
+RESOURCE ID: quest_special_dialogue_eevet_3_3
+TEXT: 一日のなかで進化する時間が決まっているなんて、
+
+RESOURCE ID: quest_special_dialogue_eevet_3_4
+TEXT: ポケモン研究の奥深さを象徴するようなポケモンだ。
+
+RESOURCE ID: quest_special_dialogue_eevet_3_5
+TEXT: シンオウ地方で最初に発見されたイーブイの進化形に、
+
+RESOURCE ID: quest_special_dialogue_eevet_3_6
+TEXT: くさタイプのリーフィアとこおりタイプのグレイシアがいる。環境に適応するために進化したと言われている。
+
+RESOURCE ID: quest_special_dialogue_eevet_3_7
+TEXT: これらのポケモンの調査も必要だ。
+
+RESOURCE ID: quest_special_dialogue_eevet_4_0
+TEXT: %PLAYERNAME%、おかえり！
+
+RESOURCE ID: quest_special_dialogue_eevet_4_1
+TEXT: リーフィアとグレイシアを手に入れたな！
+
+RESOURCE ID: quest_special_dialogue_eevet_4_2
+TEXT: シンオウ地方の環境が、適応力の高いイーブイに、くさタイプとこおりタイプに進化することを促進したようだ。この小さなポケモンが逆境を跳ね返す様子には感化されるな！
+
+RESOURCE ID: quest_special_dialogue_eevet_4_3
+TEXT: 今日ポケモン進化のナゾを解くのは無理かもしれない。だが大切なことを学んだぞ！
+
+RESOURCE ID: quest_special_dialogue_eevet_4_4
+TEXT: 自分のなりたいものになる、というコンセプトだ。
+
+RESOURCE ID: quest_special_dialogue_eevet_4_5
+TEXT: イーブイにインスパイアされて、自分にとって最善の道を選べるといいな。
+
+RESOURCE ID: quest_special_dialogue_eevet_4_6
+TEXT: わたしの人生訓はこれくらいにして、フェアリータイプのニンフィアについての調査だ。最初に発見されたのは、カロス地方。
+
+RESOURCE ID: quest_special_dialogue_eevet_4_7
+TEXT: リボンのような触角で気持ちを和らげることができ、自分の愛するトレーナーとの友情と信頼が一定のレベルを超えるとイーブイから進化する。なんだか涙が出てくるよ。
+
+RESOURCE ID: quest_special_dialogue_eevet_4_8
+TEXT: ニンフィアのようなポケモンに出会えたら幸せだろうな。成功を祈る。
+
+RESOURCE ID: quest_special_dialogue_eevet_4_9
+TEXT: さぁ、元気にGOだ！
+
+RESOURCE ID: quest_special_dialogue_oshat_0_0
+TEXT: Hey there, %PLAYERNAME%! I came across a truly surprising sight recently while going for a walk—trees in the nearby forest were covered with slash marks!
+
+RESOURCE ID: quest_special_dialogue_oshat_0_1
+TEXT: I’ve heard of a Pokémon called Oshawott, the Sea Otter Pokémon, that can detach the scalchop on its stomach for use as a blade. Maybe the slash marks were caused by all of the Oshawott nearby?
+
+RESOURCE ID: quest_special_dialogue_oshat_0_2
+TEXT: Let's use this as an opportunity to go and catch some of those Oshwott so we can find out more!
+
+RESOURCE ID: quest_special_dialogue_oshat_1_0
+TEXT: Hey %PLAYERNAME%! Did you know that Oshawott doesn't just use the scalchop on its stomach to fight, but that it can be used to break open hard berries as well?
+
+RESOURCE ID: quest_special_dialogue_oshat_1_1
+TEXT: Maybe we can learn even more about Oshawott once it evolves into its next Evolution: Dewott! Don’t let its cute exterior fool you—Dewott takes itself very seriously.
+
+RESOURCE ID: quest_special_dialogue_oshat_1_2
+TEXT: Also known as the Discipline Pokémon, this little fella uses strict training to learn its flowing double-scalchop technique. I’d love to see Dewott’s fighting in action!
+
+RESOURCE ID: quest_special_dialogue_oshat_2_0
+TEXT: Wow, Dewott's double-scalchop technique is amazing! Aren’t Pokémon so curious, %PLAYERNAME%!
+
+RESOURCE ID: quest_special_dialogue_oshat_2_1
+TEXT: I barely have the coordination to rub my tummy and pat my head at the same time and we have creatures that have their own special battle techniques. Truly inspiring stuff!
+
+RESOURCE ID: quest_special_dialogue_oshat_2_2
+TEXT: I’m starting to understand a bit more about this Pokémon now. And I have an inkling that we’ll get to learn even more soon!
+
+RESOURCE ID: quest_special_dialogue_oshat_2_3
+TEXT: It’s Evolution, Samurott, apparently uses swords incorporated in its armor called seamitars. Apparently in the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.
+
+RESOURCE ID: quest_special_dialogue_oshat_2_4
+TEXT: Sounds like it’s a true master of its craft! No wonder it’s known as the Formidable Pokémon! Let’s evolve Dewott and see this mastery for ourselves, %PLAYERNAME%?
+
+RESOURCE ID: quest_special_dialogue_oshat_3_0
+TEXT: Well would you look at that, %PLAYERNAME%, a Samurott in the flesh! It’s seamitars truly are a sight to behold. Knowing it can draw and sheathe its blades in a blink of an eye, I wonder how fast it can dice up berries...
+
+RESOURCE ID: quest_special_dialogue_oshat_3_1
+TEXT: Thanks for all your help today, %PLAYERNAME%. We’ve learned so much about Oshawott, Dewott, and Samurott—and from them too! I’ll SEA you next time! Ha-ha!
+
+RESOURCE ID: quest_special_dialogue_season4_0_0
+TEXT: やぁ、%PLAYERNAME%！新たな冒険の始まりを感じないか？
+
+RESOURCE ID: quest_special_dialogue_season4_0_1
+TEXT: 覚えているかい？空に現れた不思議なリング。いたずらポケモンであるフーパのしわざだったこと。
+
+RESOURCE ID: quest_special_dialogue_season4_0_2
+TEXT: 最近、事件が起きたんだ。おこうを使った直後、わたしの頭の上から手が伸びて、
+
+RESOURCE ID: quest_special_dialogue_season4_0_3
+TEXT: メガネを取られてしまった！わたしは気づかなかったんだが、あっけにとられたスパークがさかんに指さして．．．
+
+RESOURCE ID: quest_special_dialogue_season4_0_4
+TEXT: ．．．博士．．．博士！．．．そこで、やっと気づいたのさ。スパークとキャンデラでリングを追って、メガネを取り返してくれたがね。
+
+RESOURCE ID: quest_special_dialogue_season4_0_5
+TEXT: そう、フーパが現れたようだ！待ったかいがあった。きみにも協力してもらえる！
+
+RESOURCE ID: quest_special_dialogue_season4_0_6
+TEXT: まずは、おこうを使ってくれ、そして注意深く周囲をさがす。準備はいいかな、%PLAYERNAME%？
+
+RESOURCE ID: quest_special_dialogue_season4_1_0
+TEXT: わたしから1点注意を。これから先のステップに、わたしが少し事前調査に時間をもらう場合が出てくる。
+
+RESOURCE ID: quest_special_dialogue_season4_1_1
+TEXT: 調査再開に向けて準備しつつ待っていてくれ。
+
+RESOURCE ID: quest_special_dialogue_season4_1_2
+TEXT: フーパについて、または、フーパに関連する調査について調べておくよ。あとは頼む、%PLAYERNAME%！
+
+RESOURCE ID: quest_title_eevet
+TEXT: しんかポケモンを解明せよ！
+
+RESOURCE ID: quest_title_eevet_0
+TEXT: しんかポケモンを解明せよ！(1/5)
+
+RESOURCE ID: quest_title_eevet_1
+TEXT: しんかポケモンを解明せよ！(2/5)
+
+RESOURCE ID: quest_title_eevet_2
+TEXT: しんかポケモンを解明せよ！(3/5)
+
+RESOURCE ID: quest_title_eevet_3
+TEXT: しんかポケモンを解明せよ！(4/5)
+
+RESOURCE ID: quest_title_eevet_4
+TEXT: しんかポケモンを解明せよ！(5/5)
+
+RESOURCE ID: quest_title_oshat
+TEXT: ラッコポケモンを解明せよ！
+
+RESOURCE ID: quest_title_oshat_0
+TEXT: ラッコポケモンを解明せよ！(1/4)
+
+RESOURCE ID: quest_title_oshat_1
+TEXT: ラッコポケモンを解明せよ！(2/4)
+
+RESOURCE ID: quest_title_oshat_2
+TEXT: ラッコポケモンを解明せよ！(3/4)
+
+RESOURCE ID: quest_title_oshat_3
+TEXT: ラッコポケモンを解明せよ！(4/4)
+
+RESOURCE ID: quest_title_season4
+TEXT: いたずらポケモンを解明せよ！
+
+RESOURCE ID: quest_title_season4_0
+TEXT: いたずらポケモンを解明せよ！(1/16)
+
+RESOURCE ID: quest_title_season4_1
+TEXT: いたずらポケモンを解明せよ！(2/16)
+
+RESOURCE ID: quest_title_season4_10
+TEXT: いたずらポケモンを解明せよ！(11/16)
+
+RESOURCE ID: quest_title_season4_11
+TEXT: いたずらポケモンを解明せよ！(12/16)
+
+RESOURCE ID: quest_title_season4_12
+TEXT: いたずらポケモンを解明せよ！(13/16)
+
+RESOURCE ID: quest_title_season4_13
+TEXT: いたずらポケモンを解明せよ！(14/16)
+
+RESOURCE ID: quest_title_season4_14
+TEXT: いたずらポケモンを解明せよ！(15/16)
+
+RESOURCE ID: quest_title_season4_15
+TEXT: いたずらポケモンを解明せよ！(16/16)
+
+RESOURCE ID: quest_title_season4_2
+TEXT: いたずらポケモンを解明せよ！(3/16)
+
+RESOURCE ID: quest_title_season4_3
+TEXT: いたずらポケモンを解明せよ！(4/16)
+
+RESOURCE ID: quest_title_season4_4
+TEXT: いたずらポケモンを解明せよ！(5/16)
+
+RESOURCE ID: quest_title_season4_5
+TEXT: いたずらポケモンを解明せよ！(6/16)
+
+RESOURCE ID: quest_title_season4_6
+TEXT: いたずらポケモンを解明せよ！(7/16)
+
+RESOURCE ID: quest_title_season4_7
+TEXT: いたずらポケモンを解明せよ！(8/16)
+
+RESOURCE ID: quest_title_season4_8
+TEXT: いたずらポケモンを解明せよ！(9/16)
+
+RESOURCE ID: quest_title_season4_9
+TEXT: いたずらポケモンを解明せよ！(10/16)
+
+RESOURCE ID: quest_title_uu1_jul21_0
+TEXT: ウルトラアンロック：時間 (1/5)
+
+RESOURCE ID: quest_title_uu1_jul21_1
+TEXT: ウルトラアンロック：時間 (2/5)
+
+RESOURCE ID: quest_title_uu1_jul21_2
+TEXT: ウルトラアンロック：時間 (3/5)
+
+RESOURCE ID: quest_title_uu1_jul21_3
+TEXT: ウルトラアンロック：時間 (4/5)
+
+RESOURCE ID: quest_title_uu1_jul21_4
+TEXT: ウルトラアンロック：時間 (5/5)
+
+RESOURCE ID: quest_title_uu2_aug21_0
+TEXT: ウルトラアンロック：空間 (1/5)
+
+RESOURCE ID: quest_title_uu2_aug21_1
+TEXT: ウルトラアンロック：空間 (2/5)
+
+RESOURCE ID: quest_title_uu2_aug21_2
+TEXT: ウルトラアンロック：空間 (3/5)
+
+RESOURCE ID: quest_title_uu2_aug21_3
+TEXT: ウルトラアンロック：空間 (4/5)
+
+RESOURCE ID: quest_title_uu2_aug21_4
+TEXT: ウルトラアンロック：空間 (5/5)
+
+RESOURCE ID: quest_title_uu3_aug21_0
+TEXT: ウルトラアンロック剣と盾 (1/5)
+
+RESOURCE ID: quest_title_uu3_aug21_1
+TEXT: ウルトラアンロック剣と盾 (2/5)
+
+RESOURCE ID: quest_title_uu3_aug21_2
+TEXT: ウルトラアンロック剣と盾 (3/5)
+
+RESOURCE ID: quest_title_uu3_aug21_3
+TEXT: ウルトラアンロック剣と盾 (4/5)
+
+RESOURCE ID: quest_title_uu3_aug21_4
+TEXT: ウルトラアンロック剣と盾 (5/5)
+
+RESOURCE ID: quest_under_investigation
+TEXT: ウィロー博士が調査中です。しばらくしてから再度アクセスしてください。
+
+RESOURCE ID: quest_use_any_potion
+TEXT: キズぐすりを使う
+
+RESOURCE ID: quest_use_hyper_potion
+TEXT: すごいキズぐすりを使う
+
+RESOURCE ID: quest_use_max_potion
+TEXT: まんたんのくすりを使う
+
+RESOURCE ID: quest_use_super_potion
+TEXT: いいキズぐすりを使う
+
+RESOURCE ID: safari_2020_dialogue_1_2a
+TEXT: 相棒のポケモンとの絆を深めることも大切だ。
+
+RESOURCE ID: spawn_eevee
+TEXT: イーブイがより多く野生で出現
+
+RESOURCE ID: spawn_oshawott
+TEXT: ミジュマルがより多く野生で出現
+
+RESOURCE ID: ticket_eevee
+TEXT: 「しんかポケモンを解明せよ！」チケットがショップに登場
+
+RESOURCE ID: ticket_oshawott
+TEXT: 「ラッコポケモンを解明せよ！」チケットがショップに登場
+
+RESOURCE ID: tips_battle_at_gyms_tutorial_body
+TEXT: 別チームのジムでポケモンを倒す（全ポケモンのやる気をゼロに落とす）ことで、そのジムを自分のチームカラーにすることができます。
+
+RESOURCE ID: tips_battle_at_gyms_tutorial_title
+TEXT: ジムでバトル
+
+RESOURCE ID: tips_gym_pokecoins_tutorial_body
+TEXT: 配置したポケモンがジムを守ると一日に50ポケコインもらえます。
+
+ポケコインは、ポケモンがジムからトレーナーのもとに戻るときに持ってきます。
+
+RESOURCE ID: tips_gym_pokecoins_tutorial_title
+TEXT: ポケコインをもらう
+
+RESOURCE ID: tips_loading_screen_battle_switch_charged_move
+TEXT: バトル中に別のポケモンを繰り出し別のスペシャルアタックを使うことが有効な場合があります
+
+RESOURCE ID: tips_loading_screen_curveball_chance
+TEXT: カーブボールを投げるとポケモンの捕まりやすさはアップします
+
+RESOURCE ID: tips_loading_screen_daily_raid_pass
+TEXT: ジムのフォトディスクを回すと一日一枚レイドパスを手に入れることができます
+
+RESOURCE ID: tips_loading_screen_discard_all_items
+TEXT: 道具バッグを開き、捨てたい道具数の横に表示される「－」をタップすると一気に捨てることができます
+
+RESOURCE ID: tips_loading_screen_evolve_knocked_out
+TEXT: きぜつしたポケモンを進化させるとHPが回復します
+
+RESOURCE ID: tips_loading_screen_friendship_lucky_egg
+TEXT: 仲良し度が上がるときにもらえるXPは、しあわせタマゴを使うことで倍にできます
+
+RESOURCE ID: tips_loading_screen_golden_razz_gym
+TEXT: ジムに配置したポケモンを完全に回復させるには、きんのズリのみを使います
+
+RESOURCE ID: tips_loading_screen_raid_egg_hatch
+TEXT: レイド参加トレーナー数が一番多いのは、ジムの上に出現するタマゴが割れた直後です
+
+RESOURCE ID: tips_loading_screen_raid_party_prep
+TEXT: ボスポケモンに強いポケモンでバトルパーティを組んでからレイドに参加しましょう
+
+RESOURCE ID: tips_no_tag_message_title
+TEXT: タグ作成
+
+RESOURCE ID: tips_potion_revive_tutorial_intro_0
+TEXT: ひんしのポケモンがいるのか？キズぐすりや、げんきのかけらを使ってHPを回復だ！
+
+RESOURCE ID: tips_potion_revive_tutorial_intro_1
+TEXT: 道具は、道具バッグに入っているからね。大切なポケモンのために上手に使ってくれ、{0}！
+
+RESOURCE ID: tips_potion_revive_tutorial_outro_0
+TEXT: キズぐすり、げんきのかけら、どちらもレイドバトルに参加したりポケストップ・ジムのフォトディスクを回すと手に入れることができる！
+
+RESOURCE ID: tips_potion_tutorial_0
+TEXT: そこからHPをすべて回復させるんだ！
+
+RESOURCE ID: tips_potion_tutorial_1
+TEXT: キズぐすりを使ってもいい。
+
+RESOURCE ID: tips_potion_tutorial_2
+TEXT: キズぐすりの場合は、ポケモンをタップ。
+
+RESOURCE ID: tips_potion_tutorial_3
+TEXT: 元気になったぞ！ポケモンが元気だとこっちまで元気になる。
+
+RESOURCE ID: tips_potion_tutorial_select_item_toast
+TEXT: キズぐすりを使ってポケモンのHPを回復
+
+RESOURCE ID: tips_potion_tutorial_use_item_toast
+TEXT: ポケモンをタップしてHPを回復
+
+RESOURCE ID: tips_raid_tutorial_charged_attack_body
+TEXT: メーターがチャージされたら、より強力なスペシャルアタックを放つことができます
+
+RESOURCE ID: tips_raid_tutorial_charged_attack_title
+TEXT: スペシャルアタック
+
+RESOURCE ID: tips_raid_tutorial_difficulty_body
+TEXT: アイコンの数でレイドボスを倒す難しさがわかります。より強力なボスポケモンを倒すには、他のトレーナーの協力が必要です。
+
+メガシンカしたポケモンを倒すと、メガエナジーを手に入れることができ、そのポケモンと同じ種類のポケモンをメガシンカさせることができます。
+
+RESOURCE ID: tips_raid_tutorial_difficulty_title
+TEXT: レイドの難易度
+
+RESOURCE ID: tips_raid_tutorial_dodge_body
+TEXT: タイミング良く指で左右にポケモン動かすと、相手からの攻撃をよけることができます。
+
+RESOURCE ID: tips_raid_tutorial_dodge_title
+TEXT: よける
+
+RESOURCE ID: tips_revive_tutorial_0
+TEXT: げんきのかけらを使えば、ひんしになってしまったポケモンのHPを半分回復することができる。
+
+RESOURCE ID: tips_revive_tutorial_select_item_toast
+TEXT: ひんしのポケモンには、げんきのかけらを使おう
+
+RESOURCE ID: tips_revive_tutorial_use_item_toast
+TEXT: ひんしのポケモンをタップして回復
+
+RESOURCE ID: tips_tag_list_tip_section_title
+TEXT: ヒント
+
+RESOURCE ID: tips_tagging_idea_evolve
+TEXT: 進化
+
+RESOURCE ID: tips_tagging_idea_gym_attacker
+TEXT: ジム攻撃用
+
+RESOURCE ID: tips_tagging_idea_gym_defender
+TEXT: ジム配置
+
+RESOURCE ID: tips_tagging_idea_trade
+TEXT: 交換
+
+RESOURCE ID: tips_tagging_learn_more_button
+TEXT: もっと見る
+
+RESOURCE ID: tips_tagging_tutorial_body_0
+TEXT: 捕まえたポケモンにタグを付けて見つけやすくすることで、ポケモンボックスを効率よく整理できます。
+
+RESOURCE ID: tips_tagging_tutorial_body_1
+TEXT: 例として、以上のようなタグを使うことができます。
+
+RESOURCE ID: tips_tagging_tutorial_title_0
+TEXT: タグ付け
+
+RESOURCE ID: tips_tagging_tutorial_title_1
+TEXT: タグの例
+
+RESOURCE ID: tips_warning_modal_title
+TEXT: 周りをよく見て常に注意しながらプレイしてください
+
+RESOURCE ID: two_free_raid_passes
+TEXT: 一日2枚までジムのフォトディスクからレイドパス入手
+
+RESOURCE ID: ultra_premier_classic_title
+TEXT: HLプレミアクラシック
+
+RESOURCE ID: ultra_unlock_event_name_space
+TEXT: ウルトラアンロックパート2：空間
+
+RESOURCE ID: ultra_unlock_event_name_sword_shield
+TEXT: ウルトラアンロックパート3：剣と盾
+
+RESOURCE ID: ultra_unlock_event_name_time
+TEXT: ウルトラアンロックパート1：時間
+
+RESOURCE ID: unknown
+TEXT: A
+
+RESOURCE ID: upmgmt_summary_about
+TEXT: ロケーションポイントについて
+
+RESOURCE ID: username_suggestion_disclaimer_change_name
+TEXT: ニックネームは1回だけ変更できます
+
+RESOURCE ID: username_suggestion_disclaimer_new_user
+TEXT: あとで変更できます
+
+RESOURCE ID: username_suggestion_name_looks_good_banned_name
+TEXT: 良いニックネームですね！
+
+RESOURCE ID: username_suggestion_name_looks_good_change_name
+TEXT: 良いニックネームですね！
+（1回だけ変更できます）
+
+RESOURCE ID: username_suggestion_name_looks_good_new_user
+TEXT: 良いニックネームですね！
+（あとで変更できます）
+
+RESOURCE ID: username_suggestions_header
+TEXT: 使用可能なニックネーム
+
+RESOURCE ID: wayfarer_eligible_body
+TEXT: Niantic Wayfarer にご参加いただける
+ようになりました！名所旧跡や有名なモニュメントなど世界中の興味深い場所をポケストップなどに選出できる機能です。Wayfarerチュートリアルを完了してポケストップ選出・編集機能をアンロックしましょう！
+
+RESOURCE ID: wayfarer_eligible_goto
+TEXT: Wayfarerへ
+
+RESOURCE ID: wayfarer_eligible_unlock_msg
+TEXT: チュートリアル完了でアンロック！
 
