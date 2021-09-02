@@ -1,4 +1,5 @@
 import json
+from json.decoder import JSONDecodeError
 import os
 
 base_path = os.path.dirname(os.path.abspath(__file__))
@@ -22,7 +23,7 @@ for file_name in [
     with open(file, "r") as f:
         try:
             data = json.load(f).get("data")
-        except:
+        except (JSONDecodeError, TypeError):
             continue
     data_dict = dict()
     for i in range(0, len(data), 2):
@@ -55,10 +56,11 @@ for file_name in [
     "Texts/Latest Remote/Thai.txt",
 ]:
     file = os.path.join(base_path, file_name)
+    print("Processing", file_name)
     processed_file = (
         os.path.splitext(os.path.join(base_path, "Processed", file_name))[0] + ".json"
     )
-    with open(file, "r") as f:
+    with open(file, "r", encoding="utf-8") as f:
         data = f.read()
     data_dict = dict()
     for translation in data.split("RESOURCE ID: "):
@@ -76,5 +78,5 @@ for file_name in [
             if text.endswith("\n\n"):
                 text = text[:-2]
             data_dict[resource_id] = text
-    with open(processed_file, "w") as f:
+    with open(processed_file, "w", encoding="utf8") as f:
         json.dump(data_dict, f, ensure_ascii=False, indent=2)
